@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--Built from the sandbox "C:\Data\Projects" and the workspace "tools_dyno_autotesting_dev"--><!--Generated: 2020-02-04 10.24.16--><scm:sourceControlLoadRule eclipseProjectOptions="import" version="1" xmlns:scm="http://com.ibm.team.scm">
+    <itemLoadRule alternateName="autotesting_dev">
+        <component itemId="_XcImgAGCEeaKr7Rd5zMvWQ"/>
+        <!-- <component name="AUTOTESTING_FRAMEWORK" /> -->
+        <item itemId="_IvW04AxKEeaDJcZsSok9wA" itemType="folder"/>
+        <!-- <item repositoryPath="/autotesting_development" /> -->
+    </itemLoadRule>
+    <itemLoadRule>
+        <component itemId="_6jp6EBipEeeJ8JNTcJmB_Q"/>
+        <!-- <component name="PYTHON_COMMUNICATION_LIB" /> -->
+        <item itemId="_ThcpgBoMEeeJ8JNTcJmB_Q" itemType="folder"/>
+        <!-- <item repositoryPath="/master_commander" /> -->
+        <sandboxRelativePath pathPrefix="/autotesting_dev"/>
+    </itemLoadRule>
+    <itemLoadRule>
+        <component itemId="_gFoYQBoLEeeJ8JNTcJmB_Q"/>
+        <!-- <component name="PYTHON_UTILITIES_LIB" /> -->
+        <item itemId="_cHnOERoMEeeJ8JNTcJmB_Q" itemType="folder"/>
+        <!-- <item repositoryPath="/acquisition_utils" /> -->
+        <sandboxRelativePath pathPrefix="/autotesting_dev"/>
+    </itemLoadRule>
+    <itemLoadRule>
+        <component itemId="_gFoYQBoLEeeJ8JNTcJmB_Q"/>
+        <!-- <component name="PYTHON_UTILITIES_LIB" /> -->
+        <item itemId="_eCiCoRoMEeeJ8JNTcJmB_Q" itemType="folder"/>
+        <!-- <item repositoryPath="/dwarf_parser" /> -->
+        <sandboxRelativePath pathPrefix="/autotesting_dev"/>
+    </itemLoadRule>
+</scm:sourceControlLoadRule>

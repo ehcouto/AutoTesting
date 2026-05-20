@@ -1,0 +1,291 @@
+<ACQUISITIONCONFIG version="2.0.0">
+    <SETTINGS>
+        <AdmFactoryCode></AdmFactoryCode>
+        <AdmModelLabel></AdmModelLabel>
+        <FilePath>C:\Leonardo Ricupero\AUTOTESTING</FilePath>
+        <FileName>prova_lab.zac</FileName>
+        <SaveToFile>Yes</SaveToFile>
+        <Workstation>0</Workstation>
+        <Comment></Comment>
+        <AcqWndRefreshTime>500</AcqWndRefreshTime>
+        <GraphPoints>500</GraphPoints>
+        <TotalTracks>11</TotalTracks>
+        <GroupsEnabled>0</GroupsEnabled>
+    </SETTINGS>
+    <DEVICESCONFIG version="00.00.00">
+        <NEProjects>2</NEProjects>
+        <EPROJECT name="GPIB Instruments" eprjId="101">
+            <EPrjNModels>3</EPrjNModels>
+            <MODEL name="IT106A" modelId="2">
+                <ModelMaskId>1005</ModelMaskId>
+                <ModelDataEPrj>NOT AVAILABLE</ModelDataEPrj>
+                <ModelDataModel>NOT AVAILABLE</ModelDataModel>
+                <ModelLabel>INFRATEKIT106A_LIB</ModelLabel>
+                <ModelSamplingTime>1000</ModelSamplingTime>
+                <ModelConfig PcControlWindow="false" ConfigurationWindow="false" />
+                <ModelTrackNumber>3</ModelTrackNumber>
+                <TRACK name="Voltage RMS" trackId="0" type="Basic" displayIndex="1">
+                    <TrackHelpLabel>Voltage RMS</TrackHelpLabel>
+                    <TrackMeasUnit>Vrms</TrackMeasUnit>
+                    <TrackColor>0</TrackColor>
+                    <TrackWidth>1</TrackWidth>
+                    <TrackStyle>0</TrackStyle>
+                    <TrackAutoscale>0</TrackAutoscale>
+                    <TrackEnabled>0</TrackEnabled>
+                    <TrackDecs>1</TrackDecs>
+                    <TrackMeanDecs>2</TrackMeanDecs>
+                    <TrackDevDecs>2</TrackDevDecs>
+                    <TrackSaveDecs>1</TrackSaveDecs>
+                    <TrackVMin>0.0</TrackVMin>
+                    <TrackVMax>600.0</TrackVMax>
+                    <TrackTime>1000</TrackTime>
+                    <TrackDependances>0</TrackDependances>
+                    <DisplayName>Voltage RMS</DisplayName>
+                    <Tag></Tag>
+                    <TrackMultiplier>1</TrackMultiplier>
+                    <TrackFormula>MEM_UC[0]</TrackFormula>
+                </TRACK>
+                <TRACK name="Current RMS" trackId="2" type="Basic" displayIndex="2">
+                    <TrackHelpLabel>Current RMS</TrackHelpLabel>
+                    <TrackMeasUnit>Arms</TrackMeasUnit>
+                    <TrackColor>255</TrackColor>
+                    <TrackWidth>1</TrackWidth>
+                    <TrackStyle>0</TrackStyle>
+                    <TrackAutoscale>0</TrackAutoscale>
+                    <TrackEnabled>0</TrackEnabled>
+                    <TrackDecs>2</TrackDecs>
+                    <TrackMeanDecs>3</TrackMeanDecs>
+                    <TrackDevDecs>3</TrackDevDecs>
+                    <TrackSaveDecs>2</TrackSaveDecs>
+                    <TrackVMin>0.00</TrackVMin>
+                    <TrackVMax>30.00</TrackVMax>
+                    <TrackTime>1000</TrackTime>
+                    <TrackDependances>0</TrackDependances>
+                    <DisplayName>Current RMS</DisplayName>
+                    <Tag></Tag>
+                    <TrackMultiplier>1</TrackMultiplier>
+                    <TrackFormula>MEM_UC[2]</TrackFormula>
+                </TRACK>
+                <TRACK name="Active power" trackId="4" type="Basic" displayIndex="3">
+                    <TrackHelpLabel>Active power</TrackHelpLabel>
+                    <TrackMeasUnit>Watt</TrackMeasUnit>
+                    <TrackColor>33023</TrackColor>
+                    <TrackWidth>1</TrackWidth>
+                    <TrackStyle>0</TrackStyle>
+                    <TrackAutoscale>0</TrackAutoscale>
+                    <TrackEnabled>0</TrackEnabled>
+                    <TrackDecs>1</TrackDecs>
+                    <TrackMeanDecs>2</TrackMeanDecs>
+                    <TrackDevDecs>2</TrackDevDecs>
+                    <TrackSaveDecs>1</TrackSaveDecs>
+                    <TrackVMin>0.0</TrackVMin>
+                    <TrackVMax>6000.0</TrackVMax>
+                    <TrackTime>1000</TrackTime>
+                    <TrackDependances>0</TrackDependances>
+                    <DisplayName>Active power</DisplayName>
+                    <Tag></Tag>
+                    <TrackMultiplier>1</TrackMultiplier>
+                    <TrackFormula>MEM_UC[4]</TrackFormula>
+                </TRACK>
+            </MODEL>
+            <MODEL name="DSP6000" modelId="3">
+                <ModelMaskId>1006</ModelMaskId>
+                <ModelDataEPrj>NOT AVAILABLE</ModelDataEPrj>
+                <ModelDataModel>NOT AVAILABLE</ModelDataModel>
+                <ModelLabel>MAGTROLDSP6000_LIB</ModelLabel>
+                <ModelSamplingTime>1000</ModelSamplingTime>
+                <ModelConfig PcControlWindow="false" ConfigurationWindow="false" />
+                <ModelTrackNumber>2</ModelTrackNumber>
+                <TRACK name="Speed" trackId="0" type="Basic" displayIndex="4">
+                    <TrackHelpLabel>Encoder speed</TrackHelpLabel>
+                    <TrackMeasUnit>Rpm</TrackMeasUnit>
+                    <TrackColor>0</TrackColor>
+                    <TrackWidth>1</TrackWidth>
+                    <TrackStyle>0</TrackStyle>
+                    <TrackAutoscale>0</TrackAutoscale>
+                    <TrackEnabled>0</TrackEnabled>
+                    <TrackDecs>0</TrackDecs>
+                    <TrackMeanDecs>1</TrackMeanDecs>
+                    <TrackDevDecs>1</TrackDevDecs>
+                    <TrackSaveDecs>0</TrackSaveDecs>
+                    <TrackVMin>0</TrackVMin>
+                    <TrackVMax>20000</TrackVMax>
+                    <TrackTime>1000</TrackTime>
+                    <TrackDependances>0</TrackDependances>
+                    <DisplayName>Speed</DisplayName>
+                    <Tag></Tag>
+                    <TrackMultiplier>1</TrackMultiplier>
+                    <TrackFormula>MEM_UC[0]</TrackFormula>
+                </TRACK>
+                <TRACK name="Torque" trackId="1" type="Basic" displayIndex="5">
+                    <TrackHelpLabel>Measured torque</TrackHelpLabel>
+                    <TrackMeasUnit>Nm</TrackMeasUnit>
+                    <TrackColor>128</TrackColor>
+                    <TrackWidth>1</TrackWidth>
+                    <TrackStyle>0</TrackStyle>
+                    <TrackAutoscale>0</TrackAutoscale>
+                    <TrackEnabled>0</TrackEnabled>
+                    <TrackDecs>3</TrackDecs>
+                    <TrackMeanDecs>4</TrackMeanDecs>
+                    <TrackDevDecs>4</TrackDevDecs>
+                    <TrackSaveDecs>3</TrackSaveDecs>
+                    <TrackVMin>0.000</TrackVMin>
+                    <TrackVMax>10.000</TrackVMax>
+                    <TrackTime>1000</TrackTime>
+                    <TrackDependances>0</TrackDependances>
+                    <DisplayName>Torque</DisplayName>
+                    <Tag></Tag>
+                    <TrackMultiplier>1</TrackMultiplier>
+                    <TrackFormula>MEM_UC[1]</TrackFormula>
+                </TRACK>
+            </MODEL>
+            <MODEL name="WT2030" modelId="0">
+                <ModelMaskId>1004</ModelMaskId>
+                <ModelDataEPrj>NOT AVAILABLE</ModelDataEPrj>
+                <ModelDataModel>NOT AVAILABLE</ModelDataModel>
+                <ModelLabel>YOKOGAWAWT2030_LIB</ModelLabel>
+                <ModelSamplingTime>1000</ModelSamplingTime>
+                <ModelConfig PcControlWindow="false" ConfigurationWindow="false" />
+                <ModelTrackNumber>4</ModelTrackNumber>
+                <TRACK name="Current THD" trackId="9" type="Basic" displayIndex="6">
+                    <TrackHelpLabel>Current total harmonic distorsion</TrackHelpLabel>
+                    <TrackMeasUnit>Adm</TrackMeasUnit>
+                    <TrackColor>8421376</TrackColor>
+                    <TrackWidth>1</TrackWidth>
+                    <TrackStyle>0</TrackStyle>
+                    <TrackAutoscale>0</TrackAutoscale>
+                    <TrackEnabled>0</TrackEnabled>
+                    <TrackDecs>2</TrackDecs>
+                    <TrackMeanDecs>3</TrackMeanDecs>
+                    <TrackDevDecs>3</TrackDevDecs>
+                    <TrackSaveDecs>2</TrackSaveDecs>
+                    <TrackVMin>0.00</TrackVMin>
+                    <TrackVMax>100.00</TrackVMax>
+                    <TrackTime>1000</TrackTime>
+                    <TrackDependances>0</TrackDependances>
+                    <DisplayName>Current THD</DisplayName>
+                    <Tag></Tag>
+                    <TrackMultiplier>1</TrackMultiplier>
+                    <TrackFormula>MEM_UC[129]</TrackFormula>
+                </TRACK>
+                <TRACK name="Voltage Mean" trackId="10" type="Basic" displayIndex="7">
+                    <TrackHelpLabel>All channels voltage mean</TrackHelpLabel>
+                    <TrackMeasUnit>Vrms</TrackMeasUnit>
+                    <TrackColor>8421504</TrackColor>
+                    <TrackWidth>1</TrackWidth>
+                    <TrackStyle>0</TrackStyle>
+                    <TrackAutoscale>0</TrackAutoscale>
+                    <TrackEnabled>0</TrackEnabled>
+                    <TrackDecs>1</TrackDecs>
+                    <TrackMeanDecs>2</TrackMeanDecs>
+                    <TrackDevDecs>2</TrackDevDecs>
+                    <TrackSaveDecs>1</TrackSaveDecs>
+                    <TrackVMin>0.0</TrackVMin>
+                    <TrackVMax>600.0</TrackVMax>
+                    <TrackTime>1000</TrackTime>
+                    <TrackDependances>0</TrackDependances>
+                    <DisplayName>Voltage Mean</DisplayName>
+                    <Tag></Tag>
+                    <TrackMultiplier>1</TrackMultiplier>
+                    <TrackFormula>MEM_UC[130]</TrackFormula>
+                </TRACK>
+                <TRACK name="Total current" trackId="11" type="Basic" displayIndex="8">
+                    <TrackHelpLabel>All channels current mean</TrackHelpLabel>
+                    <TrackMeasUnit>Arms</TrackMeasUnit>
+                    <TrackColor>8421631</TrackColor>
+                    <TrackWidth>1</TrackWidth>
+                    <TrackStyle>0</TrackStyle>
+                    <TrackAutoscale>0</TrackAutoscale>
+                    <TrackEnabled>0</TrackEnabled>
+                    <TrackDecs>3</TrackDecs>
+                    <TrackMeanDecs>4</TrackMeanDecs>
+                    <TrackDevDecs>4</TrackDevDecs>
+                    <TrackSaveDecs>3</TrackSaveDecs>
+                    <TrackVMin>0.000</TrackVMin>
+                    <TrackVMax>30.000</TrackVMax>
+                    <TrackTime>1000</TrackTime>
+                    <TrackDependances>0</TrackDependances>
+                    <DisplayName>Total current</DisplayName>
+                    <Tag></Tag>
+                    <TrackMultiplier>1</TrackMultiplier>
+                    <TrackFormula>MEM_UC[131]</TrackFormula>
+                </TRACK>
+                <TRACK name="Total power" trackId="12" type="Basic" displayIndex="9">
+                    <TrackHelpLabel>Total power of all channels</TrackHelpLabel>
+                    <TrackMeasUnit>Watt</TrackMeasUnit>
+                    <TrackColor>8453888</TrackColor>
+                    <TrackWidth>1</TrackWidth>
+                    <TrackStyle>0</TrackStyle>
+                    <TrackAutoscale>0</TrackAutoscale>
+                    <TrackEnabled>0</TrackEnabled>
+                    <TrackDecs>2</TrackDecs>
+                    <TrackMeanDecs>3</TrackMeanDecs>
+                    <TrackDevDecs>3</TrackDevDecs>
+                    <TrackSaveDecs>2</TrackSaveDecs>
+                    <TrackVMin>0.00</TrackVMin>
+                    <TrackVMax>4000.00</TrackVMax>
+                    <TrackTime>1000</TrackTime>
+                    <TrackDependances>0</TrackDependances>
+                    <DisplayName>Total power</DisplayName>
+                    <Tag></Tag>
+                    <TrackMultiplier>1</TrackMultiplier>
+                    <TrackFormula>MEM_UC[132]</TrackFormula>
+                </TRACK>
+            </MODEL>
+        </EPROJECT>
+        <EPROJECT name="National Instruments Modules" eprjId="103">
+            <EPrjNModels>1</EPrjNModels>
+            <MODEL name="NI Compact DAQ" modelId="5">
+                <ModelMaskId>1047</ModelMaskId>
+                <ModelDataEPrj>NOT AVAILABLE</ModelDataEPrj>
+                <ModelDataModel>NOT AVAILABLE</ModelDataModel>
+                <ModelLabel>NICOMPACTDAQ_LIB</ModelLabel>
+                <ModelSamplingTime>1000</ModelSamplingTime>
+                <ModelConfig PcControlWindow="false" ConfigurationWindow="true" />
+                <ModelTrackNumber>2</ModelTrackNumber>
+                <TRACK name="Module 1 Data 1" trackId="0" type="Basic" displayIndex="10">
+                    <TrackHelpLabel>Module 1 Value channel 1</TrackHelpLabel>
+                    <TrackMeasUnit></TrackMeasUnit>
+                    <TrackColor>0</TrackColor>
+                    <TrackWidth>1</TrackWidth>
+                    <TrackStyle>0</TrackStyle>
+                    <TrackAutoscale>0</TrackAutoscale>
+                    <TrackEnabled>0</TrackEnabled>
+                    <TrackDecs>1</TrackDecs>
+                    <TrackMeanDecs>2</TrackMeanDecs>
+                    <TrackDevDecs>2</TrackDevDecs>
+                    <TrackSaveDecs>1</TrackSaveDecs>
+                    <TrackVMin>-100.0</TrackVMin>
+                    <TrackVMax>100.0</TrackVMax>
+                    <TrackTime>1000</TrackTime>
+                    <TrackDependances>0</TrackDependances>
+                    <DisplayName>Module 1 Data 1</DisplayName>
+                    <Tag></Tag>
+                    <TrackMultiplier>1</TrackMultiplier>
+                    <TrackFormula>MEM_UC[0]</TrackFormula>
+                </TRACK>
+                <TRACK name="Module 3 Data 1" trackId="8" type="Basic" displayIndex="11">
+                    <TrackHelpLabel>Module 3 Value channel 1</TrackHelpLabel>
+                    <TrackMeasUnit></TrackMeasUnit>
+                    <TrackColor>0</TrackColor>
+                    <TrackWidth>1</TrackWidth>
+                    <TrackStyle>0</TrackStyle>
+                    <TrackAutoscale>0</TrackAutoscale>
+                    <TrackEnabled>0</TrackEnabled>
+                    <TrackDecs>1</TrackDecs>
+                    <TrackMeanDecs>2</TrackMeanDecs>
+                    <TrackDevDecs>2</TrackDevDecs>
+                    <TrackSaveDecs>1</TrackSaveDecs>
+                    <TrackVMin>-100.0</TrackVMin>
+                    <TrackVMax>100.0</TrackVMax>
+                    <TrackTime>1000</TrackTime>
+                    <TrackDependances>0</TrackDependances>
+                    <DisplayName>Module 3 Data 1</DisplayName>
+                    <Tag></Tag>
+                    <TrackMultiplier>1</TrackMultiplier>
+                    <TrackFormula>MEM_UC[8]</TrackFormula>
+                </TRACK>
+            </MODEL>
+        </EPROJECT>
+    </DEVICESCONFIG>
+</ACQUISITIONCONFIG>

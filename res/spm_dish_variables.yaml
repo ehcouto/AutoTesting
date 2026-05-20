@@ -1,0 +1,25 @@
+- name: Failure_State
+  formula: x
+  
+- name: MciSlfac_Active_Power
+  formula: x
+
+- name: My_Micro_Reset
+  formula: x
+  
+- name: My_Start_Motor
+  formula: x
+  
+- name: Total_Restart_Cnt
+  formula: x
+  
+- name: Restart_Cnt
+  formula: x
+ 
+- name: MciSlfac_State
+  formula: x
+
+- name: My_Mcislfac_Fault
+  formula: x
+  
+  
