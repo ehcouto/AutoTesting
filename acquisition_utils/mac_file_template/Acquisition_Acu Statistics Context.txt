@@ -1,0 +1,8 @@
+Faults
+Last fault Code: 8
+Last fault Sub Code: 1
+Last fault Engineering Code: 0
+Last fault -1 Code: 6
+Last fault -1 Sub Code: 3
+Last fault -1 Engineering Code: 0
+

@@ -1,0 +1,47 @@
+2024-11-07 14:56:45,091-INFO- RUNNING THE TEST
+2024-11-07 14:56:52,107-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20241107_145652.visaacq
+2024-11-07 14:56:53,115-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20241107_145653.mcacq
+2024-11-07 14:56:54,856-INFO- Set torque request detected
+2024-11-07 14:56:54,856-INFO- Value to set: 0
+2024-11-07 14:56:59,139-INFO- Applying demagnetization algorithm
+2024-11-07 14:56:59,666-INFO- Write request detected
+2024-11-07 14:56:59,666-INFO- Symbol to write: BD_Target_Speed
+2024-11-07 14:57:00,285-INFO- Write request detected
+2024-11-07 14:57:00,286-INFO- Symbol to write: BD_Target_Accel
+2024-11-07 14:57:03,317-INFO- Write request detected
+2024-11-07 14:57:03,317-INFO- Symbol to write: BD_Update_Cmd
+2024-11-07 14:57:05,251-INFO- Current speed: 703.157302
+2024-11-07 14:57:05,251-INFO- Speed error: 296.842698
+2024-11-07 14:57:07,268-INFO- Current speed: 997.049741
+2024-11-07 14:57:07,268-INFO- Speed error: 2.950259
+2024-11-07 14:57:11,311-INFO- Set torque request detected
+2024-11-07 14:57:11,311-INFO- Value to set: 0.5
+2024-11-07 14:57:16,613-INFO- Set torque request detected
+2024-11-07 14:57:16,613-INFO- Value to set: 0
+2024-11-07 14:57:16,628-INFO- Write request detected
+2024-11-07 14:57:16,628-INFO- Symbol to write: BD_Target_Speed
+2024-11-07 14:57:17,848-INFO- Write request detected
+2024-11-07 14:57:17,848-INFO- Symbol to write: BD_Target_Accel
+2024-11-07 14:57:20,891-INFO- Write request detected
+2024-11-07 14:57:20,891-INFO- Symbol to write: BD_Update_Cmd
+2024-11-07 14:57:22,407-INFO- Current speed: 444.283078
+2024-11-07 14:57:22,407-INFO- Speed error: 444.283078
+2024-11-07 14:57:24,423-INFO- Current speed: 0.000000
+2024-11-07 14:57:24,423-INFO- Speed error: 0.000000
+2024-11-07 14:57:27,434-INFO- STARTING STEP N.0/9
+2024-11-07 14:57:27,435-INFO- TORQUE MIN: 0.23
+2024-11-07 14:57:27,435-INFO- TORQUE MAX: 0.234
+2024-11-07 14:57:27,435-INFO- TORQUE STEP: 0.001
+2024-11-07 14:57:27,450-INFO- Write request detected
+2024-11-07 14:57:27,451-INFO- Symbol to write: BD_Target_Speed
+2024-11-07 14:57:28,663-INFO- Write request detected
+2024-11-07 14:57:28,663-INFO- Symbol to write: BD_Target_Accel
+2024-11-07 14:57:29,354-WARNING- Read request error: Request error:  Checksum error
+2024-11-07 14:57:29,355-WARNING- Discarding the packet
+2024-11-07 14:57:31,677-INFO- Write request detected
+2024-11-07 14:57:31,677-INFO- Symbol to write: BD_Update_Cmd
+2024-11-07 14:57:33,771-INFO- Termination Request
+2024-11-07 14:57:34,239-INFO- Termination Request
+2024-11-07 14:57:34,241-INFO- Safe stopping the autotest!
+2024-11-07 14:57:36,357-WARNING- Wasnt able to apply 0 speed! Error setting motor speed: 'MCComThread' object has no attribute 'is_alive'
+2024-11-07 14:57:36,357-WARNING- Did not stop: Error stopping acquisition for engine PYVISA: Could not stop acquisition that is not started!

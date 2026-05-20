@@ -1,0 +1,2909 @@
+2024-08-09 10:17:32,336-INFO- RUNNING THE TEST
+2024-08-09 10:17:39,352-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20240809_101739.visaacq
+2024-08-09 10:17:40,368-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20240809_101740.mcacq
+2024-08-09 10:17:42,076-INFO- Set torque request detected
+2024-08-09 10:17:42,076-INFO- Value to set: 0
+2024-08-09 10:17:46,389-INFO- Applying demagnetization algorithm
+2024-08-09 10:17:46,437-INFO- Write request detected
+2024-08-09 10:17:46,437-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:17:47,683-INFO- Write request detected
+2024-08-09 10:17:47,683-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:17:50,797-INFO- Write request detected
+2024-08-09 10:17:50,797-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:17:52,432-INFO- Current speed: 0.246363
+2024-08-09 10:17:52,432-INFO- Speed error: 999.753637
+2024-08-09 10:17:54,449-INFO- Current speed: 234.914430
+2024-08-09 10:17:54,450-INFO- Speed error: 765.085570
+2024-08-09 10:17:56,492-INFO- Current speed: 1020.786015
+2024-08-09 10:17:56,493-INFO- Speed error: 20.786015
+2024-08-09 10:18:00,700-INFO- Set torque request detected
+2024-08-09 10:18:00,700-INFO- Value to set: 0.5
+2024-08-09 10:18:05,660-INFO- Write request detected
+2024-08-09 10:18:05,660-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:18:05,986-INFO- Set torque request detected
+2024-08-09 10:18:05,986-INFO- Value to set: 0
+2024-08-09 10:18:06,895-INFO- Write request detected
+2024-08-09 10:18:06,895-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:18:10,008-INFO- Write request detected
+2024-08-09 10:18:10,008-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:18:11,577-INFO- Current speed: 427.640147
+2024-08-09 10:18:11,577-INFO- Speed error: 427.640147
+2024-08-09 10:18:13,582-INFO- Current speed: 0.000000
+2024-08-09 10:18:13,582-INFO- Speed error: 0.000000
+2024-08-09 10:18:16,601-INFO- STARTING STEP N.0/5
+2024-08-09 10:18:16,601-INFO- TORQUE MIN: 0.2
+2024-08-09 10:18:16,602-INFO- TORQUE STEP: 0.08
+2024-08-09 10:18:16,710-INFO- Write request detected
+2024-08-09 10:18:16,710-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:18:17,949-INFO- Write request detected
+2024-08-09 10:18:17,949-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:18:21,052-INFO- Write request detected
+2024-08-09 10:18:21,052-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:18:22,643-INFO- Speed Low Threshold is: 4000.5
+2024-08-09 10:18:22,919-INFO- Write request detected
+2024-08-09 10:18:22,919-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:18:23,077-INFO- Set torque request detected
+2024-08-09 10:18:23,077-INFO- Value to set: 0
+2024-08-09 10:18:23,660-INFO- Applying motor heating algorithm
+2024-08-09 10:18:23,660-INFO- Initial temperature: 23.069364
+2024-08-09 10:18:24,177-INFO- Write request detected
+2024-08-09 10:18:24,177-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:18:24,821-INFO- Write request detected
+2024-08-09 10:18:24,821-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:18:27,931-INFO- Write request detected
+2024-08-09 10:18:27,931-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:18:29,701-INFO- Current speed: 265.821528
+2024-08-09 10:18:29,702-INFO- Speed error: 514.178472
+2024-08-09 10:18:31,766-INFO- Current speed: 765.646794
+2024-08-09 10:18:31,766-INFO- Speed error: 14.353206
+2024-08-09 10:18:34,203-WARNING- Read request error: Request error:  Checksum error
+2024-08-09 10:18:34,204-WARNING- Discarding the packet
+2024-08-09 10:18:34,796-INFO- Applying torque value: 0.000000
+2024-08-09 10:18:34,796-INFO- Read torque: -0.053000
+2024-08-09 10:18:34,797-INFO- Temperature: 23.072890
+2024-08-09 10:18:35,108-INFO- Set torque request detected
+2024-08-09 10:18:35,108-INFO- Value to set: 0.0
+2024-08-09 10:18:35,797-INFO- Applying torque value: 0.029787
+2024-08-09 10:18:35,797-INFO- Read torque: -0.053000
+2024-08-09 10:18:35,797-INFO- Temperature: 23.089345
+2024-08-09 10:18:36,112-INFO- Set torque request detected
+2024-08-09 10:18:36,112-INFO- Value to set: 0.02978723404255319
+2024-08-09 10:18:36,804-INFO- Applying torque value: 0.059574
+2024-08-09 10:18:36,804-INFO- Read torque: -0.054000
+2024-08-09 10:18:36,804-INFO- Temperature: 23.101803
+2024-08-09 10:18:36,946-INFO- Set torque request detected
+2024-08-09 10:18:36,946-INFO- Value to set: 0.05957446808510638
+2024-08-09 10:18:37,807-INFO- Applying torque value: 0.089362
+2024-08-09 10:18:38,042-INFO- Read torque: -0.054000
+2024-08-09 10:18:38,043-INFO- Temperature: 23.083704
+2024-08-09 10:18:38,556-INFO- Set torque request detected
+2024-08-09 10:18:38,556-INFO- Value to set: 0.08936170212765956
+2024-08-09 10:18:39,044-INFO- Applying torque value: 0.119149
+2024-08-09 10:18:39,045-INFO- Read torque: -0.059000
+2024-08-09 10:18:39,045-INFO- Temperature: 23.108385
+2024-08-09 10:18:39,437-INFO- Set torque request detected
+2024-08-09 10:18:39,437-INFO- Value to set: 0.11914893617021276
+2024-08-09 10:18:40,047-INFO- Applying torque value: 0.148936
+2024-08-09 10:18:40,047-INFO- Read torque: -0.066000
+2024-08-09 10:18:40,048-INFO- Temperature: 23.094282
+2024-08-09 10:18:40,284-INFO- Set torque request detected
+2024-08-09 10:18:40,285-INFO- Value to set: 0.14893617021276595
+2024-08-09 10:18:41,056-INFO- Applying torque value: 0.178723
+2024-08-09 10:18:41,056-INFO- Read torque: -0.076000
+2024-08-09 10:18:41,057-INFO- Temperature: 23.096867
+2024-08-09 10:18:41,148-INFO- Set torque request detected
+2024-08-09 10:18:41,148-INFO- Value to set: 0.17872340425531913
+2024-08-09 10:18:42,072-INFO- Applying torque value: 0.208511
+2024-08-09 10:18:42,228-INFO- Read torque: -0.139000
+2024-08-09 10:18:42,228-INFO- Temperature: 23.083939
+2024-08-09 10:18:42,735-INFO- Set torque request detected
+2024-08-09 10:18:42,735-INFO- Value to set: 0.20851063829787234
+2024-08-09 10:18:43,238-INFO- Applying torque value: 0.238298
+2024-08-09 10:18:43,238-INFO- Read torque: -0.165000
+2024-08-09 10:18:43,238-INFO- Temperature: 23.048677
+2024-08-09 10:18:43,612-INFO- Set torque request detected
+2024-08-09 10:18:43,612-INFO- Value to set: 0.23829787234042552
+2024-08-09 10:18:44,252-INFO- Applying torque value: 0.268085
+2024-08-09 10:18:44,252-INFO- Read torque: -0.201000
+2024-08-09 10:18:44,252-INFO- Temperature: 23.106740
+2024-08-09 10:18:44,457-INFO- Set torque request detected
+2024-08-09 10:18:44,457-INFO- Value to set: 0.2680851063829787
+2024-08-09 10:18:45,257-INFO- Applying torque value: 0.297872
+2024-08-09 10:18:45,257-INFO- Read torque: -0.225000
+2024-08-09 10:18:45,257-INFO- Temperature: 23.100158
+2024-08-09 10:18:45,288-INFO- Set torque request detected
+2024-08-09 10:18:45,288-INFO- Value to set: 0.2978723404255319
+2024-08-09 10:18:46,269-INFO- Applying torque value: 0.327660
+2024-08-09 10:18:46,387-INFO- Read torque: -0.290000
+2024-08-09 10:18:46,387-INFO- Temperature: 23.034337
+2024-08-09 10:18:46,899-INFO- Set torque request detected
+2024-08-09 10:18:46,899-INFO- Value to set: 0.3276595744680851
+2024-08-09 10:18:47,388-INFO- Applying torque value: 0.357447
+2024-08-09 10:18:47,388-INFO- Read torque: -0.303000
+2024-08-09 10:18:47,388-INFO- Temperature: 23.093811
+2024-08-09 10:18:47,743-INFO- Set torque request detected
+2024-08-09 10:18:47,743-INFO- Value to set: 0.35744680851063826
+2024-08-09 10:18:48,401-INFO- Applying torque value: 0.387234
+2024-08-09 10:18:48,401-INFO- Read torque: -0.328000
+2024-08-09 10:18:48,401-INFO- Temperature: 23.124839
+2024-08-09 10:18:48,618-INFO- Set torque request detected
+2024-08-09 10:18:48,619-INFO- Value to set: 0.38723404255319144
+2024-08-09 10:18:49,403-INFO- Applying torque value: 0.417021
+2024-08-09 10:18:49,403-INFO- Read torque: -0.360000
+2024-08-09 10:18:49,403-INFO- Temperature: 23.081118
+2024-08-09 10:18:49,482-INFO- Set torque request detected
+2024-08-09 10:18:49,483-INFO- Value to set: 0.41702127659574467
+2024-08-09 10:18:50,416-INFO- Applying torque value: 0.446809
+2024-08-09 10:18:50,597-INFO- Read torque: -0.414000
+2024-08-09 10:18:50,597-INFO- Temperature: 23.129070
+2024-08-09 10:18:51,111-INFO- Set torque request detected
+2024-08-09 10:18:51,111-INFO- Value to set: 0.44680851063829785
+2024-08-09 10:18:51,601-INFO- Applying torque value: 0.476596
+2024-08-09 10:18:51,601-INFO- Read torque: -0.428000
+2024-08-09 10:18:51,601-INFO- Temperature: 23.099688
+2024-08-09 10:18:51,998-INFO- Set torque request detected
+2024-08-09 10:18:51,998-INFO- Value to set: 0.47659574468085103
+2024-08-09 10:18:52,604-INFO- Applying torque value: 0.506383
+2024-08-09 10:18:52,604-INFO- Read torque: -0.446000
+2024-08-09 10:18:52,604-INFO- Temperature: 23.120138
+2024-08-09 10:18:52,855-INFO- Set torque request detected
+2024-08-09 10:18:52,855-INFO- Value to set: 0.5063829787234042
+2024-08-09 10:18:53,607-INFO- Applying torque value: 0.536170
+2024-08-09 10:18:53,607-INFO- Read torque: -0.485000
+2024-08-09 10:18:53,608-INFO- Temperature: 23.150458
+2024-08-09 10:18:53,719-INFO- Set torque request detected
+2024-08-09 10:18:53,719-INFO- Value to set: 0.5361702127659574
+2024-08-09 10:18:54,614-INFO- Applying torque value: 0.565957
+2024-08-09 10:18:54,834-INFO- Read torque: -0.538000
+2024-08-09 10:18:54,834-INFO- Temperature: 23.163855
+2024-08-09 10:18:55,339-INFO- Set torque request detected
+2024-08-09 10:18:55,339-INFO- Value to set: 0.5659574468085106
+2024-08-09 10:18:55,839-INFO- Applying torque value: 0.595745
+2024-08-09 10:18:55,839-INFO- Read torque: -0.540000
+2024-08-09 10:18:55,839-INFO- Temperature: 23.183362
+2024-08-09 10:18:56,183-INFO- Set torque request detected
+2024-08-09 10:18:56,183-INFO- Value to set: 0.5957446808510638
+2024-08-09 10:18:56,852-INFO- Applying torque value: 0.625532
+2024-08-09 10:18:56,852-INFO- Read torque: -0.576000
+2024-08-09 10:18:56,852-INFO- Temperature: 23.161975
+2024-08-09 10:18:57,043-INFO- Set torque request detected
+2024-08-09 10:18:57,043-INFO- Value to set: 0.6255319148936169
+2024-08-09 10:18:57,867-INFO- Applying torque value: 0.655319
+2024-08-09 10:18:57,867-INFO- Read torque: -0.600000
+2024-08-09 10:18:57,867-INFO- Temperature: 23.212738
+2024-08-09 10:18:57,899-INFO- Set torque request detected
+2024-08-09 10:18:57,899-INFO- Value to set: 0.6553191489361702
+2024-08-09 10:18:58,872-INFO- Applying torque value: 0.685106
+2024-08-09 10:18:58,872-INFO- Read torque: -0.639000
+2024-08-09 10:18:58,873-INFO- Temperature: 23.218848
+2024-08-09 10:18:59,296-INFO- Set torque request detected
+2024-08-09 10:18:59,296-INFO- Value to set: 0.6851063829787234
+2024-08-09 10:18:59,878-INFO- Applying torque value: 0.714894
+2024-08-09 10:18:59,878-INFO- Read torque: -0.658000
+2024-08-09 10:18:59,879-INFO- Temperature: 23.244698
+2024-08-09 10:19:00,142-INFO- Set torque request detected
+2024-08-09 10:19:00,142-INFO- Value to set: 0.7148936170212765
+2024-08-09 10:19:00,886-INFO- Applying torque value: 0.744681
+2024-08-09 10:19:00,886-INFO- Read torque: -0.700000
+2024-08-09 10:19:00,886-INFO- Temperature: 23.310255
+2024-08-09 10:19:00,996-INFO- Set torque request detected
+2024-08-09 10:19:00,996-INFO- Value to set: 0.7446808510638298
+2024-08-09 10:19:01,902-INFO- Applying torque value: 0.774468
+2024-08-09 10:19:02,101-INFO- Read torque: -0.746000
+2024-08-09 10:19:02,102-INFO- Temperature: 23.365231
+2024-08-09 10:19:02,604-INFO- Set torque request detected
+2024-08-09 10:19:02,604-INFO- Value to set: 0.7744680851063829
+2024-08-09 10:19:03,103-INFO- Applying torque value: 0.804255
+2024-08-09 10:19:03,103-INFO- Read torque: -0.752000
+2024-08-09 10:19:03,103-INFO- Temperature: 23.400234
+2024-08-09 10:19:03,450-INFO- Set torque request detected
+2024-08-09 10:19:03,451-INFO- Value to set: 0.8042553191489361
+2024-08-09 10:19:04,107-INFO- Applying torque value: 0.834043
+2024-08-09 10:19:04,107-INFO- Read torque: -0.779000
+2024-08-09 10:19:04,107-INFO- Temperature: 23.476574
+2024-08-09 10:19:04,322-INFO- Set torque request detected
+2024-08-09 10:19:04,322-INFO- Value to set: 0.8340425531914893
+2024-08-09 10:19:05,112-INFO- Applying torque value: 0.863830
+2024-08-09 10:19:05,113-INFO- Read torque: -0.812000
+2024-08-09 10:19:05,113-INFO- Temperature: 23.483620
+2024-08-09 10:19:05,175-INFO- Set torque request detected
+2024-08-09 10:19:05,175-INFO- Value to set: 0.8638297872340425
+2024-08-09 10:19:06,116-INFO- Applying torque value: 0.893617
+2024-08-09 10:19:06,265-INFO- Read torque: -0.864000
+2024-08-09 10:19:06,265-INFO- Temperature: 23.580142
+2024-08-09 10:19:06,773-INFO- Set torque request detected
+2024-08-09 10:19:06,773-INFO- Value to set: 0.8936170212765957
+2024-08-09 10:19:07,277-INFO- Applying torque value: 0.923404
+2024-08-09 10:19:07,277-INFO- Read torque: -0.869000
+2024-08-09 10:19:07,278-INFO- Temperature: 23.614425
+2024-08-09 10:19:07,623-INFO- Set torque request detected
+2024-08-09 10:19:07,623-INFO- Value to set: 0.9234042553191488
+2024-08-09 10:19:08,287-INFO- Applying torque value: 0.953191
+2024-08-09 10:19:08,287-INFO- Read torque: -0.907000
+2024-08-09 10:19:08,288-INFO- Temperature: 23.679696
+2024-08-09 10:19:08,491-INFO- Set torque request detected
+2024-08-09 10:19:08,492-INFO- Value to set: 0.9531914893617021
+2024-08-09 10:19:08,749-WARNING- Read request error: Request error:  b'\x10' is not a valid EnumPktBytes
+2024-08-09 10:19:08,749-WARNING- Discarding the packet
+2024-08-09 10:19:09,295-INFO- Applying torque value: 0.982979
+2024-08-09 10:19:09,295-INFO- Read torque: -0.929000
+2024-08-09 10:19:09,295-INFO- Temperature: 23.734864
+2024-08-09 10:19:09,359-INFO- Set torque request detected
+2024-08-09 10:19:09,359-INFO- Value to set: 0.9829787234042553
+2024-08-09 10:19:10,301-INFO- Applying torque value: 1.012766
+2024-08-09 10:19:10,451-INFO- Read torque: -0.984000
+2024-08-09 10:19:10,452-INFO- Temperature: 23.867476
+2024-08-09 10:19:10,954-INFO- Set torque request detected
+2024-08-09 10:19:10,954-INFO- Value to set: 1.0127659574468084
+2024-08-09 10:19:11,465-INFO- Applying torque value: 1.042553
+2024-08-09 10:19:11,465-INFO- Read torque: -0.988000
+2024-08-09 10:19:11,465-INFO- Temperature: 23.926611
+2024-08-09 10:19:11,812-INFO- Set torque request detected
+2024-08-09 10:19:11,812-INFO- Value to set: 1.0425531914893615
+2024-08-09 10:19:12,472-INFO- Applying torque value: 1.072340
+2024-08-09 10:19:12,472-INFO- Read torque: -1.030000
+2024-08-09 10:19:12,472-INFO- Temperature: 24.028673
+2024-08-09 10:19:12,677-INFO- Set torque request detected
+2024-08-09 10:19:12,677-INFO- Value to set: 1.0723404255319149
+2024-08-09 10:19:13,474-INFO- Applying torque value: 1.102128
+2024-08-09 10:19:13,474-INFO- Read torque: -1.046000
+2024-08-09 10:19:13,474-INFO- Temperature: 24.118985
+2024-08-09 10:19:13,537-INFO- Set torque request detected
+2024-08-09 10:19:13,537-INFO- Value to set: 1.102127659574468
+2024-08-09 10:19:14,486-INFO- Applying torque value: 1.131915
+2024-08-09 10:19:14,639-INFO- Read torque: -1.101000
+2024-08-09 10:19:14,639-INFO- Temperature: 24.217487
+2024-08-09 10:19:15,155-INFO- Set torque request detected
+2024-08-09 10:19:15,155-INFO- Value to set: 1.1319148936170211
+2024-08-09 10:19:15,643-INFO- Applying torque value: 1.161702
+2024-08-09 10:19:15,643-INFO- Read torque: -1.104000
+2024-08-09 10:19:15,643-INFO- Temperature: 24.349730
+2024-08-09 10:19:16,005-INFO- Set torque request detected
+2024-08-09 10:19:16,005-INFO- Value to set: 1.1617021276595745
+2024-08-09 10:19:16,647-INFO- Applying torque value: 1.191489
+2024-08-09 10:19:16,647-INFO- Read torque: -1.140000
+2024-08-09 10:19:16,647-INFO- Temperature: 24.433417
+2024-08-09 10:19:16,851-INFO- Set torque request detected
+2024-08-09 10:19:16,851-INFO- Value to set: 1.1914893617021276
+2024-08-09 10:19:17,658-INFO- Applying torque value: 1.221277
+2024-08-09 10:19:17,658-INFO- Read torque: -1.172000
+2024-08-09 10:19:17,659-INFO- Temperature: 24.567006
+2024-08-09 10:19:17,704-INFO- Set torque request detected
+2024-08-09 10:19:17,704-INFO- Value to set: 1.2212765957446807
+2024-08-09 10:19:18,669-INFO- Applying torque value: 1.251064
+2024-08-09 10:19:18,839-INFO- Read torque: -1.222000
+2024-08-09 10:19:18,839-INFO- Temperature: 24.760525
+2024-08-09 10:19:19,351-INFO- Set torque request detected
+2024-08-09 10:19:19,351-INFO- Value to set: 1.2510638297872338
+2024-08-09 10:19:19,841-INFO- Applying torque value: 1.280851
+2024-08-09 10:19:19,842-INFO- Read torque: -1.239000
+2024-08-09 10:19:19,842-INFO- Temperature: 24.869433
+2024-08-09 10:19:20,222-INFO- Set torque request detected
+2024-08-09 10:19:20,222-INFO- Value to set: 1.2808510638297872
+2024-08-09 10:19:20,855-INFO- Applying torque value: 1.310638
+2024-08-09 10:19:20,855-INFO- Read torque: -1.257000
+2024-08-09 10:19:20,857-INFO- Temperature: 24.965438
+2024-08-09 10:19:21,109-INFO- Set torque request detected
+2024-08-09 10:19:21,109-INFO- Value to set: 1.3106382978723403
+2024-08-09 10:19:21,864-INFO- Applying torque value: 1.340426
+2024-08-09 10:19:21,865-INFO- Read torque: -1.290000
+2024-08-09 10:19:21,865-INFO- Temperature: 25.099345
+2024-08-09 10:19:21,944-INFO- Set torque request detected
+2024-08-09 10:19:21,944-INFO- Value to set: 1.3404255319148934
+2024-08-09 10:19:22,878-INFO- Applying torque value: 1.370213
+2024-08-09 10:19:23,010-INFO- Read torque: -1.338000
+2024-08-09 10:19:23,011-INFO- Temperature: 25.366343
+2024-08-09 10:19:23,513-INFO- Set torque request detected
+2024-08-09 10:19:23,513-INFO- Value to set: 1.3702127659574468
+2024-08-09 10:19:24,015-INFO- Applying torque value: 1.400000
+2024-08-09 10:19:24,016-INFO- Read torque: -1.348000
+2024-08-09 10:19:24,017-INFO- Temperature: 25.551119
+2024-08-09 10:19:24,346-INFO- Set torque request detected
+2024-08-09 10:19:24,346-INFO- Value to set: 1.4
+2024-08-09 10:19:25,025-INFO- Target Torque value reached: -1.374000
+2024-08-09 10:19:25,025-INFO- Temperature: 25.614955
+2024-08-09 10:19:27,126-INFO- Write request detected
+2024-08-09 10:19:27,126-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:19:28,374-INFO- Write request detected
+2024-08-09 10:19:28,374-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:19:31,485-INFO- Write request detected
+2024-08-09 10:19:31,485-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:19:33,058-INFO- Temperature: 27.268902
+2024-08-09 10:19:33,398-WARNING- Read request error: Request error:  Checksum error
+2024-08-09 10:19:33,399-WARNING- Discarding the packet
+2024-08-09 10:19:35,151-INFO- Write request detected
+2024-08-09 10:19:35,151-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:19:36,413-INFO- Write request detected
+2024-08-09 10:19:36,413-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:19:39,527-INFO- Write request detected
+2024-08-09 10:19:39,527-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:19:41,118-INFO- Temperature: 28.896716
+2024-08-09 10:19:43,261-INFO- Write request detected
+2024-08-09 10:19:43,262-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:19:44,516-INFO- Write request detected
+2024-08-09 10:19:44,516-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:19:47,646-INFO- Write request detected
+2024-08-09 10:19:47,646-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:19:49,160-INFO- Temperature: 30.614150
+2024-08-09 10:19:51,263-INFO- Write request detected
+2024-08-09 10:19:51,263-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:19:52,521-INFO- Write request detected
+2024-08-09 10:19:52,521-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:19:55,613-INFO- Write request detected
+2024-08-09 10:19:55,613-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:19:57,208-INFO- Temperature: 32.199825
+2024-08-09 10:19:59,325-INFO- Write request detected
+2024-08-09 10:19:59,325-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:20:00,568-INFO- Write request detected
+2024-08-09 10:20:00,568-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:20:03,673-INFO- Write request detected
+2024-08-09 10:20:03,673-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:20:05,334-INFO- Temperature: 33.821264
+2024-08-09 10:20:07,409-INFO- Write request detected
+2024-08-09 10:20:07,409-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:20:08,660-INFO- Write request detected
+2024-08-09 10:20:08,660-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:20:11,780-INFO- Write request detected
+2024-08-09 10:20:11,780-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:20:13,586-INFO- Temperature: 35.518442
+2024-08-09 10:20:16,119-INFO- Write request detected
+2024-08-09 10:20:16,119-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:20:16,742-INFO- Write request detected
+2024-08-09 10:20:16,742-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:20:19,865-INFO- Write request detected
+2024-08-09 10:20:19,865-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:20:21,749-INFO- Temperature: 37.060228
+2024-08-09 10:20:24,099-INFO- Write request detected
+2024-08-09 10:20:24,099-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:20:25,340-INFO- Write request detected
+2024-08-09 10:20:25,341-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:20:28,432-INFO- Write request detected
+2024-08-09 10:20:28,432-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:20:29,946-INFO- Temperature: 38.529602
+2024-08-09 10:20:32,148-INFO- Write request detected
+2024-08-09 10:20:32,148-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:20:33,414-INFO- Write request detected
+2024-08-09 10:20:33,414-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:20:36,530-INFO- Write request detected
+2024-08-09 10:20:36,530-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:20:38,101-INFO- Temperature: 39.948330
+2024-08-09 10:20:40,273-INFO- Write request detected
+2024-08-09 10:20:40,273-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:20:41,530-INFO- Write request detected
+2024-08-09 10:20:41,530-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:20:44,650-INFO- Write request detected
+2024-08-09 10:20:44,650-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:20:46,330-INFO- Temperature: 41.242354
+2024-08-09 10:20:48,362-INFO- Write request detected
+2024-08-09 10:20:48,362-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:20:49,605-INFO- Write request detected
+2024-08-09 10:20:49,605-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:20:52,623-INFO- Write request detected
+2024-08-09 10:20:52,623-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:20:54,598-INFO- Temperature: 42.468446
+2024-08-09 10:20:56,945-INFO- Write request detected
+2024-08-09 10:20:56,945-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:20:58,195-INFO- Write request detected
+2024-08-09 10:20:58,195-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:21:00,699-INFO- Write request detected
+2024-08-09 10:21:00,700-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:21:02,720-INFO- Temperature: 43.547089
+2024-08-09 10:21:05,044-INFO- Write request detected
+2024-08-09 10:21:05,044-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:21:06,298-INFO- Write request detected
+2024-08-09 10:21:06,298-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:21:09,392-INFO- Write request detected
+2024-08-09 10:21:09,392-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:21:10,902-INFO- Temperature: 44.647730
+2024-08-09 10:21:13,120-INFO- Write request detected
+2024-08-09 10:21:13,120-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:21:14,389-INFO- Write request detected
+2024-08-09 10:21:14,389-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:21:17,506-INFO- Write request detected
+2024-08-09 10:21:17,506-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:21:19,099-INFO- Temperature: 45.631511
+2024-08-09 10:21:21,248-INFO- Write request detected
+2024-08-09 10:21:21,248-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:21:22,506-INFO- Write request detected
+2024-08-09 10:21:22,506-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:21:25,529-INFO- Write request detected
+2024-08-09 10:21:25,529-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:21:27,331-INFO- Temperature: 46.590318
+2024-08-09 10:21:29,875-INFO- Write request detected
+2024-08-09 10:21:29,875-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:21:30,509-INFO- Write request detected
+2024-08-09 10:21:30,509-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:21:33,610-INFO- Write request detected
+2024-08-09 10:21:33,610-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:21:35,429-INFO- Temperature: 47.467481
+2024-08-09 10:21:37,961-INFO- Write request detected
+2024-08-09 10:21:37,961-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:21:38,588-INFO- Write request detected
+2024-08-09 10:21:38,588-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:21:41,698-INFO- Write request detected
+2024-08-09 10:21:41,698-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:21:43,503-INFO- Temperature: 48.316571
+2024-08-09 10:21:46,037-INFO- Write request detected
+2024-08-09 10:21:46,037-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:21:46,672-INFO- Write request detected
+2024-08-09 10:21:46,672-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:21:49,772-INFO- Write request detected
+2024-08-09 10:21:49,772-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:21:51,597-INFO- Temperature: 49.143529
+2024-08-09 10:21:54,124-INFO- Write request detected
+2024-08-09 10:21:54,124-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:21:54,756-INFO- Write request detected
+2024-08-09 10:21:54,756-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:21:57,760-INFO- Write request detected
+2024-08-09 10:21:57,760-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:21:59,826-INFO- Temperature: 49.919075
+2024-08-09 10:22:02,114-INFO- Write request detected
+2024-08-09 10:22:02,114-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:22:03,373-INFO- Write request detected
+2024-08-09 10:22:03,373-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:22:05,878-INFO- Write request detected
+2024-08-09 10:22:05,878-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:22:08,058-INFO- Temperature: 50.662116
+2024-08-09 10:22:10,236-INFO- Write request detected
+2024-08-09 10:22:10,236-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:22:11,488-INFO- Write request detected
+2024-08-09 10:22:11,488-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:22:14,599-INFO- Write request detected
+2024-08-09 10:22:14,599-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:22:16,121-INFO- Temperature: 51.368354
+2024-08-09 10:22:18,334-INFO- Write request detected
+2024-08-09 10:22:18,334-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:22:19,587-INFO- Write request detected
+2024-08-09 10:22:19,587-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:22:22,691-INFO- Write request detected
+2024-08-09 10:22:22,691-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:22:24,219-INFO- Temperature: 52.084942
+2024-08-09 10:22:26,424-INFO- Write request detected
+2024-08-09 10:22:26,424-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:22:27,573-INFO- Write request detected
+2024-08-09 10:22:27,573-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:22:30,691-INFO- Write request detected
+2024-08-09 10:22:30,691-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:22:32,335-INFO- Temperature: 52.755824
+2024-08-09 10:22:34,432-INFO- Write request detected
+2024-08-09 10:22:34,432-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:22:35,690-INFO- Write request detected
+2024-08-09 10:22:35,690-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:22:38,819-INFO- Write request detected
+2024-08-09 10:22:38,819-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:22:40,595-INFO- Temperature: 53.447075
+2024-08-09 10:22:43,159-INFO- Write request detected
+2024-08-09 10:22:43,159-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:22:43,779-INFO- Write request detected
+2024-08-09 10:22:43,779-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:22:46,893-INFO- Write request detected
+2024-08-09 10:22:46,893-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:22:48,705-INFO- Temperature: 54.023011
+2024-08-09 10:22:51,261-INFO- Write request detected
+2024-08-09 10:22:51,261-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:22:51,889-INFO- Write request detected
+2024-08-09 10:22:51,889-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:22:55,010-INFO- Write request detected
+2024-08-09 10:22:55,010-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:22:56,788-INFO- Temperature: 54.670242
+2024-08-09 10:22:59,264-INFO- Write request detected
+2024-08-09 10:22:59,264-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:22:59,898-INFO- Write request detected
+2024-08-09 10:22:59,898-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:23:03,005-INFO- Write request detected
+2024-08-09 10:23:03,005-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:23:04,845-INFO- Temperature: 55.298170
+2024-08-09 10:23:07,355-INFO- Write request detected
+2024-08-09 10:23:07,355-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:23:07,992-INFO- Write request detected
+2024-08-09 10:23:07,992-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:23:11,096-INFO- Write request detected
+2024-08-09 10:23:11,096-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:23:13,102-INFO- Temperature: 55.843913
+2024-08-09 10:23:15,450-INFO- Write request detected
+2024-08-09 10:23:15,450-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:23:16,706-INFO- Write request detected
+2024-08-09 10:23:16,706-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:23:19,801-INFO- Write request detected
+2024-08-09 10:23:19,801-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:23:21,316-INFO- Temperature: 56.486940
+2024-08-09 10:23:23,532-INFO- Write request detected
+2024-08-09 10:23:23,537-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:23:24,800-INFO- Write request detected
+2024-08-09 10:23:24,800-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:23:27,903-INFO- Write request detected
+2024-08-09 10:23:27,903-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:23:29,420-INFO- Temperature: 57.034537
+2024-08-09 10:23:31,511-INFO- Write request detected
+2024-08-09 10:23:31,512-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:23:32,754-INFO- Write request detected
+2024-08-09 10:23:32,754-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:23:35,872-INFO- Write request detected
+2024-08-09 10:23:35,872-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:23:37,487-INFO- Temperature: 57.564238
+2024-08-09 10:23:39,599-INFO- Write request detected
+2024-08-09 10:23:39,599-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:23:40,850-INFO- Write request detected
+2024-08-09 10:23:40,850-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:23:43,955-INFO- Write request detected
+2024-08-09 10:23:43,955-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:23:45,604-INFO- Temperature: 58.153030
+2024-08-09 10:23:47,680-INFO- Write request detected
+2024-08-09 10:23:47,680-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:23:48,938-INFO- Write request detected
+2024-08-09 10:23:48,938-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:23:52,050-INFO- Write request detected
+2024-08-09 10:23:52,050-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:23:53,834-INFO- Temperature: 58.689942
+2024-08-09 10:23:56,410-INFO- Write request detected
+2024-08-09 10:23:56,410-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:23:57,041-INFO- Write request detected
+2024-08-09 10:23:57,041-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:24:00,133-INFO- Write request detected
+2024-08-09 10:24:00,133-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:24:02,104-INFO- Temperature: 59.250595
+2024-08-09 10:24:04,371-INFO- Write request detected
+2024-08-09 10:24:04,371-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:24:05,621-INFO- Write request detected
+2024-08-09 10:24:05,621-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:24:08,735-INFO- Write request detected
+2024-08-09 10:24:08,735-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:24:10,259-INFO- Temperature: 59.736589
+2024-08-09 10:24:12,452-INFO- Write request detected
+2024-08-09 10:24:12,452-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:24:13,698-INFO- Write request detected
+2024-08-09 10:24:13,698-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:24:16,810-INFO- Write request detected
+2024-08-09 10:24:16,810-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:24:18,325-INFO- Temperature: 60.280216
+2024-08-09 10:24:18,325-INFO- Target temperature reached
+2024-08-09 10:24:18,830-INFO- Set torque request detected
+2024-08-09 10:24:18,830-INFO- Value to set: 1.4
+2024-08-09 10:24:19,700-INFO- Set torque request detected
+2024-08-09 10:24:19,700-INFO- Value to set: 1.0499999999999998
+2024-08-09 10:24:20,550-INFO- Set torque request detected
+2024-08-09 10:24:20,550-INFO- Value to set: 0.7
+2024-08-09 10:24:21,400-INFO- Set torque request detected
+2024-08-09 10:24:21,400-INFO- Value to set: 0.3500000000000001
+2024-08-09 10:24:23,011-INFO- Set torque request detected
+2024-08-09 10:24:23,011-INFO- Value to set: 0.0
+2024-08-09 10:24:23,613-INFO- Write request detected
+2024-08-09 10:24:23,613-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:24:24,870-INFO- Write request detected
+2024-08-09 10:24:24,871-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:24:27,980-INFO- Write request detected
+2024-08-09 10:24:27,980-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:24:29,503-INFO- Current speed: 466.061073
+2024-08-09 10:24:29,503-INFO- Speed error: 466.061073
+2024-08-09 10:24:31,509-INFO- Current speed: 0.000000
+2024-08-09 10:24:31,509-INFO- Speed error: 0.000000
+2024-08-09 10:24:34,089-INFO- Write request detected
+2024-08-09 10:24:34,089-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:24:36,592-INFO- Target speed: 4445.000000
+2024-08-09 10:24:37,194-INFO- Write request detected
+2024-08-09 10:24:37,195-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:24:37,518-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-08-09 10:24:37,518-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-08-09 10:24:37,826-INFO- Write request detected
+2024-08-09 10:24:37,826-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:24:40,514-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-08-09 10:24:40,514-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-08-09 10:24:40,911-INFO- Write request detected
+2024-08-09 10:24:40,911-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:24:40,989-WARNING- Read request error: Request error:  Checksum error
+2024-08-09 10:24:40,990-WARNING- Discarding the packet
+2024-08-09 10:24:42,715-INFO- Current speed: 0.145018
+2024-08-09 10:24:42,715-INFO- Speed error: 4444.854982
+2024-08-09 10:24:44,510-WARNING- Read request error: Request error:  Too much empty characters received!
+2024-08-09 10:24:44,510-WARNING- Discarding the packet
+2024-08-09 10:24:44,720-INFO- Current speed: 2.618048
+2024-08-09 10:24:44,720-INFO- Speed error: 4442.381952
+2024-08-09 10:24:46,736-INFO- Current speed: 1328.051491
+2024-08-09 10:24:46,736-INFO- Speed error: 3116.948509
+2024-08-09 10:24:48,827-INFO- Current speed: 2566.383657
+2024-08-09 10:24:48,827-INFO- Speed error: 1878.616343
+2024-08-09 10:24:50,840-INFO- Current speed: 3492.482413
+2024-08-09 10:24:50,840-INFO- Speed error: 952.517587
+2024-08-09 10:24:52,855-INFO- Current speed: 4414.603850
+2024-08-09 10:24:52,855-INFO- Speed error: 30.396150
+2024-08-09 10:24:54,856-INFO- Starting the measures
+2024-08-09 10:24:58,076-INFO- Applying torque value: 0.200000
+2024-08-09 10:24:58,076-INFO- Elapsed Time [Secs]: 0.000001
+2024-08-09 10:24:58,635-INFO- Write request detected
+2024-08-09 10:24:58,635-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:24:59,144-INFO- Measured Temperature [C]: 53.772691
+2024-08-09 10:24:59,149-INFO- Estimated ClassA Temperature [C]: 52.697239
+2024-08-09 10:24:59,240-INFO- Set torque request detected
+2024-08-09 10:24:59,240-INFO- Value to set: 0.2
+2024-08-09 10:25:05,160-INFO- Read speed is: 4444.0
+2024-08-09 10:25:05,160-INFO- Applying torque value: 0.280000
+2024-08-09 10:25:05,160-INFO- Elapsed Time [Secs]: 7.084034
+2024-08-09 10:25:05,474-INFO- Write request detected
+2024-08-09 10:25:05,474-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:25:06,171-INFO- Measured Temperature [C]: 51.794211
+2024-08-09 10:25:06,176-INFO- Estimated ClassA Temperature [C]: 50.758327
+2024-08-09 10:25:06,850-INFO- Set torque request detected
+2024-08-09 10:25:06,850-INFO- Value to set: 0.28
+2024-08-09 10:25:12,364-INFO- Read speed is: 4444.0
+2024-08-09 10:25:12,365-INFO- Applying torque value: 0.360000
+2024-08-09 10:25:12,365-INFO- Elapsed Time [Secs]: 14.287777
+2024-08-09 10:25:12,808-INFO- Write request detected
+2024-08-09 10:25:12,808-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:25:13,376-INFO- Measured Temperature [C]: 49.957588
+2024-08-09 10:25:13,380-INFO- Estimated ClassA Temperature [C]: 50.758327
+2024-08-09 10:25:13,611-INFO- Set torque request detected
+2024-08-09 10:25:13,611-INFO- Value to set: 0.36000000000000004
+2024-08-09 10:25:19,383-INFO- Read speed is: 4447.0
+2024-08-09 10:25:19,383-INFO- Applying torque value: 0.440000
+2024-08-09 10:25:19,384-INFO- Elapsed Time [Secs]: 21.306155
+2024-08-09 10:25:19,649-INFO- Write request detected
+2024-08-09 10:25:19,649-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:25:20,404-INFO- Measured Temperature [C]: 48.558369
+2024-08-09 10:25:20,409-INFO- Estimated ClassA Temperature [C]: 47.587200
+2024-08-09 10:25:21,111-INFO- Set torque request detected
+2024-08-09 10:25:21,111-INFO- Value to set: 0.44000000000000006
+2024-08-09 10:25:26,616-INFO- Read speed is: 4441.0
+2024-08-09 10:25:26,616-INFO- Applying torque value: 0.520000
+2024-08-09 10:25:26,617-INFO- Elapsed Time [Secs]: 28.538021
+2024-08-09 10:25:27,101-INFO- Write request detected
+2024-08-09 10:25:27,101-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:25:27,632-INFO- Measured Temperature [C]: 47.306623
+2024-08-09 10:25:27,636-INFO- Estimated ClassA Temperature [C]: 46.360493
+2024-08-09 10:25:27,647-INFO- Set torque request detected
+2024-08-09 10:25:27,647-INFO- Value to set: 0.52
+2024-08-09 10:25:33,650-INFO- Read speed is: 4446.0
+2024-08-09 10:25:33,650-INFO- Applying torque value: 0.600000
+2024-08-09 10:25:33,650-INFO- Elapsed Time [Secs]: 35.571920
+2024-08-09 10:25:33,948-INFO- Write request detected
+2024-08-09 10:25:33,948-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:25:34,668-INFO- Measured Temperature [C]: 46.371577
+2024-08-09 10:25:34,680-INFO- Estimated ClassA Temperature [C]: 45.444145
+2024-08-09 10:25:35,152-INFO- Set torque request detected
+2024-08-09 10:25:35,152-INFO- Value to set: 0.6
+2024-08-09 10:25:40,695-INFO- Read speed is: 4448.0
+2024-08-09 10:25:40,695-INFO- Applying torque value: 0.680000
+2024-08-09 10:25:40,696-INFO- Elapsed Time [Secs]: 42.616306
+2024-08-09 10:25:41,275-INFO- Write request detected
+2024-08-09 10:25:41,275-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:25:41,781-INFO- Measured Temperature [C]: 45.614899
+2024-08-09 10:25:41,787-INFO- Estimated ClassA Temperature [C]: 44.702602
+2024-08-09 10:25:41,907-INFO- Set torque request detected
+2024-08-09 10:25:41,907-INFO- Value to set: 0.6799999999999999
+2024-08-09 10:25:47,788-INFO- Read speed is: 4442.0
+2024-08-09 10:25:47,789-INFO- Applying torque value: 0.760000
+2024-08-09 10:25:47,789-INFO- Elapsed Time [Secs]: 49.708897
+2024-08-09 10:25:48,085-INFO- Write request detected
+2024-08-09 10:25:48,086-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:25:48,802-INFO- Measured Temperature [C]: 45.101656
+2024-08-09 10:25:48,827-INFO- Estimated ClassA Temperature [C]: 44.199623
+2024-08-09 10:25:49,450-INFO- Set torque request detected
+2024-08-09 10:25:49,450-INFO- Value to set: 0.7599999999999999
+2024-08-09 10:25:54,957-INFO- Read speed is: 4438.0
+2024-08-09 10:25:54,957-INFO- Applying torque value: 0.840000
+2024-08-09 10:25:54,958-INFO- Elapsed Time [Secs]: 56.876905
+2024-08-09 10:25:55,543-INFO- Write request detected
+2024-08-09 10:25:55,543-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:25:56,045-INFO- Measured Temperature [C]: 44.830114
+2024-08-09 10:25:56,050-INFO- Estimated ClassA Temperature [C]: 43.933510
+2024-08-09 10:25:56,204-INFO- Set torque request detected
+2024-08-09 10:25:56,204-INFO- Value to set: 0.8399999999999999
+2024-08-09 10:26:02,058-INFO- Read speed is: 4445.0
+2024-08-09 10:26:02,058-INFO- Applying torque value: 0.920000
+2024-08-09 10:26:02,059-INFO- Elapsed Time [Secs]: 63.977434
+2024-08-09 10:26:02,387-INFO- Write request detected
+2024-08-09 10:26:02,387-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:26:03,078-INFO- Measured Temperature [C]: 44.804480
+2024-08-09 10:26:03,134-INFO- Estimated ClassA Temperature [C]: 43.908390
+2024-08-09 10:26:03,610-INFO- Set torque request detected
+2024-08-09 10:26:03,610-INFO- Value to set: 0.9199999999999998
+2024-08-09 10:26:09,147-INFO- Read speed is: 4440.0
+2024-08-09 10:26:09,147-INFO- Applying torque value: 1.000000
+2024-08-09 10:26:09,147-INFO- Elapsed Time [Secs]: 71.065897
+2024-08-09 10:26:09,227-INFO- Write request detected
+2024-08-09 10:26:09,227-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:26:10,158-INFO- Measured Temperature [C]: 44.986583
+2024-08-09 10:26:10,162-INFO- Estimated ClassA Temperature [C]: 44.086853
+2024-08-09 10:26:10,362-INFO- Set torque request detected
+2024-08-09 10:26:10,362-INFO- Value to set: 0.9999999999999998
+2024-08-09 10:26:16,175-INFO- Read speed is: 4445.0
+2024-08-09 10:26:16,175-INFO- Applying torque value: 1.080000
+2024-08-09 10:26:16,176-INFO- Elapsed Time [Secs]: 78.093555
+2024-08-09 10:26:16,567-INFO- Write request detected
+2024-08-09 10:26:16,567-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:26:17,195-INFO- Measured Temperature [C]: 45.372605
+2024-08-09 10:26:17,313-INFO- Estimated ClassA Temperature [C]: 44.465153
+2024-08-09 10:26:17,855-INFO- Set torque request detected
+2024-08-09 10:26:17,855-INFO- Value to set: 1.0799999999999998
+2024-08-09 10:26:23,393-INFO- Read speed is: 4445.0
+2024-08-09 10:26:23,393-INFO- Applying torque value: 1.160000
+2024-08-09 10:26:23,394-INFO- Elapsed Time [Secs]: 85.310915
+2024-08-09 10:26:24,004-INFO- Write request detected
+2024-08-09 10:26:24,004-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:26:24,504-INFO- Measured Temperature [C]: 46.057197
+2024-08-09 10:26:24,508-INFO- Estimated ClassA Temperature [C]: 45.136055
+2024-08-09 10:26:24,645-INFO- Set torque request detected
+2024-08-09 10:26:24,646-INFO- Value to set: 1.16
+2024-08-09 10:26:30,518-INFO- Read speed is: 4446.0
+2024-08-09 10:26:30,518-INFO- Applying torque value: 1.240000
+2024-08-09 10:26:30,518-INFO- Elapsed Time [Secs]: 92.435413
+2024-08-09 10:26:30,819-INFO- Write request detected
+2024-08-09 10:26:30,819-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:26:31,530-INFO- Measured Temperature [C]: 46.911313
+2024-08-09 10:26:31,572-INFO- Estimated ClassA Temperature [C]: 45.973087
+2024-08-09 10:26:32,142-INFO- Set torque request detected
+2024-08-09 10:26:32,142-INFO- Value to set: 1.24
+2024-08-09 10:26:37,703-INFO- Read speed is: 4449.0
+2024-08-09 10:26:37,703-INFO- Applying torque value: 1.320000
+2024-08-09 10:26:37,703-INFO- Elapsed Time [Secs]: 99.620250
+2024-08-09 10:26:38,295-INFO- Write request detected
+2024-08-09 10:26:38,295-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:26:38,797-INFO- Measured Temperature [C]: 48.191274
+2024-08-09 10:26:38,803-INFO- Estimated ClassA Temperature [C]: 47.227448
+2024-08-09 10:26:38,955-INFO- Set torque request detected
+2024-08-09 10:26:38,955-INFO- Value to set: 1.32
+2024-08-09 10:26:44,812-INFO- Read speed is: 4443.0
+2024-08-09 10:26:44,812-INFO- Applying torque value: 1.400000
+2024-08-09 10:26:44,813-INFO- Elapsed Time [Secs]: 106.728697
+2024-08-09 10:26:45,002-INFO- Write request detected
+2024-08-09 10:26:45,003-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:26:45,833-INFO- Measured Temperature [C]: 49.599061
+2024-08-09 10:26:45,839-INFO- Estimated ClassA Temperature [C]: 48.607079
+2024-08-09 10:26:46,348-INFO- Set torque request detected
+2024-08-09 10:26:46,348-INFO- Value to set: 1.4000000000000001
+2024-08-09 10:26:51,901-INFO- Read speed is: 4443.0
+2024-08-09 10:26:51,901-INFO- Applying torque value: 1.480000
+2024-08-09 10:26:51,901-INFO- Elapsed Time [Secs]: 113.816634
+2024-08-09 10:26:52,442-INFO- Write request detected
+2024-08-09 10:26:52,442-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:26:52,945-INFO- Measured Temperature [C]: 51.695933
+2024-08-09 10:26:52,949-INFO- Estimated ClassA Temperature [C]: 50.662014
+2024-08-09 10:26:53,148-INFO- Set torque request detected
+2024-08-09 10:26:53,148-INFO- Value to set: 1.4800000000000002
+2024-08-09 10:26:58,962-INFO- Read speed is: 4445.0
+2024-08-09 10:26:58,962-INFO- Applying torque value: 1.560000
+2024-08-09 10:26:58,962-INFO- Elapsed Time [Secs]: 120.877649
+2024-08-09 10:26:59,278-INFO- Write request detected
+2024-08-09 10:26:59,278-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:26:59,969-INFO- Measured Temperature [C]: 54.161266
+2024-08-09 10:27:00,026-INFO- Estimated ClassA Temperature [C]: 53.078041
+2024-08-09 10:27:00,633-INFO- Set torque request detected
+2024-08-09 10:27:00,633-INFO- Value to set: 1.5600000000000003
+2024-08-09 10:27:06,198-INFO- Read speed is: 4333.0
+2024-08-09 10:27:06,198-INFO- Applying torque value: 1.640000
+2024-08-09 10:27:06,198-INFO- Elapsed Time [Secs]: 128.114230
+2024-08-09 10:27:06,734-INFO- Write request detected
+2024-08-09 10:27:06,734-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:27:07,237-INFO- Measured Temperature [C]: 57.448376
+2024-08-09 10:27:07,243-INFO- Estimated ClassA Temperature [C]: 56.299408
+2024-08-09 10:27:07,442-INFO- Set torque request detected
+2024-08-09 10:27:07,442-INFO- Value to set: 1.6400000000000003
+2024-08-09 10:27:13,257-INFO- Read speed is: 4109.0
+2024-08-09 10:27:13,257-INFO- Applying torque value: 1.720000
+2024-08-09 10:27:13,257-INFO- Elapsed Time [Secs]: 135.172598
+2024-08-09 10:27:13,460-INFO- Write request detected
+2024-08-09 10:27:13,460-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:27:14,276-INFO- Measured Temperature [C]: 60.604296
+2024-08-09 10:27:14,281-INFO- Estimated ClassA Temperature [C]: 59.392212
+2024-08-09 10:27:14,890-INFO- Set torque request detected
+2024-08-09 10:27:14,890-INFO- Value to set: 1.7200000000000004
+2024-08-09 10:27:20,394-INFO- Read speed is: 3832.0
+2024-08-09 10:27:20,678-INFO- Set torque request detected
+2024-08-09 10:27:20,678-INFO- Value to set: 1.8000000000000005
+2024-08-09 10:27:23,019-INFO- Set torque request detected
+2024-08-09 10:27:23,019-INFO- Value to set: 1.3500000000000003
+2024-08-09 10:27:24,623-INFO- Set torque request detected
+2024-08-09 10:27:24,623-INFO- Value to set: 0.9000000000000002
+2024-08-09 10:27:26,958-INFO- Set torque request detected
+2024-08-09 10:27:26,958-INFO- Value to set: 0.4500000000000002
+2024-08-09 10:27:28,540-INFO- Set torque request detected
+2024-08-09 10:27:28,540-INFO- Value to set: 0.0
+2024-08-09 10:27:30,727-INFO- Write request detected
+2024-08-09 10:27:30,727-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:27:31,985-INFO- Write request detected
+2024-08-09 10:27:31,985-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:27:35,099-INFO- Write request detected
+2024-08-09 10:27:35,099-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:27:36,612-INFO- Current speed: 3991.759260
+2024-08-09 10:27:36,612-INFO- Speed error: 3991.759260
+2024-08-09 10:27:38,625-INFO- Current speed: 3298.818319
+2024-08-09 10:27:38,625-INFO- Speed error: 3298.818319
+2024-08-09 10:27:40,638-INFO- Current speed: 2633.876272
+2024-08-09 10:27:40,638-INFO- Speed error: 2633.876272
+2024-08-09 10:27:42,650-INFO- Current speed: 746.452978
+2024-08-09 10:27:42,650-INFO- Speed error: 746.452978
+2024-08-09 10:27:44,659-INFO- Current speed: 0.000000
+2024-08-09 10:27:44,659-INFO- Speed error: 0.000000
+2024-08-09 10:27:46,659-INFO- Stop Acquisition
+2024-08-09 10:27:47,292-INFO- Termination Request
+2024-08-09 10:27:47,459-INFO- Termination Request
+2024-08-09 10:27:47,486-INFO- Calculated offset for syncing: 0.818706
+2024-08-09 10:27:49,762-INFO- Extracting acquisition with marker value: 1
+2024-08-09 10:27:49,764-INFO- Extracting acquisition with marker value: 2
+2024-08-09 10:27:49,768-INFO- Extracting acquisition with marker value: 3
+2024-08-09 10:27:49,772-INFO- Extracting acquisition with marker value: 4
+2024-08-09 10:27:49,773-WARNING- Sub-acquisition too short!
+2024-08-09 10:27:49,775-INFO- Extracting acquisition with marker value: 5
+2024-08-09 10:27:49,778-INFO- Extracting acquisition with marker value: 6
+2024-08-09 10:27:49,780-WARNING- Sub-acquisition too short!
+2024-08-09 10:27:49,781-INFO- Extracting acquisition with marker value: 7
+2024-08-09 10:27:49,783-INFO- Extracting acquisition with marker value: 8
+2024-08-09 10:27:49,787-INFO- Extracting acquisition with marker value: 9
+2024-08-09 10:27:49,790-INFO- Extracting acquisition with marker value: 10
+2024-08-09 10:27:49,794-INFO- Extracting acquisition with marker value: 11
+2024-08-09 10:27:49,797-INFO- Extracting acquisition with marker value: 12
+2024-08-09 10:27:49,800-INFO- Extracting acquisition with marker value: 13
+2024-08-09 10:27:49,804-INFO- Extracting acquisition with marker value: 14
+2024-08-09 10:27:49,807-INFO- Extracting acquisition with marker value: 15
+2024-08-09 10:27:49,810-INFO- Extracting acquisition with marker value: 16
+2024-08-09 10:27:49,813-INFO- Extracting acquisition with marker value: 17
+2024-08-09 10:27:49,817-INFO- Extracting acquisition with marker value: 18
+2024-08-09 10:27:49,820-INFO- Extracting acquisition with marker value: 19
+2024-08-09 10:27:49,823-INFO- STARTING STEP N.1/5
+2024-08-09 10:27:49,823-INFO- TORQUE MIN: 0.2
+2024-08-09 10:27:49,824-INFO- TORQUE STEP: 0.046
+2024-08-09 10:27:49,824-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20240809_102749.visaacq
+2024-08-09 10:27:50,831-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20240809_102750.mcacq
+2024-08-09 10:27:55,763-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-08-09 10:27:55,763-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-08-09 10:27:56,937-INFO- Write request detected
+2024-08-09 10:27:56,937-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:27:58,177-INFO- Write request detected
+2024-08-09 10:27:58,177-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:28:01,262-INFO- Write request detected
+2024-08-09 10:28:01,262-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:28:02,898-INFO- Speed Low Threshold is: 6858.0
+2024-08-09 10:28:02,899-INFO- Set torque request detected
+2024-08-09 10:28:02,903-INFO- Value to set: 0
+2024-08-09 10:28:03,145-INFO- Write request detected
+2024-08-09 10:28:03,145-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:28:03,917-INFO- Applying motor heating algorithm
+2024-08-09 10:28:04,113-INFO- Initial temperature: 61.174292
+2024-08-09 10:28:04,113-INFO- Motor temperature already reached. Cooling down
+2024-08-09 10:28:04,113-INFO- Cooling down - Temperature: 61.174292
+2024-08-09 10:28:06,323-INFO- Cooling down - Temperature: 60.770952
+2024-08-09 10:28:08,518-INFO- Cooling down - Temperature: 60.362509
+2024-08-09 10:28:10,727-INFO- Cooling down - Temperature: 59.950261
+2024-08-09 10:28:10,727-INFO- Target temperature reached
+2024-08-09 10:28:11,206-INFO- Write request detected
+2024-08-09 10:28:11,206-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:28:13,747-INFO- Target speed: 7620.000000
+2024-08-09 10:28:14,286-INFO- Write request detected
+2024-08-09 10:28:14,286-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:28:14,916-INFO- Write request detected
+2024-08-09 10:28:14,916-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:28:18,015-INFO- Write request detected
+2024-08-09 10:28:18,015-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:28:18,673-WARNING- Read request error: Request error:  Checksum error
+2024-08-09 10:28:18,673-WARNING- Discarding the packet
+2024-08-09 10:28:19,906-INFO- Current speed: -0.121959
+2024-08-09 10:28:19,907-INFO- Speed error: 7620.121959
+2024-08-09 10:28:21,927-INFO- Current speed: 506.168235
+2024-08-09 10:28:21,927-INFO- Speed error: 7113.831765
+2024-08-09 10:28:23,938-INFO- Current speed: 1378.002577
+2024-08-09 10:28:23,938-INFO- Speed error: 6241.997423
+2024-08-09 10:28:26,000-INFO- Current speed: 2613.239848
+2024-08-09 10:28:26,001-INFO- Speed error: 5006.760152
+2024-08-09 10:28:28,009-INFO- Current speed: 3540.544797
+2024-08-09 10:28:28,009-INFO- Speed error: 4079.455203
+2024-08-09 10:28:30,029-INFO- Current speed: 4463.831628
+2024-08-09 10:28:30,029-INFO- Speed error: 3156.168372
+2024-08-09 10:28:32,037-INFO- Current speed: 5383.122197
+2024-08-09 10:28:32,037-INFO- Speed error: 2236.877803
+2024-08-09 10:28:34,049-INFO- Current speed: 6616.471203
+2024-08-09 10:28:34,049-INFO- Speed error: 1003.528797
+2024-08-09 10:28:36,061-INFO- Current speed: 7539.130021
+2024-08-09 10:28:36,061-INFO- Speed error: 80.869979
+2024-08-09 10:28:38,075-INFO- Starting the measures
+2024-08-09 10:28:41,078-INFO- Applying torque value: 0.200000
+2024-08-09 10:28:41,078-INFO- Elapsed Time [Secs]: 0.000001
+2024-08-09 10:28:41,344-INFO- Write request detected
+2024-08-09 10:28:41,345-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:28:42,095-INFO- Measured Temperature [C]: 54.196155
+2024-08-09 10:28:42,099-INFO- Estimated ClassA Temperature [C]: 53.112232
+2024-08-09 10:28:42,111-INFO- Set torque request detected
+2024-08-09 10:28:42,111-INFO- Value to set: 0.2
+2024-08-09 10:28:48,104-INFO- Read speed is: 7616.0
+2024-08-09 10:28:48,104-INFO- Applying torque value: 0.246000
+2024-08-09 10:28:48,104-INFO- Elapsed Time [Secs]: 7.026544
+2024-08-09 10:28:48,120-INFO- Write request detected
+2024-08-09 10:28:48,120-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:28:49,113-INFO- Measured Temperature [C]: 53.145373
+2024-08-09 10:28:49,119-INFO- Estimated ClassA Temperature [C]: 52.082466
+2024-08-09 10:28:49,617-INFO- Set torque request detected
+2024-08-09 10:28:49,617-INFO- Value to set: 0.246
+2024-08-09 10:28:55,142-INFO- Read speed is: 7614.0
+2024-08-09 10:28:55,143-INFO- Applying torque value: 0.292000
+2024-08-09 10:28:55,143-INFO- Elapsed Time [Secs]: 14.065684
+2024-08-09 10:28:55,474-INFO- Write request detected
+2024-08-09 10:28:55,474-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:28:56,165-INFO- Measured Temperature [C]: 52.417389
+2024-08-09 10:28:56,221-INFO- Estimated ClassA Temperature [C]: 51.369041
+2024-08-09 10:28:56,384-INFO- Set torque request detected
+2024-08-09 10:28:56,384-INFO- Value to set: 0.292
+2024-08-09 10:29:02,222-INFO- Read speed is: 7622.0
+2024-08-09 10:29:02,222-INFO- Applying torque value: 0.338000
+2024-08-09 10:29:02,223-INFO- Elapsed Time [Secs]: 21.144625
+2024-08-09 10:29:02,286-INFO- Write request detected
+2024-08-09 10:29:02,286-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:29:03,238-INFO- Measured Temperature [C]: 52.095362
+2024-08-09 10:29:03,242-INFO- Estimated ClassA Temperature [C]: 51.053455
+2024-08-09 10:29:03,874-INFO- Set torque request detected
+2024-08-09 10:29:03,874-INFO- Value to set: 0.33799999999999997
+2024-08-09 10:29:09,366-INFO- Read speed is: 7623.0
+2024-08-09 10:29:09,367-INFO- Applying torque value: 0.384000
+2024-08-09 10:29:09,367-INFO- Elapsed Time [Secs]: 28.289419
+2024-08-09 10:29:09,713-INFO- Write request detected
+2024-08-09 10:29:09,713-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:29:10,375-INFO- Measured Temperature [C]: 51.937712
+2024-08-09 10:29:10,446-INFO- Estimated ClassA Temperature [C]: 50.898956
+2024-08-09 10:29:11,134-INFO- Set torque request detected
+2024-08-09 10:29:11,134-INFO- Value to set: 0.38399999999999995
+2024-08-09 10:29:16,660-INFO- Read speed is: 7621.0
+2024-08-09 10:29:16,661-INFO- Applying torque value: 0.430000
+2024-08-09 10:29:16,661-INFO- Elapsed Time [Secs]: 35.583785
+2024-08-09 10:29:17,166-INFO- Write request detected
+2024-08-09 10:29:17,166-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:29:17,675-INFO- Measured Temperature [C]: 51.944143
+2024-08-09 10:29:17,680-INFO- Estimated ClassA Temperature [C]: 50.905262
+2024-08-09 10:29:17,907-INFO- Set torque request detected
+2024-08-09 10:29:17,907-INFO- Value to set: 0.42999999999999994
+2024-08-09 10:29:23,680-INFO- Read speed is: 7620.0
+2024-08-09 10:29:23,680-INFO- Applying torque value: 0.476000
+2024-08-09 10:29:23,680-INFO- Elapsed Time [Secs]: 42.602328
+2024-08-09 10:29:23,961-INFO- Write request detected
+2024-08-09 10:29:23,961-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:29:24,687-INFO- Measured Temperature [C]: 52.091593
+2024-08-09 10:29:24,704-INFO- Estimated ClassA Temperature [C]: 51.049763
+2024-08-09 10:29:25,425-INFO- Set torque request detected
+2024-08-09 10:29:25,425-INFO- Value to set: 0.4759999999999999
+2024-08-09 10:29:30,925-INFO- Read speed is: 7620.0
+2024-08-09 10:29:30,925-INFO- Applying torque value: 0.522000
+2024-08-09 10:29:30,926-INFO- Elapsed Time [Secs]: 49.848043
+2024-08-09 10:29:31,279-INFO- Write request detected
+2024-08-09 10:29:31,279-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:29:31,941-INFO- Measured Temperature [C]: 52.439101
+2024-08-09 10:29:32,033-INFO- Estimated ClassA Temperature [C]: 51.390320
+2024-08-09 10:29:32,177-INFO- Set torque request detected
+2024-08-09 10:29:32,177-INFO- Value to set: 0.5219999999999999
+2024-08-09 10:29:38,039-INFO- Read speed is: 7620.0
+2024-08-09 10:29:38,039-INFO- Applying torque value: 0.568000
+2024-08-09 10:29:38,039-INFO- Elapsed Time [Secs]: 56.962062
+2024-08-09 10:29:38,119-INFO- Write request detected
+2024-08-09 10:29:38,119-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:29:39,053-INFO- Measured Temperature [C]: 52.854788
+2024-08-09 10:29:39,060-INFO- Estimated ClassA Temperature [C]: 51.797691
+2024-08-09 10:29:39,684-INFO- Set torque request detected
+2024-08-09 10:29:39,684-INFO- Value to set: 0.568
+2024-08-09 10:29:45,176-INFO- Read speed is: 7619.0
+2024-08-09 10:29:45,176-INFO- Applying torque value: 0.614000
+2024-08-09 10:29:45,176-INFO- Elapsed Time [Secs]: 64.099319
+2024-08-09 10:29:45,522-INFO- Write request detected
+2024-08-09 10:29:45,523-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:29:46,187-INFO- Measured Temperature [C]: 53.370338
+2024-08-09 10:29:46,259-INFO- Estimated ClassA Temperature [C]: 52.302933
+2024-08-09 10:29:46,976-INFO- Set torque request detected
+2024-08-09 10:29:46,976-INFO- Value to set: 0.614
+2024-08-09 10:29:52,488-INFO- Read speed is: 7617.0
+2024-08-09 10:29:52,488-INFO- Applying torque value: 0.660000
+2024-08-09 10:29:52,488-INFO- Elapsed Time [Secs]: 71.410926
+2024-08-09 10:29:52,941-INFO- Write request detected
+2024-08-09 10:29:52,941-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:29:53,506-INFO- Measured Temperature [C]: 54.174736
+2024-08-09 10:29:53,513-INFO- Estimated ClassA Temperature [C]: 53.091240
+2024-08-09 10:29:53,743-INFO- Set torque request detected
+2024-08-09 10:29:53,743-INFO- Value to set: 0.66
+2024-08-09 10:29:59,519-INFO- Read speed is: 7623.0
+2024-08-09 10:29:59,519-INFO- Applying torque value: 0.706000
+2024-08-09 10:29:59,519-INFO- Elapsed Time [Secs]: 78.441418
+2024-08-09 10:29:59,693-INFO- Write request detected
+2024-08-09 10:29:59,693-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:30:00,529-INFO- Measured Temperature [C]: 55.015165
+2024-08-09 10:30:00,534-INFO- Estimated ClassA Temperature [C]: 53.914864
+2024-08-09 10:30:00,607-INFO- Set torque request detected
+2024-08-09 10:30:00,607-INFO- Value to set: 0.7060000000000001
+2024-08-09 10:30:06,541-INFO- Read speed is: 7621.0
+2024-08-09 10:30:06,541-INFO- Applying torque value: 0.752000
+2024-08-09 10:30:06,541-INFO- Elapsed Time [Secs]: 85.463935
+2024-08-09 10:30:07,124-INFO- Write request detected
+2024-08-09 10:30:07,125-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:30:07,629-INFO- Measured Temperature [C]: 55.980151
+2024-08-09 10:30:07,634-INFO- Estimated ClassA Temperature [C]: 54.860550
+2024-08-09 10:30:08,114-INFO- Set torque request detected
+2024-08-09 10:30:08,114-INFO- Value to set: 0.7520000000000001
+2024-08-09 10:30:13,651-INFO- Read speed is: 7620.0
+2024-08-09 10:30:13,652-INFO- Applying torque value: 0.798000
+2024-08-09 10:30:13,652-INFO- Elapsed Time [Secs]: 92.574413
+2024-08-09 10:30:13,953-INFO- Write request detected
+2024-08-09 10:30:13,953-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:30:14,665-INFO- Measured Temperature [C]: 57.267512
+2024-08-09 10:30:14,695-INFO- Estimated ClassA Temperature [C]: 56.122162
+2024-08-09 10:30:14,901-INFO- Set torque request detected
+2024-08-09 10:30:14,901-INFO- Value to set: 0.7980000000000002
+2024-08-09 10:30:20,711-INFO- Read speed is: 7623.0
+2024-08-09 10:30:20,711-INFO- Applying torque value: 0.844000
+2024-08-09 10:30:20,711-INFO- Elapsed Time [Secs]: 99.633647
+2024-08-09 10:30:20,758-INFO- Write request detected
+2024-08-09 10:30:20,758-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:30:21,720-INFO- Measured Temperature [C]: 58.611553
+2024-08-09 10:30:21,724-INFO- Estimated ClassA Temperature [C]: 57.439323
+2024-08-09 10:30:22,379-INFO- Set torque request detected
+2024-08-09 10:30:22,379-INFO- Value to set: 0.8440000000000002
+2024-08-09 10:30:27,873-INFO- Read speed is: 7616.0
+2024-08-09 10:30:27,873-INFO- Applying torque value: 0.890000
+2024-08-09 10:30:27,873-INFO- Elapsed Time [Secs]: 106.796225
+2024-08-09 10:30:28,170-INFO- Write request detected
+2024-08-09 10:30:28,170-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:30:28,894-INFO- Measured Temperature [C]: 60.425148
+2024-08-09 10:30:28,898-INFO- Estimated ClassA Temperature [C]: 59.216644
+2024-08-09 10:30:28,942-INFO- Set torque request detected
+2024-08-09 10:30:28,942-INFO- Value to set: 0.8900000000000002
+2024-08-09 10:30:34,906-INFO- Read speed is: 7616.0
+2024-08-09 10:30:34,906-INFO- Applying torque value: 0.936000
+2024-08-09 10:30:34,906-INFO- Elapsed Time [Secs]: 113.828643
+2024-08-09 10:30:35,518-INFO- Write request detected
+2024-08-09 10:30:35,518-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:30:36,018-INFO- Measured Temperature [C]: 62.686644
+2024-08-09 10:30:36,022-INFO- Estimated ClassA Temperature [C]: 61.432911
+2024-08-09 10:30:36,422-INFO- Set torque request detected
+2024-08-09 10:30:36,422-INFO- Value to set: 0.9360000000000003
+2024-08-09 10:30:42,037-INFO- Read speed is: 7583.0
+2024-08-09 10:30:42,037-INFO- Applying torque value: 0.982000
+2024-08-09 10:30:42,037-INFO- Elapsed Time [Secs]: 120.959952
+2024-08-09 10:30:42,336-INFO- Write request detected
+2024-08-09 10:30:42,336-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:30:43,057-INFO- Measured Temperature [C]: 65.899576
+2024-08-09 10:30:43,068-INFO- Estimated ClassA Temperature [C]: 64.581581
+2024-08-09 10:30:43,168-INFO- Set torque request detected
+2024-08-09 10:30:43,168-INFO- Value to set: 0.9820000000000003
+2024-08-09 10:30:49,077-INFO- Read speed is: 7207.0
+2024-08-09 10:30:49,077-INFO- Applying torque value: 1.028000
+2024-08-09 10:30:49,077-INFO- Elapsed Time [Secs]: 127.999800
+2024-08-09 10:30:49,171-INFO- Write request detected
+2024-08-09 10:30:49,171-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:30:50,097-INFO- Measured Temperature [C]: 69.448437
+2024-08-09 10:30:50,101-INFO- Estimated ClassA Temperature [C]: 68.059471
+2024-08-09 10:30:50,696-INFO- Set torque request detected
+2024-08-09 10:30:50,696-INFO- Value to set: 1.0280000000000002
+2024-08-09 10:30:56,346-INFO- Read speed is: 6848.0
+2024-08-09 10:30:56,848-INFO- Set torque request detected
+2024-08-09 10:30:56,848-INFO- Value to set: 1.0740000000000003
+2024-08-09 10:30:58,474-INFO- Set torque request detected
+2024-08-09 10:30:58,475-INFO- Value to set: 0.8055000000000002
+2024-08-09 10:31:00,803-INFO- Set torque request detected
+2024-08-09 10:31:00,803-INFO- Value to set: 0.5370000000000001
+2024-08-09 10:31:02,897-INFO- Set torque request detected
+2024-08-09 10:31:02,897-INFO- Value to set: 0.26850000000000007
+2024-08-09 10:31:04,475-INFO- Set torque request detected
+2024-08-09 10:31:04,475-INFO- Value to set: 0.0
+2024-08-09 10:31:06,406-INFO- Write request detected
+2024-08-09 10:31:06,406-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:31:07,659-INFO- Write request detected
+2024-08-09 10:31:07,659-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:31:10,756-INFO- Write request detected
+2024-08-09 10:31:10,756-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:31:12,432-INFO- Current speed: 7029.068542
+2024-08-09 10:31:12,432-INFO- Speed error: 7029.068542
+2024-08-09 10:31:14,445-INFO- Current speed: 6100.156403
+2024-08-09 10:31:14,446-INFO- Speed error: 6100.156403
+2024-08-09 10:31:16,463-INFO- Current speed: 4979.217959
+2024-08-09 10:31:16,463-INFO- Speed error: 4979.217959
+2024-08-09 10:31:18,472-INFO- Current speed: 4228.092111
+2024-08-09 10:31:18,473-INFO- Speed error: 4228.092111
+2024-08-09 10:31:20,480-INFO- Current speed: 3503.340192
+2024-08-09 10:31:20,480-INFO- Speed error: 3503.340192
+2024-08-09 10:31:22,497-INFO- Current speed: 2861.475223
+2024-08-09 10:31:22,497-INFO- Speed error: 2861.475223
+2024-08-09 10:31:24,505-INFO- Current speed: 1709.513367
+2024-08-09 10:31:24,505-INFO- Speed error: 1709.513367
+2024-08-09 10:31:26,518-INFO- Current speed: 0.000000
+2024-08-09 10:31:26,519-INFO- Speed error: 0.000000
+2024-08-09 10:31:28,534-INFO- Stop Acquisition
+2024-08-09 10:31:28,569-INFO- Termination Request
+2024-08-09 10:31:28,848-INFO- Termination Request
+2024-08-09 10:31:28,858-INFO- Calculated offset for syncing: 2.786120
+2024-08-09 10:31:31,020-INFO- Extracting acquisition with marker value: 1
+2024-08-09 10:31:31,025-INFO- Extracting acquisition with marker value: 2
+2024-08-09 10:31:31,029-INFO- Extracting acquisition with marker value: 3
+2024-08-09 10:31:31,034-INFO- Extracting acquisition with marker value: 4
+2024-08-09 10:31:31,038-INFO- Extracting acquisition with marker value: 5
+2024-08-09 10:31:31,041-INFO- Extracting acquisition with marker value: 6
+2024-08-09 10:31:31,044-INFO- Extracting acquisition with marker value: 7
+2024-08-09 10:31:31,047-INFO- Extracting acquisition with marker value: 8
+2024-08-09 10:31:31,050-INFO- Extracting acquisition with marker value: 9
+2024-08-09 10:31:31,053-INFO- Extracting acquisition with marker value: 10
+2024-08-09 10:31:31,056-INFO- Extracting acquisition with marker value: 11
+2024-08-09 10:31:31,059-INFO- Extracting acquisition with marker value: 12
+2024-08-09 10:31:31,062-INFO- Extracting acquisition with marker value: 13
+2024-08-09 10:31:31,065-INFO- Extracting acquisition with marker value: 14
+2024-08-09 10:31:31,068-INFO- Extracting acquisition with marker value: 15
+2024-08-09 10:31:31,070-WARNING- Sub-acquisition too short!
+2024-08-09 10:31:31,071-INFO- Extracting acquisition with marker value: 16
+2024-08-09 10:31:31,074-INFO- Extracting acquisition with marker value: 17
+2024-08-09 10:31:31,076-WARNING- Sub-acquisition too short!
+2024-08-09 10:31:31,078-INFO- Extracting acquisition with marker value: 18
+2024-08-09 10:31:31,081-INFO- STARTING STEP N.2/5
+2024-08-09 10:31:31,081-INFO- TORQUE MIN: 0.2
+2024-08-09 10:31:31,081-INFO- TORQUE STEP: 0.029
+2024-08-09 10:31:31,081-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20240809_103131.visaacq
+2024-08-09 10:31:32,090-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20240809_103132.mcacq
+2024-08-09 10:31:38,205-INFO- Write request detected
+2024-08-09 10:31:38,206-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:31:39,452-INFO- Write request detected
+2024-08-09 10:31:39,452-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:31:42,582-INFO- Write request detected
+2024-08-09 10:31:42,582-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:31:44,192-INFO- Speed Low Threshold is: 9144.0
+2024-08-09 10:31:44,454-INFO- Write request detected
+2024-08-09 10:31:44,454-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:31:44,831-INFO- Set torque request detected
+2024-08-09 10:31:44,831-INFO- Value to set: 0
+2024-08-09 10:31:45,336-INFO- Applying motor heating algorithm
+2024-08-09 10:31:45,336-INFO- Initial temperature: 70.091047
+2024-08-09 10:31:45,337-INFO- Motor temperature already reached. Cooling down
+2024-08-09 10:31:45,337-INFO- Cooling down - Temperature: 70.091047
+2024-08-09 10:31:47,530-INFO- Cooling down - Temperature: 69.692050
+2024-08-09 10:31:49,735-INFO- Cooling down - Temperature: 69.216315
+2024-08-09 10:31:51,939-INFO- Cooling down - Temperature: 68.791547
+2024-08-09 10:31:54,150-INFO- Cooling down - Temperature: 68.327519
+2024-08-09 10:31:56,362-INFO- Cooling down - Temperature: 67.895829
+2024-08-09 10:31:58,567-INFO- Cooling down - Temperature: 67.482547
+2024-08-09 10:32:00,778-INFO- Cooling down - Temperature: 67.052786
+2024-08-09 10:32:02,989-INFO- Cooling down - Temperature: 66.636501
+2024-08-09 10:32:05,241-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-08-09 10:32:05,241-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-08-09 10:32:05,242-INFO- Cooling down - Temperature: 66.523640
+2024-08-09 10:32:07,458-INFO- Cooling down - Temperature: 65.822437
+2024-08-09 10:32:09,665-INFO- Cooling down - Temperature: 65.500366
+2024-08-09 10:32:11,673-INFO- Cooling down - Temperature: 65.108439
+2024-08-09 10:32:13,881-INFO- Cooling down - Temperature: 64.739833
+2024-08-09 10:32:16,095-INFO- Cooling down - Temperature: 64.390912
+2024-08-09 10:32:18,322-INFO- Cooling down - Temperature: 64.045454
+2024-08-09 10:32:20,525-INFO- Cooling down - Temperature: 63.716698
+2024-08-09 10:32:22,738-INFO- Cooling down - Temperature: 63.366038
+2024-08-09 10:32:24,951-INFO- Cooling down - Temperature: 63.040348
+2024-08-09 10:32:27,163-INFO- Cooling down - Temperature: 62.740323
+2024-08-09 10:32:29,387-INFO- Cooling down - Temperature: 62.425130
+2024-08-09 10:32:31,603-INFO- Cooling down - Temperature: 62.104750
+2024-08-09 10:32:33,814-INFO- Cooling down - Temperature: 61.820316
+2024-08-09 10:32:36,024-INFO- Cooling down - Temperature: 61.518745
+2024-08-09 10:32:38,241-INFO- Cooling down - Temperature: 61.242939
+2024-08-09 10:32:40,438-INFO- Cooling down - Temperature: 60.951075
+2024-08-09 10:32:42,643-INFO- Cooling down - Temperature: 60.698537
+2024-08-09 10:32:44,863-INFO- Cooling down - Temperature: 60.408562
+2024-08-09 10:32:47,080-INFO- Cooling down - Temperature: 60.176294
+2024-08-09 10:32:49,093-INFO- Cooling down - Temperature: 59.968391
+2024-08-09 10:32:49,093-INFO- Target temperature reached
+2024-08-09 10:32:49,501-INFO- Write request detected
+2024-08-09 10:32:49,501-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:32:52,122-INFO- Target speed: 10160.000000
+2024-08-09 10:32:52,622-INFO- Write request detected
+2024-08-09 10:32:52,622-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:32:53,264-INFO- Write request detected
+2024-08-09 10:32:53,264-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:32:53,531-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-08-09 10:32:53,532-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-08-09 10:32:56,377-INFO- Write request detected
+2024-08-09 10:32:56,377-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:32:58,177-INFO- Current speed: -0.073385
+2024-08-09 10:32:58,178-INFO- Speed error: 10160.073385
+2024-08-09 10:33:00,229-INFO- Current speed: 531.831095
+2024-08-09 10:33:00,230-INFO- Speed error: 9628.168905
+2024-08-09 10:33:02,246-INFO- Current speed: 1459.501924
+2024-08-09 10:33:02,247-INFO- Speed error: 8700.498076
+2024-08-09 10:33:04,261-INFO- Current speed: 2384.337077
+2024-08-09 10:33:04,262-INFO- Speed error: 7775.662923
+2024-08-09 10:33:06,273-INFO- Current speed: 3308.713533
+2024-08-09 10:33:06,273-INFO- Speed error: 6851.286467
+2024-08-09 10:33:08,288-INFO- Current speed: 4494.036874
+2024-08-09 10:33:08,289-INFO- Speed error: 5665.963126
+2024-08-09 10:33:10,298-INFO- Current speed: 5423.840179
+2024-08-09 10:33:10,298-INFO- Speed error: 4736.159821
+2024-08-09 10:33:12,311-INFO- Current speed: 6351.516108
+2024-08-09 10:33:12,311-INFO- Speed error: 3808.483892
+2024-08-09 10:33:14,344-INFO- Current speed: 7572.731492
+2024-08-09 10:33:14,344-INFO- Speed error: 2587.268508
+2024-08-09 10:33:16,363-INFO- Current speed: 8501.400585
+2024-08-09 10:33:16,364-INFO- Speed error: 1658.599415
+2024-08-09 10:33:18,375-INFO- Current speed: 9429.278760
+2024-08-09 10:33:18,375-INFO- Speed error: 730.721240
+2024-08-09 10:33:20,382-INFO- Current speed: 10240.819762
+2024-08-09 10:33:20,382-INFO- Speed error: 80.819762
+2024-08-09 10:33:22,388-INFO- Starting the measures
+2024-08-09 10:33:25,505-INFO- Applying torque value: 0.200000
+2024-08-09 10:33:25,505-INFO- Elapsed Time [Secs]: 0.000011
+2024-08-09 10:33:25,995-INFO- Write request detected
+2024-08-09 10:33:25,995-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:33:26,516-INFO- Measured Temperature [C]: 56.413063
+2024-08-09 10:33:26,521-INFO- Estimated ClassA Temperature [C]: 55.284801
+2024-08-09 10:33:26,701-INFO- Set torque request detected
+2024-08-09 10:33:26,701-INFO- Value to set: 0.2
+2024-08-09 10:33:32,613-INFO- Read speed is: 10156.0
+2024-08-09 10:33:32,613-INFO- Applying torque value: 0.229000
+2024-08-09 10:33:32,613-INFO- Elapsed Time [Secs]: 7.108182
+2024-08-09 10:33:32,828-INFO- Write request detected
+2024-08-09 10:33:32,828-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:33:33,633-INFO- Measured Temperature [C]: 56.565203
+2024-08-09 10:33:33,638-INFO- Estimated ClassA Temperature [C]: 55.433899
+2024-08-09 10:33:33,856-INFO- Set torque request detected
+2024-08-09 10:33:33,856-INFO- Value to set: 0.229
+2024-08-09 10:33:39,643-INFO- Read speed is: 10159.0
+2024-08-09 10:33:39,643-INFO- Applying torque value: 0.258000
+2024-08-09 10:33:39,643-INFO- Elapsed Time [Secs]: 14.138044
+2024-08-09 10:33:40,144-INFO- Write request detected
+2024-08-09 10:33:40,144-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:33:40,657-INFO- Measured Temperature [C]: 56.967766
+2024-08-09 10:33:40,663-INFO- Estimated ClassA Temperature [C]: 55.828411
+2024-08-09 10:33:41,355-INFO- Set torque request detected
+2024-08-09 10:33:41,355-INFO- Value to set: 0.258
+2024-08-09 10:33:46,851-INFO- Read speed is: 10162.0
+2024-08-09 10:33:46,852-INFO- Applying torque value: 0.287000
+2024-08-09 10:33:46,852-INFO- Elapsed Time [Secs]: 21.346894
+2024-08-09 10:33:46,957-INFO- Write request detected
+2024-08-09 10:33:46,957-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:33:47,871-INFO- Measured Temperature [C]: 57.572136
+2024-08-09 10:33:47,875-INFO- Estimated ClassA Temperature [C]: 56.420692
+2024-08-09 10:33:48,110-INFO- Set torque request detected
+2024-08-09 10:33:48,110-INFO- Value to set: 0.28700000000000003
+2024-08-09 10:33:53,883-INFO- Read speed is: 10155.0
+2024-08-09 10:33:53,883-INFO- Applying torque value: 0.316000
+2024-08-09 10:33:53,883-INFO- Elapsed Time [Secs]: 28.378239
+2024-08-09 10:33:54,404-INFO- Write request detected
+2024-08-09 10:33:54,404-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:33:54,909-INFO- Measured Temperature [C]: 58.138564
+2024-08-09 10:33:54,914-INFO- Estimated ClassA Temperature [C]: 56.975792
+2024-08-09 10:33:55,557-INFO- Set torque request detected
+2024-08-09 10:33:55,557-INFO- Value to set: 0.31600000000000006
+2024-08-09 10:34:01,102-INFO- Read speed is: 10157.0
+2024-08-09 10:34:01,103-INFO- Applying torque value: 0.345000
+2024-08-09 10:34:01,103-INFO- Elapsed Time [Secs]: 35.597609
+2024-08-09 10:34:01,244-INFO- Write request detected
+2024-08-09 10:34:01,244-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:34:02,109-INFO- Measured Temperature [C]: 58.884771
+2024-08-09 10:34:02,113-INFO- Estimated ClassA Temperature [C]: 57.707077
+2024-08-09 10:34:02,346-INFO- Set torque request detected
+2024-08-09 10:34:02,346-INFO- Value to set: 0.3450000000000001
+2024-08-09 10:34:08,335-INFO- Read speed is: 10166.0
+2024-08-09 10:34:08,336-INFO- Applying torque value: 0.374000
+2024-08-09 10:34:08,336-INFO- Elapsed Time [Secs]: 42.830970
+2024-08-09 10:34:08,702-INFO- Write request detected
+2024-08-09 10:34:08,702-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:34:09,347-INFO- Measured Temperature [C]: 59.588630
+2024-08-09 10:34:09,446-INFO- Estimated ClassA Temperature [C]: 58.396858
+2024-08-09 10:34:09,597-INFO- Set torque request detected
+2024-08-09 10:34:09,597-INFO- Value to set: 0.3740000000000001
+2024-08-09 10:34:15,452-INFO- Read speed is: 10158.0
+2024-08-09 10:34:15,452-INFO- Applying torque value: 0.403000
+2024-08-09 10:34:15,452-INFO- Elapsed Time [Secs]: 49.947085
+2024-08-09 10:34:16,033-INFO- Write request detected
+2024-08-09 10:34:16,033-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:34:16,539-INFO- Measured Temperature [C]: 60.314706
+2024-08-09 10:34:16,544-INFO- Estimated ClassA Temperature [C]: 59.108414
+2024-08-09 10:34:17,105-INFO- Set torque request detected
+2024-08-09 10:34:17,105-INFO- Value to set: 0.40300000000000014
+2024-08-09 10:34:22,640-INFO- Read speed is: 10164.0
+2024-08-09 10:34:22,641-INFO- Applying torque value: 0.432000
+2024-08-09 10:34:22,641-INFO- Elapsed Time [Secs]: 57.135697
+2024-08-09 10:34:22,851-INFO- Write request detected
+2024-08-09 10:34:22,851-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:34:23,655-INFO- Measured Temperature [C]: 61.160779
+2024-08-09 10:34:23,660-INFO- Estimated ClassA Temperature [C]: 59.937565
+2024-08-09 10:34:23,890-INFO- Set torque request detected
+2024-08-09 10:34:23,890-INFO- Value to set: 0.43200000000000016
+2024-08-09 10:34:29,664-INFO- Read speed is: 10165.0
+2024-08-09 10:34:29,664-INFO- Applying torque value: 0.461000
+2024-08-09 10:34:29,664-INFO- Elapsed Time [Secs]: 64.159722
+2024-08-09 10:34:29,679-INFO- Write request detected
+2024-08-09 10:34:29,679-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:34:30,684-INFO- Measured Temperature [C]: 61.945250
+2024-08-09 10:34:30,691-INFO- Estimated ClassA Temperature [C]: 60.706345
+2024-08-09 10:34:31,396-INFO- Set torque request detected
+2024-08-09 10:34:31,396-INFO- Value to set: 0.4610000000000002
+2024-08-09 10:34:36,942-INFO- Read speed is: 10150.0
+2024-08-09 10:34:36,942-INFO- Applying torque value: 0.490000
+2024-08-09 10:34:36,942-INFO- Elapsed Time [Secs]: 71.436814
+2024-08-09 10:34:37,134-INFO- Write request detected
+2024-08-09 10:34:37,134-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:34:37,952-INFO- Measured Temperature [C]: 62.883947
+2024-08-09 10:34:37,959-INFO- Estimated ClassA Temperature [C]: 61.626266
+2024-08-09 10:34:38,191-INFO- Set torque request detected
+2024-08-09 10:34:38,191-INFO- Value to set: 0.4900000000000002
+2024-08-09 10:34:43,974-INFO- Read speed is: 10144.0
+2024-08-09 10:34:43,974-INFO- Applying torque value: 0.519000
+2024-08-09 10:34:43,974-INFO- Elapsed Time [Secs]: 78.469228
+2024-08-09 10:34:44,458-INFO- Write request detected
+2024-08-09 10:34:44,458-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:34:44,994-INFO- Measured Temperature [C]: 63.750971
+2024-08-09 10:34:45,000-INFO- Estimated ClassA Temperature [C]: 62.475952
+2024-08-09 10:34:45,482-INFO- Set torque request detected
+2024-08-09 10:34:45,482-INFO- Value to set: 0.5190000000000002
+2024-08-09 10:34:51,010-INFO- Read speed is: 10153.0
+2024-08-09 10:34:51,010-INFO- Applying torque value: 0.548000
+2024-08-09 10:34:51,010-INFO- Elapsed Time [Secs]: 85.505650
+2024-08-09 10:34:51,298-INFO- Write request detected
+2024-08-09 10:34:51,298-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:34:52,026-INFO- Measured Temperature [C]: 64.861503
+2024-08-09 10:34:52,045-INFO- Estimated ClassA Temperature [C]: 63.564274
+2024-08-09 10:34:52,246-INFO- Set torque request detected
+2024-08-09 10:34:52,246-INFO- Value to set: 0.5480000000000003
+2024-08-09 10:34:58,047-INFO- Read speed is: 10161.0
+2024-08-09 10:34:58,047-INFO- Applying torque value: 0.577000
+2024-08-09 10:34:58,048-INFO- Elapsed Time [Secs]: 92.541993
+2024-08-09 10:34:58,094-INFO- Write request detected
+2024-08-09 10:34:58,094-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:34:59,053-INFO- Measured Temperature [C]: 65.953805
+2024-08-09 10:34:59,060-INFO- Estimated ClassA Temperature [C]: 64.634727
+2024-08-09 10:34:59,744-INFO- Set torque request detected
+2024-08-09 10:34:59,744-INFO- Value to set: 0.5770000000000003
+2024-08-09 10:35:05,335-INFO- Read speed is: 10165.0
+2024-08-09 10:35:05,336-INFO- Applying torque value: 0.606000
+2024-08-09 10:35:05,336-INFO- Elapsed Time [Secs]: 99.830508
+2024-08-09 10:35:05,556-INFO- Write request detected
+2024-08-09 10:35:05,556-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:35:06,344-INFO- Measured Temperature [C]: 67.271372
+2024-08-09 10:35:06,350-INFO- Estimated ClassA Temperature [C]: 65.925941
+2024-08-09 10:35:06,595-INFO- Set torque request detected
+2024-08-09 10:35:06,595-INFO- Value to set: 0.6060000000000003
+2024-08-09 10:35:12,359-INFO- Read speed is: 10166.0
+2024-08-09 10:35:12,359-INFO- Applying torque value: 0.635000
+2024-08-09 10:35:12,360-INFO- Elapsed Time [Secs]: 106.854166
+2024-08-09 10:35:12,406-INFO- Write request detected
+2024-08-09 10:35:12,406-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:35:13,369-INFO- Measured Temperature [C]: 68.692667
+2024-08-09 10:35:13,373-INFO- Estimated ClassA Temperature [C]: 67.318817
+2024-08-09 10:35:13,385-INFO- Set torque request detected
+2024-08-09 10:35:13,385-INFO- Value to set: 0.6350000000000003
+2024-08-09 10:35:19,388-INFO- Read speed is: 10161.0
+2024-08-09 10:35:19,388-INFO- Applying torque value: 0.664000
+2024-08-09 10:35:19,389-INFO- Elapsed Time [Secs]: 113.883710
+2024-08-09 10:35:19,733-INFO- Write request detected
+2024-08-09 10:35:19,733-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:35:20,403-INFO- Measured Temperature [C]: 70.418612
+2024-08-09 10:35:20,482-INFO- Estimated ClassA Temperature [C]: 69.010239
+2024-08-09 10:35:20,920-INFO- Set torque request detected
+2024-08-09 10:35:20,920-INFO- Value to set: 0.6640000000000004
+2024-08-09 10:35:26,496-INFO- Read speed is: 10155.0
+2024-08-09 10:35:26,496-INFO- Applying torque value: 0.693000
+2024-08-09 10:35:26,496-INFO- Elapsed Time [Secs]: 120.990931
+2024-08-09 10:35:26,544-INFO- Write request detected
+2024-08-09 10:35:26,544-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:35:27,501-INFO- Measured Temperature [C]: 72.728657
+2024-08-09 10:35:27,508-INFO- Estimated ClassA Temperature [C]: 71.274086
+2024-08-09 10:35:28,114-INFO- Set torque request detected
+2024-08-09 10:35:28,114-INFO- Value to set: 0.6930000000000004
+2024-08-09 10:35:33,632-INFO- Read speed is: 9750.0
+2024-08-09 10:35:33,633-INFO- Applying torque value: 0.722000
+2024-08-09 10:35:33,633-INFO- Elapsed Time [Secs]: 128.128115
+2024-08-09 10:35:33,952-INFO- Write request detected
+2024-08-09 10:35:33,952-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:35:34,647-INFO- Measured Temperature [C]: 75.819345
+2024-08-09 10:35:34,709-INFO- Estimated ClassA Temperature [C]: 74.302956
+2024-08-09 10:35:34,880-INFO- Set torque request detected
+2024-08-09 10:35:34,880-INFO- Value to set: 0.7220000000000004
+2024-08-09 10:35:40,712-INFO- Read speed is: 9339.0
+2024-08-09 10:35:40,712-INFO- Applying torque value: 0.751000
+2024-08-09 10:35:40,712-INFO- Elapsed Time [Secs]: 135.207795
+2024-08-09 10:35:40,776-INFO- Write request detected
+2024-08-09 10:35:40,776-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:35:41,724-INFO- Measured Temperature [C]: 79.010024
+2024-08-09 10:35:41,728-INFO- Estimated ClassA Temperature [C]: 77.429825
+2024-08-09 10:35:42,384-INFO- Set torque request detected
+2024-08-09 10:35:42,384-INFO- Value to set: 0.7510000000000004
+2024-08-09 10:35:47,920-INFO- Read speed is: 8948.0
+2024-08-09 10:35:48,425-INFO- Set torque request detected
+2024-08-09 10:35:48,425-INFO- Value to set: 0.7800000000000005
+2024-08-09 10:35:50,010-INFO- Set torque request detected
+2024-08-09 10:35:50,010-INFO- Value to set: 0.5850000000000004
+2024-08-09 10:35:52,338-INFO- Set torque request detected
+2024-08-09 10:35:52,338-INFO- Value to set: 0.39000000000000024
+2024-08-09 10:35:54,657-INFO- Set torque request detected
+2024-08-09 10:35:54,657-INFO- Value to set: 0.19500000000000006
+2024-08-09 10:35:56,232-INFO- Set torque request detected
+2024-08-09 10:35:56,232-INFO- Value to set: 0.0
+2024-08-09 10:35:58,051-INFO- Write request detected
+2024-08-09 10:35:58,051-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:35:59,307-INFO- Write request detected
+2024-08-09 10:35:59,307-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:36:02,414-INFO- Write request detected
+2024-08-09 10:36:02,414-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:36:03,766-WARNING- Read request error: Request error:  Checksum error
+2024-08-09 10:36:03,767-WARNING- Discarding the packet
+2024-08-09 10:36:04,011-INFO- Current speed: 9916.018950
+2024-08-09 10:36:04,011-INFO- Speed error: 9916.018950
+2024-08-09 10:36:06,022-INFO- Current speed: 8624.525545
+2024-08-09 10:36:06,022-INFO- Speed error: 8624.525545
+2024-08-09 10:36:08,099-INFO- Current speed: 7383.174108
+2024-08-09 10:36:08,100-INFO- Speed error: 7383.174108
+2024-08-09 10:36:10,110-INFO- Current speed: 6455.815828
+2024-08-09 10:36:10,111-INFO- Speed error: 6455.815828
+2024-08-09 10:36:12,129-INFO- Current speed: 5509.443468
+2024-08-09 10:36:12,130-INFO- Speed error: 5509.443468
+2024-08-09 10:36:14,137-INFO- Current speed: 4664.946202
+2024-08-09 10:36:14,137-INFO- Speed error: 4664.946202
+2024-08-09 10:36:16,157-INFO- Current speed: 3930.124508
+2024-08-09 10:36:16,157-INFO- Speed error: 3930.124508
+2024-08-09 10:36:18,163-INFO- Current speed: 3061.342805
+2024-08-09 10:36:18,164-INFO- Speed error: 3061.342805
+2024-08-09 10:36:19,920-WARNING- Read request error: Request error:  Checksum error
+2024-08-09 10:36:19,920-WARNING- Discarding the packet
+2024-08-09 10:36:20,170-INFO- Current speed: 2609.929300
+2024-08-09 10:36:20,170-INFO- Speed error: 2609.929300
+2024-08-09 10:36:22,189-INFO- Current speed: 1268.451151
+2024-08-09 10:36:22,190-INFO- Speed error: 1268.451151
+2024-08-09 10:36:24,254-INFO- Current speed: 0.000000
+2024-08-09 10:36:24,255-INFO- Speed error: 0.000000
+2024-08-09 10:36:26,257-INFO- Stop Acquisition
+2024-08-09 10:36:26,790-INFO- Termination Request
+2024-08-09 10:36:27,376-INFO- Termination Request
+2024-08-09 10:36:27,388-INFO- Calculated offset for syncing: 1.124493
+2024-08-09 10:36:29,566-INFO- Extracting acquisition with marker value: 1
+2024-08-09 10:36:29,571-INFO- Extracting acquisition with marker value: 2
+2024-08-09 10:36:29,575-INFO- Extracting acquisition with marker value: 3
+2024-08-09 10:36:29,579-INFO- Extracting acquisition with marker value: 4
+2024-08-09 10:36:29,583-INFO- Extracting acquisition with marker value: 5
+2024-08-09 10:36:29,587-INFO- Extracting acquisition with marker value: 6
+2024-08-09 10:36:29,589-INFO- Extracting acquisition with marker value: 7
+2024-08-09 10:36:29,592-INFO- Extracting acquisition with marker value: 8
+2024-08-09 10:36:29,595-INFO- Extracting acquisition with marker value: 9
+2024-08-09 10:36:29,598-INFO- Extracting acquisition with marker value: 10
+2024-08-09 10:36:29,600-WARNING- Sub-acquisition too short!
+2024-08-09 10:36:29,602-INFO- Extracting acquisition with marker value: 11
+2024-08-09 10:36:29,604-INFO- Extracting acquisition with marker value: 12
+2024-08-09 10:36:29,607-INFO- Extracting acquisition with marker value: 13
+2024-08-09 10:36:29,610-INFO- Extracting acquisition with marker value: 14
+2024-08-09 10:36:29,613-INFO- Extracting acquisition with marker value: 15
+2024-08-09 10:36:29,616-INFO- Extracting acquisition with marker value: 16
+2024-08-09 10:36:29,619-INFO- Extracting acquisition with marker value: 17
+2024-08-09 10:36:29,622-INFO- Extracting acquisition with marker value: 18
+2024-08-09 10:36:29,625-INFO- Extracting acquisition with marker value: 19
+2024-08-09 10:36:29,628-INFO- STARTING STEP N.3/5
+2024-08-09 10:36:29,628-INFO- TORQUE MIN: 0.2
+2024-08-09 10:36:29,628-INFO- TORQUE STEP: 0.02
+2024-08-09 10:36:29,628-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20240809_103629.visaacq
+2024-08-09 10:36:30,635-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20240809_103630.mcacq
+2024-08-09 10:36:36,715-INFO- Write request detected
+2024-08-09 10:36:36,716-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:36:37,974-INFO- Write request detected
+2024-08-09 10:36:37,974-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:36:41,087-INFO- Write request detected
+2024-08-09 10:36:41,087-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:36:42,729-INFO- Speed Low Threshold is: 11430.0
+2024-08-09 10:36:42,927-INFO- Write request detected
+2024-08-09 10:36:42,927-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:36:43,386-INFO- Set torque request detected
+2024-08-09 10:36:43,386-INFO- Value to set: 0
+2024-08-09 10:36:43,890-INFO- Applying motor heating algorithm
+2024-08-09 10:36:43,890-INFO- Initial temperature: 77.400374
+2024-08-09 10:36:43,891-INFO- Motor temperature already reached. Cooling down
+2024-08-09 10:36:43,891-INFO- Cooling down - Temperature: 77.400374
+2024-08-09 10:36:46,089-INFO- Cooling down - Temperature: 76.932538
+2024-08-09 10:36:48,287-INFO- Cooling down - Temperature: 76.510970
+2024-08-09 10:36:50,485-INFO- Cooling down - Temperature: 76.053445
+2024-08-09 10:36:52,683-INFO- Cooling down - Temperature: 75.627197
+2024-08-09 10:36:54,894-INFO- Cooling down - Temperature: 75.203607
+2024-08-09 10:36:57,093-INFO- Cooling down - Temperature: 74.777151
+2024-08-09 10:36:59,106-INFO- Cooling down - Temperature: 74.495294
+2024-08-09 10:37:01,106-INFO- Cooling down - Temperature: 74.128353
+2024-08-09 10:37:03,114-INFO- Cooling down - Temperature: 73.723465
+2024-08-09 10:37:05,318-INFO- Cooling down - Temperature: 73.313811
+2024-08-09 10:37:07,328-INFO- Cooling down - Temperature: 73.067492
+2024-08-09 10:37:09,500-INFO- Cooling down - Temperature: 72.650320
+2024-08-09 10:37:11,713-INFO- Cooling down - Temperature: 72.273641
+2024-08-09 10:37:13,915-INFO- Cooling down - Temperature: 71.933902
+2024-08-09 10:37:16,118-INFO- Cooling down - Temperature: 71.580699
+2024-08-09 10:37:18,333-INFO- Cooling down - Temperature: 71.252098
+2024-08-09 10:37:20,592-INFO- Cooling down - Temperature: 70.913028
+2024-08-09 10:37:22,793-INFO- Cooling down - Temperature: 70.601176
+2024-08-09 10:37:24,987-INFO- Cooling down - Temperature: 70.270074
+2024-08-09 10:37:27,192-INFO- Cooling down - Temperature: 69.979742
+2024-08-09 10:37:29,399-INFO- Cooling down - Temperature: 69.662865
+2024-08-09 10:37:31,599-INFO- Cooling down - Temperature: 69.382095
+2024-08-09 10:37:33,600-INFO- Cooling down - Temperature: 69.162189
+2024-08-09 10:37:34,605-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-08-09 10:37:34,605-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-08-09 10:37:35,606-INFO- Cooling down - Temperature: 68.914262
+2024-08-09 10:37:37,610-INFO- Cooling down - Temperature: 68.631611
+2024-08-09 10:37:39,099-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-08-09 10:37:39,100-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-08-09 10:37:39,839-INFO- Cooling down - Temperature: 68.337415
+2024-08-09 10:37:42,057-INFO- Cooling down - Temperature: 68.049735
+2024-08-09 10:37:44,253-INFO- Cooling down - Temperature: 67.791838
+2024-08-09 10:37:46,440-INFO- Cooling down - Temperature: 67.595213
+2024-08-09 10:37:48,442-INFO- Cooling down - Temperature: 67.343784
+2024-08-09 10:37:50,615-INFO- Cooling down - Temperature: 67.080384
+2024-08-09 10:37:52,829-INFO- Cooling down - Temperature: 66.855251
+2024-08-09 10:37:54,831-INFO- Cooling down - Temperature: 66.683106
+2024-08-09 10:37:56,846-INFO- Cooling down - Temperature: 66.465798
+2024-08-09 10:37:58,854-INFO- Cooling down - Temperature: 66.244302
+2024-08-09 10:38:00,931-INFO- Cooling down - Temperature: 66.026389
+2024-08-09 10:38:03,140-INFO- Cooling down - Temperature: 65.796289
+2024-08-09 10:38:05,348-INFO- Cooling down - Temperature: 65.568254
+2024-08-09 10:38:07,543-INFO- Cooling down - Temperature: 65.365862
+2024-08-09 10:38:09,739-INFO- Cooling down - Temperature: 65.180486
+2024-08-09 10:38:11,950-INFO- Cooling down - Temperature: 64.976869
+2024-08-09 10:38:14,148-INFO- Cooling down - Temperature: 64.786383
+2024-08-09 10:38:16,352-INFO- Cooling down - Temperature: 64.562910
+2024-08-09 10:38:18,591-INFO- Cooling down - Temperature: 64.374880
+2024-08-09 10:38:20,595-INFO- Cooling down - Temperature: 64.264588
+2024-08-09 10:38:22,610-INFO- Cooling down - Temperature: 64.070818
+2024-08-09 10:38:24,619-INFO- Cooling down - Temperature: 63.881968
+2024-08-09 10:38:26,634-INFO- Cooling down - Temperature: 63.711275
+2024-08-09 10:38:28,836-INFO- Cooling down - Temperature: 63.532500
+2024-08-09 10:38:31,090-INFO- Cooling down - Temperature: 63.364302
+2024-08-09 10:38:33,289-INFO- Cooling down - Temperature: 63.194749
+2024-08-09 10:38:35,476-INFO- Cooling down - Temperature: 63.030574
+2024-08-09 10:38:37,684-INFO- Cooling down - Temperature: 62.882209
+2024-08-09 10:38:39,893-INFO- Cooling down - Temperature: 62.728805
+2024-08-09 10:38:42,090-INFO- Cooling down - Temperature: 62.577098
+2024-08-09 10:38:44,285-INFO- Cooling down - Temperature: 62.411214
+2024-08-09 10:38:46,489-INFO- Cooling down - Temperature: 62.227878
+2024-08-09 10:38:48,695-INFO- Cooling down - Temperature: 62.060147
+2024-08-09 10:38:50,901-INFO- Cooling down - Temperature: 61.932845
+2024-08-09 10:38:53,104-INFO- Cooling down - Temperature: 61.817269
+2024-08-09 10:38:55,324-INFO- Cooling down - Temperature: 61.636781
+2024-08-09 10:38:57,333-INFO- Cooling down - Temperature: 61.549019
+2024-08-09 10:38:59,341-INFO- Cooling down - Temperature: 61.415498
+2024-08-09 10:39:01,345-INFO- Cooling down - Temperature: 61.262550
+2024-08-09 10:39:03,357-INFO- Cooling down - Temperature: 61.120458
+2024-08-09 10:39:05,595-INFO- Cooling down - Temperature: 60.988575
+2024-08-09 10:39:07,823-INFO- Cooling down - Temperature: 60.862548
+2024-08-09 10:39:10,094-INFO- Cooling down - Temperature: 60.719259
+2024-08-09 10:39:12,109-INFO- Cooling down - Temperature: 60.644220
+2024-08-09 10:39:14,110-INFO- Cooling down - Temperature: 60.484725
+2024-08-09 10:39:16,117-INFO- Cooling down - Temperature: 60.409871
+2024-08-09 10:39:18,291-INFO- Cooling down - Temperature: 60.253801
+2024-08-09 10:39:20,487-INFO- Cooling down - Temperature: 60.133934
+2024-08-09 10:39:22,699-INFO- Cooling down - Temperature: 60.010983
+2024-08-09 10:39:24,897-INFO- Cooling down - Temperature: 59.884508
+2024-08-09 10:39:24,897-INFO- Target temperature reached
+2024-08-09 10:39:25,260-INFO- Write request detected
+2024-08-09 10:39:25,260-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:39:27,921-INFO- Target speed: 12700.000000
+2024-08-09 10:39:28,385-INFO- Write request detected
+2024-08-09 10:39:28,385-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:39:29,026-INFO- Write request detected
+2024-08-09 10:39:29,026-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:39:32,126-INFO- Write request detected
+2024-08-09 10:39:32,126-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:39:33,992-INFO- Current speed: 0.016936
+2024-08-09 10:39:33,992-INFO- Speed error: 12699.983064
+2024-08-09 10:39:34,027-WARNING- Read request error: Request error:  Checksum error
+2024-08-09 10:39:34,028-WARNING- Discarding the packet
+2024-08-09 10:39:36,001-INFO- Current speed: 488.319548
+2024-08-09 10:39:36,001-INFO- Speed error: 12211.680452
+2024-08-09 10:39:38,012-INFO- Current speed: 1413.242127
+2024-08-09 10:39:38,012-INFO- Speed error: 11286.757873
+2024-08-09 10:39:40,028-INFO- Current speed: 2346.473277
+2024-08-09 10:39:40,028-INFO- Speed error: 10353.526723
+2024-08-09 10:39:42,037-INFO- Current speed: 3535.908282
+2024-08-09 10:39:42,038-INFO- Speed error: 9164.091718
+2024-08-09 10:39:44,059-INFO- Current speed: 4456.453129
+2024-08-09 10:39:44,059-INFO- Speed error: 8243.546871
+2024-08-09 10:39:46,078-INFO- Current speed: 5378.231563
+2024-08-09 10:39:46,079-INFO- Speed error: 7321.768437
+2024-08-09 10:39:48,156-INFO- Current speed: 6617.100673
+2024-08-09 10:39:48,157-INFO- Speed error: 6082.899327
+2024-08-09 10:39:50,170-INFO- Current speed: 7547.278746
+2024-08-09 10:39:50,170-INFO- Speed error: 5152.721254
+2024-08-09 10:39:52,182-INFO- Current speed: 8474.880654
+2024-08-09 10:39:52,182-INFO- Speed error: 4225.119346
+2024-08-09 10:39:54,188-INFO- Current speed: 9407.859870
+2024-08-09 10:39:54,188-INFO- Speed error: 3292.140130
+2024-08-09 10:39:56,218-INFO- Current speed: 10644.303188
+2024-08-09 10:39:56,219-INFO- Speed error: 2055.696812
+2024-08-09 10:39:58,234-INFO- Current speed: 11588.308041
+2024-08-09 10:39:58,234-INFO- Speed error: 1111.691959
+2024-08-09 10:39:58,624-WARNING- Read request error: Request error:  Checksum error
+2024-08-09 10:39:58,624-WARNING- Discarding the packet
+2024-08-09 10:40:00,246-INFO- Current speed: 12460.421564
+2024-08-09 10:40:00,246-INFO- Speed error: 239.578436
+2024-08-09 10:40:02,249-INFO- Starting the measures
+2024-08-09 10:40:05,407-INFO- Applying torque value: 0.200000
+2024-08-09 10:40:05,407-INFO- Elapsed Time [Secs]: 0.000000
+2024-08-09 10:40:05,967-INFO- Write request detected
+2024-08-09 10:40:05,968-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:40:06,466-INFO- Measured Temperature [C]: 59.867031
+2024-08-09 10:40:06,473-INFO- Estimated ClassA Temperature [C]: 58.669689
+2024-08-09 10:40:06,608-INFO- Set torque request detected
+2024-08-09 10:40:06,609-INFO- Value to set: 0.2
+2024-08-09 10:40:12,479-INFO- Read speed is: 12684.0
+2024-08-09 10:40:12,480-INFO- Applying torque value: 0.220000
+2024-08-09 10:40:12,480-INFO- Elapsed Time [Secs]: 7.073014
+2024-08-09 10:40:12,696-INFO- Write request detected
+2024-08-09 10:40:12,696-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:40:13,493-INFO- Measured Temperature [C]: 60.801486
+2024-08-09 10:40:13,498-INFO- Estimated ClassA Temperature [C]: 59.585457
+2024-08-09 10:40:14,099-INFO- Set torque request detected
+2024-08-09 10:40:14,099-INFO- Value to set: 0.22
+2024-08-09 10:40:19,606-INFO- Read speed is: 12695.0
+2024-08-09 10:40:19,606-INFO- Applying torque value: 0.240000
+2024-08-09 10:40:19,606-INFO- Elapsed Time [Secs]: 14.199923
+2024-08-09 10:40:20,151-INFO- Write request detected
+2024-08-09 10:40:20,151-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:40:20,640-INFO- Measured Temperature [C]: 61.877998
+2024-08-09 10:40:20,645-INFO- Estimated ClassA Temperature [C]: 59.585457
+2024-08-09 10:40:21,351-INFO- Set torque request detected
+2024-08-09 10:40:21,351-INFO- Value to set: 0.24
+2024-08-09 10:40:26,886-INFO- Read speed is: 12711.0
+2024-08-09 10:40:26,887-INFO- Applying torque value: 0.260000
+2024-08-09 10:40:26,887-INFO- Elapsed Time [Secs]: 21.480138
+2024-08-09 10:40:26,951-INFO- Write request detected
+2024-08-09 10:40:26,951-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:40:27,902-INFO- Measured Temperature [C]: 63.031226
+2024-08-09 10:40:27,907-INFO- Estimated ClassA Temperature [C]: 61.770599
+2024-08-09 10:40:28,122-INFO- Set torque request detected
+2024-08-09 10:40:28,122-INFO- Value to set: 0.26
+2024-08-09 10:40:33,910-INFO- Read speed is: 12717.0
+2024-08-09 10:40:33,910-INFO- Applying torque value: 0.280000
+2024-08-09 10:40:33,910-INFO- Elapsed Time [Secs]: 28.503430
+2024-08-09 10:40:34,410-INFO- Write request detected
+2024-08-09 10:40:34,410-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:40:34,922-INFO- Measured Temperature [C]: 64.085776
+2024-08-09 10:40:34,929-INFO- Estimated ClassA Temperature [C]: 62.804062
+2024-08-09 10:40:35,610-INFO- Set torque request detected
+2024-08-09 10:40:35,610-INFO- Value to set: 0.28
+2024-08-09 10:40:41,114-INFO- Read speed is: 12680.0
+2024-08-09 10:40:41,114-INFO- Applying torque value: 0.300000
+2024-08-09 10:40:41,114-INFO- Elapsed Time [Secs]: 35.707486
+2024-08-09 10:40:41,217-INFO- Write request detected
+2024-08-09 10:40:41,217-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:40:42,123-INFO- Measured Temperature [C]: 65.134187
+2024-08-09 10:40:42,129-INFO- Estimated ClassA Temperature [C]: 63.831505
+2024-08-09 10:40:42,357-INFO- Set torque request detected
+2024-08-09 10:40:42,357-INFO- Value to set: 0.30000000000000004
+2024-08-09 10:40:48,129-INFO- Read speed is: 12706.0
+2024-08-09 10:40:48,129-INFO- Applying torque value: 0.320000
+2024-08-09 10:40:48,129-INFO- Elapsed Time [Secs]: 42.722407
+2024-08-09 10:40:48,597-INFO- Write request detected
+2024-08-09 10:40:48,597-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:40:49,143-INFO- Measured Temperature [C]: 66.092701
+2024-08-09 10:40:49,148-INFO- Estimated ClassA Temperature [C]: 64.770844
+2024-08-09 10:40:49,842-INFO- Set torque request detected
+2024-08-09 10:40:49,842-INFO- Value to set: 0.32000000000000006
+2024-08-09 10:40:55,339-INFO- Read speed is: 12709.0
+2024-08-09 10:40:55,339-INFO- Applying torque value: 0.340000
+2024-08-09 10:40:55,339-INFO- Elapsed Time [Secs]: 49.932415
+2024-08-09 10:40:55,418-INFO- Write request detected
+2024-08-09 10:40:55,418-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:40:56,348-INFO- Measured Temperature [C]: 67.124795
+2024-08-09 10:40:56,353-INFO- Estimated ClassA Temperature [C]: 65.782303
+2024-08-09 10:40:56,363-INFO- Set torque request detected
+2024-08-09 10:40:56,363-INFO- Value to set: 0.3400000000000001
+2024-08-09 10:41:02,364-INFO- Read speed is: 12697.0
+2024-08-09 10:41:02,365-INFO- Applying torque value: 0.360000
+2024-08-09 10:41:02,365-INFO- Elapsed Time [Secs]: 56.957360
+2024-08-09 10:41:02,865-INFO- Write request detected
+2024-08-09 10:41:02,865-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:41:03,613-INFO- Measured Temperature [C]: 68.123982
+2024-08-09 10:41:03,621-INFO- Estimated ClassA Temperature [C]: 66.761505
+2024-08-09 10:41:03,830-INFO- Set torque request detected
+2024-08-09 10:41:03,830-INFO- Value to set: 0.3600000000000001
+2024-08-09 10:41:09,621-INFO- Read speed is: 12685.0
+2024-08-09 10:41:09,622-INFO- Applying torque value: 0.380000
+2024-08-09 10:41:09,622-INFO- Elapsed Time [Secs]: 64.214732
+2024-08-09 10:41:09,683-INFO- Write request detected
+2024-08-09 10:41:09,684-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:41:10,631-INFO- Measured Temperature [C]: 69.036950
+2024-08-09 10:41:10,636-INFO- Estimated ClassA Temperature [C]: 67.656212
+2024-08-09 10:41:11,331-INFO- Set torque request detected
+2024-08-09 10:41:11,331-INFO- Value to set: 0.3800000000000001
+2024-08-09 10:41:16,841-INFO- Read speed is: 12689.0
+2024-08-09 10:41:16,841-INFO- Applying torque value: 0.400000
+2024-08-09 10:41:16,841-INFO- Elapsed Time [Secs]: 71.433861
+2024-08-09 10:41:17,028-INFO- Write request detected
+2024-08-09 10:41:17,028-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:41:17,850-INFO- Measured Temperature [C]: 70.069817
+2024-08-09 10:41:17,854-INFO- Estimated ClassA Temperature [C]: 68.668419
+2024-08-09 10:41:18,101-INFO- Set torque request detected
+2024-08-09 10:41:18,101-INFO- Value to set: 0.40000000000000013
+2024-08-09 10:41:23,865-INFO- Read speed is: 12688.0
+2024-08-09 10:41:23,865-INFO- Applying torque value: 0.420000
+2024-08-09 10:41:23,865-INFO- Elapsed Time [Secs]: 78.458099
+2024-08-09 10:41:24,471-INFO- Write request detected
+2024-08-09 10:41:24,471-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:41:24,969-INFO- Measured Temperature [C]: 71.019437
+2024-08-09 10:41:24,974-INFO- Estimated ClassA Temperature [C]: 69.599045
+2024-08-09 10:41:25,608-INFO- Set torque request detected
+2024-08-09 10:41:25,608-INFO- Value to set: 0.42000000000000015
+2024-08-09 10:41:31,115-INFO- Read speed is: 12677.0
+2024-08-09 10:41:31,115-INFO- Applying torque value: 0.440000
+2024-08-09 10:41:31,115-INFO- Elapsed Time [Secs]: 85.707641
+2024-08-09 10:41:31,255-INFO- Write request detected
+2024-08-09 10:41:31,255-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:41:32,130-INFO- Measured Temperature [C]: 72.156571
+2024-08-09 10:41:32,134-INFO- Estimated ClassA Temperature [C]: 70.713440
+2024-08-09 10:41:32,351-INFO- Set torque request detected
+2024-08-09 10:41:32,351-INFO- Value to set: 0.44000000000000017
+2024-08-09 10:41:38,376-INFO- Read speed is: 12685.0
+2024-08-09 10:41:38,376-INFO- Applying torque value: 0.460000
+2024-08-09 10:41:38,377-INFO- Elapsed Time [Secs]: 92.968973
+2024-08-09 10:41:38,691-INFO- Write request detected
+2024-08-09 10:41:38,691-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:41:39,391-INFO- Measured Temperature [C]: 73.290783
+2024-08-09 10:41:39,418-INFO- Estimated ClassA Temperature [C]: 71.824966
+2024-08-09 10:41:39,626-INFO- Set torque request detected
+2024-08-09 10:41:39,626-INFO- Value to set: 0.4600000000000002
+2024-08-09 10:41:45,419-INFO- Read speed is: 12720.0
+2024-08-09 10:41:45,419-INFO- Applying torque value: 0.480000
+2024-08-09 10:41:45,419-INFO- Elapsed Time [Secs]: 100.011429
+2024-08-09 10:41:45,497-INFO- Write request detected
+2024-08-09 10:41:45,497-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:41:46,435-INFO- Measured Temperature [C]: 74.488273
+2024-08-09 10:41:46,440-INFO- Estimated ClassA Temperature [C]: 72.998505
+2024-08-09 10:41:47,121-INFO- Set torque request detected
+2024-08-09 10:41:47,121-INFO- Value to set: 0.4800000000000002
+2024-08-09 10:41:52,626-INFO- Read speed is: 12688.0
+2024-08-09 10:41:52,626-INFO- Applying torque value: 0.500000
+2024-08-09 10:41:52,626-INFO- Elapsed Time [Secs]: 107.218161
+2024-08-09 10:41:52,830-INFO- Write request detected
+2024-08-09 10:41:52,830-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:41:53,640-INFO- Measured Temperature [C]: 75.957949
+2024-08-09 10:41:53,645-INFO- Estimated ClassA Temperature [C]: 74.438789
+2024-08-09 10:41:53,858-INFO- Set torque request detected
+2024-08-09 10:41:53,858-INFO- Value to set: 0.5000000000000002
+2024-08-09 10:41:59,647-INFO- Read speed is: 12701.0
+2024-08-09 10:41:59,648-INFO- Applying torque value: 0.520000
+2024-08-09 10:41:59,648-INFO- Elapsed Time [Secs]: 114.239919
+2024-08-09 10:41:59,678-INFO- Write request detected
+2024-08-09 10:41:59,679-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:42:00,656-INFO- Measured Temperature [C]: 77.627061
+2024-08-09 10:42:00,661-INFO- Estimated ClassA Temperature [C]: 76.074524
+2024-08-09 10:42:01,359-INFO- Set torque request detected
+2024-08-09 10:42:01,359-INFO- Value to set: 0.5200000000000002
+2024-08-09 10:42:06,877-INFO- Read speed is: 12582.0
+2024-08-09 10:42:06,877-INFO- Applying torque value: 0.540000
+2024-08-09 10:42:06,877-INFO- Elapsed Time [Secs]: 121.468554
+2024-08-09 10:42:07,115-INFO- Write request detected
+2024-08-09 10:42:07,115-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:42:07,897-INFO- Measured Temperature [C]: 79.986028
+2024-08-09 10:42:07,901-INFO- Estimated ClassA Temperature [C]: 78.386307
+2024-08-09 10:42:08,128-INFO- Set torque request detected
+2024-08-09 10:42:08,128-INFO- Value to set: 0.5400000000000003
+2024-08-09 10:42:13,912-INFO- Read speed is: 12076.0
+2024-08-09 10:42:13,913-INFO- Applying torque value: 0.560000
+2024-08-09 10:42:13,913-INFO- Elapsed Time [Secs]: 128.504502
+2024-08-09 10:42:14,554-INFO- Write request detected
+2024-08-09 10:42:14,554-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:42:15,162-INFO- Measured Temperature [C]: 82.778268
+2024-08-09 10:42:15,169-INFO- Estimated ClassA Temperature [C]: 81.122704
+2024-08-09 10:42:15,393-INFO- Set torque request detected
+2024-08-09 10:42:15,393-INFO- Value to set: 0.5600000000000003
+2024-08-09 10:42:18,846-WARNING- Read request error: Request error:  Checksum error
+2024-08-09 10:42:18,847-WARNING- Discarding the packet
+2024-08-09 10:42:21,173-INFO- Read speed is: 11531.0
+2024-08-09 10:42:21,173-INFO- Applying torque value: 0.580000
+2024-08-09 10:42:21,174-INFO- Elapsed Time [Secs]: 135.764630
+2024-08-09 10:42:21,189-INFO- Write request detected
+2024-08-09 10:42:21,189-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:42:22,191-INFO- Measured Temperature [C]: 85.440447
+2024-08-09 10:42:22,195-INFO- Estimated ClassA Temperature [C]: 83.731636
+2024-08-09 10:42:22,876-INFO- Set torque request detected
+2024-08-09 10:42:22,877-INFO- Value to set: 0.5800000000000003
+2024-08-09 10:42:28,373-INFO- Read speed is: 11131.0
+2024-08-09 10:42:28,872-INFO- Set torque request detected
+2024-08-09 10:42:28,872-INFO- Value to set: 0.6000000000000003
+2024-08-09 10:42:30,472-INFO- Set torque request detected
+2024-08-09 10:42:30,473-INFO- Value to set: 0.45000000000000023
+2024-08-09 10:42:32,837-INFO- Set torque request detected
+2024-08-09 10:42:32,837-INFO- Value to set: 0.30000000000000016
+2024-08-09 10:42:34,426-INFO- Set torque request detected
+2024-08-09 10:42:34,426-INFO- Value to set: 0.15000000000000008
+2024-08-09 10:42:36,766-INFO- Set torque request detected
+2024-08-09 10:42:36,767-INFO- Value to set: 0.0
+2024-08-09 10:42:38,542-INFO- Write request detected
+2024-08-09 10:42:38,543-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:42:39,791-INFO- Write request detected
+2024-08-09 10:42:39,791-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:42:42,893-INFO- Write request detected
+2024-08-09 10:42:42,893-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:42:44,495-INFO- Current speed: 12066.306754
+2024-08-09 10:42:44,495-INFO- Speed error: 12066.306754
+2024-08-09 10:42:46,503-INFO- Current speed: 11124.172826
+2024-08-09 10:42:46,503-INFO- Speed error: 11124.172826
+2024-08-09 10:42:48,574-INFO- Current speed: 9872.753362
+2024-08-09 10:42:48,574-INFO- Speed error: 9872.753362
+2024-08-09 10:42:50,581-INFO- Current speed: 9315.260718
+2024-08-09 10:42:50,581-INFO- Speed error: 9315.260718
+2024-08-09 10:42:52,586-INFO- Current speed: 8107.453050
+2024-08-09 10:42:52,586-INFO- Speed error: 8107.453050
+2024-08-09 10:42:54,643-INFO- Current speed: 6884.223944
+2024-08-09 10:42:54,644-INFO- Speed error: 6884.223944
+2024-08-09 10:42:56,652-INFO- Current speed: 5976.756341
+2024-08-09 10:42:56,652-INFO- Speed error: 5976.756341
+2024-08-09 10:42:58,664-INFO- Current speed: 5137.838629
+2024-08-09 10:42:58,664-INFO- Speed error: 5137.838629
+2024-08-09 10:43:00,680-INFO- Current speed: 4387.242877
+2024-08-09 10:43:00,680-INFO- Speed error: 4387.242877
+2024-08-09 10:43:02,695-INFO- Current speed: 3450.543668
+2024-08-09 10:43:02,695-INFO- Speed error: 3450.543668
+2024-08-09 10:43:04,699-INFO- Current speed: 2798.304679
+2024-08-09 10:43:04,699-INFO- Speed error: 2798.304679
+2024-08-09 10:43:06,719-INFO- Current speed: 2213.127147
+2024-08-09 10:43:06,720-INFO- Speed error: 2213.127147
+2024-08-09 10:43:08,730-INFO- Current speed: 1059.019337
+2024-08-09 10:43:08,730-INFO- Speed error: 1059.019337
+2024-08-09 10:43:10,737-INFO- Current speed: 0.000000
+2024-08-09 10:43:10,738-INFO- Speed error: 0.000000
+2024-08-09 10:43:12,741-INFO- Stop Acquisition
+2024-08-09 10:43:13,010-INFO- Termination Request
+2024-08-09 10:43:13,191-INFO- Termination Request
+2024-08-09 10:43:13,206-INFO- Calculated offset for syncing: 3.325667
+2024-08-09 10:43:15,442-INFO- Extracting acquisition with marker value: 1
+2024-08-09 10:43:15,445-INFO- Extracting acquisition with marker value: 2
+2024-08-09 10:43:15,448-INFO- Extracting acquisition with marker value: 3
+2024-08-09 10:43:15,451-INFO- Extracting acquisition with marker value: 4
+2024-08-09 10:43:15,454-INFO- Extracting acquisition with marker value: 5
+2024-08-09 10:43:15,457-INFO- Extracting acquisition with marker value: 6
+2024-08-09 10:43:15,461-INFO- Extracting acquisition with marker value: 7
+2024-08-09 10:43:15,463-WARNING- Sub-acquisition too short!
+2024-08-09 10:43:15,465-INFO- Extracting acquisition with marker value: 8
+2024-08-09 10:43:15,468-INFO- Extracting acquisition with marker value: 9
+2024-08-09 10:43:15,471-INFO- Extracting acquisition with marker value: 10
+2024-08-09 10:43:15,475-INFO- Extracting acquisition with marker value: 11
+2024-08-09 10:43:15,478-INFO- Extracting acquisition with marker value: 12
+2024-08-09 10:43:15,481-INFO- Extracting acquisition with marker value: 13
+2024-08-09 10:43:15,485-INFO- Extracting acquisition with marker value: 14
+2024-08-09 10:43:15,488-INFO- Extracting acquisition with marker value: 15
+2024-08-09 10:43:15,491-INFO- Extracting acquisition with marker value: 16
+2024-08-09 10:43:15,494-INFO- Extracting acquisition with marker value: 17
+2024-08-09 10:43:15,497-INFO- Extracting acquisition with marker value: 18
+2024-08-09 10:43:15,500-INFO- Extracting acquisition with marker value: 19
+2024-08-09 10:43:15,503-INFO- STARTING STEP N.4/5
+2024-08-09 10:43:15,504-INFO- TORQUE MIN: 0.2
+2024-08-09 10:43:15,504-INFO- TORQUE STEP: 0.014
+2024-08-09 10:43:15,504-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20240809_104315.visaacq
+2024-08-09 10:43:16,514-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20240809_104316.mcacq
+2024-08-09 10:43:22,611-INFO- Write request detected
+2024-08-09 10:43:22,611-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:43:23,868-INFO- Write request detected
+2024-08-09 10:43:23,868-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:43:26,985-INFO- Write request detected
+2024-08-09 10:43:26,985-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:43:28,597-INFO- Speed Low Threshold is: 13716.0
+2024-08-09 10:43:28,857-INFO- Write request detected
+2024-08-09 10:43:28,857-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:43:29,294-INFO- Set torque request detected
+2024-08-09 10:43:29,295-INFO- Value to set: 0
+2024-08-09 10:43:29,808-INFO- Applying motor heating algorithm
+2024-08-09 10:43:29,808-INFO- Initial temperature: 82.398688
+2024-08-09 10:43:29,808-INFO- Motor temperature already reached. Cooling down
+2024-08-09 10:43:29,808-INFO- Cooling down - Temperature: 82.398688
+2024-08-09 10:43:31,991-INFO- Cooling down - Temperature: 81.990299
+2024-08-09 10:43:34,210-INFO- Cooling down - Temperature: 81.576161
+2024-08-09 10:43:36,411-INFO- Cooling down - Temperature: 81.150795
+2024-08-09 10:43:38,615-INFO- Cooling down - Temperature: 80.775215
+2024-08-09 10:43:40,826-INFO- Cooling down - Temperature: 80.368433
+2024-08-09 10:43:43,085-INFO- Cooling down - Temperature: 79.991930
+2024-08-09 10:43:45,318-INFO- Cooling down - Temperature: 79.609067
+2024-08-09 10:43:47,515-INFO- Cooling down - Temperature: 79.231229
+2024-08-09 10:43:49,723-INFO- Cooling down - Temperature: 78.875318
+2024-08-09 10:43:51,927-INFO- Cooling down - Temperature: 78.536726
+2024-08-09 10:43:53,935-INFO- Cooling down - Temperature: 78.219922
+2024-08-09 10:43:56,109-INFO- Cooling down - Temperature: 77.857467
+2024-08-09 10:43:59,105-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-08-09 10:43:59,106-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-08-09 10:43:59,106-INFO- Cooling down - Temperature: 77.620078
+2024-08-09 10:44:01,326-INFO- Cooling down - Temperature: 77.061766
+2024-08-09 10:44:03,544-INFO- Cooling down - Temperature: 76.756233
+2024-08-09 10:44:05,740-INFO- Cooling down - Temperature: 76.451387
+2024-08-09 10:44:07,941-INFO- Cooling down - Temperature: 76.156563
+2024-08-09 10:44:10,145-INFO- Cooling down - Temperature: 75.846941
+2024-08-09 10:44:12,348-INFO- Cooling down - Temperature: 75.586848
+2024-08-09 10:44:14,591-INFO- Cooling down - Temperature: 75.260132
+2024-08-09 10:44:16,817-INFO- Cooling down - Temperature: 74.974687
+2024-08-09 10:44:19,030-INFO- Cooling down - Temperature: 74.727171
+2024-08-09 10:44:21,231-INFO- Cooling down - Temperature: 74.464228
+2024-08-09 10:44:23,434-INFO- Cooling down - Temperature: 74.169444
+2024-08-09 10:44:25,638-INFO- Cooling down - Temperature: 73.919449
+2024-08-09 10:44:27,832-INFO- Cooling down - Temperature: 73.660395
+2024-08-09 10:44:30,082-INFO- Cooling down - Temperature: 73.431068
+2024-08-09 10:44:32,093-INFO- Cooling down - Temperature: 73.263703
+2024-08-09 10:44:34,096-INFO- Cooling down - Temperature: 73.029095
+2024-08-09 10:44:36,096-INFO- Cooling down - Temperature: 72.804635
+2024-08-09 10:44:38,106-INFO- Cooling down - Temperature: 72.572827
+2024-08-09 10:44:40,326-INFO- Cooling down - Temperature: 72.321060
+2024-08-09 10:44:42,337-INFO- Cooling down - Temperature: 72.154435
+2024-08-09 10:44:44,338-INFO- Cooling down - Temperature: 71.936039
+2024-08-09 10:44:46,344-INFO- Cooling down - Temperature: 71.715848
+2024-08-09 10:44:48,592-INFO- Cooling down - Temperature: 71.522951
+2024-08-09 10:44:50,819-INFO- Cooling down - Temperature: 71.310730
+2024-08-09 10:44:52,820-INFO- Cooling down - Temperature: 71.179549
+2024-08-09 10:44:54,831-INFO- Cooling down - Temperature: 70.963559
+2024-08-09 10:44:56,832-INFO- Cooling down - Temperature: 70.763121
+2024-08-09 10:44:59,087-INFO- Cooling down - Temperature: 70.522544
+2024-08-09 10:45:01,324-INFO- Cooling down - Temperature: 70.365245
+2024-08-09 10:45:03,534-INFO- Cooling down - Temperature: 70.159234
+2024-08-09 10:45:05,738-INFO- Cooling down - Temperature: 69.977812
+2024-08-09 10:45:07,948-INFO- Cooling down - Temperature: 69.804699
+2024-08-09 10:45:09,960-INFO- Cooling down - Temperature: 69.686042
+2024-08-09 10:45:12,163-INFO- Cooling down - Temperature: 69.462176
+2024-08-09 10:45:14,365-INFO- Cooling down - Temperature: 69.298138
+2024-08-09 10:45:16,585-INFO- Cooling down - Temperature: 69.082280
+2024-08-09 10:45:18,831-INFO- Cooling down - Temperature: 68.901368
+2024-08-09 10:45:21,087-INFO- Cooling down - Temperature: 68.775856
+2024-08-09 10:45:23,315-INFO- Cooling down - Temperature: 68.571838
+2024-08-09 10:45:25,521-INFO- Cooling down - Temperature: 68.435927
+2024-08-09 10:45:27,744-INFO- Cooling down - Temperature: 68.275029
+2024-08-09 10:45:29,953-INFO- Cooling down - Temperature: 68.140122
+2024-08-09 10:45:32,157-INFO- Cooling down - Temperature: 67.982366
+2024-08-09 10:45:34,360-INFO- Cooling down - Temperature: 67.803465
+2024-08-09 10:45:36,591-INFO- Cooling down - Temperature: 67.686319
+2024-08-09 10:45:38,603-INFO- Cooling down - Temperature: 67.581858
+2024-08-09 10:45:40,616-INFO- Cooling down - Temperature: 67.425021
+2024-08-09 10:45:42,621-INFO- Cooling down - Temperature: 67.281933
+2024-08-09 10:45:44,825-INFO- Cooling down - Temperature: 67.107980
+2024-08-09 10:45:46,832-INFO- Cooling down - Temperature: 67.034243
+2024-08-09 10:45:48,845-INFO- Cooling down - Temperature: 66.889976
+2024-08-09 10:45:50,857-INFO- Cooling down - Temperature: 66.763145
+2024-08-09 10:45:52,867-INFO- Cooling down - Temperature: 66.637364
+2024-08-09 10:45:55,089-INFO- Cooling down - Temperature: 66.465366
+2024-08-09 10:45:57,093-INFO- Cooling down - Temperature: 66.371900
+2024-08-09 10:45:59,101-INFO- Cooling down - Temperature: 66.246893
+2024-08-09 10:46:01,104-INFO- Cooling down - Temperature: 66.128337
+2024-08-09 10:46:03,285-INFO- Cooling down - Temperature: 65.979945
+2024-08-09 10:46:05,507-INFO- Cooling down - Temperature: 65.863060
+2024-08-09 10:46:07,709-INFO- Cooling down - Temperature: 65.759767
+2024-08-09 10:46:09,929-INFO- Cooling down - Temperature: 65.626407
+2024-08-09 10:46:12,127-INFO- Cooling down - Temperature: 65.536906
+2024-08-09 10:46:14,332-INFO- Cooling down - Temperature: 65.368890
+2024-08-09 10:46:16,588-INFO- Cooling down - Temperature: 65.226782
+2024-08-09 10:46:18,829-INFO- Cooling down - Temperature: 65.153443
+2024-08-09 10:46:21,084-INFO- Cooling down - Temperature: 64.985742
+2024-08-09 10:46:23,310-INFO- Cooling down - Temperature: 64.864100
+2024-08-09 10:46:25,321-INFO- Cooling down - Temperature: 64.804568
+2024-08-09 10:46:27,499-INFO- Cooling down - Temperature: 64.673575
+2024-08-09 10:46:29,710-INFO- Cooling down - Temperature: 64.562693
+2024-08-09 10:46:31,926-INFO- Cooling down - Temperature: 64.453739
+2024-08-09 10:46:34,141-INFO- Cooling down - Temperature: 64.346063
+2024-08-09 10:46:36,350-INFO- Cooling down - Temperature: 64.237282
+2024-08-09 10:46:38,584-INFO- Cooling down - Temperature: 64.141485
+2024-08-09 10:46:40,594-INFO- Cooling down - Temperature: 64.054560
+2024-08-09 10:46:42,603-INFO- Cooling down - Temperature: 63.954828
+2024-08-09 10:46:44,616-INFO- Cooling down - Temperature: 63.805846
+2024-08-09 10:46:46,824-INFO- Cooling down - Temperature: 63.738173
+2024-08-09 10:46:48,831-INFO- Cooling down - Temperature: 63.662682
+2024-08-09 10:46:50,839-INFO- Cooling down - Temperature: 63.580020
+2024-08-09 10:46:52,841-INFO- Cooling down - Temperature: 63.458282
+2024-08-09 10:46:54,960-INFO- Cooling down - Temperature: 63.359961
+2024-08-09 10:46:57,158-INFO- Cooling down - Temperature: 63.254674
+2024-08-09 10:46:59,363-INFO- Cooling down - Temperature: 63.161527
+2024-08-09 10:47:01,585-INFO- Cooling down - Temperature: 63.076835
+2024-08-09 10:47:03,593-INFO- Cooling down - Temperature: 62.993650
+2024-08-09 10:47:05,819-INFO- Cooling down - Temperature: 62.857441
+2024-08-09 10:47:08,048-INFO- Cooling down - Temperature: 62.780959
+2024-08-09 10:47:10,251-INFO- Cooling down - Temperature: 62.685992
+2024-08-09 10:47:12,447-INFO- Cooling down - Temperature: 62.614268
+2024-08-09 10:47:14,644-INFO- Cooling down - Temperature: 62.545360
+2024-08-09 10:47:16,845-INFO- Cooling down - Temperature: 62.383380
+2024-08-09 10:47:19,089-INFO- Cooling down - Temperature: 62.300524
+2024-08-09 10:47:21,327-INFO- Cooling down - Temperature: 62.186766
+2024-08-09 10:47:23,330-INFO- Cooling down - Temperature: 62.140647
+2024-08-09 10:47:25,344-INFO- Cooling down - Temperature: 62.081687
+2024-08-09 10:47:27,349-INFO- Cooling down - Temperature: 61.983334
+2024-08-09 10:47:29,483-INFO- Cooling down - Temperature: 61.872992
+2024-08-09 10:47:31,694-INFO- Cooling down - Temperature: 61.813350
+2024-08-09 10:47:33,892-INFO- Cooling down - Temperature: 61.716255
+2024-08-09 10:47:36,084-INFO- Cooling down - Temperature: 61.621973
+2024-08-09 10:47:38,097-INFO- Cooling down - Temperature: 61.566660
+2024-08-09 10:47:40,596-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-08-09 10:47:40,596-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-08-09 10:47:40,596-INFO- Cooling down - Temperature: 61.520923
+2024-08-09 10:47:42,611-INFO- Cooling down - Temperature: 61.405041
+2024-08-09 10:47:44,817-INFO- Cooling down - Temperature: 61.305694
+2024-08-09 10:47:47,015-INFO- Cooling down - Temperature: 61.200226
+2024-08-09 10:47:49,207-INFO- Cooling down - Temperature: 61.138331
+2024-08-09 10:47:51,419-INFO- Cooling down - Temperature: 61.039370
+2024-08-09 10:47:53,622-INFO- Cooling down - Temperature: 60.968953
+2024-08-09 10:47:55,824-INFO- Cooling down - Temperature: 60.870180
+2024-08-09 10:47:58,089-INFO- Cooling down - Temperature: 60.793634
+2024-08-09 10:48:00,325-INFO- Cooling down - Temperature: 60.688939
+2024-08-09 10:48:02,332-INFO- Cooling down - Temperature: 60.653164
+2024-08-09 10:48:04,332-INFO- Cooling down - Temperature: 60.587933
+2024-08-09 10:48:06,345-INFO- Cooling down - Temperature: 60.482761
+2024-08-09 10:48:08,548-INFO- Cooling down - Temperature: 60.410526
+2024-08-09 10:48:10,755-INFO- Cooling down - Temperature: 60.333260
+2024-08-09 10:48:12,956-INFO- Cooling down - Temperature: 60.257075
+2024-08-09 10:48:15,152-INFO- Cooling down - Temperature: 60.164067
+2024-08-09 10:48:17,348-INFO- Cooling down - Temperature: 60.105983
+2024-08-09 10:48:19,358-INFO- Cooling down - Temperature: 60.037410
+2024-08-09 10:48:21,582-INFO- Cooling down - Temperature: 59.971449
+2024-08-09 10:48:21,582-INFO- Target temperature reached
+2024-08-09 10:48:21,914-INFO- Write request detected
+2024-08-09 10:48:21,914-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:48:24,611-INFO- Target speed: 15240.000000
+2024-08-09 10:48:25,029-INFO- Write request detected
+2024-08-09 10:48:25,029-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:48:25,652-INFO- Write request detected
+2024-08-09 10:48:25,652-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:48:28,780-INFO- Write request detected
+2024-08-09 10:48:28,780-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:48:28,891-WARNING- Read request error: Request error:  Checksum error
+2024-08-09 10:48:28,891-WARNING- Discarding the packet
+2024-08-09 10:48:30,085-WARNING- Read request error: Request error:  Checksum error
+2024-08-09 10:48:30,085-WARNING- Discarding the packet
+2024-08-09 10:48:30,694-INFO- Current speed: 0.026277
+2024-08-09 10:48:30,694-INFO- Speed error: 15239.973723
+2024-08-09 10:48:32,714-INFO- Current speed: 167.538220
+2024-08-09 10:48:32,714-INFO- Speed error: 15072.461780
+2024-08-09 10:48:34,721-INFO- Current speed: 1381.375634
+2024-08-09 10:48:34,721-INFO- Speed error: 13858.624366
+2024-08-09 10:48:36,776-INFO- Current speed: 2603.071863
+2024-08-09 10:48:36,776-INFO- Speed error: 12636.928137
+2024-08-09 10:48:38,791-INFO- Current speed: 3529.309919
+2024-08-09 10:48:38,791-INFO- Speed error: 11710.690081
+2024-08-09 10:48:40,805-INFO- Current speed: 4467.125856
+2024-08-09 10:48:40,805-INFO- Speed error: 10772.874144
+2024-08-09 10:48:42,827-INFO- Current speed: 5379.112822
+2024-08-09 10:48:42,828-INFO- Speed error: 9860.887178
+2024-08-09 10:48:44,846-INFO- Current speed: 6616.114503
+2024-08-09 10:48:44,846-INFO- Speed error: 8623.885497
+2024-08-09 10:48:46,861-INFO- Current speed: 7546.998399
+2024-08-09 10:48:46,861-INFO- Speed error: 7693.001601
+2024-08-09 10:48:48,869-INFO- Current speed: 8474.858506
+2024-08-09 10:48:48,869-INFO- Speed error: 6765.141494
+2024-08-09 10:48:50,883-INFO- Current speed: 9402.222031
+2024-08-09 10:48:50,883-INFO- Speed error: 5837.777969
+2024-08-09 10:48:52,899-INFO- Current speed: 10655.818996
+2024-08-09 10:48:52,900-INFO- Speed error: 4584.181004
+2024-08-09 10:48:54,918-INFO- Current speed: 11590.746655
+2024-08-09 10:48:54,918-INFO- Speed error: 3649.253345
+2024-08-09 10:48:56,932-INFO- Current speed: 12531.704406
+2024-08-09 10:48:56,932-INFO- Speed error: 2708.295594
+2024-08-09 10:48:59,061-INFO- Current speed: 13742.449602
+2024-08-09 10:48:59,062-INFO- Speed error: 1497.550398
+2024-08-09 10:49:01,074-INFO- Current speed: 14701.575728
+2024-08-09 10:49:01,074-INFO- Speed error: 538.424272
+2024-08-09 10:49:03,080-INFO- Starting the measures
+2024-08-09 10:49:06,096-INFO- Applying torque value: 0.200000
+2024-08-09 10:49:06,096-INFO- Elapsed Time [Secs]: 0.000001
+2024-08-09 10:49:06,311-INFO- Write request detected
+2024-08-09 10:49:06,311-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:49:07,105-INFO- Measured Temperature [C]: 61.904334
+2024-08-09 10:49:07,109-INFO- Estimated ClassA Temperature [C]: 60.666248
+2024-08-09 10:49:07,828-INFO- Set torque request detected
+2024-08-09 10:49:07,828-INFO- Value to set: 0.2
+2024-08-09 10:49:13,335-INFO- Read speed is: 15233.0
+2024-08-09 10:49:13,335-INFO- Applying torque value: 0.214000
+2024-08-09 10:49:13,336-INFO- Elapsed Time [Secs]: 7.239428
+2024-08-09 10:49:13,770-INFO- Write request detected
+2024-08-09 10:49:13,770-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:49:14,345-INFO- Measured Temperature [C]: 63.549208
+2024-08-09 10:49:14,349-INFO- Estimated ClassA Temperature [C]: 62.278225
+2024-08-09 10:49:14,593-INFO- Set torque request detected
+2024-08-09 10:49:14,593-INFO- Value to set: 0.21400000000000002
+2024-08-09 10:49:20,363-INFO- Read speed is: 15239.0
+2024-08-09 10:49:20,363-INFO- Applying torque value: 0.228000
+2024-08-09 10:49:20,363-INFO- Elapsed Time [Secs]: 14.267408
+2024-08-09 10:49:20,597-INFO- Write request detected
+2024-08-09 10:49:20,597-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:49:21,375-INFO- Measured Temperature [C]: 64.958473
+2024-08-09 10:49:21,381-INFO- Estimated ClassA Temperature [C]: 63.659302
+2024-08-09 10:49:22,094-INFO- Set torque request detected
+2024-08-09 10:49:22,094-INFO- Value to set: 0.22800000000000004
+2024-08-09 10:49:27,596-INFO- Read speed is: 15231.0
+2024-08-09 10:49:27,596-INFO- Applying torque value: 0.242000
+2024-08-09 10:49:27,596-INFO- Elapsed Time [Secs]: 21.500318
+2024-08-09 10:49:28,033-INFO- Write request detected
+2024-08-09 10:49:28,033-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:49:28,606-INFO- Measured Temperature [C]: 66.450905
+2024-08-09 10:49:28,611-INFO- Estimated ClassA Temperature [C]: 65.121887
+2024-08-09 10:49:28,825-INFO- Set torque request detected
+2024-08-09 10:49:28,825-INFO- Value to set: 0.24200000000000005
+2024-08-09 10:49:34,618-INFO- Read speed is: 15234.0
+2024-08-09 10:49:34,618-INFO- Applying torque value: 0.256000
+2024-08-09 10:49:34,618-INFO- Elapsed Time [Secs]: 28.522599
+2024-08-09 10:49:34,855-INFO- Write request detected
+2024-08-09 10:49:34,855-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:49:35,628-INFO- Measured Temperature [C]: 67.775258
+2024-08-09 10:49:35,633-INFO- Estimated ClassA Temperature [C]: 66.419754
+2024-08-09 10:49:36,097-INFO- Set torque request detected
+2024-08-09 10:49:36,097-INFO- Value to set: 0.25600000000000006
+2024-08-09 10:49:41,645-INFO- Read speed is: 15224.0
+2024-08-09 10:49:41,645-INFO- Applying torque value: 0.270000
+2024-08-09 10:49:41,645-INFO- Elapsed Time [Secs]: 35.549531
+2024-08-09 10:49:42,203-INFO- Write request detected
+2024-08-09 10:49:42,203-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:49:42,703-INFO- Measured Temperature [C]: 69.058649
+2024-08-09 10:49:42,708-INFO- Estimated ClassA Temperature [C]: 67.677475
+2024-08-09 10:49:42,827-INFO- Set torque request detected
+2024-08-09 10:49:42,827-INFO- Value to set: 0.2700000000000001
+2024-08-09 10:49:48,716-INFO- Read speed is: 15235.0
+2024-08-09 10:49:48,716-INFO- Applying torque value: 0.284000
+2024-08-09 10:49:48,716-INFO- Elapsed Time [Secs]: 42.620327
+2024-08-09 10:49:49,055-INFO- Write request detected
+2024-08-09 10:49:49,055-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:49:49,727-INFO- Measured Temperature [C]: 70.192466
+2024-08-09 10:49:49,784-INFO- Estimated ClassA Temperature [C]: 68.788620
+2024-08-09 10:49:50,334-INFO- Set torque request detected
+2024-08-09 10:49:50,334-INFO- Value to set: 0.2840000000000001
+2024-08-09 10:49:55,880-INFO- Read speed is: 15231.0
+2024-08-09 10:49:55,880-INFO- Applying torque value: 0.298000
+2024-08-09 10:49:55,880-INFO- Elapsed Time [Secs]: 49.785116
+2024-08-09 10:49:56,490-INFO- Write request detected
+2024-08-09 10:49:56,490-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:49:56,986-INFO- Measured Temperature [C]: 71.388396
+2024-08-09 10:49:56,991-INFO- Estimated ClassA Temperature [C]: 69.960625
+2024-08-09 10:49:57,127-INFO- Set torque request detected
+2024-08-09 10:49:57,127-INFO- Value to set: 0.2980000000000001
+2024-08-09 10:50:02,994-INFO- Read speed is: 15244.0
+2024-08-09 10:50:02,995-INFO- Applying torque value: 0.312000
+2024-08-09 10:50:02,995-INFO- Elapsed Time [Secs]: 56.899005
+2024-08-09 10:50:03,307-INFO- Write request detected
+2024-08-09 10:50:03,307-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:50:04,004-INFO- Measured Temperature [C]: 72.461798
+2024-08-09 10:50:04,058-INFO- Estimated ClassA Temperature [C]: 71.012566
+2024-08-09 10:50:04,649-INFO- Set torque request detected
+2024-08-09 10:50:04,649-INFO- Value to set: 0.3120000000000001
+2024-08-09 10:50:10,157-INFO- Read speed is: 15244.0
+2024-08-09 10:50:10,157-INFO- Applying torque value: 0.326000
+2024-08-09 10:50:10,157-INFO- Elapsed Time [Secs]: 64.061226
+2024-08-09 10:50:10,671-INFO- Write request detected
+2024-08-09 10:50:10,671-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:50:11,167-INFO- Measured Temperature [C]: 73.599449
+2024-08-09 10:50:11,172-INFO- Estimated ClassA Temperature [C]: 72.127457
+2024-08-09 10:50:11,415-INFO- Set torque request detected
+2024-08-09 10:50:11,415-INFO- Value to set: 0.3260000000000001
+2024-08-09 10:50:17,177-INFO- Read speed is: 15237.0
+2024-08-09 10:50:17,177-INFO- Applying torque value: 0.340000
+2024-08-09 10:50:17,178-INFO- Elapsed Time [Secs]: 71.081764
+2024-08-09 10:50:17,522-INFO- Write request detected
+2024-08-09 10:50:17,522-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:50:18,200-INFO- Measured Temperature [C]: 74.571037
+2024-08-09 10:50:18,268-INFO- Estimated ClassA Temperature [C]: 73.079613
+2024-08-09 10:50:18,684-INFO- Set torque request detected
+2024-08-09 10:50:18,684-INFO- Value to set: 0.34000000000000014
+2024-08-09 10:50:24,277-INFO- Read speed is: 15250.0
+2024-08-09 10:50:24,277-INFO- Applying torque value: 0.354000
+2024-08-09 10:50:24,277-INFO- Elapsed Time [Secs]: 78.181124
+2024-08-09 10:50:24,356-INFO- Write request detected
+2024-08-09 10:50:24,356-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:50:25,288-INFO- Measured Temperature [C]: 75.739309
+2024-08-09 10:50:25,292-INFO- Estimated ClassA Temperature [C]: 74.224525
+2024-08-09 10:50:25,458-INFO- Set torque request detected
+2024-08-09 10:50:25,458-INFO- Value to set: 0.35400000000000015
+2024-08-09 10:50:31,300-INFO- Read speed is: 15238.0
+2024-08-09 10:50:31,300-INFO- Applying torque value: 0.368000
+2024-08-09 10:50:31,301-INFO- Elapsed Time [Secs]: 85.204650
+2024-08-09 10:50:31,815-INFO- Write request detected
+2024-08-09 10:50:31,815-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:50:32,311-INFO- Measured Temperature [C]: 76.846300
+2024-08-09 10:50:32,316-INFO- Estimated ClassA Temperature [C]: 75.309372
+2024-08-09 10:50:32,929-INFO- Set torque request detected
+2024-08-09 10:50:32,929-INFO- Value to set: 0.36800000000000016
+2024-08-09 10:50:38,460-INFO- Read speed is: 15232.0
+2024-08-09 10:50:38,461-INFO- Applying torque value: 0.382000
+2024-08-09 10:50:38,461-INFO- Elapsed Time [Secs]: 92.365372
+2024-08-09 10:50:38,620-INFO- Write request detected
+2024-08-09 10:50:38,620-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:50:39,476-INFO- Measured Temperature [C]: 78.093702
+2024-08-09 10:50:39,481-INFO- Estimated ClassA Temperature [C]: 76.531830
+2024-08-09 10:50:39,708-INFO- Set torque request detected
+2024-08-09 10:50:39,708-INFO- Value to set: 0.3820000000000002
+2024-08-09 10:50:45,492-INFO- Read speed is: 15235.0
+2024-08-09 10:50:45,492-INFO- Applying torque value: 0.396000
+2024-08-09 10:50:45,493-INFO- Elapsed Time [Secs]: 99.396310
+2024-08-09 10:50:45,964-INFO- Write request detected
+2024-08-09 10:50:45,964-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:50:46,507-INFO- Measured Temperature [C]: 79.297068
+2024-08-09 10:50:46,514-INFO- Estimated ClassA Temperature [C]: 76.531830
+2024-08-09 10:50:47,194-INFO- Set torque request detected
+2024-08-09 10:50:47,195-INFO- Value to set: 0.3960000000000002
+2024-08-09 10:50:52,689-INFO- Read speed is: 15227.0
+2024-08-09 10:50:52,689-INFO- Applying torque value: 0.410000
+2024-08-09 10:50:52,689-INFO- Elapsed Time [Secs]: 106.593415
+2024-08-09 10:50:52,767-INFO- Write request detected
+2024-08-09 10:50:52,767-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:50:53,699-INFO- Measured Temperature [C]: 80.749536
+2024-08-09 10:50:53,705-INFO- Estimated ClassA Temperature [C]: 79.134544
+2024-08-09 10:50:53,839-INFO- Set torque request detected
+2024-08-09 10:50:53,839-INFO- Value to set: 0.4100000000000002
+2024-08-09 10:50:59,711-INFO- Read speed is: 15255.0
+2024-08-09 10:50:59,711-INFO- Applying torque value: 0.424000
+2024-08-09 10:50:59,712-INFO- Elapsed Time [Secs]: 113.615976
+2024-08-09 10:51:00,227-INFO- Write request detected
+2024-08-09 10:51:00,228-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:51:00,731-INFO- Measured Temperature [C]: 82.518107
+2024-08-09 10:51:00,736-INFO- Estimated ClassA Temperature [C]: 80.867744
+2024-08-09 10:51:01,323-INFO- Set torque request detected
+2024-08-09 10:51:01,323-INFO- Value to set: 0.4240000000000002
+2024-08-09 10:51:06,831-INFO- Read speed is: 15175.0
+2024-08-09 10:51:06,831-INFO- Applying torque value: 0.438000
+2024-08-09 10:51:06,832-INFO- Elapsed Time [Secs]: 120.735206
+2024-08-09 10:51:07,073-INFO- Write request detected
+2024-08-09 10:51:07,074-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:51:07,853-INFO- Measured Temperature [C]: 84.677962
+2024-08-09 10:51:07,858-INFO- Estimated ClassA Temperature [C]: 82.984406
+2024-08-09 10:51:08,085-INFO- Set torque request detected
+2024-08-09 10:51:08,085-INFO- Value to set: 0.4380000000000002
+2024-08-09 10:51:13,870-INFO- Read speed is: 14578.0
+2024-08-09 10:51:13,870-INFO- Applying torque value: 0.452000
+2024-08-09 10:51:13,870-INFO- Elapsed Time [Secs]: 127.774362
+2024-08-09 10:51:14,434-INFO- Write request detected
+2024-08-09 10:51:14,435-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:51:14,933-INFO- Measured Temperature [C]: 86.782722
+2024-08-09 10:51:14,937-INFO- Estimated ClassA Temperature [C]: 85.047066
+2024-08-09 10:51:15,588-INFO- Set torque request detected
+2024-08-09 10:51:15,588-INFO- Value to set: 0.45200000000000023
+2024-08-09 10:51:21,093-INFO- Read speed is: 13946.0
+2024-08-09 10:51:21,094-INFO- Applying torque value: 0.466000
+2024-08-09 10:51:21,094-INFO- Elapsed Time [Secs]: 134.998183
+2024-08-09 10:51:21,270-INFO- Write request detected
+2024-08-09 10:51:21,270-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:51:22,113-INFO- Measured Temperature [C]: 89.180926
+2024-08-09 10:51:22,118-INFO- Estimated ClassA Temperature [C]: 87.397308
+2024-08-09 10:51:22,327-INFO- Set torque request detected
+2024-08-09 10:51:22,327-INFO- Value to set: 0.46600000000000025
+2024-08-09 10:51:28,129-INFO- Read speed is: 13660.0
+2024-08-09 10:51:28,327-INFO- Set torque request detected
+2024-08-09 10:51:28,327-INFO- Value to set: 0.48000000000000026
+2024-08-09 10:51:30,441-INFO- Set torque request detected
+2024-08-09 10:51:30,441-INFO- Value to set: 0.3600000000000002
+2024-08-09 10:51:32,745-INFO- Set torque request detected
+2024-08-09 10:51:32,745-INFO- Value to set: 0.24000000000000013
+2024-08-09 10:51:34,340-INFO- Set torque request detected
+2024-08-09 10:51:34,341-INFO- Value to set: 0.12000000000000005
+2024-08-09 10:51:36,693-INFO- Set torque request detected
+2024-08-09 10:51:36,693-INFO- Value to set: 0.0
+2024-08-09 10:51:38,682-INFO- Write request detected
+2024-08-09 10:51:38,682-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:51:39,321-INFO- Write request detected
+2024-08-09 10:51:39,321-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:51:42,317-INFO- Write request detected
+2024-08-09 10:51:42,317-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:51:44,314-INFO- Current speed: 14286.497228
+2024-08-09 10:51:44,314-INFO- Speed error: 14286.497228
+2024-08-09 10:51:46,319-INFO- Current speed: 13355.127241
+2024-08-09 10:51:46,319-INFO- Speed error: 13355.127241
+2024-08-09 10:51:48,327-INFO- Current speed: 12448.595684
+2024-08-09 10:51:48,327-INFO- Speed error: 12448.595684
+2024-08-09 10:51:50,333-INFO- Current speed: 11479.048328
+2024-08-09 10:51:50,334-INFO- Speed error: 11479.048328
+2024-08-09 10:51:52,355-INFO- Current speed: 10260.516352
+2024-08-09 10:51:52,355-INFO- Speed error: 10260.516352
+2024-08-09 10:51:54,368-INFO- Current speed: 9273.177719
+2024-08-09 10:51:54,368-INFO- Speed error: 9273.177719
+2024-08-09 10:51:56,376-INFO- Current speed: 8384.070830
+2024-08-09 10:51:56,376-INFO- Speed error: 8384.070830
+2024-08-09 10:51:58,382-INFO- Current speed: 7443.581685
+2024-08-09 10:51:58,382-INFO- Speed error: 7443.581685
+2024-08-09 10:52:00,415-INFO- Current speed: 6234.048802
+2024-08-09 10:52:00,415-INFO- Speed error: 6234.048802
+2024-08-09 10:52:02,429-INFO- Current speed: 5338.117407
+2024-08-09 10:52:02,430-INFO- Speed error: 5338.117407
+2024-08-09 10:52:04,444-INFO- Current speed: 4560.342529
+2024-08-09 10:52:04,444-INFO- Speed error: 4560.342529
+2024-08-09 10:52:06,456-INFO- Current speed: 3814.211353
+2024-08-09 10:52:06,456-INFO- Speed error: 3814.211353
+2024-08-09 10:52:08,470-INFO- Current speed: 2888.195069
+2024-08-09 10:52:08,470-INFO- Speed error: 2888.195069
+2024-08-09 10:52:10,477-INFO- Current speed: 2305.700799
+2024-08-09 10:52:10,477-INFO- Speed error: 2305.700799
+2024-08-09 10:52:12,486-INFO- Current speed: 1541.801951
+2024-08-09 10:52:12,486-INFO- Speed error: 1541.801951
+2024-08-09 10:52:14,529-INFO- Current speed: 0.000000
+2024-08-09 10:52:14,529-INFO- Speed error: 0.000000
+2024-08-09 10:52:16,541-INFO- Stop Acquisition
+2024-08-09 10:52:16,716-INFO- Termination Request
+2024-08-09 10:52:17,010-INFO- Termination Request
+2024-08-09 10:52:17,029-INFO- Calculated offset for syncing: 1.158558
+2024-08-09 10:52:19,290-INFO- Extracting acquisition with marker value: 1
+2024-08-09 10:52:19,294-INFO- Extracting acquisition with marker value: 2
+2024-08-09 10:52:19,297-INFO- Extracting acquisition with marker value: 3
+2024-08-09 10:52:19,301-INFO- Extracting acquisition with marker value: 4
+2024-08-09 10:52:19,305-INFO- Extracting acquisition with marker value: 5
+2024-08-09 10:52:19,308-INFO- Extracting acquisition with marker value: 6
+2024-08-09 10:52:19,312-INFO- Extracting acquisition with marker value: 7
+2024-08-09 10:52:19,315-INFO- Extracting acquisition with marker value: 8
+2024-08-09 10:52:19,319-INFO- Extracting acquisition with marker value: 9
+2024-08-09 10:52:19,324-INFO- Extracting acquisition with marker value: 10
+2024-08-09 10:52:19,328-INFO- Extracting acquisition with marker value: 11
+2024-08-09 10:52:19,330-WARNING- Sub-acquisition too short!
+2024-08-09 10:52:19,331-INFO- Extracting acquisition with marker value: 12
+2024-08-09 10:52:19,335-INFO- Extracting acquisition with marker value: 13
+2024-08-09 10:52:19,338-INFO- Extracting acquisition with marker value: 14
+2024-08-09 10:52:19,342-INFO- Extracting acquisition with marker value: 15
+2024-08-09 10:52:19,344-WARNING- Sub-acquisition too short!
+2024-08-09 10:52:19,345-INFO- Extracting acquisition with marker value: 16
+2024-08-09 10:52:19,349-INFO- Extracting acquisition with marker value: 17
+2024-08-09 10:52:19,354-INFO- Extracting acquisition with marker value: 18
+2024-08-09 10:52:19,358-INFO- Extracting acquisition with marker value: 19
+2024-08-09 10:52:19,360-WARNING- Sub-acquisition too short!
+2024-08-09 10:52:19,361-INFO- STARTING STEP N.5/5
+2024-08-09 10:52:19,361-INFO- TORQUE MIN: 0.2
+2024-08-09 10:52:19,362-INFO- TORQUE STEP: 0.007
+2024-08-09 10:52:19,362-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20240809_105219.visaacq
+2024-08-09 10:52:20,378-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20240809_105220.mcacq
+2024-08-09 10:52:26,504-INFO- Write request detected
+2024-08-09 10:52:26,504-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:52:27,758-INFO- Write request detected
+2024-08-09 10:52:27,758-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:52:30,881-INFO- Write request detected
+2024-08-09 10:52:30,882-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:52:32,467-INFO- Speed Low Threshold is: 16002.0
+2024-08-09 10:52:32,744-INFO- Write request detected
+2024-08-09 10:52:32,744-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:52:33,121-INFO- Set torque request detected
+2024-08-09 10:52:33,121-INFO- Value to set: 0
+2024-08-09 10:52:33,619-INFO- Applying motor heating algorithm
+2024-08-09 10:52:33,620-INFO- Initial temperature: 85.380720
+2024-08-09 10:52:33,620-INFO- Motor temperature already reached. Cooling down
+2024-08-09 10:52:33,621-INFO- Cooling down - Temperature: 85.380720
+2024-08-09 10:52:35,818-INFO- Cooling down - Temperature: 84.940940
+2024-08-09 10:52:37,830-INFO- Cooling down - Temperature: 84.737132
+2024-08-09 10:52:39,845-INFO- Cooling down - Temperature: 84.334327
+2024-08-09 10:52:41,849-INFO- Cooling down - Temperature: 83.959721
+2024-08-09 10:52:43,964-INFO- Cooling down - Temperature: 83.588020
+2024-08-09 10:52:46,184-INFO- Cooling down - Temperature: 83.195126
+2024-08-09 10:52:48,376-INFO- Cooling down - Temperature: 82.814555
+2024-08-09 10:52:50,594-INFO- Cooling down - Temperature: 82.517267
+2024-08-09 10:52:52,812-INFO- Cooling down - Temperature: 82.187075
+2024-08-09 10:52:55,013-INFO- Cooling down - Temperature: 81.813207
+2024-08-09 10:52:57,016-INFO- Cooling down - Temperature: 81.586671
+2024-08-09 10:52:59,181-INFO- Cooling down - Temperature: 81.193492
+2024-08-09 10:53:01,384-INFO- Cooling down - Temperature: 80.886546
+2024-08-09 10:53:03,592-INFO- Cooling down - Temperature: 80.583650
+2024-08-09 10:53:05,597-INFO- Cooling down - Temperature: 80.356217
+2024-08-09 10:53:07,604-INFO- Cooling down - Temperature: 80.048199
+2024-08-09 10:53:09,609-INFO- Cooling down - Temperature: 79.747821
+2024-08-09 10:53:11,809-INFO- Cooling down - Temperature: 79.429145
+2024-08-09 10:53:13,998-INFO- Cooling down - Temperature: 79.143221
+2024-08-09 10:53:16,197-INFO- Cooling down - Temperature: 78.923672
+2024-08-09 10:53:18,403-INFO- Cooling down - Temperature: 78.623135
+2024-08-09 10:53:20,617-INFO- Cooling down - Temperature: 78.347383
+2024-08-09 10:53:22,818-INFO- Cooling down - Temperature: 78.080592
+2024-08-09 10:53:25,042-INFO- Cooling down - Temperature: 77.816851
+2024-08-09 10:53:27,235-INFO- Cooling down - Temperature: 77.577752
+2024-08-09 10:53:29,430-INFO- Cooling down - Temperature: 77.335590
+2024-08-09 10:53:31,622-INFO- Cooling down - Temperature: 77.086337
+2024-08-09 10:53:33,824-INFO- Cooling down - Temperature: 76.860497
+2024-08-09 10:53:35,829-INFO- Cooling down - Temperature: 76.626725
+2024-08-09 10:53:38,075-INFO- Cooling down - Temperature: 76.382891
+2024-08-09 10:53:40,313-INFO- Cooling down - Temperature: 76.166322
+2024-08-09 10:53:42,577-INFO- Cooling down - Temperature: 75.907011
+2024-08-09 10:53:44,775-INFO- Cooling down - Temperature: 75.699180
+2024-08-09 10:53:46,987-INFO- Cooling down - Temperature: 75.494885
+2024-08-09 10:53:49,200-INFO- Cooling down - Temperature: 75.281168
+2024-08-09 10:53:51,401-INFO- Cooling down - Temperature: 75.083313
+2024-08-09 10:53:53,600-INFO- Cooling down - Temperature: 74.867954
+2024-08-09 10:53:55,810-INFO- Cooling down - Temperature: 74.681654
+2024-08-09 10:53:58,008-INFO- Cooling down - Temperature: 74.470612
+2024-08-09 10:54:00,208-INFO- Cooling down - Temperature: 74.248423
+2024-08-09 10:54:02,415-INFO- Cooling down - Temperature: 74.080020
+2024-08-09 10:54:04,611-INFO- Cooling down - Temperature: 73.888778
+2024-08-09 10:54:06,819-INFO- Cooling down - Temperature: 73.674458
+2024-08-09 10:54:09,076-INFO- Cooling down - Temperature: 73.501197
+2024-08-09 10:54:11,087-INFO- Cooling down - Temperature: 73.377132
+2024-08-09 10:54:13,306-INFO- Cooling down - Temperature: 73.196103
+2024-08-09 10:54:15,509-INFO- Cooling down - Temperature: 72.966588
+2024-08-09 10:54:17,704-INFO- Cooling down - Temperature: 72.789696
+2024-08-09 10:54:19,904-INFO- Cooling down - Temperature: 72.634523
+2024-08-09 10:54:22,101-INFO- Cooling down - Temperature: 72.488703
+2024-08-09 10:54:24,321-INFO- Cooling down - Temperature: 72.297992
+2024-08-09 10:54:26,577-INFO- Cooling down - Temperature: 72.133069
+2024-08-09 10:54:28,775-INFO- Cooling down - Temperature: 71.980708
+2024-08-09 10:54:30,975-INFO- Cooling down - Temperature: 71.808638
+2024-08-09 10:54:33,168-INFO- Cooling down - Temperature: 71.663033
+2024-08-09 10:54:35,362-INFO- Cooling down - Temperature: 71.481454
+2024-08-09 10:54:37,575-INFO- Cooling down - Temperature: 71.309660
+2024-08-09 10:54:39,799-INFO- Cooling down - Temperature: 71.164139
+2024-08-09 10:54:42,008-INFO- Cooling down - Temperature: 71.003381
+2024-08-09 10:54:44,220-INFO- Cooling down - Temperature: 70.880052
+2024-08-09 10:54:46,416-INFO- Cooling down - Temperature: 70.734634
+2024-08-09 10:54:48,617-INFO- Cooling down - Temperature: 70.598606
+2024-08-09 10:54:50,628-INFO- Cooling down - Temperature: 70.472187
+2024-08-09 10:54:52,816-INFO- Cooling down - Temperature: 70.311231
+2024-08-09 10:54:55,041-INFO- Cooling down - Temperature: 70.188393
+2024-08-09 10:54:57,236-INFO- Cooling down - Temperature: 70.041295
+2024-08-09 10:54:59,429-INFO- Cooling down - Temperature: 69.911104
+2024-08-09 10:55:01,637-INFO- Cooling down - Temperature: 69.788822
+2024-08-09 10:55:03,831-INFO- Cooling down - Temperature: 69.624450
+2024-08-09 10:55:06,072-INFO- Cooling down - Temperature: 69.517561
+2024-08-09 10:55:08,077-INFO- Cooling down - Temperature: 69.412798
+2024-08-09 10:55:10,083-INFO- Cooling down - Temperature: 69.295131
+2024-08-09 10:55:12,093-INFO- Cooling down - Temperature: 69.149946
+2024-08-09 10:55:14,220-INFO- Cooling down - Temperature: 69.021052
+2024-08-09 10:55:16,403-INFO- Cooling down - Temperature: 68.926725
+2024-08-09 10:55:18,609-INFO- Cooling down - Temperature: 68.798210
+2024-08-09 10:55:20,807-INFO- Cooling down - Temperature: 68.673964
+2024-08-09 10:55:23,020-INFO- Cooling down - Temperature: 68.544099
+2024-08-09 10:55:25,219-INFO- Cooling down - Temperature: 68.414420
+2024-08-09 10:55:27,229-INFO- Cooling down - Temperature: 68.330746
+2024-08-09 10:55:29,412-INFO- Cooling down - Temperature: 68.196929
+2024-08-09 10:55:31,617-INFO- Cooling down - Temperature: 68.094930
+2024-08-09 10:55:33,822-INFO- Cooling down - Temperature: 67.996142
+2024-08-09 10:55:36,070-INFO- Cooling down - Temperature: 67.872793
+2024-08-09 10:55:38,074-INFO- Cooling down - Temperature: 67.815523
+2024-08-09 10:55:40,555-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-08-09 10:55:40,556-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-08-09 10:55:40,556-INFO- Cooling down - Temperature: 67.700748
+2024-08-09 10:55:42,747-INFO- Cooling down - Temperature: 67.522403
+2024-08-09 10:55:44,951-INFO- Cooling down - Temperature: 67.388175
+2024-08-09 10:55:47,161-INFO- Cooling down - Temperature: 67.331716
+2024-08-09 10:55:49,365-INFO- Cooling down - Temperature: 67.183431
+2024-08-09 10:55:51,580-INFO- Cooling down - Temperature: 67.096553
+2024-08-09 10:55:53,583-INFO- Cooling down - Temperature: 67.020444
+2024-08-09 10:55:55,595-INFO- Cooling down - Temperature: 66.875526
+2024-08-09 10:55:57,597-INFO- Cooling down - Temperature: 66.788816
+2024-08-09 10:55:59,772-INFO- Cooling down - Temperature: 66.715252
+2024-08-09 10:56:01,971-INFO- Cooling down - Temperature: 66.598308
+2024-08-09 10:56:04,179-INFO- Cooling down - Temperature: 66.475511
+2024-08-09 10:56:06,189-INFO- Cooling down - Temperature: 66.399100
+2024-08-09 10:56:08,385-INFO- Cooling down - Temperature: 66.304542
+2024-08-09 10:56:10,579-INFO- Cooling down - Temperature: 66.162460
+2024-08-09 10:56:12,583-INFO- Cooling down - Temperature: 66.133305
+2024-08-09 10:56:14,595-INFO- Cooling down - Temperature: 66.030926
+2024-08-09 10:56:16,602-INFO- Cooling down - Temperature: 65.939330
+2024-08-09 10:56:18,707-INFO- Cooling down - Temperature: 65.825246
+2024-08-09 10:56:20,904-INFO- Cooling down - Temperature: 65.726700
+2024-08-09 10:56:23,109-INFO- Cooling down - Temperature: 65.659696
+2024-08-09 10:56:25,320-INFO- Cooling down - Temperature: 65.531068
+2024-08-09 10:56:27,577-INFO- Cooling down - Temperature: 65.447606
+2024-08-09 10:56:29,817-INFO- Cooling down - Temperature: 65.332555
+2024-08-09 10:56:31,821-INFO- Cooling down - Temperature: 65.300544
+2024-08-09 10:56:33,831-INFO- Cooling down - Temperature: 65.168371
+2024-08-09 10:56:35,834-INFO- Cooling down - Temperature: 65.092211
+2024-08-09 10:56:38,077-INFO- Cooling down - Temperature: 65.039196
+2024-08-09 10:56:40,269-INFO- Cooling down - Temperature: 64.930769
+2024-08-09 10:56:43,262-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-08-09 10:56:43,262-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-08-09 10:56:43,263-INFO- Cooling down - Temperature: 64.848298
+2024-08-09 10:56:45,269-INFO- Cooling down - Temperature: 64.733554
+2024-08-09 10:56:47,453-INFO- Cooling down - Temperature: 64.657117
+2024-08-09 10:56:49,674-INFO- Cooling down - Temperature: 64.551214
+2024-08-09 10:56:51,870-INFO- Cooling down - Temperature: 64.481683
+2024-08-09 10:56:54,077-INFO- Cooling down - Temperature: 64.396112
+2024-08-09 10:56:56,301-INFO- Cooling down - Temperature: 64.297526
+2024-08-09 10:56:58,509-INFO- Cooling down - Temperature: 64.206507
+2024-08-09 10:57:00,715-INFO- Cooling down - Temperature: 64.128046
+2024-08-09 10:57:02,912-INFO- Cooling down - Temperature: 64.054776
+2024-08-09 10:57:04,431-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-08-09 10:57:04,432-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-08-09 10:57:04,922-INFO- Cooling down - Temperature: 64.054776
+2024-08-09 10:57:06,932-INFO- Cooling down - Temperature: 63.899967
+2024-08-09 10:57:08,948-INFO- Cooling down - Temperature: 63.789146
+2024-08-09 10:57:11,039-INFO- Cooling down - Temperature: 63.716264
+2024-08-09 10:57:13,248-INFO- Cooling down - Temperature: 63.625800
+2024-08-09 10:57:15,447-INFO- Cooling down - Temperature: 63.577416
+2024-08-09 10:57:17,649-INFO- Cooling down - Temperature: 63.471955
+2024-08-09 10:57:19,848-INFO- Cooling down - Temperature: 63.399682
+2024-08-09 10:57:22,084-INFO- Cooling down - Temperature: 63.329788
+2024-08-09 10:57:24,085-INFO- Cooling down - Temperature: 63.273128
+2024-08-09 10:57:26,309-INFO- Cooling down - Temperature: 63.164567
+2024-08-09 10:57:28,520-INFO- Cooling down - Temperature: 63.102896
+2024-08-09 10:57:30,714-INFO- Cooling down - Temperature: 63.005379
+2024-08-09 10:57:32,914-INFO- Cooling down - Temperature: 62.940865
+2024-08-09 10:57:35,107-INFO- Cooling down - Temperature: 62.817681
+2024-08-09 10:57:37,370-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-08-09 10:57:37,371-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-08-09 10:57:37,371-INFO- Cooling down - Temperature: 62.812249
+2024-08-09 10:57:39,585-INFO- Cooling down - Temperature: 62.717288
+2024-08-09 10:57:41,589-INFO- Cooling down - Temperature: 62.640785
+2024-08-09 10:57:43,590-INFO- Cooling down - Temperature: 62.594053
+2024-08-09 10:57:45,599-INFO- Cooling down - Temperature: 62.508402
+2024-08-09 10:57:47,775-INFO- Cooling down - Temperature: 62.419042
+2024-08-09 10:57:49,980-INFO- Cooling down - Temperature: 62.349674
+2024-08-09 10:57:52,183-INFO- Cooling down - Temperature: 62.254632
+2024-08-09 10:57:54,382-INFO- Cooling down - Temperature: 62.214827
+2024-08-09 10:57:56,586-INFO- Cooling down - Temperature: 62.112147
+2024-08-09 10:57:58,816-INFO- Cooling down - Temperature: 62.076683
+2024-08-09 10:58:00,823-INFO- Cooling down - Temperature: 61.980505
+2024-08-09 10:58:03,084-INFO- Cooling down - Temperature: 61.887358
+2024-08-09 10:58:05,093-INFO- Cooling down - Temperature: 61.845349
+2024-08-09 10:58:07,108-INFO- Cooling down - Temperature: 61.749130
+2024-08-09 10:58:09,122-INFO- Cooling down - Temperature: 61.717126
+2024-08-09 10:58:11,264-INFO- Cooling down - Temperature: 61.608690
+2024-08-09 10:58:12,784-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-08-09 10:58:12,784-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-08-09 10:58:13,273-INFO- Cooling down - Temperature: 61.608690
+2024-08-09 10:58:15,284-INFO- Cooling down - Temperature: 61.528982
+2024-08-09 10:58:17,293-INFO- Cooling down - Temperature: 61.468213
+2024-08-09 10:58:19,377-INFO- Cooling down - Temperature: 61.344694
+2024-08-09 10:58:21,587-INFO- Cooling down - Temperature: 61.315716
+2024-08-09 10:58:23,818-INFO- Cooling down - Temperature: 61.235094
+2024-08-09 10:58:26,088-INFO- Cooling down - Temperature: 61.155549
+2024-08-09 10:58:28,276-INFO- Cooling down - Temperature: 61.087981
+2024-08-09 10:58:30,471-INFO- Cooling down - Temperature: 61.013864
+2024-08-09 10:58:32,665-INFO- Cooling down - Temperature: 60.933632
+2024-08-09 10:58:34,862-INFO- Cooling down - Temperature: 60.874977
+2024-08-09 10:58:37,088-INFO- Cooling down - Temperature: 60.812826
+2024-08-09 10:58:39,314-INFO- Cooling down - Temperature: 60.763319
+2024-08-09 10:58:41,316-INFO- Cooling down - Temperature: 60.686540
+2024-08-09 10:58:43,490-INFO- Cooling down - Temperature: 60.602769
+2024-08-09 10:58:45,701-INFO- Cooling down - Temperature: 60.541459
+2024-08-09 10:58:47,898-INFO- Cooling down - Temperature: 60.482761
+2024-08-09 10:58:50,093-INFO- Cooling down - Temperature: 60.396776
+2024-08-09 10:58:52,100-INFO- Cooling down - Temperature: 60.343301
+2024-08-09 10:58:54,102-INFO- Cooling down - Temperature: 60.274758
+2024-08-09 10:58:56,112-INFO- Cooling down - Temperature: 60.241575
+2024-08-09 10:58:58,330-INFO- Cooling down - Temperature: 60.162102
+2024-08-09 10:59:00,330-INFO- Cooling down - Temperature: 60.132187
+2024-08-09 10:59:02,340-INFO- Cooling down - Temperature: 60.052261
+2024-08-09 10:59:04,341-INFO- Cooling down - Temperature: 59.996786
+2024-08-09 10:59:04,341-INFO- Target temperature reached
+2024-08-09 10:59:04,622-INFO- Write request detected
+2024-08-09 10:59:04,622-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:59:07,367-INFO- Target speed: 17780.000000
+2024-08-09 10:59:07,726-INFO- Write request detected
+2024-08-09 10:59:07,726-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 10:59:08,987-INFO- Write request detected
+2024-08-09 10:59:08,987-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 10:59:12,002-INFO- Write request detected
+2024-08-09 10:59:12,003-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 10:59:13,516-INFO- Current speed: 0.084583
+2024-08-09 10:59:13,516-INFO- Speed error: 17779.915417
+2024-08-09 10:59:15,532-INFO- Current speed: 208.417157
+2024-08-09 10:59:15,532-INFO- Speed error: 17571.582843
+2024-08-09 10:59:17,548-INFO- Current speed: 1153.111950
+2024-08-09 10:59:17,548-INFO- Speed error: 16626.888050
+2024-08-09 10:59:19,583-INFO- Current speed: 2401.683062
+2024-08-09 10:59:19,583-INFO- Speed error: 15378.316938
+2024-08-09 10:59:21,596-INFO- Current speed: 3326.234370
+2024-08-09 10:59:21,597-INFO- Speed error: 14453.765630
+2024-08-09 10:59:23,604-INFO- Current speed: 4238.503724
+2024-08-09 10:59:23,605-INFO- Speed error: 13541.496276
+2024-08-09 10:59:25,612-INFO- Current speed: 5166.804169
+2024-08-09 10:59:25,613-INFO- Speed error: 12613.195831
+2024-08-09 10:59:27,622-INFO- Current speed: 6403.420008
+2024-08-09 10:59:27,623-INFO- Speed error: 11376.579992
+2024-08-09 10:59:29,632-INFO- Current speed: 7332.491846
+2024-08-09 10:59:29,633-INFO- Speed error: 10447.508154
+2024-08-09 10:59:31,645-INFO- Current speed: 8261.268182
+2024-08-09 10:59:31,645-INFO- Speed error: 9518.731818
+2024-08-09 10:59:33,660-INFO- Current speed: 9187.801156
+2024-08-09 10:59:33,661-INFO- Speed error: 8592.198844
+2024-08-09 10:59:35,682-INFO- Current speed: 10432.860639
+2024-08-09 10:59:35,683-INFO- Speed error: 7347.139361
+2024-08-09 10:59:37,700-INFO- Current speed: 11359.642487
+2024-08-09 10:59:37,701-INFO- Speed error: 6420.357513
+2024-08-09 10:59:39,723-INFO- Current speed: 12309.645958
+2024-08-09 10:59:39,723-INFO- Speed error: 5470.354042
+2024-08-09 10:59:41,737-INFO- Current speed: 13473.250828
+2024-08-09 10:59:41,737-INFO- Speed error: 4306.749172
+2024-08-09 10:59:43,749-INFO- Current speed: 14400.329925
+2024-08-09 10:59:43,749-INFO- Speed error: 3379.670075
+2024-08-09 10:59:45,766-INFO- Current speed: 15323.598397
+2024-08-09 10:59:45,766-INFO- Speed error: 2456.401603
+2024-08-09 10:59:47,784-INFO- Current speed: 16261.418122
+2024-08-09 10:59:47,784-INFO- Speed error: 1518.581878
+2024-08-09 10:59:49,794-INFO- Current speed: 17505.346890
+2024-08-09 10:59:49,795-INFO- Speed error: 274.653110
+2024-08-09 10:59:51,803-INFO- Starting the measures
+2024-08-09 10:59:54,810-INFO- Applying torque value: 0.200000
+2024-08-09 10:59:54,810-INFO- Elapsed Time [Secs]: 0.000001
+2024-08-09 10:59:55,257-INFO- Write request detected
+2024-08-09 10:59:55,257-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 10:59:55,833-INFO- Measured Temperature [C]: 64.268922
+2024-08-09 10:59:55,838-INFO- Estimated ClassA Temperature [C]: 62.983543
+2024-08-09 10:59:56,506-INFO- Set torque request detected
+2024-08-09 10:59:56,506-INFO- Value to set: 0.2
+2024-08-09 11:00:02,012-INFO- Read speed is: 17778.187266240777
+2024-08-09 11:00:02,013-INFO- Applying torque value: 0.207000
+2024-08-09 11:00:02,013-INFO- Elapsed Time [Secs]: 7.201774
+2024-08-09 11:00:02,070-INFO- Write request detected
+2024-08-09 11:00:02,070-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:00:03,024-INFO- Measured Temperature [C]: 66.281656
+2024-08-09 11:00:03,029-INFO- Estimated ClassA Temperature [C]: 64.956024
+2024-08-09 11:00:03,653-INFO- Set torque request detected
+2024-08-09 11:00:03,653-INFO- Value to set: 0.20700000000000002
+2024-08-09 11:00:09,149-INFO- Read speed is: 17779.356448915976
+2024-08-09 11:00:09,149-INFO- Applying torque value: 0.214000
+2024-08-09 11:00:09,150-INFO- Elapsed Time [Secs]: 14.338765
+2024-08-09 11:00:09,515-INFO- Write request detected
+2024-08-09 11:00:09,515-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:00:10,169-INFO- Measured Temperature [C]: 68.239960
+2024-08-09 11:00:10,263-INFO- Estimated ClassA Temperature [C]: 66.875160
+2024-08-09 11:00:10,407-INFO- Set torque request detected
+2024-08-09 11:00:10,408-INFO- Value to set: 0.21400000000000002
+2024-08-09 11:00:16,348-INFO- Read speed is: 17771.541692530565
+2024-08-09 11:00:16,349-INFO- Applying torque value: 0.221000
+2024-08-09 11:00:16,349-INFO- Elapsed Time [Secs]: 21.536987
+2024-08-09 11:00:16,856-INFO- Write request detected
+2024-08-09 11:00:16,856-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:00:17,368-INFO- Measured Temperature [C]: 69.798048
+2024-08-09 11:00:17,375-INFO- Estimated ClassA Temperature [C]: 68.402084
+2024-08-09 11:00:17,870-INFO- Set torque request detected
+2024-08-09 11:00:17,870-INFO- Value to set: 0.22100000000000003
+2024-08-09 11:00:23,390-INFO- Read speed is: 17783.569236740692
+2024-08-09 11:00:23,390-INFO- Applying torque value: 0.228000
+2024-08-09 11:00:23,390-INFO- Elapsed Time [Secs]: 28.577765
+2024-08-09 11:00:23,683-INFO- Write request detected
+2024-08-09 11:00:23,683-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:00:24,400-INFO- Measured Temperature [C]: 71.314367
+2024-08-09 11:00:24,427-INFO- Estimated ClassA Temperature [C]: 69.888077
+2024-08-09 11:00:24,604-INFO- Set torque request detected
+2024-08-09 11:00:24,604-INFO- Value to set: 0.22800000000000004
+2024-08-09 11:00:30,443-INFO- Read speed is: 17779.57326644099
+2024-08-09 11:00:30,443-INFO- Applying torque value: 0.235000
+2024-08-09 11:00:30,443-INFO- Elapsed Time [Secs]: 35.629950
+2024-08-09 11:00:30,513-INFO- Write request detected
+2024-08-09 11:00:30,513-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:00:31,460-INFO- Measured Temperature [C]: 72.554466
+2024-08-09 11:00:31,465-INFO- Estimated ClassA Temperature [C]: 71.103378
+2024-08-09 11:00:32,098-INFO- Set torque request detected
+2024-08-09 11:00:32,098-INFO- Value to set: 0.23500000000000004
+2024-08-09 11:00:37,611-INFO- Read speed is: 17770.224467781834
+2024-08-09 11:00:37,611-INFO- Applying torque value: 0.242000
+2024-08-09 11:00:37,611-INFO- Elapsed Time [Secs]: 42.797461
+2024-08-09 11:00:37,967-INFO- Write request detected
+2024-08-09 11:00:37,967-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:00:38,621-INFO- Measured Temperature [C]: 73.869394
+2024-08-09 11:00:38,717-INFO- Estimated ClassA Temperature [C]: 72.392006
+2024-08-09 11:00:39,350-INFO- Set torque request detected
+2024-08-09 11:00:39,350-INFO- Value to set: 0.24200000000000005
+2024-08-09 11:00:44,846-INFO- Read speed is: 17779.710817343956
+2024-08-09 11:00:44,846-INFO- Applying torque value: 0.249000
+2024-08-09 11:00:44,846-INFO- Elapsed Time [Secs]: 50.032196
+2024-08-09 11:00:45,291-INFO- Write request detected
+2024-08-09 11:00:45,291-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:00:45,867-INFO- Measured Temperature [C]: 75.113495
+2024-08-09 11:00:45,872-INFO- Estimated ClassA Temperature [C]: 73.611221
+2024-08-09 11:00:46,103-INFO- Set torque request detected
+2024-08-09 11:00:46,104-INFO- Value to set: 0.24900000000000005
+2024-08-09 11:00:51,888-INFO- Read speed is: 17782.902464566996
+2024-08-09 11:00:51,888-INFO- Applying torque value: 0.256000
+2024-08-09 11:00:51,888-INFO- Elapsed Time [Secs]: 57.073238
+2024-08-09 11:00:52,138-INFO- Write request detected
+2024-08-09 11:00:52,138-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:00:52,902-INFO- Measured Temperature [C]: 76.151259
+2024-08-09 11:00:52,909-INFO- Estimated ClassA Temperature [C]: 74.628235
+2024-08-09 11:00:53,603-INFO- Set torque request detected
+2024-08-09 11:00:53,603-INFO- Value to set: 0.25600000000000006
+2024-08-09 11:00:59,114-INFO- Read speed is: 17784.19404423213
+2024-08-09 11:00:59,114-INFO- Applying torque value: 0.263000
+2024-08-09 11:00:59,114-INFO- Elapsed Time [Secs]: 64.299063
+2024-08-09 11:00:59,606-INFO- Write request detected
+2024-08-09 11:00:59,606-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:01:00,151-INFO- Measured Temperature [C]: 77.246448
+2024-08-09 11:01:00,157-INFO- Estimated ClassA Temperature [C]: 75.701515
+2024-08-09 11:01:00,383-INFO- Set torque request detected
+2024-08-09 11:01:00,383-INFO- Value to set: 0.26300000000000007
+2024-08-09 11:01:06,170-INFO- Read speed is: 17775.022429786957
+2024-08-09 11:01:06,170-INFO- Applying torque value: 0.270000
+2024-08-09 11:01:06,170-INFO- Elapsed Time [Secs]: 71.354781
+2024-08-09 11:01:06,433-INFO- Write request detected
+2024-08-09 11:01:06,433-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:01:07,178-INFO- Measured Temperature [C]: 78.172778
+2024-08-09 11:01:07,186-INFO- Estimated ClassA Temperature [C]: 76.609322
+2024-08-09 11:01:07,833-INFO- Set torque request detected
+2024-08-09 11:01:07,833-INFO- Value to set: 0.2700000000000001
+2024-08-09 11:01:13,385-INFO- Read speed is: 17766.226166110897
+2024-08-09 11:01:13,385-INFO- Applying torque value: 0.277000
+2024-08-09 11:01:13,385-INFO- Elapsed Time [Secs]: 78.568921
+2024-08-09 11:01:13,899-INFO- Write request detected
+2024-08-09 11:01:13,899-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:01:14,395-INFO- Measured Temperature [C]: 79.151664
+2024-08-09 11:01:14,400-INFO- Estimated ClassA Temperature [C]: 76.609322
+2024-08-09 11:01:15,098-INFO- Set torque request detected
+2024-08-09 11:01:15,098-INFO- Value to set: 0.2770000000000001
+2024-08-09 11:01:20,607-INFO- Read speed is: 17778.806245304117
+2024-08-09 11:01:20,607-INFO- Applying torque value: 0.284000
+2024-08-09 11:01:20,607-INFO- Elapsed Time [Secs]: 85.790356
+2024-08-09 11:01:20,620-INFO- Write request detected
+2024-08-09 11:01:20,621-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:01:21,631-INFO- Measured Temperature [C]: 80.163040
+2024-08-09 11:01:21,638-INFO- Estimated ClassA Temperature [C]: 78.559776
+2024-08-09 11:01:21,863-INFO- Set torque request detected
+2024-08-09 11:01:21,864-INFO- Value to set: 0.2840000000000001
+2024-08-09 11:01:27,657-INFO- Read speed is: 17777.811915471666
+2024-08-09 11:01:27,657-INFO- Applying torque value: 0.291000
+2024-08-09 11:01:27,658-INFO- Elapsed Time [Secs]: 92.840797
+2024-08-09 11:01:28,036-INFO- Write request detected
+2024-08-09 11:01:28,036-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:01:28,678-INFO- Measured Temperature [C]: 81.088530
+2024-08-09 11:01:28,790-INFO- Estimated ClassA Temperature [C]: 79.466759
+2024-08-09 11:01:29,349-INFO- Set torque request detected
+2024-08-09 11:01:29,349-INFO- Value to set: 0.2910000000000001
+2024-08-09 11:01:34,857-INFO- Read speed is: 17790.98299727339
+2024-08-09 11:01:34,857-INFO- Applying torque value: 0.298000
+2024-08-09 11:01:34,857-INFO- Elapsed Time [Secs]: 100.039778
+2024-08-09 11:01:35,485-INFO- Write request detected
+2024-08-09 11:01:35,485-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:01:35,984-INFO- Measured Temperature [C]: 82.170487
+2024-08-09 11:01:35,989-INFO- Estimated ClassA Temperature [C]: 80.527077
+2024-08-09 11:01:36,124-INFO- Set torque request detected
+2024-08-09 11:01:36,124-INFO- Value to set: 0.2980000000000001
+2024-08-09 11:01:42,009-INFO- Read speed is: 17780.685330520897
+2024-08-09 11:01:42,010-INFO- Applying torque value: 0.305000
+2024-08-09 11:01:42,010-INFO- Elapsed Time [Secs]: 107.192714
+2024-08-09 11:01:42,279-INFO- Write request detected
+2024-08-09 11:01:42,279-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:01:43,025-INFO- Measured Temperature [C]: 83.112113
+2024-08-09 11:01:43,033-INFO- Estimated ClassA Temperature [C]: 81.449867
+2024-08-09 11:01:43,610-INFO- Set torque request detected
+2024-08-09 11:01:43,611-INFO- Value to set: 0.3050000000000001
+2024-08-09 11:01:49,116-INFO- Read speed is: 17782.61803727612
+2024-08-09 11:01:49,116-INFO- Applying torque value: 0.312000
+2024-08-09 11:01:49,116-INFO- Elapsed Time [Secs]: 114.299315
+2024-08-09 11:01:49,578-INFO- Write request detected
+2024-08-09 11:01:49,578-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:01:50,124-INFO- Measured Temperature [C]: 84.231177
+2024-08-09 11:01:50,128-INFO- Estimated ClassA Temperature [C]: 82.546555
+2024-08-09 11:01:50,345-INFO- Set torque request detected
+2024-08-09 11:01:50,345-INFO- Value to set: 0.3120000000000001
+2024-08-09 11:01:56,138-INFO- Read speed is: 17767.418662498465
+2024-08-09 11:01:56,139-INFO- Applying torque value: 0.319000
+2024-08-09 11:01:56,139-INFO- Elapsed Time [Secs]: 121.320746
+2024-08-09 11:01:56,396-INFO- Write request detected
+2024-08-09 11:01:56,396-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:01:57,331-INFO- Measured Temperature [C]: 85.357329
+2024-08-09 11:01:57,336-INFO- Estimated ClassA Temperature [C]: 83.650185
+2024-08-09 11:01:57,594-INFO- Set torque request detected
+2024-08-09 11:01:57,594-INFO- Value to set: 0.3190000000000001
+2024-08-09 11:02:03,358-INFO- Read speed is: 17781.398730119323
+2024-08-09 11:02:03,358-INFO- Applying torque value: 0.326000
+2024-08-09 11:02:03,358-INFO- Elapsed Time [Secs]: 128.539900
+2024-08-09 11:02:03,800-INFO- Write request detected
+2024-08-09 11:02:03,800-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:02:04,375-INFO- Measured Temperature [C]: 86.580582
+2024-08-09 11:02:04,380-INFO- Estimated ClassA Temperature [C]: 84.848969
+2024-08-09 11:02:05,087-INFO- Set torque request detected
+2024-08-09 11:02:05,087-INFO- Value to set: 0.3260000000000001
+2024-08-09 11:02:10,602-INFO- Read speed is: 17771.118548651106
+2024-08-09 11:02:10,602-INFO- Applying torque value: 0.333000
+2024-08-09 11:02:10,602-INFO- Elapsed Time [Secs]: 135.784352
+2024-08-09 11:02:10,614-INFO- Write request detected
+2024-08-09 11:02:10,614-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:02:11,618-INFO- Measured Temperature [C]: 87.966482
+2024-08-09 11:02:11,625-INFO- Estimated ClassA Temperature [C]: 86.207153
+2024-08-09 11:02:11,835-INFO- Set torque request detected
+2024-08-09 11:02:11,836-INFO- Value to set: 0.33300000000000013
+2024-08-09 11:02:17,646-INFO- Read speed is: 17781.270504701308
+2024-08-09 11:02:17,646-INFO- Applying torque value: 0.340000
+2024-08-09 11:02:17,646-INFO- Elapsed Time [Secs]: 142.828046
+2024-08-09 11:02:18,031-INFO- Write request detected
+2024-08-09 11:02:18,031-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:02:18,655-INFO- Measured Temperature [C]: 89.331782
+2024-08-09 11:02:18,660-INFO- Estimated ClassA Temperature [C]: 87.545143
+2024-08-09 11:02:19,327-INFO- Set torque request detected
+2024-08-09 11:02:19,327-INFO- Value to set: 0.34000000000000014
+2024-08-09 11:02:24,868-INFO- Read speed is: 17668.67226808252
+2024-08-09 11:02:24,868-INFO- Applying torque value: 0.347000
+2024-08-09 11:02:24,868-INFO- Elapsed Time [Secs]: 150.049678
+2024-08-09 11:02:25,376-INFO- Write request detected
+2024-08-09 11:02:25,376-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:02:25,887-INFO- Measured Temperature [C]: 91.047505
+2024-08-09 11:02:25,892-INFO- Estimated ClassA Temperature [C]: 89.226555
+2024-08-09 11:02:26,104-INFO- Set torque request detected
+2024-08-09 11:02:26,104-INFO- Value to set: 0.34700000000000014
+2024-08-09 11:02:31,909-INFO- Read speed is: 17462.302783266892
+2024-08-09 11:02:31,910-INFO- Applying torque value: 0.354000
+2024-08-09 11:02:31,910-INFO- Elapsed Time [Secs]: 157.091013
+2024-08-09 11:02:32,187-INFO- Write request detected
+2024-08-09 11:02:32,187-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:02:33,134-INFO- Measured Temperature [C]: 92.708916
+2024-08-09 11:02:33,139-INFO- Estimated ClassA Temperature [C]: 90.854736
+2024-08-09 11:02:33,367-INFO- Set torque request detected
+2024-08-09 11:02:33,367-INFO- Value to set: 0.35400000000000015
+2024-08-09 11:02:39,145-INFO- Read speed is: 17239.028525613976
+2024-08-09 11:02:39,146-INFO- Applying torque value: 0.361000
+2024-08-09 11:02:39,146-INFO- Elapsed Time [Secs]: 164.326372
+2024-08-09 11:02:39,607-INFO- Write request detected
+2024-08-09 11:02:39,607-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:02:40,153-INFO- Measured Temperature [C]: 94.299390
+2024-08-09 11:02:40,160-INFO- Estimated ClassA Temperature [C]: 92.413399
+2024-08-09 11:02:40,837-INFO- Set torque request detected
+2024-08-09 11:02:40,837-INFO- Value to set: 0.36100000000000015
+2024-08-09 11:02:46,354-INFO- Read speed is: 17132.008094678986
+2024-08-09 11:02:46,354-INFO- Applying torque value: 0.368000
+2024-08-09 11:02:46,354-INFO- Elapsed Time [Secs]: 171.534635
+2024-08-09 11:02:46,425-INFO- Write request detected
+2024-08-09 11:02:46,425-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:02:47,367-INFO- Measured Temperature [C]: 95.946769
+2024-08-09 11:02:47,372-INFO- Estimated ClassA Temperature [C]: 94.027832
+2024-08-09 11:02:47,601-INFO- Set torque request detected
+2024-08-09 11:02:47,601-INFO- Value to set: 0.36800000000000016
+2024-08-09 11:02:53,383-INFO- Read speed is: 16933.67018377379
+2024-08-09 11:02:53,384-INFO- Applying torque value: 0.375000
+2024-08-09 11:02:53,384-INFO- Elapsed Time [Secs]: 178.564209
+2024-08-09 11:02:53,750-INFO- Write request detected
+2024-08-09 11:02:53,750-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:02:54,392-INFO- Measured Temperature [C]: 97.364987
+2024-08-09 11:02:54,500-INFO- Estimated ClassA Temperature [C]: 95.417686
+2024-08-09 11:02:55,112-INFO- Set torque request detected
+2024-08-09 11:02:55,112-INFO- Value to set: 0.37500000000000017
+2024-08-09 11:03:00,697-INFO- Read speed is: 16657.920256639656
+2024-08-09 11:03:00,698-INFO- Applying torque value: 0.382000
+2024-08-09 11:03:00,698-INFO- Elapsed Time [Secs]: 185.877763
+2024-08-09 11:03:01,203-INFO- Write request detected
+2024-08-09 11:03:01,203-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:03:01,714-INFO- Measured Temperature [C]: 98.916096
+2024-08-09 11:03:01,721-INFO- Estimated ClassA Temperature [C]: 96.937775
+2024-08-09 11:03:01,886-INFO- Set torque request detected
+2024-08-09 11:03:01,886-INFO- Value to set: 0.3820000000000002
+2024-08-09 11:03:07,739-INFO- Read speed is: 16341.350350522187
+2024-08-09 11:03:07,739-INFO- Applying torque value: 0.389000
+2024-08-09 11:03:07,739-INFO- Elapsed Time [Secs]: 192.918997
+2024-08-09 11:03:08,062-INFO- Write request detected
+2024-08-09 11:03:08,062-INFO- Symbol to write: My_Measured_Temp
+2024-08-09 11:03:08,931-INFO- Measured Temperature [C]: 100.366195
+2024-08-09 11:03:08,937-INFO- Estimated ClassA Temperature [C]: 98.358871
+2024-08-09 11:03:09,170-INFO- Set torque request detected
+2024-08-09 11:03:09,170-INFO- Value to set: 0.3890000000000002
+2024-08-09 11:03:14,971-INFO- Read speed is: 15777.938354920023
+2024-08-09 11:03:15,178-INFO- Set torque request detected
+2024-08-09 11:03:15,178-INFO- Value to set: 0.3960000000000002
+2024-08-09 11:03:17,552-INFO- Set torque request detected
+2024-08-09 11:03:17,552-INFO- Value to set: 0.29700000000000015
+2024-08-09 11:03:19,157-INFO- Set torque request detected
+2024-08-09 11:03:19,157-INFO- Value to set: 0.1980000000000001
+2024-08-09 11:03:21,469-INFO- Set torque request detected
+2024-08-09 11:03:21,469-INFO- Value to set: 0.09900000000000003
+2024-08-09 11:03:23,048-INFO- Set torque request detected
+2024-08-09 11:03:23,048-INFO- Value to set: 0.0
+2024-08-09 11:03:25,281-INFO- Write request detected
+2024-08-09 11:03:25,282-INFO- Symbol to write: BD_Target_Speed
+2024-08-09 11:03:26,519-INFO- Write request detected
+2024-08-09 11:03:26,520-INFO- Symbol to write: BD_Target_Accel
+2024-08-09 11:03:29,644-INFO- Write request detected
+2024-08-09 11:03:29,644-INFO- Symbol to write: BD_Update_Cmd
+2024-08-09 11:03:31,155-INFO- Current speed: 17174.189594
+2024-08-09 11:03:31,155-INFO- Speed error: 17174.189594
+2024-08-09 11:03:33,171-INFO- Current speed: 16235.162219
+2024-08-09 11:03:33,171-INFO- Speed error: 16235.162219
+2024-08-09 11:03:35,176-INFO- Current speed: 15282.412393
+2024-08-09 11:03:35,176-INFO- Speed error: 15282.412393
+2024-08-09 11:03:37,198-INFO- Current speed: 14037.995202
+2024-08-09 11:03:37,198-INFO- Speed error: 14037.995202
+2024-08-09 11:03:39,212-INFO- Current speed: 13113.409506
+2024-08-09 11:03:39,213-INFO- Speed error: 13113.409506
+2024-08-09 11:03:41,226-INFO- Current speed: 12165.637157
+2024-08-09 11:03:41,226-INFO- Speed error: 12165.637157
+2024-08-09 11:03:43,234-INFO- Current speed: 11233.167929
+2024-08-09 11:03:43,234-INFO- Speed error: 11233.167929
+2024-08-09 11:03:45,258-INFO- Current speed: 9964.996397
+2024-08-09 11:03:45,258-INFO- Speed error: 9964.996397
+2024-08-09 11:03:47,278-INFO- Current speed: 9044.248720
+2024-08-09 11:03:47,278-INFO- Speed error: 9044.248720
+2024-08-09 11:03:49,291-INFO- Current speed: 8129.889584
+2024-08-09 11:03:49,291-INFO- Speed error: 8129.889584
+2024-08-09 11:03:51,308-INFO- Current speed: 7197.930343
+2024-08-09 11:03:51,308-INFO- Speed error: 7197.930343
+2024-08-09 11:03:53,322-INFO- Current speed: 6298.654013
+2024-08-09 11:03:53,322-INFO- Speed error: 6298.654013
+2024-08-09 11:03:55,338-INFO- Current speed: 5239.038792
+2024-08-09 11:03:55,338-INFO- Speed error: 5239.038792
+2024-08-09 11:03:57,356-INFO- Current speed: 4453.406319
+2024-08-09 11:03:57,357-INFO- Speed error: 4453.406319
+2024-08-09 11:03:59,390-INFO- Current speed: 3487.159601
+2024-08-09 11:03:59,390-INFO- Speed error: 3487.159601
+2024-08-09 11:04:01,404-INFO- Current speed: 2879.380154
+2024-08-09 11:04:01,404-INFO- Speed error: 2879.380154
+2024-08-09 11:04:03,414-INFO- Current speed: 2283.566907
+2024-08-09 11:04:03,415-INFO- Speed error: 2283.566907
+2024-08-09 11:04:05,433-INFO- Current speed: 1712.762133
+2024-08-09 11:04:05,433-INFO- Speed error: 1712.762133
+2024-08-09 11:04:06,797-WARNING- Read request error: Request error:  Checksum error
+2024-08-09 11:04:06,797-WARNING- Discarding the packet
+2024-08-09 11:04:07,440-INFO- Current speed: 0.000000
+2024-08-09 11:04:07,440-INFO- Speed error: 0.000000
+2024-08-09 11:04:09,445-INFO- Stop Acquisition
+2024-08-09 11:04:10,059-INFO- Termination Request
+2024-08-09 11:04:10,526-INFO- Termination Request
+2024-08-09 11:04:10,550-INFO- Calculated offset for syncing: 3.550940
+2024-08-09 11:04:12,837-INFO- Extracting acquisition with marker value: 1
+2024-08-09 11:04:12,842-INFO- Extracting acquisition with marker value: 2
+2024-08-09 11:04:12,846-INFO- Extracting acquisition with marker value: 3
+2024-08-09 11:04:12,849-INFO- Extracting acquisition with marker value: 4
+2024-08-09 11:04:12,851-WARNING- Sub-acquisition too short!
+2024-08-09 11:04:12,853-INFO- Extracting acquisition with marker value: 5
+2024-08-09 11:04:12,856-INFO- Extracting acquisition with marker value: 6
+2024-08-09 11:04:12,860-INFO- Extracting acquisition with marker value: 7
+2024-08-09 11:04:12,863-INFO- Extracting acquisition with marker value: 8
+2024-08-09 11:04:12,866-INFO- Extracting acquisition with marker value: 9
+2024-08-09 11:04:12,870-INFO- Extracting acquisition with marker value: 10
+2024-08-09 11:04:12,874-INFO- Extracting acquisition with marker value: 11
+2024-08-09 11:04:12,877-INFO- Extracting acquisition with marker value: 12
+2024-08-09 11:04:12,881-INFO- Extracting acquisition with marker value: 13
+2024-08-09 11:04:12,884-INFO- Extracting acquisition with marker value: 14
+2024-08-09 11:04:12,887-INFO- Extracting acquisition with marker value: 15
+2024-08-09 11:04:12,892-INFO- Extracting acquisition with marker value: 16
+2024-08-09 11:04:12,895-INFO- Extracting acquisition with marker value: 17
+2024-08-09 11:04:12,898-INFO- Extracting acquisition with marker value: 18
+2024-08-09 11:04:12,902-INFO- Extracting acquisition with marker value: 19
+2024-08-09 11:04:12,905-INFO- Extracting acquisition with marker value: 20
+2024-08-09 11:04:12,909-INFO- Extracting acquisition with marker value: 21
+2024-08-09 11:04:12,912-INFO- Extracting acquisition with marker value: 22
+2024-08-09 11:04:12,915-INFO- Extracting acquisition with marker value: 23
+2024-08-09 11:04:12,919-INFO- Extracting acquisition with marker value: 24
+2024-08-09 11:04:12,923-INFO- Extracting acquisition with marker value: 25
+2024-08-09 11:04:12,926-INFO- Extracting acquisition with marker value: 26
+2024-08-09 11:04:12,930-INFO- Extracting acquisition with marker value: 27

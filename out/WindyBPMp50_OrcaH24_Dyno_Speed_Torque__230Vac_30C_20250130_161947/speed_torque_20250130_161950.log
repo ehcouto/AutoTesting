@@ -1,0 +1,301 @@
+2025-01-30 16:19:50,008-INFO- RUNNING THE TEST
+2025-01-30 16:19:57,024-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20250130_161957.visaacq
+2025-01-30 16:19:58,037-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20250130_161958.mcacq
+2025-01-30 16:19:59,777-INFO- Set torque request detected
+2025-01-30 16:19:59,777-INFO- Value to set: 0
+2025-01-30 16:20:04,053-INFO- Applying demagnetization algorithm
+2025-01-30 16:20:04,598-INFO- Write request detected
+2025-01-30 16:20:04,599-INFO- Symbol to write: BD_Target_Speed
+2025-01-30 16:20:05,211-INFO- Write request detected
+2025-01-30 16:20:05,211-INFO- Symbol to write: BD_Target_Accel
+2025-01-30 16:20:08,263-INFO- Write request detected
+2025-01-30 16:20:08,263-INFO- Symbol to write: BD_Update_Cmd
+2025-01-30 16:20:10,177-INFO- Current speed: 0.068932
+2025-01-30 16:20:10,177-INFO- Speed error: 999.931068
+2025-01-30 16:20:12,191-INFO- Current speed: 482.985006
+2025-01-30 16:20:12,191-INFO- Speed error: 517.014994
+2025-01-30 16:20:14,202-INFO- Current speed: 1015.217097
+2025-01-30 16:20:14,202-INFO- Speed error: 15.217097
+2025-01-30 16:20:18,649-INFO- Set torque request detected
+2025-01-30 16:20:18,649-INFO- Value to set: 0.5
+2025-01-30 16:20:23,242-INFO- Set torque request detected
+2025-01-30 16:20:23,242-INFO- Value to set: 0
+2025-01-30 16:20:23,305-INFO- Write request detected
+2025-01-30 16:20:23,305-INFO- Symbol to write: BD_Target_Speed
+2025-01-30 16:20:24,525-INFO- Write request detected
+2025-01-30 16:20:24,525-INFO- Symbol to write: BD_Target_Accel
+2025-01-30 16:20:26,858-WARNING- Read request error: Request error:  Too much empty characters received!
+2025-01-30 16:20:26,858-WARNING- Discarding the packet
+2025-01-30 16:20:27,359-INFO- Write request detected
+2025-01-30 16:20:27,359-INFO- Symbol to write: BD_Update_Cmd
+2025-01-30 16:20:30,302-INFO- STARTING STEP N.0/0
+2025-01-30 16:20:30,302-INFO- TORQUE MIN: 0.1
+2025-01-30 16:20:30,302-INFO- TORQUE MAX: 2.0
+2025-01-30 16:20:30,302-INFO- TORQUE STEP: 0.1
+2025-01-30 16:20:30,317-INFO- Write request detected
+2025-01-30 16:20:30,317-INFO- Symbol to write: BD_Target_Speed
+2025-01-30 16:20:31,542-INFO- Write request detected
+2025-01-30 16:20:31,542-INFO- Symbol to write: BD_Target_Accel
+2025-01-30 16:20:34,571-INFO- Write request detected
+2025-01-30 16:20:34,571-INFO- Symbol to write: BD_Update_Cmd
+2025-01-30 16:20:35,857-WARNING- Read request error: Request error:  Checksum error
+2025-01-30 16:20:35,857-WARNING- Discarding the packet
+2025-01-30 16:20:36,357-INFO- Applying motor heating algorithm
+2025-01-30 16:20:36,357-INFO- Initial temperature: 30.976605
+2025-01-30 16:20:36,357-INFO- Motor temperature already reached. Cooling down
+2025-01-30 16:20:36,357-INFO- Cooling down - Temperature: 30.976605
+2025-01-30 16:20:36,679-INFO- Set torque request detected
+2025-01-30 16:20:36,679-INFO- Value to set: 0
+2025-01-30 16:20:38,364-INFO- Cooling down - Temperature: 30.955101
+2025-01-30 16:20:40,366-INFO- Cooling down - Temperature: 30.835078
+2025-01-30 16:20:42,372-INFO- Cooling down - Temperature: 30.783267
+2025-01-30 16:20:44,512-INFO- Cooling down - Temperature: 30.704384
+2025-01-30 16:20:46,712-INFO- Cooling down - Temperature: 30.646543
+2025-01-30 16:20:48,923-INFO- Cooling down - Temperature: 30.592630
+2025-01-30 16:20:51,123-INFO- Cooling down - Temperature: 30.516724
+2025-01-30 16:20:53,124-INFO- Cooling down - Temperature: 30.466036
+2025-01-30 16:20:55,137-INFO- Cooling down - Temperature: 30.394740
+2025-01-30 16:20:57,142-INFO- Cooling down - Temperature: 30.365571
+2025-01-30 16:20:59,347-INFO- Cooling down - Temperature: 30.279904
+2025-01-30 16:21:01,608-INFO- Cooling down - Temperature: 30.210434
+2025-01-30 16:21:03,851-INFO- Cooling down - Temperature: 30.148133
+2025-01-30 16:21:05,369-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2025-01-30 16:21:05,369-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2025-01-30 16:21:05,857-INFO- Cooling down - Temperature: 30.148133
+2025-01-30 16:21:07,857-INFO- Cooling down - Temperature: 30.091384
+2025-01-30 16:21:09,864-INFO- Cooling down - Temperature: 30.008681
+2025-01-30 16:21:12,118-INFO- Cooling down - Temperature: 29.966976
+2025-01-30 16:21:12,118-INFO- Target temperature reached
+2025-01-30 16:21:14,128-INFO- Target speed: 780.000000
+2025-01-30 16:21:14,268-INFO- Write request detected
+2025-01-30 16:21:14,268-INFO- Symbol to write: BD_Target_Speed
+2025-01-30 16:21:15,480-INFO- Write request detected
+2025-01-30 16:21:15,481-INFO- Symbol to write: BD_Target_Accel
+2025-01-30 16:21:18,533-INFO- Write request detected
+2025-01-30 16:21:18,533-INFO- Symbol to write: BD_Update_Cmd
+2025-01-30 16:21:20,188-INFO- Current speed: 0.127207
+2025-01-30 16:21:20,188-INFO- Speed error: 779.872793
+2025-01-30 16:21:22,275-INFO- Current speed: 542.601520
+2025-01-30 16:21:22,276-INFO- Speed error: 237.398480
+2025-01-30 16:21:22,366-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2025-01-30 16:21:22,366-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2025-01-30 16:21:22,881-WARNING- Read request error: Request error:  Checksum error
+2025-01-30 16:21:22,881-WARNING- Discarding the packet
+2025-01-30 16:21:24,292-INFO- Current speed: 774.342881
+2025-01-30 16:21:24,292-INFO- Speed error: 5.657119
+2025-01-30 16:21:26,301-INFO- Applying torque value: 0.031000
+2025-01-30 16:21:26,645-INFO- Set torque request detected
+2025-01-30 16:21:26,645-INFO- Value to set: 0.031
+2025-01-30 16:21:27,313-INFO- Read torque: -0.032000
+2025-01-30 16:21:28,323-INFO- Applying torque value: 0.523250
+2025-01-30 16:21:28,980-INFO- Set torque request detected
+2025-01-30 16:21:28,980-INFO- Value to set: 0.52325
+2025-01-30 16:21:29,339-INFO- Read torque: -0.037000
+2025-01-30 16:21:30,350-INFO- Applying torque value: 1.015500
+2025-01-30 16:21:30,647-INFO- Set torque request detected
+2025-01-30 16:21:30,647-INFO- Value to set: 1.0155
+2025-01-30 16:21:31,366-INFO- Read torque: -0.428000
+2025-01-30 16:21:32,375-INFO- Applying torque value: 1.507750
+2025-01-30 16:21:32,982-INFO- Set torque request detected
+2025-01-30 16:21:32,982-INFO- Value to set: 1.50775
+2025-01-30 16:21:33,389-INFO- Read torque: -1.080000
+2025-01-30 16:21:34,406-INFO- Applying torque value: 2.000000
+2025-01-30 16:21:34,575-INFO- Set torque request detected
+2025-01-30 16:21:34,575-INFO- Value to set: 2.0
+2025-01-30 16:21:35,421-INFO- Read torque: -1.600000
+2025-01-30 16:21:36,500-INFO- Final torque reached: -1.998000
+2025-01-30 16:21:36,500-INFO- Starting the measures
+2025-01-30 16:21:39,513-INFO- Applying torque value: 2.000000
+2025-01-30 16:21:39,513-INFO- Elapsed Time [Secs]: 0.000017
+2025-01-30 16:21:39,513-INFO- Measured Temperature [C]: 35.972261
+2025-01-30 16:21:39,518-INFO- Estimated ClassA Temperature [C]: 61.117004
+2025-01-30 16:21:39,524-INFO- Estimated ClassB Temperature [C]: 46.328800
+2025-01-30 16:21:39,890-INFO- Set torque request detected
+2025-01-30 16:21:39,890-INFO- Value to set: 2.0
+2025-01-30 16:21:46,528-INFO- Applying torque value: 1.900000
+2025-01-30 16:21:46,528-INFO- Elapsed Time [Secs]: 7.015952
+2025-01-30 16:21:46,528-INFO- Measured Temperature [C]: 45.685162
+2025-01-30 16:21:46,532-INFO- Estimated ClassA Temperature [C]: 79.352112
+2025-01-30 16:21:46,538-INFO- Estimated ClassB Temperature [C]: 54.194164
+2025-01-30 16:21:46,665-INFO- Set torque request detected
+2025-01-30 16:21:46,665-INFO- Value to set: 1.9
+2025-01-30 16:21:53,551-INFO- Applying torque value: 1.800000
+2025-01-30 16:21:53,551-INFO- Elapsed Time [Secs]: 14.038687
+2025-01-30 16:21:53,747-INFO- Measured Temperature [C]: 56.259781
+2025-01-30 16:21:53,755-INFO- Estimated ClassA Temperature [C]: 90.994354
+2025-01-30 16:21:53,763-INFO- Estimated ClassB Temperature [C]: 60.556282
+2025-01-30 16:21:54,251-INFO- Set torque request detected
+2025-01-30 16:21:54,251-INFO- Value to set: 1.8
+2025-01-30 16:22:00,764-INFO- Applying torque value: 1.700000
+2025-01-30 16:22:00,764-INFO- Elapsed Time [Secs]: 21.251988
+2025-01-30 16:22:00,765-INFO- Measured Temperature [C]: 63.929892
+2025-01-30 16:22:00,789-INFO- Estimated ClassA Temperature [C]: 97.550934
+2025-01-30 16:22:00,796-INFO- Estimated ClassB Temperature [C]: 66.338814
+2025-01-30 16:22:00,874-INFO- Set torque request detected
+2025-01-30 16:22:00,875-INFO- Value to set: 1.7
+2025-01-30 16:22:07,796-INFO- Applying torque value: 1.600000
+2025-01-30 16:22:07,796-INFO- Elapsed Time [Secs]: 28.283856
+2025-01-30 16:22:07,872-INFO- Measured Temperature [C]: 70.666945
+2025-01-30 16:22:07,961-INFO- Estimated ClassA Temperature [C]: 100.275330
+2025-01-30 16:22:07,967-INFO- Estimated ClassB Temperature [C]: 71.456268
+2025-01-30 16:22:08,374-INFO- Set torque request detected
+2025-01-30 16:22:08,374-INFO- Value to set: 1.6
+2025-01-30 16:22:14,980-INFO- Applying torque value: 1.500000
+2025-01-30 16:22:14,980-INFO- Elapsed Time [Secs]: 35.467225
+2025-01-30 16:22:14,980-INFO- Measured Temperature [C]: 75.330249
+2025-01-30 16:22:14,986-INFO- Estimated ClassA Temperature [C]: 100.873627
+2025-01-30 16:22:14,994-INFO- Estimated ClassB Temperature [C]: 76.057182
+2025-01-30 16:22:15,245-INFO- Set torque request detected
+2025-01-30 16:22:15,245-INFO- Value to set: 1.5
+2025-01-30 16:22:22,003-INFO- Applying torque value: 1.400000
+2025-01-30 16:22:22,003-INFO- Elapsed Time [Secs]: 42.490332
+2025-01-30 16:22:22,004-INFO- Measured Temperature [C]: 78.740158
+2025-01-30 16:22:22,008-INFO- Estimated ClassA Temperature [C]: 99.897125
+2025-01-30 16:22:22,014-INFO- Estimated ClassB Temperature [C]: 80.070747
+2025-01-30 16:22:22,127-INFO- Set torque request detected
+2025-01-30 16:22:22,127-INFO- Value to set: 1.4
+2025-01-30 16:22:29,024-INFO- Applying torque value: 1.300000
+2025-01-30 16:22:29,024-INFO- Elapsed Time [Secs]: 49.511932
+2025-01-30 16:22:29,163-INFO- Measured Temperature [C]: 81.107673
+2025-01-30 16:22:29,170-INFO- Estimated ClassA Temperature [C]: 97.669098
+2025-01-30 16:22:29,178-INFO- Estimated ClassB Temperature [C]: 83.492950
+2025-01-30 16:22:29,678-INFO- Set torque request detected
+2025-01-30 16:22:29,678-INFO- Value to set: 1.3
+2025-01-30 16:22:36,180-INFO- Applying torque value: 1.200000
+2025-01-30 16:22:36,180-INFO- Elapsed Time [Secs]: 56.667275
+2025-01-30 16:22:36,180-INFO- Measured Temperature [C]: 82.110220
+2025-01-30 16:22:36,211-INFO- Estimated ClassA Temperature [C]: 94.804382
+2025-01-30 16:22:36,218-INFO- Estimated ClassB Temperature [C]: 86.778717
+2025-01-30 16:22:36,292-INFO- Set torque request detected
+2025-01-30 16:22:36,292-INFO- Value to set: 1.2000000000000002
+2025-01-30 16:22:43,228-INFO- Applying torque value: 1.100000
+2025-01-30 16:22:43,228-INFO- Elapsed Time [Secs]: 63.715705
+2025-01-30 16:22:43,368-INFO- Measured Temperature [C]: 82.249223
+2025-01-30 16:22:43,430-INFO- Estimated ClassA Temperature [C]: 91.354279
+2025-01-30 16:22:43,439-INFO- Estimated ClassB Temperature [C]: 89.028000
+2025-01-30 16:22:43,870-INFO- Set torque request detected
+2025-01-30 16:22:43,870-INFO- Value to set: 1.1
+2025-01-30 16:22:50,448-INFO- Applying torque value: 1.000000
+2025-01-30 16:22:50,448-INFO- Elapsed Time [Secs]: 70.935433
+2025-01-30 16:22:50,448-INFO- Measured Temperature [C]: 81.707515
+2025-01-30 16:22:50,455-INFO- Estimated ClassA Temperature [C]: 88.103455
+2025-01-30 16:22:50,463-INFO- Estimated ClassB Temperature [C]: 90.591812
+2025-01-30 16:22:50,667-INFO- Set torque request detected
+2025-01-30 16:22:50,667-INFO- Value to set: 1.0
+2025-01-30 16:22:57,476-INFO- Applying torque value: 0.900000
+2025-01-30 16:22:57,477-INFO- Elapsed Time [Secs]: 77.963158
+2025-01-30 16:22:57,677-INFO- Measured Temperature [C]: 80.357692
+2025-01-30 16:22:57,682-INFO- Estimated ClassA Temperature [C]: 84.574921
+2025-01-30 16:22:57,688-INFO- Estimated ClassB Temperature [C]: 92.210732
+2025-01-30 16:22:58,178-INFO- Set torque request detected
+2025-01-30 16:22:58,178-INFO- Value to set: 0.9000000000000001
+2025-01-30 16:23:04,696-INFO- Applying torque value: 0.800000
+2025-01-30 16:23:04,696-INFO- Elapsed Time [Secs]: 85.183046
+2025-01-30 16:23:04,696-INFO- Measured Temperature [C]: 78.765080
+2025-01-30 16:23:04,700-INFO- Estimated ClassA Temperature [C]: 81.395233
+2025-01-30 16:23:04,706-INFO- Estimated ClassB Temperature [C]: 93.072052
+2025-01-30 16:23:04,979-INFO- Set torque request detected
+2025-01-30 16:23:04,980-INFO- Value to set: 0.8
+2025-01-30 16:23:11,710-INFO- Applying torque value: 0.700000
+2025-01-30 16:23:11,710-INFO- Elapsed Time [Secs]: 92.196903
+2025-01-30 16:23:11,710-INFO- Measured Temperature [C]: 76.687774
+2025-01-30 16:23:11,730-INFO- Estimated ClassA Temperature [C]: 77.729095
+2025-01-30 16:23:11,736-INFO- Estimated ClassB Temperature [C]: 93.794762
+2025-01-30 16:23:11,740-INFO- Set torque request detected
+2025-01-30 16:23:11,740-INFO- Value to set: 0.7000000000000002
+2025-01-30 16:23:18,745-INFO- Applying torque value: 0.600000
+2025-01-30 16:23:18,746-INFO- Elapsed Time [Secs]: 99.232275
+2025-01-30 16:23:18,746-INFO- Measured Temperature [C]: 74.332712
+2025-01-30 16:23:18,752-INFO- Estimated ClassA Temperature [C]: 74.606415
+2025-01-30 16:23:18,760-INFO- Estimated ClassB Temperature [C]: 94.032280
+2025-01-30 16:23:18,930-INFO- Set torque request detected
+2025-01-30 16:23:18,930-INFO- Value to set: 0.6000000000000001
+2025-01-30 16:23:25,768-INFO- Applying torque value: 0.500000
+2025-01-30 16:23:25,768-INFO- Elapsed Time [Secs]: 106.255095
+2025-01-30 16:23:25,975-INFO- Measured Temperature [C]: 71.549259
+2025-01-30 16:23:25,982-INFO- Estimated ClassA Temperature [C]: 71.504608
+2025-01-30 16:23:25,991-INFO- Estimated ClassB Temperature [C]: 93.992096
+2025-01-30 16:23:26,484-INFO- Set torque request detected
+2025-01-30 16:23:26,484-INFO- Value to set: 0.5000000000000002
+2025-01-30 16:23:33,005-INFO- Applying torque value: 0.400000
+2025-01-30 16:23:33,006-INFO- Elapsed Time [Secs]: 113.492880
+2025-01-30 16:23:33,006-INFO- Measured Temperature [C]: 68.921783
+2025-01-30 16:23:33,011-INFO- Estimated ClassA Temperature [C]: 68.737854
+2025-01-30 16:23:33,017-INFO- Estimated ClassB Temperature [C]: 93.740509
+2025-01-30 16:23:33,384-INFO- Set torque request detected
+2025-01-30 16:23:33,385-INFO- Value to set: 0.40000000000000013
+2025-01-30 16:23:40,025-INFO- Applying torque value: 0.300000
+2025-01-30 16:23:40,025-INFO- Elapsed Time [Secs]: 120.512808
+2025-01-30 16:23:40,025-INFO- Measured Temperature [C]: 66.443782
+2025-01-30 16:23:40,029-INFO- Estimated ClassA Temperature [C]: 66.243408
+2025-01-30 16:23:40,035-INFO- Estimated ClassB Temperature [C]: 93.290009
+2025-01-30 16:23:40,168-INFO- Set torque request detected
+2025-01-30 16:23:40,168-INFO- Value to set: 0.30000000000000004
+2025-01-30 16:23:47,045-INFO- Applying torque value: 0.200000
+2025-01-30 16:23:47,045-INFO- Elapsed Time [Secs]: 127.532096
+2025-01-30 16:23:47,185-INFO- Measured Temperature [C]: 63.651401
+2025-01-30 16:23:47,248-INFO- Estimated ClassA Temperature [C]: 63.975128
+2025-01-30 16:23:47,257-INFO- Estimated ClassB Temperature [C]: 92.584793
+2025-01-30 16:23:47,699-INFO- Set torque request detected
+2025-01-30 16:23:47,700-INFO- Value to set: 0.20000000000000018
+2025-01-30 16:23:54,271-INFO- Applying torque value: 0.100000
+2025-01-30 16:23:54,271-INFO- Elapsed Time [Secs]: 134.757858
+2025-01-30 16:23:54,506-INFO- Measured Temperature [C]: 61.012556
+2025-01-30 16:23:54,512-INFO- Estimated ClassA Temperature [C]: 62.036835
+2025-01-30 16:23:54,521-INFO- Estimated ClassB Temperature [C]: 91.852577
+2025-01-30 16:23:55,016-INFO- Set torque request detected
+2025-01-30 16:23:55,016-INFO- Value to set: 0.1
+2025-01-30 16:23:58,688-WARNING- Read request error: Request error:  Checksum error
+2025-01-30 16:23:58,689-WARNING- Discarding the packet
+2025-01-30 16:24:02,634-INFO- Set torque request detected
+2025-01-30 16:24:02,634-INFO- Value to set: 0
+2025-01-30 16:24:02,806-INFO- Write request detected
+2025-01-30 16:24:02,806-INFO- Symbol to write: BD_Target_Speed
+2025-01-30 16:24:04,023-INFO- Write request detected
+2025-01-30 16:24:04,023-INFO- Symbol to write: BD_Target_Accel
+2025-01-30 16:24:06,962-INFO- Write request detected
+2025-01-30 16:24:06,962-INFO- Symbol to write: BD_Update_Cmd
+2025-01-30 16:24:12,620-INFO- Stop Acquisition
+2025-01-30 16:24:13,371-INFO- Termination Request
+2025-01-30 16:24:13,757-INFO- Termination Request
+2025-01-30 16:24:13,773-INFO- Calculated offset for syncing: 1.188414
+2025-01-30 16:24:15,952-INFO- Extracting acquisition with marker value: 1
+2025-01-30 16:24:15,955-WARNING- Sub-acquisition too short!
+2025-01-30 16:24:15,957-INFO- Extracting acquisition with marker value: 2
+2025-01-30 16:24:15,960-WARNING- Sub-acquisition too short!
+2025-01-30 16:24:15,962-INFO- Extracting acquisition with marker value: 3
+2025-01-30 16:24:15,964-WARNING- Sub-acquisition too short!
+2025-01-30 16:24:15,966-INFO- Extracting acquisition with marker value: 4
+2025-01-30 16:24:15,968-WARNING- Sub-acquisition too short!
+2025-01-30 16:24:15,970-INFO- Extracting acquisition with marker value: 5
+2025-01-30 16:24:15,972-WARNING- Sub-acquisition too short!
+2025-01-30 16:24:15,974-INFO- Extracting acquisition with marker value: 6
+2025-01-30 16:24:15,976-WARNING- Sub-acquisition too short!
+2025-01-30 16:24:15,977-INFO- Extracting acquisition with marker value: 7
+2025-01-30 16:24:15,979-WARNING- Sub-acquisition too short!
+2025-01-30 16:24:15,980-INFO- Extracting acquisition with marker value: 8
+2025-01-30 16:24:15,982-WARNING- Sub-acquisition too short!
+2025-01-30 16:24:15,984-INFO- Extracting acquisition with marker value: 9
+2025-01-30 16:24:15,986-WARNING- Sub-acquisition too short!
+2025-01-30 16:24:15,987-INFO- Extracting acquisition with marker value: 10
+2025-01-30 16:24:15,989-WARNING- Sub-acquisition too short!
+2025-01-30 16:24:15,991-INFO- Extracting acquisition with marker value: 11
+2025-01-30 16:24:15,993-WARNING- Sub-acquisition too short!
+2025-01-30 16:24:15,994-INFO- Extracting acquisition with marker value: 12
+2025-01-30 16:24:15,996-WARNING- Sub-acquisition too short!
+2025-01-30 16:24:15,997-INFO- Extracting acquisition with marker value: 13
+2025-01-30 16:24:16,000-WARNING- Sub-acquisition too short!
+2025-01-30 16:24:16,002-INFO- Extracting acquisition with marker value: 14
+2025-01-30 16:24:16,003-WARNING- Sub-acquisition too short!
+2025-01-30 16:24:16,005-INFO- Extracting acquisition with marker value: 15
+2025-01-30 16:24:16,007-WARNING- Sub-acquisition too short!
+2025-01-30 16:24:16,008-INFO- Extracting acquisition with marker value: 16
+2025-01-30 16:24:16,009-WARNING- Sub-acquisition too short!
+2025-01-30 16:24:16,011-INFO- Extracting acquisition with marker value: 17
+2025-01-30 16:24:16,012-WARNING- Sub-acquisition too short!
+2025-01-30 16:24:16,014-INFO- Extracting acquisition with marker value: 18
+2025-01-30 16:24:16,015-WARNING- Sub-acquisition too short!
+2025-01-30 16:24:16,017-INFO- Extracting acquisition with marker value: 19
+2025-01-30 16:24:16,018-WARNING- Sub-acquisition too short!
+2025-01-30 16:24:16,020-INFO- Extracting acquisition with marker value: 20
+2025-01-30 16:24:16,022-WARNING- Sub-acquisition too short!

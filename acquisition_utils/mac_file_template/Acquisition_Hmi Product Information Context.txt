@@ -1,0 +1,70 @@
+Appliance ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Model Number: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Serial Number: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+
+Board ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Part Number: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Revision: -1.-1
+Serial Number: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Replacement: 255
+
+Application firmware
+Project Name: M11_Washer
+Software Project Type: Application firmware
+Release Number: S00_05_00
+Release Date: 2018-01-17
+Release Version: 0.5.0
+Micro Vendor: FREESCALE
+Micro Family: ?
+Platform Type: HA Washer
+Device Type: Hmi
+Endianess: Little endian
+Product Type: 0
+Class B CRC: 00006d62
+
+Board ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Part Number: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Revision: -1.-1
+Serial Number: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Replacement: 255
+
+EOL Test 1
+Tester ID: 255
+Tester Version: 255.255.255
+Test Date: 0000-00-00
+Test Result: FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF
+
+EOL Test 2
+Tester ID: 255
+Tester Version: 255.255.255
+Test Date: 0000-00-00
+Test Result: FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF
+
+EOL Test 3
+Tester ID: 255
+Tester Version: 255.255.255
+Test Date: 0000-00-00
+Test Result: FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF
+
+FVT Test 1
+Tester ID: 255
+Tester Version: 255.255.255
+Test Date: 0000-00-00
+Test Result: FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF
+
+FVT Test 2
+Tester ID: 255
+Tester Version: 255.255.255
+Test Date: 0000-00-00
+Test Result: FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF
+
+FVT Test 3
+Tester ID: 255
+Tester Version: 255.255.255
+Test Date: 0000-00-00
+Test Result: FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF
+
+Class B Signature
+Class B Signature 1st Part: E9212E846EC1B21A409E729F98F3DF7F
+Class B Signature 2nd Part: 9A86DF1BC0EFCFD9BACD2995679A0BA7
+

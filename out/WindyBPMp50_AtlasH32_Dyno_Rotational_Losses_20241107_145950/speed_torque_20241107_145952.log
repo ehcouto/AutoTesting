@@ -1,0 +1,45 @@
+2024-11-07 14:59:52,695-INFO- RUNNING THE TEST
+2024-11-07 14:59:59,713-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20241107_145959.visaacq
+2024-11-07 15:00:00,725-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20241107_150000.mcacq
+2024-11-07 15:00:02,441-INFO- Set torque request detected
+2024-11-07 15:00:02,441-INFO- Value to set: 0
+2024-11-07 15:00:06,750-INFO- Applying demagnetization algorithm
+2024-11-07 15:00:07,279-INFO- Write request detected
+2024-11-07 15:00:07,279-INFO- Symbol to write: BD_Target_Speed
+2024-11-07 15:00:07,899-INFO- Write request detected
+2024-11-07 15:00:07,899-INFO- Symbol to write: BD_Target_Accel
+2024-11-07 15:00:10,934-INFO- Write request detected
+2024-11-07 15:00:10,934-INFO- Symbol to write: BD_Update_Cmd
+2024-11-07 15:00:12,869-INFO- Current speed: 689.786378
+2024-11-07 15:00:12,869-INFO- Speed error: 310.213622
+2024-11-07 15:00:14,874-INFO- Current speed: 1013.960634
+2024-11-07 15:00:14,875-INFO- Speed error: 13.960634
+2024-11-07 15:00:19,038-INFO- Set torque request detected
+2024-11-07 15:00:19,038-INFO- Value to set: 0.5
+2024-11-07 15:00:24,197-INFO- Write request detected
+2024-11-07 15:00:24,198-INFO- Symbol to write: BD_Target_Speed
+2024-11-07 15:00:24,353-INFO- Set torque request detected
+2024-11-07 15:00:24,353-INFO- Value to set: 0
+2024-11-07 15:00:25,412-INFO- Write request detected
+2024-11-07 15:00:25,412-INFO- Symbol to write: BD_Target_Accel
+2024-11-07 15:00:28,436-INFO- Write request detected
+2024-11-07 15:00:28,436-INFO- Symbol to write: BD_Update_Cmd
+2024-11-07 15:00:29,969-INFO- Current speed: 445.051775
+2024-11-07 15:00:29,969-INFO- Speed error: 445.051775
+2024-11-07 15:00:31,978-INFO- Current speed: 0.000000
+2024-11-07 15:00:31,978-INFO- Speed error: 0.000000
+2024-11-07 15:00:35,004-INFO- STARTING STEP N.0/9
+2024-11-07 15:00:35,004-INFO- TORQUE MIN: 0.23
+2024-11-07 15:00:35,004-INFO- TORQUE MAX: 0.234
+2024-11-07 15:00:35,004-INFO- TORQUE STEP: 0.001
+2024-11-07 15:00:35,581-INFO- Write request detected
+2024-11-07 15:00:35,581-INFO- Symbol to write: BD_Target_Speed
+2024-11-07 15:00:36,188-INFO- Write request detected
+2024-11-07 15:00:36,188-INFO- Symbol to write: BD_Target_Accel
+2024-11-07 15:00:39,234-INFO- Write request detected
+2024-11-07 15:00:39,234-INFO- Symbol to write: BD_Update_Cmd
+2024-11-07 15:00:41,494-INFO- Termination Request
+2024-11-07 15:00:41,805-INFO- Termination Request
+2024-11-07 15:00:41,807-INFO- Safe stopping the autotest!
+2024-11-07 15:00:43,922-WARNING- Wasnt able to apply 0 speed! Error setting motor speed: 'MCComThread' object has no attribute 'is_alive'
+2024-11-07 15:00:43,922-WARNING- Did not stop: Error stopping acquisition for engine PYVISA: Could not stop acquisition that is not started!

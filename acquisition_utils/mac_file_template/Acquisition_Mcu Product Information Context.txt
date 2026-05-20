@@ -1,0 +1,64 @@
+Appliance Data
+Model Number: 
+Serial Number: 
+
+Board 1
+Part Number: 
+Revision: 0.0
+Serial Number: 
+Replacement: 0
+
+Application firmware
+Project Name: Windy CIM
+Software Project Type: Application firmware
+Release Number: 0000000000
+Release Date: 2018-01-15
+Release Version: 0.1.6
+Micro Vendor: NXP
+Micro Family: MKV30xxx
+Platform Type: HA Washer
+Device Type: Mcu
+Endianess: Little endian
+Product Type: 0
+Class B CRC: 0000ac31
+
+EOL Test 1
+Tester ID: 0
+Tester Version: 0.0.0
+Test Date: 0000-00-00
+Test Result: 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+
+EOL Test 2
+Tester ID: 0
+Tester Version: 0.0.0
+Test Date: 0000-00-00
+Test Result: 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+
+EOL Test 3
+Tester ID: 0
+Tester Version: 0.0.0
+Test Date: 0000-00-00
+Test Result: 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+
+FVT Test 1
+Tester ID: 0
+Tester Version: 0.0.0
+Test Date: 0000-00-00
+Test Result: 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+
+FVT Test 2
+Tester ID: 0
+Tester Version: 0.0.0
+Test Date: 0000-00-00
+Test Result: 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+
+FVT Test 3
+Tester ID: 0
+Tester Version: 0.0.0
+Test Date: 0000-00-00
+Test Result: 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+
+Class B Signature
+Class B Signature 1st Part: 9F7B941AE5A147E7DA32FE89D0759BF3
+Class B Signature 2nd Part: 203DCC51D41EBBC4210E68EE32EAF0CC
+

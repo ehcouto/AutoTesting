@@ -1,0 +1,133 @@
+2025-05-09 10:52:14,695-INFO- RUNNING THE TEST
+2025-05-09 10:52:21,697-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20250509_105221.visaacq
+2025-05-09 10:52:22,713-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20250509_105222.mcacq
+2025-05-09 10:52:24,435-INFO- Set torque request detected
+2025-05-09 10:52:24,435-INFO- Value to set: 0
+2025-05-09 10:52:28,730-INFO- Applying demagnetization algorithm
+2025-05-09 10:52:28,808-INFO- Write request detected
+2025-05-09 10:52:28,808-INFO- Symbol to write: BD_Target_Speed
+2025-05-09 10:52:30,068-INFO- Write request detected
+2025-05-09 10:52:30,068-INFO- Symbol to write: BD_Target_Accel
+2025-05-09 10:52:33,183-INFO- Write request detected
+2025-05-09 10:52:33,183-INFO- Symbol to write: BD_Update_Cmd
+2025-05-09 10:52:33,258-WARNING- Read request error: Request error:  Checksum error
+2025-05-09 10:52:33,258-WARNING- Discarding the packet
+2025-05-09 10:52:33,785-WARNING- Read request error: Request error:  Checksum error
+2025-05-09 10:52:33,785-WARNING- Discarding the packet
+2025-05-09 10:52:34,791-INFO- Current speed: -0.982666
+2025-05-09 10:52:34,791-INFO- Speed error: 1000.982666
+2025-05-09 10:52:35,011-WARNING- Read request error: Request error:  Checksum error
+2025-05-09 10:52:35,011-WARNING- Discarding the packet
+2025-05-09 10:52:36,155-WARNING- Read request error: Request error:  Checksum error
+2025-05-09 10:52:36,155-WARNING- Discarding the packet
+2025-05-09 10:52:36,808-INFO- Current speed: 373.268709
+2025-05-09 10:52:36,808-INFO- Speed error: 626.731291
+2025-05-09 10:52:38,820-INFO- Current speed: 1009.616707
+2025-05-09 10:52:38,820-INFO- Speed error: 9.616707
+2025-05-09 10:52:39,851-WARNING- Read request error: Request error:  Checksum error
+2025-05-09 10:52:39,851-WARNING- Discarding the packet
+2025-05-09 10:52:43,353-INFO- Set torque request detected
+2025-05-09 10:52:43,353-INFO- Value to set: 0.5
+2025-05-09 10:52:47,917-INFO- Set torque request detected
+2025-05-09 10:52:47,917-INFO- Value to set: 0
+2025-05-09 10:52:48,413-INFO- Write request detected
+2025-05-09 10:52:48,413-INFO- Symbol to write: BD_Target_Speed
+2025-05-09 10:52:49,041-INFO- Write request detected
+2025-05-09 10:52:49,041-INFO- Symbol to write: BD_Target_Accel
+2025-05-09 10:52:49,778-WARNING- Read request error: Request error:  Checksum error
+2025-05-09 10:52:49,779-WARNING- Discarding the packet
+2025-05-09 10:52:52,129-INFO- Write request detected
+2025-05-09 10:52:52,129-INFO- Symbol to write: BD_Update_Cmd
+2025-05-09 10:52:53,963-INFO- Current speed: 444.388245
+2025-05-09 10:52:53,963-INFO- Speed error: 444.388245
+2025-05-09 10:52:55,980-INFO- Current speed: 0.000000
+2025-05-09 10:52:55,980-INFO- Speed error: 0.000000
+2025-05-09 10:52:58,994-INFO- STARTING STEP N.0/0
+2025-05-09 10:52:58,994-INFO- TORQUE MIN: 0.1
+2025-05-09 10:52:58,994-INFO- TORQUE MAX: 1.1
+2025-05-09 10:52:58,994-INFO- TORQUE STEP: 0.5
+2025-05-09 10:52:59,460-INFO- Write request detected
+2025-05-09 10:52:59,461-INFO- Symbol to write: BD_Target_Speed
+2025-05-09 10:53:00,091-INFO- Write request detected
+2025-05-09 10:53:00,091-INFO- Symbol to write: BD_Target_Accel
+2025-05-09 10:53:03,201-INFO- Write request detected
+2025-05-09 10:53:03,201-INFO- Symbol to write: BD_Update_Cmd
+2025-05-09 10:53:05,074-INFO- Set torque request detected
+2025-05-09 10:53:05,075-INFO- Value to set: 0
+2025-05-09 10:53:07,075-INFO- Target speed: 780.000000
+2025-05-09 10:53:07,554-INFO- Write request detected
+2025-05-09 10:53:07,554-INFO- Symbol to write: BD_Target_Speed
+2025-05-09 10:53:08,193-INFO- Write request detected
+2025-05-09 10:53:08,194-INFO- Symbol to write: BD_Target_Accel
+2025-05-09 10:53:11,316-INFO- Write request detected
+2025-05-09 10:53:11,317-INFO- Symbol to write: BD_Update_Cmd
+2025-05-09 10:53:11,402-WARNING- Read request error: Request error:  Checksum error
+2025-05-09 10:53:11,402-WARNING- Discarding the packet
+2025-05-09 10:53:13,132-INFO- Current speed: 482.101380
+2025-05-09 10:53:13,132-INFO- Speed error: 297.898620
+2025-05-09 10:53:15,147-INFO- Current speed: 781.457060
+2025-05-09 10:53:15,147-INFO- Speed error: 1.457060
+2025-05-09 10:53:15,705-WARNING- Read request error: Request error:  Checksum error
+2025-05-09 10:53:15,706-WARNING- Discarding the packet
+2025-05-09 10:53:17,152-INFO- Applying torque value: 0.044000
+2025-05-09 10:53:17,355-INFO- Set torque request detected
+2025-05-09 10:53:17,355-INFO- Value to set: 0.044
+2025-05-09 10:53:18,168-INFO- Read torque: -0.045000
+2025-05-09 10:53:19,183-INFO- Applying torque value: 0.308000
+2025-05-09 10:53:19,683-INFO- Set torque request detected
+2025-05-09 10:53:19,684-INFO- Value to set: 0.308
+2025-05-09 10:53:20,195-INFO- Read torque: -0.046000
+2025-05-09 10:53:21,207-INFO- Applying torque value: 0.572000
+2025-05-09 10:53:21,299-INFO- Set torque request detected
+2025-05-09 10:53:21,300-INFO- Value to set: 0.5720000000000001
+2025-05-09 10:53:22,422-INFO- Read torque: -0.420000
+2025-05-09 10:53:23,529-INFO- Applying torque value: 0.836000
+2025-05-09 10:53:23,685-INFO- Set torque request detected
+2025-05-09 10:53:23,685-INFO- Value to set: 0.8360000000000001
+2025-05-09 10:53:24,536-INFO- Read torque: -0.622000
+2025-05-09 10:53:25,550-INFO- Applying torque value: 1.100000
+2025-05-09 10:53:26,080-INFO- Set torque request detected
+2025-05-09 10:53:26,080-INFO- Value to set: 1.1
+2025-05-09 10:53:26,565-INFO- Read torque: -0.881000
+2025-05-09 10:53:27,577-INFO- Final torque reached: -1.095000
+2025-05-09 10:53:27,577-INFO- Starting the measures
+2025-05-09 10:53:30,587-INFO- Applying torque value: 1.100000
+2025-05-09 10:53:30,587-INFO- Elapsed Time [Secs]: 0.000009
+2025-05-09 10:53:30,587-INFO- Measured Temperature [C]: 41.869062
+2025-05-09 10:53:30,594-INFO- Estimated ClassA Temperature [C]: 68.047302
+2025-05-09 10:53:30,602-INFO- Estimated ClassB Temperature [C]: 43.099434
+2025-05-09 10:53:30,665-INFO- Set torque request detected
+2025-05-09 10:53:30,665-INFO- Value to set: 1.1
+2025-05-09 10:53:36,607-INFO- Applying torque value: 0.600000
+2025-05-09 10:53:36,607-INFO- Elapsed Time [Secs]: 6.020111
+2025-05-09 10:53:36,607-INFO- Measured Temperature [C]: 42.171057
+2025-05-09 10:53:36,708-INFO- Estimated ClassA Temperature [C]: 68.799225
+2025-05-09 10:53:36,717-INFO- Estimated ClassB Temperature [C]: 43.199951
+2025-05-09 10:53:36,734-INFO- Set torque request detected
+2025-05-09 10:53:36,734-INFO- Value to set: 0.6000000000000001
+2025-05-09 10:53:42,725-INFO- Applying torque value: 0.100000
+2025-05-09 10:53:42,725-INFO- Elapsed Time [Secs]: 12.137874
+2025-05-09 10:53:42,852-INFO- Measured Temperature [C]: 42.411766
+2025-05-09 10:53:42,906-INFO- Estimated ClassA Temperature [C]: 68.399902
+2025-05-09 10:53:42,915-INFO- Estimated ClassB Temperature [C]: 43.220642
+2025-05-09 10:53:43,362-INFO- Set torque request detected
+2025-05-09 10:53:43,362-INFO- Value to set: 0.1
+2025-05-09 10:53:50,133-INFO- Set torque request detected
+2025-05-09 10:53:50,133-INFO- Value to set: 0
+2025-05-09 10:53:50,196-INFO- Write request detected
+2025-05-09 10:53:50,196-INFO- Symbol to write: BD_Target_Speed
+2025-05-09 10:53:51,443-INFO- Write request detected
+2025-05-09 10:53:51,443-INFO- Symbol to write: BD_Target_Accel
+2025-05-09 10:53:54,574-INFO- Write request detected
+2025-05-09 10:53:54,574-INFO- Symbol to write: BD_Update_Cmd
+2025-05-09 10:53:58,114-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2025-05-09 10:53:58,114-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2025-05-09 10:54:00,118-INFO- Stop Acquisition
+2025-05-09 10:54:00,836-INFO- Termination Request
+2025-05-09 10:54:01,528-INFO- Termination Request
+2025-05-09 10:54:01,534-INFO- Calculated offset for syncing: 0.435682
+2025-05-09 10:54:03,665-INFO- Extracting acquisition with marker value: 1
+2025-05-09 10:54:03,667-WARNING- Sub-acquisition too short!
+2025-05-09 10:54:03,669-INFO- Extracting acquisition with marker value: 2
+2025-05-09 10:54:03,674-INFO- Extracting acquisition with marker value: 3
+2025-05-09 10:54:03,677-WARNING- Sub-acquisition too short!

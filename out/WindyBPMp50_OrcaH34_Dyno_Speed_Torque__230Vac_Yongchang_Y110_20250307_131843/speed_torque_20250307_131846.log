@@ -1,0 +1,274 @@
+2025-03-07 13:18:46,061-INFO- RUNNING THE TEST
+2025-03-07 13:18:53,071-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20250307_131853.visaacq
+2025-03-07 13:18:54,072-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20250307_131854.mcacq
+2025-03-07 13:18:55,081-INFO- Set torque request detected
+2025-03-07 13:18:55,081-INFO- Value to set: 0
+2025-03-07 13:19:00,082-INFO- Applying demagnetization algorithm
+2025-03-07 13:19:00,551-INFO- Write request detected
+2025-03-07 13:19:00,551-INFO- Symbol to write: BD_Target_Speed
+2025-03-07 13:19:01,172-INFO- Write request detected
+2025-03-07 13:19:01,172-INFO- Symbol to write: BD_Target_Accel
+2025-03-07 13:19:01,495-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2025-03-07 13:19:01,495-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2025-03-07 13:19:04,152-INFO- Write request detected
+2025-03-07 13:19:04,152-INFO- Symbol to write: BD_Update_Cmd
+2025-03-07 13:19:04,241-WARNING- Read request error: Request error:  Checksum error
+2025-03-07 13:19:04,241-WARNING- Discarding the packet
+2025-03-07 13:19:05,968-WARNING- Read request error: Request error:  Checksum error
+2025-03-07 13:19:05,968-WARNING- Discarding the packet
+2025-03-07 13:19:06,123-INFO- Current speed: 0.222376
+2025-03-07 13:19:06,123-INFO- Speed error: 999.777624
+2025-03-07 13:19:08,132-INFO- Current speed: 410.456521
+2025-03-07 13:19:08,132-INFO- Speed error: 589.543479
+2025-03-07 13:19:10,132-INFO- Current speed: 1016.169317
+2025-03-07 13:19:10,132-INFO- Speed error: 16.169317
+2025-03-07 13:19:14,598-INFO- Set torque request detected
+2025-03-07 13:19:14,598-INFO- Value to set: 0.5
+2025-03-07 13:19:19,184-INFO- Set torque request detected
+2025-03-07 13:19:19,184-INFO- Value to set: 0
+2025-03-07 13:19:19,549-INFO- Write request detected
+2025-03-07 13:19:19,549-INFO- Symbol to write: BD_Target_Speed
+2025-03-07 13:19:20,744-INFO- Write request detected
+2025-03-07 13:19:20,744-INFO- Symbol to write: BD_Target_Accel
+2025-03-07 13:19:23,737-INFO- Write request detected
+2025-03-07 13:19:23,737-INFO- Symbol to write: BD_Update_Cmd
+2025-03-07 13:19:25,266-INFO- Current speed: 466.869913
+2025-03-07 13:19:25,266-INFO- Speed error: 466.869913
+2025-03-07 13:19:27,281-INFO- Current speed: 0.000000
+2025-03-07 13:19:27,281-INFO- Speed error: 0.000000
+2025-03-07 13:19:30,299-INFO- STARTING STEP N.0/5
+2025-03-07 13:19:30,299-INFO- TORQUE MIN: 0.2
+2025-03-07 13:19:30,299-INFO- TORQUE MAX: 2.9
+2025-03-07 13:19:30,299-INFO- TORQUE STEP: 0.1
+2025-03-07 13:19:30,791-INFO- Write request detected
+2025-03-07 13:19:30,791-INFO- Symbol to write: BD_Target_Speed
+2025-03-07 13:19:31,405-INFO- Write request detected
+2025-03-07 13:19:31,405-INFO- Symbol to write: BD_Target_Accel
+2025-03-07 13:19:34,391-INFO- Write request detected
+2025-03-07 13:19:34,391-INFO- Symbol to write: BD_Update_Cmd
+2025-03-07 13:19:36,322-INFO- Applying motor heating algorithm
+2025-03-07 13:19:36,322-INFO- Initial temperature: 44.171109
+2025-03-07 13:19:36,322-INFO- Motor temperature already reached. Cooling down
+2025-03-07 13:19:36,322-INFO- Cooling down - Temperature: 44.171109
+2025-03-07 13:19:36,342-INFO- Set torque request detected
+2025-03-07 13:19:36,342-INFO- Value to set: 0
+2025-03-07 13:19:38,330-INFO- Cooling down - Temperature: 44.098834
+2025-03-07 13:19:40,517-INFO- Cooling down - Temperature: 44.053348
+2025-03-07 13:19:42,739-INFO- Cooling down - Temperature: 43.961461
+2025-03-07 13:19:44,935-INFO- Cooling down - Temperature: 43.912358
+2025-03-07 13:19:47,153-INFO- Cooling down - Temperature: 43.835315
+2025-03-07 13:19:49,371-INFO- Cooling down - Temperature: 43.795438
+2025-03-07 13:19:51,585-INFO- Cooling down - Temperature: 43.713645
+2025-03-07 13:19:53,801-INFO- Cooling down - Temperature: 43.653249
+2025-03-07 13:19:55,979-INFO- Cooling down - Temperature: 43.577970
+2025-03-07 13:19:58,185-INFO- Cooling down - Temperature: 43.530408
+2025-03-07 13:20:00,380-INFO- Cooling down - Temperature: 43.447220
+2025-03-07 13:20:02,591-INFO- Cooling down - Temperature: 43.410694
+2025-03-07 13:20:04,836-INFO- Cooling down - Temperature: 43.372586
+2025-03-07 13:20:07,071-INFO- Cooling down - Temperature: 43.289372
+2025-03-07 13:20:09,301-INFO- Cooling down - Temperature: 43.244940
+2025-03-07 13:20:11,306-INFO- Cooling down - Temperature: 43.221482
+2025-03-07 13:20:13,477-INFO- Cooling down - Temperature: 43.140950
+2025-03-07 13:20:15,676-INFO- Cooling down - Temperature: 43.099213
+2025-03-07 13:20:17,893-INFO- Cooling down - Temperature: 43.064918
+2025-03-07 13:20:20,093-INFO- Cooling down - Temperature: 43.032877
+2025-03-07 13:20:22,299-INFO- Cooling down - Temperature: 42.977817
+2025-03-07 13:20:24,499-INFO- Cooling down - Temperature: 42.931101
+2025-03-07 13:20:26,706-INFO- Cooling down - Temperature: 42.892280
+2025-03-07 13:20:28,902-INFO- Cooling down - Temperature: 42.855262
+2025-03-07 13:20:31,113-INFO- Cooling down - Temperature: 42.829077
+2025-03-07 13:20:33,333-INFO- Cooling down - Temperature: 42.787992
+2025-03-07 13:20:35,341-INFO- Cooling down - Temperature: 42.780767
+2025-03-07 13:20:37,343-INFO- Cooling down - Temperature: 42.737646
+2025-03-07 13:20:39,348-INFO- Cooling down - Temperature: 42.687746
+2025-03-07 13:20:41,571-INFO- Cooling down - Temperature: 42.628131
+2025-03-07 13:20:43,792-INFO- Cooling down - Temperature: 42.612775
+2025-03-07 13:20:46,000-INFO- Cooling down - Temperature: 42.568961
+2025-03-07 13:20:48,000-INFO- Cooling down - Temperature: 42.513398
+2025-03-07 13:20:50,186-INFO- Cooling down - Temperature: 42.476804
+2025-03-07 13:20:52,402-INFO- Cooling down - Temperature: 42.415357
+2025-03-07 13:20:54,609-INFO- Cooling down - Temperature: 42.399542
+2025-03-07 13:20:56,831-INFO- Cooling down - Temperature: 42.335826
+2025-03-07 13:20:58,833-INFO- Cooling down - Temperature: 42.324753
+2025-03-07 13:21:00,841-INFO- Cooling down - Temperature: 42.249954
+2025-03-07 13:21:02,854-INFO- Cooling down - Temperature: 42.264418
+2025-03-07 13:21:04,999-INFO- Cooling down - Temperature: 42.228032
+2025-03-07 13:21:07,214-INFO- Cooling down - Temperature: 42.164294
+2025-03-07 13:21:09,426-INFO- Cooling down - Temperature: 42.115242
+2025-03-07 13:21:11,645-INFO- Cooling down - Temperature: 42.139881
+2025-03-07 13:21:13,844-INFO- Cooling down - Temperature: 42.080654
+2025-03-07 13:21:16,059-INFO- Cooling down - Temperature: 42.030463
+2025-03-07 13:21:18,251-INFO- Cooling down - Temperature: 42.030237
+2025-03-07 13:21:20,466-INFO- Cooling down - Temperature: 41.961273
+2025-03-07 13:21:22,687-INFO- Cooling down - Temperature: 41.959690
+2025-03-07 13:21:24,884-INFO- Cooling down - Temperature: 41.923508
+2025-03-07 13:21:26,893-INFO- Cooling down - Temperature: 41.893883
+2025-03-07 13:21:29,060-INFO- Cooling down - Temperature: 41.856792
+2025-03-07 13:21:31,271-INFO- Cooling down - Temperature: 41.834852
+2025-03-07 13:21:33,469-INFO- Cooling down - Temperature: 41.810876
+2025-03-07 13:21:35,687-INFO- Cooling down - Temperature: 41.768802
+2025-03-07 13:21:37,893-INFO- Cooling down - Temperature: 41.728308
+2025-03-07 13:21:40,093-INFO- Cooling down - Temperature: 41.692563
+2025-03-07 13:21:42,329-INFO- Cooling down - Temperature: 41.679440
+2025-03-07 13:21:44,528-INFO- Cooling down - Temperature: 41.627625
+2025-03-07 13:21:46,729-INFO- Cooling down - Temperature: 41.612238
+2025-03-07 13:21:48,926-INFO- Cooling down - Temperature: 41.573316
+2025-03-07 13:21:51,131-INFO- Cooling down - Temperature: 41.568563
+2025-03-07 13:21:53,333-INFO- Cooling down - Temperature: 41.514927
+2025-03-07 13:21:55,571-INFO- Cooling down - Temperature: 41.492520
+2025-03-07 13:21:57,791-INFO- Cooling down - Temperature: 41.448156
+2025-03-07 13:22:00,001-INFO- Cooling down - Temperature: 41.425519
+2025-03-07 13:22:02,217-INFO- Cooling down - Temperature: 41.363943
+2025-03-07 13:22:04,230-INFO- Cooling down - Temperature: 41.372546
+2025-03-07 13:22:06,427-INFO- Cooling down - Temperature: 41.315040
+2025-03-07 13:22:08,634-INFO- Cooling down - Temperature: 41.282208
+2025-03-07 13:22:10,845-INFO- Cooling down - Temperature: 41.273603
+2025-03-07 13:22:13,070-INFO- Cooling down - Temperature: 41.231258
+2025-03-07 13:22:15,071-INFO- Cooling down - Temperature: 41.195477
+2025-03-07 13:22:17,078-INFO- Cooling down - Temperature: 41.171697
+2025-03-07 13:22:19,080-INFO- Cooling down - Temperature: 41.149954
+2025-03-07 13:22:21,331-INFO- Cooling down - Temperature: 41.135458
+2025-03-07 13:22:23,562-INFO- Cooling down - Temperature: 41.114620
+2025-03-07 13:22:25,746-INFO- Cooling down - Temperature: 41.079057
+2025-03-07 13:22:27,946-INFO- Cooling down - Temperature: 41.044171
+2025-03-07 13:22:30,133-INFO- Cooling down - Temperature: 41.047569
+2025-03-07 13:22:32,334-INFO- Cooling down - Temperature: 40.978470
+2025-03-07 13:22:34,560-INFO- Cooling down - Temperature: 40.967368
+2025-03-07 13:22:36,756-INFO- Cooling down - Temperature: 40.939725
+2025-03-07 13:22:38,962-INFO- Cooling down - Temperature: 40.871744
+2025-03-07 13:22:40,969-INFO- Cooling down - Temperature: 40.908001
+2025-03-07 13:22:43,145-INFO- Cooling down - Temperature: 40.861999
+2025-03-07 13:22:45,352-INFO- Cooling down - Temperature: 40.823698
+2025-03-07 13:22:47,572-INFO- Cooling down - Temperature: 40.820752
+2025-03-07 13:22:49,576-INFO- Cooling down - Temperature: 40.821885
+2025-03-07 13:22:51,584-INFO- Cooling down - Temperature: 40.773609
+2025-03-07 13:22:53,589-INFO- Cooling down - Temperature: 40.753889
+2025-03-07 13:22:55,824-INFO- Cooling down - Temperature: 40.739608
+2025-03-07 13:22:58,020-INFO- Cooling down - Temperature: 40.699938
+2025-03-07 13:23:00,225-INFO- Cooling down - Temperature: 40.641447
+2025-03-07 13:23:02,446-INFO- Cooling down - Temperature: 40.641674
+2025-03-07 13:23:04,635-INFO- Cooling down - Temperature: 40.612426
+2025-03-07 13:23:06,851-INFO- Cooling down - Temperature: 40.607211
+2025-03-07 13:23:09,070-INFO- Cooling down - Temperature: 40.573199
+2025-03-07 13:23:11,334-INFO- Cooling down - Temperature: 40.563221
+2025-03-07 13:23:13,337-INFO- Cooling down - Temperature: 40.504034
+2025-03-07 13:23:15,342-INFO- Cooling down - Temperature: 40.494963
+2025-03-07 13:23:17,343-INFO- Cooling down - Temperature: 40.471830
+2025-03-07 13:23:19,344-INFO- Cooling down - Temperature: 40.435314
+2025-03-07 13:23:21,424-INFO- Cooling down - Temperature: 40.404693
+2025-03-07 13:23:23,620-INFO- Cooling down - Temperature: 40.387226
+2025-03-07 13:23:25,833-INFO- Cooling down - Temperature: 40.363408
+2025-03-07 13:23:28,050-INFO- Cooling down - Temperature: 40.332102
+2025-03-07 13:23:30,251-INFO- Cooling down - Temperature: 40.311003
+2025-03-07 13:23:32,467-INFO- Cooling down - Temperature: 40.307600
+2025-03-07 13:23:34,674-INFO- Cooling down - Temperature: 40.270164
+2025-03-07 13:23:36,892-INFO- Cooling down - Temperature: 40.250878
+2025-03-07 13:23:39,090-INFO- Cooling down - Temperature: 40.203227
+2025-03-07 13:23:41,322-INFO- Cooling down - Temperature: 40.174180
+2025-03-07 13:23:43,533-INFO- Cooling down - Temperature: 40.184846
+2025-03-07 13:23:45,726-INFO- Cooling down - Temperature: 40.140139
+2025-03-07 13:23:47,927-INFO- Cooling down - Temperature: 40.100421
+2025-03-07 13:23:50,136-INFO- Cooling down - Temperature: 40.102237
+2025-03-07 13:23:52,355-INFO- Cooling down - Temperature: 40.072277
+2025-03-07 13:23:54,563-INFO- Cooling down - Temperature: 40.051167
+2025-03-07 13:23:56,584-INFO- Cooling down - Temperature: 40.046400
+2025-03-07 13:23:58,791-INFO- Cooling down - Temperature: 39.956049
+2025-03-07 13:23:58,791-INFO- Target temperature reached
+2025-03-07 13:24:00,792-INFO- Target speed: 381.000000
+2025-03-07 13:24:01,167-INFO- Write request detected
+2025-03-07 13:24:01,167-INFO- Symbol to write: BD_Target_Speed
+2025-03-07 13:24:02,367-INFO- Write request detected
+2025-03-07 13:24:02,367-INFO- Symbol to write: BD_Target_Accel
+2025-03-07 13:24:05,363-INFO- Write request detected
+2025-03-07 13:24:05,363-INFO- Symbol to write: BD_Update_Cmd
+2025-03-07 13:24:05,439-WARNING- Read request error: Request error:  Checksum error
+2025-03-07 13:24:05,439-WARNING- Discarding the packet
+2025-03-07 13:24:06,893-INFO- Current speed: -0.113760
+2025-03-07 13:24:06,893-INFO- Speed error: 381.113760
+2025-03-07 13:24:08,937-INFO- Current speed: 374.728512
+2025-03-07 13:24:08,937-INFO- Speed error: 6.271488
+2025-03-07 13:24:10,937-INFO- Applying torque value: 0.033000
+2025-03-07 13:24:11,082-INFO- Set torque request detected
+2025-03-07 13:24:11,082-INFO- Value to set: 0.033
+2025-03-07 13:24:12,168-INFO- Read torque: -0.034000
+2025-03-07 13:24:13,181-INFO- Applying torque value: 0.749750
+2025-03-07 13:24:13,426-INFO- Set torque request detected
+2025-03-07 13:24:13,426-INFO- Value to set: 0.74975
+2025-03-07 13:24:14,187-INFO- Read torque: -0.036000
+2025-03-07 13:24:15,238-INFO- Applying torque value: 1.466500
+2025-03-07 13:24:15,738-INFO- Set torque request detected
+2025-03-07 13:24:15,738-INFO- Value to set: 1.4665
+2025-03-07 13:24:16,241-INFO- Read torque: -0.611000
+2025-03-07 13:24:17,246-INFO- Applying torque value: 2.183250
+2025-03-07 13:24:17,364-INFO- Set torque request detected
+2025-03-07 13:24:17,364-INFO- Value to set: 2.1832499999999997
+2025-03-07 13:24:18,460-INFO- Read torque: -2.116000
+2025-03-07 13:24:19,462-INFO- Applying torque value: 2.900000
+2025-03-07 13:24:19,696-INFO- Set torque request detected
+2025-03-07 13:24:19,696-INFO- Value to set: 2.9
+2025-03-07 13:24:20,464-INFO- Read torque: -2.256000
+2025-03-07 13:24:21,520-INFO- Final torque reached: -2.898000
+2025-03-07 13:24:21,520-INFO- Starting the measures
+2025-03-07 13:24:24,528-INFO- Applying torque value: 2.900000
+2025-03-07 13:24:24,528-INFO- Elapsed Time [Secs]: 0.000008
+2025-03-07 13:24:24,528-INFO- Measured Temperature [C]: 46.395563
+2025-03-07 13:24:24,528-INFO- Estimated ClassA Temperature [C]: 68.230133
+2025-03-07 13:24:24,533-INFO- Estimated ClassB Temperature [C]: 62.185333
+2025-03-07 13:24:24,980-INFO- Set torque request detected
+2025-03-07 13:24:24,980-INFO- Value to set: 2.9
+2025-03-07 13:24:30,543-INFO- Applying torque value: 2.800000
+2025-03-07 13:24:30,543-INFO- Elapsed Time [Secs]: 6.015329
+2025-03-07 13:24:30,593-INFO- Measured Temperature [C]: 55.444241
+2025-03-07 13:24:30,593-INFO- Estimated ClassA Temperature [C]: 73.595856
+2025-03-07 13:24:30,603-INFO- Estimated ClassB Temperature [C]: 66.780884
+2025-03-07 13:24:31,102-INFO- Set torque request detected
+2025-03-07 13:24:31,102-INFO- Value to set: 2.8
+2025-03-07 13:24:36,612-INFO- Applying torque value: 2.700000
+2025-03-07 13:24:36,612-INFO- Elapsed Time [Secs]: 12.083685
+2025-03-07 13:24:36,612-INFO- Measured Temperature [C]: 64.361880
+2025-03-07 13:24:36,612-INFO- Estimated ClassA Temperature [C]: 76.205536
+2025-03-07 13:24:36,622-INFO- Estimated ClassB Temperature [C]: 71.295952
+2025-03-07 13:24:36,874-INFO- Set torque request detected
+2025-03-07 13:24:36,874-INFO- Value to set: 2.6999999999999997
+2025-03-07 13:24:42,626-INFO- Applying torque value: 2.600000
+2025-03-07 13:24:42,626-INFO- Elapsed Time [Secs]: 18.097794
+2025-03-07 13:24:42,626-INFO- Measured Temperature [C]: 72.924984
+2025-03-07 13:24:42,626-INFO- Estimated ClassA Temperature [C]: 77.704163
+2025-03-07 13:24:42,640-INFO- Estimated ClassB Temperature [C]: 75.605713
+2025-03-07 13:24:42,902-INFO- Set torque request detected
+2025-03-07 13:24:42,902-INFO- Value to set: 2.6
+2025-03-07 13:24:48,645-INFO- Applying torque value: 2.500000
+2025-03-07 13:24:48,645-INFO- Elapsed Time [Secs]: 24.116642
+2025-03-07 13:24:48,645-INFO- Measured Temperature [C]: 80.340420
+2025-03-07 13:24:48,710-INFO- Estimated ClassA Temperature [C]: 79.000183
+2025-03-07 13:24:48,720-INFO- Estimated ClassB Temperature [C]: 79.739067
+2025-03-07 13:24:48,887-INFO- Set torque request detected
+2025-03-07 13:24:48,887-INFO- Value to set: 2.5
+2025-03-07 13:24:54,726-INFO- Applying torque value: 2.400000
+2025-03-07 13:24:54,726-INFO- Elapsed Time [Secs]: 30.198108
+2025-03-07 13:24:54,726-INFO- Measured Temperature [C]: 86.783972
+2025-03-07 13:24:54,726-INFO- Estimated ClassA Temperature [C]: 79.967957
+2025-03-07 13:24:54,736-INFO- Estimated ClassB Temperature [C]: 83.688408
+2025-03-07 13:24:54,907-INFO- Set torque request detected
+2025-03-07 13:24:54,907-INFO- Value to set: 2.4
+2025-03-07 13:25:00,746-INFO- Applying torque value: 2.300000
+2025-03-07 13:25:00,746-INFO- Elapsed Time [Secs]: 36.217534
+2025-03-07 13:25:00,746-INFO- Measured Temperature [C]: 92.175919
+2025-03-07 13:25:00,752-INFO- Estimated ClassA Temperature [C]: 80.776825
+2025-03-07 13:25:00,757-INFO- Estimated ClassB Temperature [C]: 87.443207
+2025-03-07 13:25:00,897-INFO- Set torque request detected
+2025-03-07 13:25:00,897-INFO- Value to set: 2.3
+2025-03-07 13:25:06,763-INFO- Applying torque value: 2.200000
+2025-03-07 13:25:06,763-INFO- Elapsed Time [Secs]: 42.234361
+2025-03-07 13:25:06,763-INFO- Measured Temperature [C]: 96.693081
+2025-03-07 13:25:06,763-INFO- Estimated ClassA Temperature [C]: 82.377045
+2025-03-07 13:25:06,772-INFO- Estimated ClassB Temperature [C]: 90.995605
+2025-03-07 13:25:06,906-INFO- Set torque request detected
+2025-03-07 13:25:06,906-INFO- Value to set: 2.2
+2025-03-07 13:25:12,783-INFO- Applying torque value: 2.100000
+2025-03-07 13:25:12,783-INFO- Elapsed Time [Secs]: 48.254368
+2025-03-07 13:25:12,933-INFO- Measured Temperature [C]: 97.345531
+2025-03-07 13:25:12,940-INFO- Estimated ClassA Temperature [C]: 79.209869
+2025-03-07 13:25:12,950-INFO- Estimated ClassB Temperature [C]: 94.620430
+2025-03-07 13:25:13,435-INFO- Set torque request detected
+2025-03-07 13:25:13,435-INFO- Value to set: 2.1

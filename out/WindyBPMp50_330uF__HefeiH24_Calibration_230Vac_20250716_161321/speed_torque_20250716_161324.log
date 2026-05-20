@@ -1,0 +1,783 @@
+2025-07-16 16:13:24,031-INFO- RUNNING THE TEST
+2025-07-16 16:13:31,044-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20250716_161331.visaacq
+2025-07-16 16:13:31,656-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:31,656-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:32,050-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20250716_161332.mcacq
+2025-07-16 16:13:32,176-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:32,176-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:32,690-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:32,690-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:33,199-INFO- Set torque request detected
+2025-07-16 16:13:33,199-INFO- Value to set: 0
+2025-07-16 16:13:33,480-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:33,480-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:33,990-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:33,990-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:34,520-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:34,520-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:35,030-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:35,030-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:35,549-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:35,549-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:36,075-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:36,075-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:36,604-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:36,604-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:37,146-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:37,146-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:37,665-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:37,665-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:38,061-INFO- Applying demagnetization algorithm
+2025-07-16 16:13:38,091-INFO- Write request detected
+2025-07-16 16:13:38,091-INFO- Symbol to write: BD_Target_Speed
+2025-07-16 16:13:38,181-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:38,181-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:38,700-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:38,700-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:39,231-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:39,231-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:39,313-INFO- Write request detected
+2025-07-16 16:13:39,313-INFO- Symbol to write: BD_Target_Accel
+2025-07-16 16:13:39,746-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:39,746-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:40,262-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:40,262-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:40,784-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:40,784-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:41,303-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:41,303-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:41,825-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:41,825-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:42,356-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:42,356-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:42,396-INFO- Write request detected
+2025-07-16 16:13:42,396-INFO- Symbol to write: BD_Update_Cmd
+2025-07-16 16:13:42,876-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:42,876-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:43,032-WARNING- Read request error: Request error:  Checksum error
+2025-07-16 16:13:43,032-WARNING- Discarding the packet
+2025-07-16 16:13:43,397-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:43,397-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:43,913-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:43,913-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:44,100-INFO- Current speed: -0.344940
+2025-07-16 16:13:44,100-INFO- Speed error: 1000.344940
+2025-07-16 16:13:44,429-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:44,438-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:44,960-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:44,960-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:45,480-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:45,480-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:46,009-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:46,009-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:46,105-INFO- Current speed: 454.791916
+2025-07-16 16:13:46,105-INFO- Speed error: 545.208084
+2025-07-16 16:13:46,531-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:46,531-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:47,053-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:47,053-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:47,580-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:47,580-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:48,092-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:48,092-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:48,112-INFO- Current speed: 999.782181
+2025-07-16 16:13:48,112-INFO- Speed error: 0.217819
+2025-07-16 16:13:48,616-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:48,616-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:49,135-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:49,135-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:49,646-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:49,646-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:50,169-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:50,169-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:50,690-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:50,690-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:51,210-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:51,210-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:51,731-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:51,731-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:52,237-INFO- Set torque request detected
+2025-07-16 16:13:52,237-INFO- Value to set: 0.8
+2025-07-16 16:13:52,388-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:52,388-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:52,916-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:52,916-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:53,440-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:53,440-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:53,961-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:53,961-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:54,480-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:54,480-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:55,001-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:55,001-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:55,210-INFO- Write request detected
+2025-07-16 16:13:55,210-INFO- Symbol to write: BD_Target_Speed
+2025-07-16 16:13:55,512-INFO- Set torque request detected
+2025-07-16 16:13:55,512-INFO- Value to set: 0
+2025-07-16 16:13:55,770-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:55,770-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:56,291-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:56,291-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:56,459-INFO- Write request detected
+2025-07-16 16:13:56,459-INFO- Symbol to write: BD_Target_Accel
+2025-07-16 16:13:56,803-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:56,803-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:57,325-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:57,325-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:57,856-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:57,856-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:58,414-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:58,414-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:58,943-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:58,943-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:59,470-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:59,470-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:59,544-INFO- Write request detected
+2025-07-16 16:13:59,544-INFO- Symbol to write: BD_Update_Cmd
+2025-07-16 16:13:59,989-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:13:59,989-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:00,511-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:00,511-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:01,032-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:01,032-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:01,159-INFO- Current speed: 441.864936
+2025-07-16 16:14:01,159-INFO- Speed error: 441.864936
+2025-07-16 16:14:01,550-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:01,550-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:02,069-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:02,069-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:02,594-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:02,594-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:03,104-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:03,104-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:03,172-INFO- Current speed: 0.000000
+2025-07-16 16:14:03,172-INFO- Speed error: 0.000000
+2025-07-16 16:14:03,621-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:03,621-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:04,157-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:04,157-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:04,687-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:04,687-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:05,204-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:05,204-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:05,731-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:05,731-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:06,179-INFO- STARTING STEP N.0/5
+2025-07-16 16:14:06,179-INFO- TORQUE MIN: 0.2
+2025-07-16 16:14:06,179-INFO- TORQUE MAX: 0.202
+2025-07-16 16:14:06,179-INFO- TORQUE STEP: 0.001
+2025-07-16 16:14:06,210-INFO- Write request detected
+2025-07-16 16:14:06,210-INFO- Symbol to write: BD_Target_Speed
+2025-07-16 16:14:06,250-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:06,250-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:06,773-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:06,773-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:07,294-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:07,294-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:07,444-INFO- Write request detected
+2025-07-16 16:14:07,445-INFO- Symbol to write: BD_Target_Accel
+2025-07-16 16:14:07,811-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:07,811-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:08,322-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:08,322-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:08,846-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:08,846-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:09,406-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:09,406-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:09,928-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:09,928-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:10,449-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:10,449-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:10,540-INFO- Write request detected
+2025-07-16 16:14:10,540-INFO- Symbol to write: BD_Update_Cmd
+2025-07-16 16:14:10,960-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:10,960-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:11,481-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:11,481-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:12,012-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:12,012-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:12,513-INFO- Set torque request detected
+2025-07-16 16:14:12,513-INFO- Value to set: 0
+2025-07-16 16:14:12,800-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:12,800-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:13,321-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:13,321-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:13,831-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:13,831-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:14,205-INFO- Target speed: 100.000000
+2025-07-16 16:14:14,231-INFO- Write request detected
+2025-07-16 16:14:14,231-INFO- Symbol to write: BD_Target_Speed
+2025-07-16 16:14:14,343-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:14,343-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:14,854-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:14,854-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:15,399-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:15,399-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:15,459-INFO- Write request detected
+2025-07-16 16:14:15,459-INFO- Symbol to write: BD_Target_Accel
+2025-07-16 16:14:15,919-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:15,919-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:16,440-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:16,440-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:16,958-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:16,968-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:17,479-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:17,479-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:17,990-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:17,990-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:18,510-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:18,510-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:18,529-INFO- Write request detected
+2025-07-16 16:14:18,529-INFO- Symbol to write: BD_Update_Cmd
+2025-07-16 16:14:18,605-WARNING- Read request error: Request error:  Checksum error
+2025-07-16 16:14:18,605-WARNING- Discarding the packet
+2025-07-16 16:14:19,031-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:19,031-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:19,541-WARNING- NIDAQMX read error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405
+2025-07-16 16:14:19,541-WARNING- PyVISA request error: No transfer is in progress because the transfer was aborted by the client. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50405

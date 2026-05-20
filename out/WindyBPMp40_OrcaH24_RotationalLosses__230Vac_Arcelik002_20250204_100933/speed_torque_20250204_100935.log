@@ -1,0 +1,1478 @@
+2025-02-04 10:09:35,937-INFO- RUNNING THE TEST
+2025-02-04 10:09:42,944-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20250204_100942.visaacq
+2025-02-04 10:09:43,954-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20250204_100943.mcacq
+2025-02-04 10:09:45,687-INFO- Set torque request detected
+2025-02-04 10:09:45,687-INFO- Value to set: 0
+2025-02-04 10:09:49,936-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2025-02-04 10:09:49,936-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2025-02-04 10:09:49,971-INFO- Applying demagnetization algorithm
+2025-02-04 10:09:50,513-INFO- Write request detected
+2025-02-04 10:09:50,513-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:09:51,121-INFO- Write request detected
+2025-02-04 10:09:51,121-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:09:54,159-INFO- Write request detected
+2025-02-04 10:09:54,159-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:09:55,436-WARNING- Read request error: Request error:  Checksum error
+2025-02-04 10:09:55,436-WARNING- Discarding the packet
+2025-02-04 10:09:56,071-INFO- Current speed: 0.062497
+2025-02-04 10:09:56,071-INFO- Speed error: 999.937503
+2025-02-04 10:09:56,691-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2025-02-04 10:09:56,691-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2025-02-04 10:09:58,082-INFO- Current speed: 420.836332
+2025-02-04 10:09:58,082-INFO- Speed error: 579.163668
+2025-02-04 10:10:00,102-INFO- Current speed: 1022.221629
+2025-02-04 10:10:00,102-INFO- Speed error: 22.221629
+2025-02-04 10:10:04,687-INFO- Set torque request detected
+2025-02-04 10:10:04,687-INFO- Value to set: 0.5
+2025-02-04 10:10:09,194-INFO- Write request detected
+2025-02-04 10:10:09,195-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:10:09,242-INFO- Set torque request detected
+2025-02-04 10:10:09,242-INFO- Value to set: 0
+2025-02-04 10:10:10,410-INFO- Write request detected
+2025-02-04 10:10:10,410-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:10:13,441-INFO- Write request detected
+2025-02-04 10:10:13,441-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:10:15,188-INFO- Current speed: 446.688725
+2025-02-04 10:10:15,188-INFO- Speed error: 446.688725
+2025-02-04 10:10:17,199-INFO- Current speed: 0.000000
+2025-02-04 10:10:17,200-INFO- Speed error: 0.000000
+2025-02-04 10:10:20,214-INFO- STARTING STEP N.0/9
+2025-02-04 10:10:20,214-INFO- TORQUE MIN: 0.23
+2025-02-04 10:10:20,215-INFO- TORQUE MAX: 0.234
+2025-02-04 10:10:20,215-INFO- TORQUE STEP: 0.001
+2025-02-04 10:10:20,621-INFO- Write request detected
+2025-02-04 10:10:20,621-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:10:21,822-INFO- Write request detected
+2025-02-04 10:10:21,822-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:10:23,898-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2025-02-04 10:10:23,899-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2025-02-04 10:10:24,858-INFO- Write request detected
+2025-02-04 10:10:24,858-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:10:26,404-INFO- Set torque request detected
+2025-02-04 10:10:26,404-INFO- Value to set: 0
+2025-02-04 10:10:28,385-INFO- Target speed: 18000.000000
+2025-02-04 10:10:28,495-INFO- Write request detected
+2025-02-04 10:10:28,495-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:10:29,732-INFO- Write request detected
+2025-02-04 10:10:29,732-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:10:32,765-INFO- Write request detected
+2025-02-04 10:10:32,765-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:10:32,846-WARNING- Read request error: Request error:  Checksum error
+2025-02-04 10:10:32,847-WARNING- Discarding the packet
+2025-02-04 10:10:34,443-INFO- Current speed: 487.297242
+2025-02-04 10:10:34,444-INFO- Speed error: 17512.702758
+2025-02-04 10:10:36,481-INFO- Current speed: 1697.739942
+2025-02-04 10:10:36,481-INFO- Speed error: 16302.260058
+2025-02-04 10:10:38,499-INFO- Current speed: 2599.457947
+2025-02-04 10:10:38,499-INFO- Speed error: 15400.542053
+2025-02-04 10:10:40,517-INFO- Current speed: 3514.589058
+2025-02-04 10:10:40,518-INFO- Speed error: 14485.410942
+2025-02-04 10:10:42,538-INFO- Current speed: 4726.328584
+2025-02-04 10:10:42,538-INFO- Speed error: 13273.671416
+2025-02-04 10:10:44,554-INFO- Current speed: 5622.987658
+2025-02-04 10:10:44,554-INFO- Speed error: 12377.012342
+2025-02-04 10:10:46,567-INFO- Current speed: 6534.360308
+2025-02-04 10:10:46,567-INFO- Speed error: 11465.639692
+2025-02-04 10:10:48,574-INFO- Current speed: 7681.627511
+2025-02-04 10:10:48,574-INFO- Speed error: 10318.372489
+2025-02-04 10:10:50,594-INFO- Current speed: 8604.738615
+2025-02-04 10:10:50,594-INFO- Speed error: 9395.261385
+2025-02-04 10:10:52,603-INFO- Current speed: 9497.719077
+2025-02-04 10:10:52,603-INFO- Speed error: 8502.280923
+2025-02-04 10:10:54,612-INFO- Current speed: 10725.515339
+2025-02-04 10:10:54,612-INFO- Speed error: 7274.484661
+2025-02-04 10:10:56,622-INFO- Current speed: 11640.716100
+2025-02-04 10:10:56,622-INFO- Speed error: 6359.283900
+2025-02-04 10:10:58,639-INFO- Current speed: 12545.891965
+2025-02-04 10:10:58,639-INFO- Speed error: 5454.108035
+2025-02-04 10:11:00,649-INFO- Current speed: 13772.629202
+2025-02-04 10:11:00,649-INFO- Speed error: 4227.370798
+2025-02-04 10:11:02,656-INFO- Current speed: 14676.727974
+2025-02-04 10:11:02,656-INFO- Speed error: 3323.272026
+2025-02-04 10:11:04,665-INFO- Current speed: 15604.283837
+2025-02-04 10:11:04,666-INFO- Speed error: 2395.716163
+2025-02-04 10:11:06,685-INFO- Current speed: 16823.905729
+2025-02-04 10:11:06,686-INFO- Speed error: 1176.094271
+2025-02-04 10:11:08,705-INFO- Current speed: 17711.639440
+2025-02-04 10:11:08,705-INFO- Speed error: 288.360560
+2025-02-04 10:11:10,709-INFO- Applying torque value: 0.173000
+2025-02-04 10:11:11,189-INFO- Set torque request detected
+2025-02-04 10:11:11,190-INFO- Value to set: 0.173
+2025-02-04 10:11:11,719-INFO- Read torque: -0.174000
+2025-02-04 10:11:12,729-INFO- Applying torque value: 0.188250
+2025-02-04 10:11:12,791-INFO- Set torque request detected
+2025-02-04 10:11:12,791-INFO- Value to set: 0.18825
+2025-02-04 10:11:13,921-INFO- Read torque: -0.175000
+2025-02-04 10:11:14,932-INFO- Applying torque value: 0.203500
+2025-02-04 10:11:15,182-INFO- Set torque request detected
+2025-02-04 10:11:15,182-INFO- Value to set: 0.20350000000000001
+2025-02-04 10:11:15,941-INFO- Read torque: -0.182000
+2025-02-04 10:11:16,960-INFO- Applying torque value: 0.218750
+2025-02-04 10:11:17,518-INFO- Set torque request detected
+2025-02-04 10:11:17,519-INFO- Value to set: 0.21875
+2025-02-04 10:11:17,972-INFO- Read torque: -0.197000
+2025-02-04 10:11:18,984-INFO- Applying torque value: 0.234000
+2025-02-04 10:11:19,172-INFO- Set torque request detected
+2025-02-04 10:11:19,172-INFO- Value to set: 0.234
+2025-02-04 10:11:19,995-INFO- Read torque: -0.213000
+2025-02-04 10:11:21,030-INFO- Final torque reached: -0.223000
+2025-02-04 10:11:21,031-INFO- Starting the measures
+2025-02-04 10:11:24,038-INFO- Applying torque value: 0.234000
+2025-02-04 10:11:24,038-INFO- Elapsed Time [Secs]: 0.000010
+2025-02-04 10:11:24,038-INFO- Measured Temperature [C]: 51.108320
+2025-02-04 10:11:24,044-INFO- Estimated ClassA Temperature [C]: 86.139038
+2025-02-04 10:11:24,052-INFO- Estimated ClassB Temperature [C]: 110.049126
+2025-02-04 10:11:24,506-INFO- Set torque request detected
+2025-02-04 10:11:24,506-INFO- Value to set: 0.234
+2025-02-04 10:11:30,068-INFO- Applying torque value: 0.233000
+2025-02-04 10:11:30,068-INFO- Elapsed Time [Secs]: 6.030463
+2025-02-04 10:11:30,179-INFO- Measured Temperature [C]: 52.748295
+2025-02-04 10:11:30,184-INFO- Estimated ClassA Temperature [C]: 89.121460
+2025-02-04 10:11:30,189-INFO- Estimated ClassB Temperature [C]: 112.111954
+2025-02-04 10:11:30,686-INFO- Set torque request detected
+2025-02-04 10:11:30,686-INFO- Value to set: 0.233
+2025-02-04 10:11:36,191-INFO- Applying torque value: 0.232000
+2025-02-04 10:11:36,192-INFO- Elapsed Time [Secs]: 12.153239
+2025-02-04 10:11:36,237-INFO- Measured Temperature [C]: 54.321781
+2025-02-04 10:11:36,244-INFO- Estimated ClassA Temperature [C]: 91.485474
+2025-02-04 10:11:36,252-INFO- Estimated ClassB Temperature [C]: 114.470093
+2025-02-04 10:11:36,742-INFO- Set torque request detected
+2025-02-04 10:11:36,742-INFO- Value to set: 0.232
+2025-02-04 10:11:42,255-INFO- Applying torque value: 0.231000
+2025-02-04 10:11:42,255-INFO- Elapsed Time [Secs]: 18.216826
+2025-02-04 10:11:42,283-INFO- Measured Temperature [C]: 55.845454
+2025-02-04 10:11:42,290-INFO- Estimated ClassA Temperature [C]: 93.341187
+2025-02-04 10:11:42,298-INFO- Estimated ClassB Temperature [C]: 116.393898
+2025-02-04 10:11:42,795-INFO- Set torque request detected
+2025-02-04 10:11:42,795-INFO- Value to set: 0.231
+2025-02-04 10:11:48,301-INFO- Applying torque value: 0.230000
+2025-02-04 10:11:48,301-INFO- Elapsed Time [Secs]: 24.262846
+2025-02-04 10:11:48,301-INFO- Measured Temperature [C]: 57.186718
+2025-02-04 10:11:48,306-INFO- Estimated ClassA Temperature [C]: 94.712189
+2025-02-04 10:11:48,311-INFO- Estimated ClassB Temperature [C]: 117.919952
+2025-02-04 10:11:48,504-INFO- Set torque request detected
+2025-02-04 10:11:48,504-INFO- Value to set: 0.23
+2025-02-04 10:11:55,815-INFO- Write request detected
+2025-02-04 10:11:55,815-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:11:56,020-INFO- Set torque request detected
+2025-02-04 10:11:56,020-INFO- Value to set: 0
+2025-02-04 10:11:56,443-INFO- Write request detected
+2025-02-04 10:11:56,443-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:11:59,482-INFO- Write request detected
+2025-02-04 10:11:59,482-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:12:01,416-INFO- Current speed: 17068.248588
+2025-02-04 10:12:01,417-INFO- Speed error: 17068.248588
+2025-02-04 10:12:03,422-INFO- Current speed: 16165.650054
+2025-02-04 10:12:03,422-INFO- Speed error: 16165.650054
+2025-02-04 10:12:05,431-INFO- Current speed: 15240.834718
+2025-02-04 10:12:05,431-INFO- Speed error: 15240.834718
+2025-02-04 10:12:07,453-INFO- Current speed: 14029.313175
+2025-02-04 10:12:07,453-INFO- Speed error: 14029.313175
+2025-02-04 10:12:09,463-INFO- Current speed: 13107.945937
+2025-02-04 10:12:09,463-INFO- Speed error: 13107.945937
+2025-02-04 10:12:11,471-INFO- Current speed: 12226.643314
+2025-02-04 10:12:11,471-INFO- Speed error: 12226.643314
+2025-02-04 10:12:13,490-INFO- Current speed: 11003.189813
+2025-02-04 10:12:13,491-INFO- Speed error: 11003.189813
+2025-02-04 10:12:15,498-INFO- Current speed: 10104.659522
+2025-02-04 10:12:15,498-INFO- Speed error: 10104.659522
+2025-02-04 10:12:17,515-INFO- Current speed: 9195.555296
+2025-02-04 10:12:17,515-INFO- Speed error: 9195.555296
+2025-02-04 10:12:19,528-INFO- Current speed: 8035.431164
+2025-02-04 10:12:19,528-INFO- Speed error: 8035.431164
+2025-02-04 10:12:21,534-INFO- Current speed: 7138.003029
+2025-02-04 10:12:21,534-INFO- Speed error: 7138.003029
+2025-02-04 10:12:23,547-INFO- Current speed: 6252.780204
+2025-02-04 10:12:23,547-INFO- Speed error: 6252.780204
+2025-02-04 10:12:25,568-INFO- Current speed: 5028.113225
+2025-02-04 10:12:25,568-INFO- Speed error: 5028.113225
+2025-02-04 10:12:27,572-INFO- Current speed: 4200.050087
+2025-02-04 10:12:27,572-INFO- Speed error: 4200.050087
+2025-02-04 10:12:29,580-INFO- Current speed: 3308.473401
+2025-02-04 10:12:29,580-INFO- Speed error: 3308.473401
+2025-02-04 10:12:31,590-INFO- Current speed: 1983.739597
+2025-02-04 10:12:31,590-INFO- Speed error: 1983.739597
+2025-02-04 10:12:33,605-INFO- Current speed: 1074.380742
+2025-02-04 10:12:33,605-INFO- Speed error: 1074.380742
+2025-02-04 10:12:35,695-INFO- Current speed: 0.000000
+2025-02-04 10:12:35,696-INFO- Speed error: 0.000000
+2025-02-04 10:12:38,167-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2025-02-04 10:12:38,167-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2025-02-04 10:12:38,167-INFO- Stop Acquisition
+2025-02-04 10:12:38,679-INFO- Termination Request
+2025-02-04 10:12:39,356-INFO- Termination Request
+2025-02-04 10:12:39,368-INFO- Calculated offset for syncing: 1.331726
+2025-02-04 10:12:41,522-INFO- Extracting acquisition with marker value: 1
+2025-02-04 10:12:41,524-WARNING- Sub-acquisition too short!
+2025-02-04 10:12:41,527-INFO- Extracting acquisition with marker value: 2
+2025-02-04 10:12:41,529-WARNING- Sub-acquisition too short!
+2025-02-04 10:12:41,530-INFO- Extracting acquisition with marker value: 3
+2025-02-04 10:12:41,532-WARNING- Sub-acquisition too short!
+2025-02-04 10:12:41,534-INFO- Extracting acquisition with marker value: 4
+2025-02-04 10:12:41,535-WARNING- Sub-acquisition too short!
+2025-02-04 10:12:41,537-INFO- Extracting acquisition with marker value: 5
+2025-02-04 10:12:41,539-WARNING- Sub-acquisition too short!
+2025-02-04 10:12:41,540-INFO- STARTING STEP N.1/9
+2025-02-04 10:12:41,541-INFO- TORQUE MIN: 0.23
+2025-02-04 10:12:41,541-INFO- TORQUE MAX: 0.234
+2025-02-04 10:12:41,541-INFO- TORQUE STEP: 0.001
+2025-02-04 10:12:41,541-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20250204_101241.visaacq
+2025-02-04 10:12:42,556-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20250204_101242.mcacq
+2025-02-04 10:12:49,140-INFO- Write request detected
+2025-02-04 10:12:49,140-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:12:49,762-INFO- Write request detected
+2025-02-04 10:12:49,762-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:12:52,803-INFO- Write request detected
+2025-02-04 10:12:52,803-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:12:55,367-INFO- Set torque request detected
+2025-02-04 10:12:55,367-INFO- Value to set: 0
+2025-02-04 10:12:56,737-INFO- Target speed: 16000.000000
+2025-02-04 10:12:57,051-INFO- Write request detected
+2025-02-04 10:12:57,051-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:12:58,263-INFO- Write request detected
+2025-02-04 10:12:58,263-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:13:01,298-INFO- Write request detected
+2025-02-04 10:13:01,298-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:13:02,812-INFO- Current speed: -1.212681
+2025-02-04 10:13:02,812-INFO- Speed error: 16001.212681
+2025-02-04 10:13:04,827-INFO- Current speed: 142.661059
+2025-02-04 10:13:04,827-INFO- Speed error: 15857.338941
+2025-02-04 10:13:06,839-INFO- Current speed: 1351.352527
+2025-02-04 10:13:06,840-INFO- Speed error: 14648.647473
+2025-02-04 10:13:08,847-INFO- Current speed: 2263.708286
+2025-02-04 10:13:08,848-INFO- Speed error: 13736.291714
+2025-02-04 10:13:10,863-INFO- Current speed: 3169.801983
+2025-02-04 10:13:10,863-INFO- Speed error: 12830.198017
+2025-02-04 10:13:12,895-INFO- Current speed: 4379.464257
+2025-02-04 10:13:12,895-INFO- Speed error: 11620.535743
+2025-02-04 10:13:14,908-INFO- Current speed: 5248.941291
+2025-02-04 10:13:14,908-INFO- Speed error: 10751.058709
+2025-02-04 10:13:16,929-INFO- Current speed: 6164.896251
+2025-02-04 10:13:16,929-INFO- Speed error: 9835.103749
+2025-02-04 10:13:18,937-INFO- Current speed: 7370.560807
+2025-02-04 10:13:18,937-INFO- Speed error: 8629.439193
+2025-02-04 10:13:20,954-INFO- Current speed: 8276.414518
+2025-02-04 10:13:20,954-INFO- Speed error: 7723.585482
+2025-02-04 10:13:22,961-INFO- Current speed: 9178.700065
+2025-02-04 10:13:22,961-INFO- Speed error: 6821.299935
+2025-02-04 10:13:24,981-INFO- Current speed: 10407.834535
+2025-02-04 10:13:24,981-INFO- Speed error: 5592.165465
+2025-02-04 10:13:26,994-INFO- Current speed: 11298.745905
+2025-02-04 10:13:26,994-INFO- Speed error: 4701.254095
+2025-02-04 10:13:29,005-INFO- Current speed: 12226.932404
+2025-02-04 10:13:29,005-INFO- Speed error: 3773.067596
+2025-02-04 10:13:31,019-INFO- Current speed: 13433.575552
+2025-02-04 10:13:31,019-INFO- Speed error: 2566.424448
+2025-02-04 10:13:33,030-INFO- Current speed: 14325.962680
+2025-02-04 10:13:33,031-INFO- Speed error: 1674.037320
+2025-02-04 10:13:35,038-INFO- Current speed: 15237.590615
+2025-02-04 10:13:35,039-INFO- Speed error: 762.409385
+2025-02-04 10:13:37,049-INFO- Applying torque value: 0.146000
+2025-02-04 10:13:37,174-INFO- Set torque request detected
+2025-02-04 10:13:37,174-INFO- Value to set: 0.146
+2025-02-04 10:13:38,259-INFO- Read torque: -0.159000
+2025-02-04 10:13:39,273-INFO- Applying torque value: 0.168000
+2025-02-04 10:13:39,506-INFO- Set torque request detected
+2025-02-04 10:13:39,506-INFO- Value to set: 0.16799999999999998
+2025-02-04 10:13:40,283-INFO- Read torque: -0.159000
+2025-02-04 10:13:41,297-INFO- Applying torque value: 0.190000
+2025-02-04 10:13:41,848-INFO- Set torque request detected
+2025-02-04 10:13:41,848-INFO- Value to set: 0.19
+2025-02-04 10:13:42,301-INFO- Read torque: -0.162000
+2025-02-04 10:13:43,308-INFO- Applying torque value: 0.212000
+2025-02-04 10:13:43,463-INFO- Set torque request detected
+2025-02-04 10:13:43,463-INFO- Value to set: 0.21200000000000002
+2025-02-04 10:13:44,315-INFO- Read torque: -0.169000
+2025-02-04 10:13:45,325-INFO- Applying torque value: 0.234000
+2025-02-04 10:13:45,805-INFO- Set torque request detected
+2025-02-04 10:13:45,805-INFO- Value to set: 0.234
+2025-02-04 10:13:46,333-INFO- Read torque: -0.207000
+2025-02-04 10:13:47,344-INFO- Final torque reached: -0.217000
+2025-02-04 10:13:47,344-INFO- Starting the measures
+2025-02-04 10:13:50,355-INFO- Applying torque value: 0.234000
+2025-02-04 10:13:50,355-INFO- Elapsed Time [Secs]: 0.000009
+2025-02-04 10:13:50,355-INFO- Measured Temperature [C]: 56.698399
+2025-02-04 10:13:50,362-INFO- Estimated ClassA Temperature [C]: 79.309723
+2025-02-04 10:13:50,370-INFO- Estimated ClassB Temperature [C]: 109.173965
+2025-02-04 10:13:50,416-INFO- Set torque request detected
+2025-02-04 10:13:50,416-INFO- Value to set: 0.234
+2025-02-04 10:13:56,387-INFO- Applying torque value: 0.233000
+2025-02-04 10:13:56,387-INFO- Elapsed Time [Secs]: 6.031709
+2025-02-04 10:13:56,387-INFO- Measured Temperature [C]: 57.745001
+2025-02-04 10:13:56,394-INFO- Estimated ClassA Temperature [C]: 81.943665
+2025-02-04 10:13:56,401-INFO- Estimated ClassB Temperature [C]: 110.385933
+2025-02-04 10:13:56,451-INFO- Set torque request detected
+2025-02-04 10:13:56,451-INFO- Value to set: 0.233
+2025-02-04 10:13:59,591-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2025-02-04 10:13:59,591-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2025-02-04 10:14:02,407-INFO- Applying torque value: 0.232000
+2025-02-04 10:14:02,407-INFO- Elapsed Time [Secs]: 12.051728
+2025-02-04 10:14:02,548-INFO- Measured Temperature [C]: 58.934233
+2025-02-04 10:14:02,555-INFO- Estimated ClassA Temperature [C]: 83.951691
+2025-02-04 10:14:02,561-INFO- Estimated ClassB Temperature [C]: 111.562325
+2025-02-04 10:14:03,053-INFO- Set torque request detected
+2025-02-04 10:14:03,053-INFO- Value to set: 0.232
+2025-02-04 10:14:08,575-INFO- Applying torque value: 0.231000
+2025-02-04 10:14:08,575-INFO- Elapsed Time [Secs]: 18.219517
+2025-02-04 10:14:08,670-INFO- Measured Temperature [C]: 60.057284
+2025-02-04 10:14:08,674-INFO- Estimated ClassA Temperature [C]: 85.503113
+2025-02-04 10:14:08,680-INFO- Estimated ClassB Temperature [C]: 112.695885
+2025-02-04 10:14:09,175-INFO- Set torque request detected
+2025-02-04 10:14:09,175-INFO- Value to set: 0.231
+2025-02-04 10:14:14,688-INFO- Applying torque value: 0.230000
+2025-02-04 10:14:14,688-INFO- Elapsed Time [Secs]: 24.332299
+2025-02-04 10:14:14,703-INFO- Measured Temperature [C]: 61.070760
+2025-02-04 10:14:14,709-INFO- Estimated ClassA Temperature [C]: 86.699982
+2025-02-04 10:14:14,715-INFO- Estimated ClassB Temperature [C]: 113.775826
+2025-02-04 10:14:15,216-INFO- Set torque request detected
+2025-02-04 10:14:15,216-INFO- Value to set: 0.23
+2025-02-04 10:14:22,004-INFO- Write request detected
+2025-02-04 10:14:22,004-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:14:22,020-INFO- Set torque request detected
+2025-02-04 10:14:22,020-INFO- Value to set: 0
+2025-02-04 10:14:23,233-INFO- Write request detected
+2025-02-04 10:14:23,233-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:14:26,218-INFO- Write request detected
+2025-02-04 10:14:26,218-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:14:27,829-INFO- Current speed: 15378.426420
+2025-02-04 10:14:27,829-INFO- Speed error: 15378.426420
+2025-02-04 10:14:29,845-INFO- Current speed: 14472.657221
+2025-02-04 10:14:29,846-INFO- Speed error: 14472.657221
+2025-02-04 10:14:31,858-INFO- Current speed: 13263.850560
+2025-02-04 10:14:31,858-INFO- Speed error: 13263.850560
+2025-02-04 10:14:33,868-INFO- Current speed: 12357.587111
+2025-02-04 10:14:33,868-INFO- Speed error: 12357.587111
+2025-02-04 10:14:35,876-INFO- Current speed: 11442.727895
+2025-02-04 10:14:35,878-INFO- Speed error: 11442.727895
+2025-02-04 10:14:37,899-INFO- Current speed: 10235.472762
+2025-02-04 10:14:37,899-INFO- Speed error: 10235.472762
+2025-02-04 10:14:39,920-INFO- Current speed: 9326.218163
+2025-02-04 10:14:39,920-INFO- Speed error: 9326.218163
+2025-02-04 10:14:42,018-INFO- Current speed: 8115.025344
+2025-02-04 10:14:42,018-INFO- Speed error: 8115.025344
+2025-02-04 10:14:44,024-INFO- Current speed: 7233.670264
+2025-02-04 10:14:44,024-INFO- Speed error: 7233.670264
+2025-02-04 10:14:46,038-INFO- Current speed: 6643.899786
+2025-02-04 10:14:46,038-INFO- Speed error: 6643.899786
+2025-02-04 10:14:48,045-INFO- Current speed: 5351.177749
+2025-02-04 10:14:48,047-INFO- Speed error: 5351.177749
+2025-02-04 10:14:50,068-INFO- Current speed: 4659.146625
+2025-02-04 10:14:50,068-INFO- Speed error: 4659.146625
+2025-02-04 10:14:52,074-INFO- Current speed: 3690.198139
+2025-02-04 10:14:52,074-INFO- Speed error: 3690.198139
+2025-02-04 10:14:54,087-INFO- Current speed: 2113.520477
+2025-02-04 10:14:54,087-INFO- Speed error: 2113.520477
+2025-02-04 10:14:56,100-INFO- Current speed: 1240.320680
+2025-02-04 10:14:56,101-INFO- Speed error: 1240.320680
+2025-02-04 10:14:58,109-INFO- Current speed: 306.198655
+2025-02-04 10:14:58,109-INFO- Speed error: 306.198655
+2025-02-04 10:15:00,120-INFO- Current speed: 0.000000
+2025-02-04 10:15:00,120-INFO- Speed error: 0.000000
+2025-02-04 10:15:02,130-INFO- Stop Acquisition
+2025-02-04 10:15:02,400-INFO- Termination Request
+2025-02-04 10:15:03,094-INFO- Termination Request
+2025-02-04 10:15:03,102-INFO- Calculated offset for syncing: 3.709057
+2025-02-04 10:15:05,240-INFO- Extracting acquisition with marker value: 1
+2025-02-04 10:15:05,242-WARNING- Sub-acquisition too short!
+2025-02-04 10:15:05,243-INFO- Extracting acquisition with marker value: 2
+2025-02-04 10:15:05,246-INFO- Extracting acquisition with marker value: 3
+2025-02-04 10:15:05,248-WARNING- Sub-acquisition too short!
+2025-02-04 10:15:05,250-INFO- Extracting acquisition with marker value: 4
+2025-02-04 10:15:05,252-WARNING- Sub-acquisition too short!
+2025-02-04 10:15:05,253-INFO- Extracting acquisition with marker value: 5
+2025-02-04 10:15:05,255-WARNING- Sub-acquisition too short!
+2025-02-04 10:15:05,257-INFO- STARTING STEP N.2/9
+2025-02-04 10:15:05,257-INFO- TORQUE MIN: 0.23
+2025-02-04 10:15:05,257-INFO- TORQUE MAX: 0.234
+2025-02-04 10:15:05,257-INFO- TORQUE STEP: 0.001
+2025-02-04 10:15:05,257-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20250204_101505.visaacq
+2025-02-04 10:15:06,271-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20250204_101506.mcacq
+2025-02-04 10:15:11,200-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2025-02-04 10:15:11,200-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2025-02-04 10:15:12,854-INFO- Write request detected
+2025-02-04 10:15:12,854-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:15:13,463-INFO- Write request detected
+2025-02-04 10:15:13,463-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:15:16,474-INFO- Write request detected
+2025-02-04 10:15:16,475-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:15:18,417-INFO- Set torque request detected
+2025-02-04 10:15:18,417-INFO- Value to set: 0
+2025-02-04 10:15:20,408-INFO- Target speed: 14000.000000
+2025-02-04 10:15:20,687-INFO- Write request detected
+2025-02-04 10:15:20,687-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:15:21,914-INFO- Write request detected
+2025-02-04 10:15:21,914-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:15:24,961-INFO- Write request detected
+2025-02-04 10:15:24,961-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:15:25,057-WARNING- Read request error: Request error:  Checksum error
+2025-02-04 10:15:25,057-WARNING- Discarding the packet
+2025-02-04 10:15:26,486-INFO- Current speed: 0.031977
+2025-02-04 10:15:26,486-INFO- Speed error: 13999.968023
+2025-02-04 10:15:28,499-INFO- Current speed: 150.917428
+2025-02-04 10:15:28,499-INFO- Speed error: 13849.082572
+2025-02-04 10:15:30,513-INFO- Current speed: 1388.109800
+2025-02-04 10:15:30,514-INFO- Speed error: 12611.890200
+2025-02-04 10:15:32,520-INFO- Current speed: 2292.454531
+2025-02-04 10:15:32,520-INFO- Speed error: 11707.545469
+2025-02-04 10:15:34,527-INFO- Current speed: 3195.452312
+2025-02-04 10:15:34,527-INFO- Speed error: 10804.547688
+2025-02-04 10:15:36,550-INFO- Current speed: 4395.348472
+2025-02-04 10:15:36,550-INFO- Speed error: 9604.651528
+2025-02-04 10:15:38,562-INFO- Current speed: 5257.464785
+2025-02-04 10:15:38,562-INFO- Speed error: 8742.535215
+2025-02-04 10:15:40,583-INFO- Current speed: 6171.495198
+2025-02-04 10:15:40,583-INFO- Speed error: 7828.504802
+2025-02-04 10:15:42,594-INFO- Current speed: 7360.963717
+2025-02-04 10:15:42,594-INFO- Speed error: 6639.036283
+2025-02-04 10:15:44,616-INFO- Current speed: 8271.511644
+2025-02-04 10:15:44,616-INFO- Speed error: 5728.488356
+2025-02-04 10:15:46,718-INFO- Current speed: 9462.536936
+2025-02-04 10:15:46,718-INFO- Speed error: 4537.463064
+2025-02-04 10:15:48,739-INFO- Current speed: 10384.760953
+2025-02-04 10:15:48,739-INFO- Speed error: 3615.239047
+2025-02-04 10:15:50,745-INFO- Current speed: 11285.620285
+2025-02-04 10:15:50,746-INFO- Speed error: 2714.379715
+2025-02-04 10:15:52,774-INFO- Current speed: 12515.844087
+2025-02-04 10:15:52,774-INFO- Speed error: 1484.155913
+2025-02-04 10:15:54,789-INFO- Current speed: 13421.804459
+2025-02-04 10:15:54,789-INFO- Speed error: 578.195541
+2025-02-04 10:15:56,790-INFO- Applying torque value: 0.111000
+2025-02-04 10:15:57,174-INFO- Set torque request detected
+2025-02-04 10:15:57,174-INFO- Value to set: 0.111
+2025-02-04 10:15:57,798-INFO- Read torque: -0.117000
+2025-02-04 10:15:58,806-INFO- Applying torque value: 0.141750
+2025-02-04 10:15:59,524-INFO- Set torque request detected
+2025-02-04 10:15:59,525-INFO- Value to set: 0.14175000000000001
+2025-02-04 10:15:59,866-INFO- Read torque: -0.117000
+2025-02-04 10:16:00,879-INFO- Applying torque value: 0.172500
+2025-02-04 10:16:01,130-INFO- Set torque request detected
+2025-02-04 10:16:01,130-INFO- Value to set: 0.17250000000000001
+2025-02-04 10:16:01,886-INFO- Read torque: -0.130000
+2025-02-04 10:16:02,899-INFO- Applying torque value: 0.203250
+2025-02-04 10:16:03,488-INFO- Set torque request detected
+2025-02-04 10:16:03,488-INFO- Value to set: 0.20325000000000001
+2025-02-04 10:16:03,913-INFO- Read torque: -0.164000
+2025-02-04 10:16:04,925-INFO- Applying torque value: 0.234000
+2025-02-04 10:16:05,114-INFO- Set torque request detected
+2025-02-04 10:16:05,114-INFO- Value to set: 0.234
+2025-02-04 10:16:05,938-INFO- Read torque: -0.183000
+2025-02-04 10:16:06,951-INFO- Final torque reached: -0.219000
+2025-02-04 10:16:06,951-INFO- Starting the measures
+2025-02-04 10:16:09,960-INFO- Applying torque value: 0.234000
+2025-02-04 10:16:09,960-INFO- Elapsed Time [Secs]: 0.000011
+2025-02-04 10:16:09,961-INFO- Measured Temperature [C]: 59.170757
+2025-02-04 10:16:09,967-INFO- Estimated ClassA Temperature [C]: 78.883057
+2025-02-04 10:16:09,975-INFO- Estimated ClassB Temperature [C]: 102.544365
+2025-02-04 10:16:10,426-INFO- Set torque request detected
+2025-02-04 10:16:10,426-INFO- Value to set: 0.234
+2025-02-04 10:16:15,980-INFO- Applying torque value: 0.233000
+2025-02-04 10:16:15,980-INFO- Elapsed Time [Secs]: 6.019557
+2025-02-04 10:16:15,995-INFO- Measured Temperature [C]: 59.881450
+2025-02-04 10:16:16,002-INFO- Estimated ClassA Temperature [C]: 81.156128
+2025-02-04 10:16:16,009-INFO- Estimated ClassB Temperature [C]: 103.206024
+2025-02-04 10:16:16,505-INFO- Set torque request detected
+2025-02-04 10:16:16,505-INFO- Value to set: 0.233
+2025-02-04 10:16:22,019-INFO- Applying torque value: 0.232000
+2025-02-04 10:16:22,020-INFO- Elapsed Time [Secs]: 12.058976
+2025-02-04 10:16:22,043-INFO- Measured Temperature [C]: 60.642256
+2025-02-04 10:16:22,050-INFO- Estimated ClassA Temperature [C]: 82.850586
+2025-02-04 10:16:22,058-INFO- Estimated ClassB Temperature [C]: 103.848694
+2025-02-04 10:16:22,551-INFO- Set torque request detected
+2025-02-04 10:16:22,551-INFO- Value to set: 0.232
+2025-02-04 10:16:28,073-INFO- Applying torque value: 0.231000
+2025-02-04 10:16:28,073-INFO- Elapsed Time [Secs]: 18.112056
+2025-02-04 10:16:28,073-INFO- Measured Temperature [C]: 61.408527
+2025-02-04 10:16:28,079-INFO- Estimated ClassA Temperature [C]: 84.116272
+2025-02-04 10:16:28,087-INFO- Estimated ClassB Temperature [C]: 104.467506
+2025-02-04 10:16:28,418-INFO- Set torque request detected
+2025-02-04 10:16:28,418-INFO- Value to set: 0.231
+2025-02-04 10:16:34,091-INFO- Applying torque value: 0.230000
+2025-02-04 10:16:34,091-INFO- Elapsed Time [Secs]: 24.130627
+2025-02-04 10:16:34,091-INFO- Measured Temperature [C]: 62.165447
+2025-02-04 10:16:34,096-INFO- Estimated ClassA Temperature [C]: 85.112122
+2025-02-04 10:16:34,102-INFO- Estimated ClassB Temperature [C]: 105.059898
+2025-02-04 10:16:34,451-INFO- Set torque request detected
+2025-02-04 10:16:34,451-INFO- Value to set: 0.23
+2025-02-04 10:16:41,251-INFO- Set torque request detected
+2025-02-04 10:16:41,251-INFO- Value to set: 0
+2025-02-04 10:16:41,423-INFO- Write request detected
+2025-02-04 10:16:41,423-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:16:42,647-INFO- Write request detected
+2025-02-04 10:16:42,647-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:16:45,664-INFO- Write request detected
+2025-02-04 10:16:45,664-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:16:47,195-INFO- Current speed: 13392.837171
+2025-02-04 10:16:47,195-INFO- Speed error: 13392.837171
+2025-02-04 10:16:49,211-INFO- Current speed: 12508.535238
+2025-02-04 10:16:49,211-INFO- Speed error: 12508.535238
+2025-02-04 10:16:51,229-INFO- Current speed: 11284.579327
+2025-02-04 10:16:51,229-INFO- Speed error: 11284.579327
+2025-02-04 10:16:53,239-INFO- Current speed: 10376.053282
+2025-02-04 10:16:53,239-INFO- Speed error: 10376.053282
+2025-02-04 10:16:55,250-INFO- Current speed: 9467.649051
+2025-02-04 10:16:55,250-INFO- Speed error: 9467.649051
+2025-02-04 10:16:57,271-INFO- Current speed: 8261.440703
+2025-02-04 10:16:57,271-INFO- Speed error: 8261.440703
+2025-02-04 10:16:59,280-INFO- Current speed: 7368.703869
+2025-02-04 10:16:59,280-INFO- Speed error: 7368.703869
+2025-02-04 10:17:01,287-INFO- Current speed: 6521.126279
+2025-02-04 10:17:01,288-INFO- Speed error: 6521.126279
+2025-02-04 10:17:03,300-INFO- Current speed: 5495.246583
+2025-02-04 10:17:03,300-INFO- Speed error: 5495.246583
+2025-02-04 10:17:05,318-INFO- Current speed: 4757.249269
+2025-02-04 10:17:05,318-INFO- Speed error: 4757.249269
+2025-02-04 10:17:07,327-INFO- Current speed: 4006.932407
+2025-02-04 10:17:07,327-INFO- Speed error: 4006.932407
+2025-02-04 10:17:09,333-INFO- Current speed: 2354.430684
+2025-02-04 10:17:09,333-INFO- Speed error: 2354.430684
+2025-02-04 10:17:11,348-INFO- Current speed: 1391.338458
+2025-02-04 10:17:11,348-INFO- Speed error: 1391.338458
+2025-02-04 10:17:13,370-INFO- Current speed: 0.000000
+2025-02-04 10:17:13,370-INFO- Speed error: 0.000000
+2025-02-04 10:17:15,381-INFO- Stop Acquisition
+2025-02-04 10:17:15,679-INFO- Termination Request
+2025-02-04 10:17:15,815-INFO- Termination Request
+2025-02-04 10:17:15,824-INFO- Calculated offset for syncing: 0.892618
+2025-02-04 10:17:17,972-INFO- Extracting acquisition with marker value: 1
+2025-02-04 10:17:17,974-WARNING- Sub-acquisition too short!
+2025-02-04 10:17:17,976-INFO- Extracting acquisition with marker value: 2
+2025-02-04 10:17:17,978-WARNING- Sub-acquisition too short!
+2025-02-04 10:17:17,979-INFO- Extracting acquisition with marker value: 3
+2025-02-04 10:17:17,981-WARNING- Sub-acquisition too short!
+2025-02-04 10:17:17,982-INFO- Extracting acquisition with marker value: 4
+2025-02-04 10:17:17,984-WARNING- Sub-acquisition too short!
+2025-02-04 10:17:17,985-INFO- Extracting acquisition with marker value: 5
+2025-02-04 10:17:17,987-WARNING- Sub-acquisition too short!
+2025-02-04 10:17:17,988-INFO- STARTING STEP N.3/9
+2025-02-04 10:17:17,988-INFO- TORQUE MIN: 0.23
+2025-02-04 10:17:17,988-INFO- TORQUE MAX: 0.234
+2025-02-04 10:17:17,988-INFO- TORQUE STEP: 0.001
+2025-02-04 10:17:17,988-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20250204_101717.visaacq
+2025-02-04 10:17:19,002-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20250204_101719.mcacq
+2025-02-04 10:17:25,587-INFO- Write request detected
+2025-02-04 10:17:25,587-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:17:26,211-INFO- Write request detected
+2025-02-04 10:17:26,211-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:17:29,241-INFO- Write request detected
+2025-02-04 10:17:29,241-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:17:31,815-INFO- Set torque request detected
+2025-02-04 10:17:31,815-INFO- Value to set: 0
+2025-02-04 10:17:33,161-INFO- Target speed: 12000.000000
+2025-02-04 10:17:33,479-INFO- Write request detected
+2025-02-04 10:17:33,479-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:17:34,702-INFO- Write request detected
+2025-02-04 10:17:34,703-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:17:37,725-INFO- Write request detected
+2025-02-04 10:17:37,725-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:17:39,011-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2025-02-04 10:17:39,012-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2025-02-04 10:17:39,258-INFO- Current speed: -0.373939
+2025-02-04 10:17:39,258-INFO- Speed error: 12000.373939
+2025-02-04 10:17:40,780-WARNING- Read request error: Request error:  Checksum error
+2025-02-04 10:17:40,780-WARNING- Discarding the packet
+2025-02-04 10:17:41,279-INFO- Current speed: 0.871764
+2025-02-04 10:17:41,279-INFO- Speed error: 11999.128236
+2025-02-04 10:17:43,287-INFO- Current speed: 1348.952671
+2025-02-04 10:17:43,287-INFO- Speed error: 10651.047329
+2025-02-04 10:17:45,304-INFO- Current speed: 2266.955595
+2025-02-04 10:17:45,304-INFO- Speed error: 9733.044405
+2025-02-04 10:17:47,320-INFO- Current speed: 3159.509562
+2025-02-04 10:17:47,321-INFO- Speed error: 8840.490438
+2025-02-04 10:17:49,329-INFO- Current speed: 4369.407013
+2025-02-04 10:17:49,329-INFO- Speed error: 7630.592987
+2025-02-04 10:17:51,352-INFO- Current speed: 5237.595090
+2025-02-04 10:17:51,352-INFO- Speed error: 6762.404910
+2025-02-04 10:17:53,404-INFO- Current speed: 6449.848684
+2025-02-04 10:17:53,405-INFO- Speed error: 5550.151316
+2025-02-04 10:17:55,415-INFO- Current speed: 7344.285670
+2025-02-04 10:17:55,416-INFO- Speed error: 4655.714330
+2025-02-04 10:17:57,436-INFO- Current speed: 8237.323833
+2025-02-04 10:17:57,436-INFO- Speed error: 3762.676167
+2025-02-04 10:17:58,184-WARNING- Read request error: Request error:  Checksum error
+2025-02-04 10:17:58,184-WARNING- Discarding the packet
+2025-02-04 10:17:59,448-INFO- Current speed: 9422.871569
+2025-02-04 10:17:59,448-INFO- Speed error: 2577.128431
+2025-02-04 10:18:01,469-INFO- Current speed: 10354.623317
+2025-02-04 10:18:01,469-INFO- Speed error: 1645.376683
+2025-02-04 10:18:03,480-INFO- Current speed: 11257.625179
+2025-02-04 10:18:03,480-INFO- Speed error: 742.374821
+2025-02-04 10:18:05,488-INFO- Current speed: 12026.688597
+2025-02-04 10:18:05,488-INFO- Speed error: 26.688597
+2025-02-04 10:18:07,490-INFO- Applying torque value: 0.105000
+2025-02-04 10:18:07,682-INFO- Set torque request detected
+2025-02-04 10:18:07,682-INFO- Value to set: 0.105
+2025-02-04 10:18:08,492-INFO- Read torque: -0.104000
+2025-02-04 10:18:09,505-INFO- Applying torque value: 0.137250
+2025-02-04 10:18:10,022-INFO- Set torque request detected
+2025-02-04 10:18:10,022-INFO- Value to set: 0.13724999999999998
+2025-02-04 10:18:10,519-INFO- Read torque: -0.104000
+2025-02-04 10:18:11,532-INFO- Applying torque value: 0.169500
+2025-02-04 10:18:11,625-INFO- Set torque request detected
+2025-02-04 10:18:11,625-INFO- Value to set: 0.16949999999999998
+2025-02-04 10:18:12,728-INFO- Read torque: -0.126000
+2025-02-04 10:18:13,738-INFO- Applying torque value: 0.201750
+2025-02-04 10:18:13,987-INFO- Set torque request detected
+2025-02-04 10:18:13,987-INFO- Value to set: 0.20174999999999998
+2025-02-04 10:18:14,753-INFO- Read torque: -0.156000
+2025-02-04 10:18:15,763-INFO- Applying torque value: 0.234000
+2025-02-04 10:18:16,325-INFO- Set torque request detected
+2025-02-04 10:18:16,325-INFO- Value to set: 0.234
+2025-02-04 10:18:16,775-INFO- Read torque: -0.192000
+2025-02-04 10:18:17,788-INFO- Final torque reached: -0.210000
+2025-02-04 10:18:17,788-INFO- Starting the measures
+2025-02-04 10:18:20,795-INFO- Applying torque value: 0.234000
+2025-02-04 10:18:20,795-INFO- Elapsed Time [Secs]: 0.000019
+2025-02-04 10:18:20,796-INFO- Measured Temperature [C]: 60.504801
+2025-02-04 10:18:20,802-INFO- Estimated ClassA Temperature [C]: 76.255371
+2025-02-04 10:18:20,810-INFO- Estimated ClassB Temperature [C]: 95.466835
+2025-02-04 10:18:20,903-INFO- Set torque request detected
+2025-02-04 10:18:20,903-INFO- Value to set: 0.234
+2025-02-04 10:18:26,813-INFO- Applying torque value: 0.233000
+2025-02-04 10:18:26,813-INFO- Elapsed Time [Secs]: 6.018189
+2025-02-04 10:18:26,813-INFO- Measured Temperature [C]: 60.864510
+2025-02-04 10:18:26,818-INFO- Estimated ClassA Temperature [C]: 77.920837
+2025-02-04 10:18:26,824-INFO- Estimated ClassB Temperature [C]: 95.700249
+2025-02-04 10:18:26,937-INFO- Set torque request detected
+2025-02-04 10:18:26,937-INFO- Value to set: 0.233
+2025-02-04 10:18:32,831-INFO- Applying torque value: 0.232000
+2025-02-04 10:18:32,831-INFO- Elapsed Time [Secs]: 12.035778
+2025-02-04 10:18:32,831-INFO- Measured Temperature [C]: 61.326393
+2025-02-04 10:18:32,836-INFO- Estimated ClassA Temperature [C]: 79.093414
+2025-02-04 10:18:32,842-INFO- Estimated ClassB Temperature [C]: 95.925842
+2025-02-04 10:18:32,972-INFO- Set torque request detected
+2025-02-04 10:18:32,972-INFO- Value to set: 0.232
+2025-02-04 10:18:38,853-INFO- Applying torque value: 0.231000
+2025-02-04 10:18:38,853-INFO- Elapsed Time [Secs]: 18.057980
+2025-02-04 10:18:39,056-INFO- Measured Temperature [C]: 61.873645
+2025-02-04 10:18:39,063-INFO- Estimated ClassA Temperature [C]: 79.992126
+2025-02-04 10:18:39,071-INFO- Estimated ClassB Temperature [C]: 96.129898
+2025-02-04 10:18:39,569-INFO- Set torque request detected
+2025-02-04 10:18:39,569-INFO- Value to set: 0.231
+2025-02-04 10:18:45,081-INFO- Applying torque value: 0.230000
+2025-02-04 10:18:45,081-INFO- Elapsed Time [Secs]: 24.285990
+2025-02-04 10:18:45,172-INFO- Measured Temperature [C]: 62.377944
+2025-02-04 10:18:45,232-INFO- Estimated ClassA Temperature [C]: 80.739044
+2025-02-04 10:18:45,239-INFO- Estimated ClassB Temperature [C]: 96.350769
+2025-02-04 10:18:45,685-INFO- Set torque request detected
+2025-02-04 10:18:45,685-INFO- Value to set: 0.23
+2025-02-04 10:18:52,362-INFO- Write request detected
+2025-02-04 10:18:52,362-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:18:52,440-INFO- Set torque request detected
+2025-02-04 10:18:52,440-INFO- Value to set: 0
+2025-02-04 10:18:53,484-INFO- Write request detected
+2025-02-04 10:18:53,484-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:18:56,515-INFO- Write request detected
+2025-02-04 10:18:56,515-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:18:58,314-INFO- Current speed: 11390.100687
+2025-02-04 10:18:58,314-INFO- Speed error: 11390.100687
+2025-02-04 10:19:00,335-INFO- Current speed: 10168.325773
+2025-02-04 10:19:00,336-INFO- Speed error: 10168.325773
+2025-02-04 10:19:02,354-INFO- Current speed: 9254.833324
+2025-02-04 10:19:02,354-INFO- Speed error: 9254.833324
+2025-02-04 10:19:04,454-INFO- Current speed: 8068.773853
+2025-02-04 10:19:04,454-INFO- Speed error: 8068.773853
+2025-02-04 10:19:06,474-INFO- Current speed: 7182.494334
+2025-02-04 10:19:06,475-INFO- Speed error: 7182.494334
+2025-02-04 10:19:08,483-INFO- Current speed: 6350.736264
+2025-02-04 10:19:08,484-INFO- Speed error: 6350.736264
+2025-02-04 10:19:10,510-INFO- Current speed: 5325.745985
+2025-02-04 10:19:10,510-INFO- Speed error: 5325.745985
+2025-02-04 10:19:12,522-INFO- Current speed: 4601.455969
+2025-02-04 10:19:12,522-INFO- Speed error: 4601.455969
+2025-02-04 10:19:14,533-INFO- Current speed: 3643.904392
+2025-02-04 10:19:14,533-INFO- Speed error: 3643.904392
+2025-02-04 10:19:16,566-INFO- Current speed: 2109.816365
+2025-02-04 10:19:16,566-INFO- Speed error: 2109.816365
+2025-02-04 10:19:18,581-INFO- Current speed: 1095.976598
+2025-02-04 10:19:18,582-INFO- Speed error: 1095.976598
+2025-02-04 10:19:20,592-INFO- Current speed: 0.000000
+2025-02-04 10:19:20,593-INFO- Speed error: 0.000000
+2025-02-04 10:19:22,667-INFO- Stop Acquisition
+2025-02-04 10:19:23,184-INFO- Termination Request
+2025-02-04 10:19:23,772-INFO- Termination Request
+2025-02-04 10:19:23,781-INFO- Calculated offset for syncing: 3.839964
+2025-02-04 10:19:25,920-INFO- Extracting acquisition with marker value: 1
+2025-02-04 10:19:25,923-WARNING- Sub-acquisition too short!
+2025-02-04 10:19:25,924-INFO- Extracting acquisition with marker value: 2
+2025-02-04 10:19:25,926-WARNING- Sub-acquisition too short!
+2025-02-04 10:19:25,928-INFO- Extracting acquisition with marker value: 3
+2025-02-04 10:19:25,931-INFO- Extracting acquisition with marker value: 4
+2025-02-04 10:19:25,933-WARNING- Sub-acquisition too short!
+2025-02-04 10:19:25,934-INFO- Extracting acquisition with marker value: 5
+2025-02-04 10:19:25,936-WARNING- Sub-acquisition too short!
+2025-02-04 10:19:25,938-INFO- STARTING STEP N.4/9
+2025-02-04 10:19:25,938-INFO- TORQUE MIN: 0.23
+2025-02-04 10:19:25,938-INFO- TORQUE MAX: 0.234
+2025-02-04 10:19:25,938-INFO- TORQUE STEP: 0.001
+2025-02-04 10:19:25,938-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20250204_101925.visaacq
+2025-02-04 10:19:26,943-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20250204_101926.mcacq
+2025-02-04 10:19:31,896-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2025-02-04 10:19:31,897-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2025-02-04 10:19:33,509-INFO- Write request detected
+2025-02-04 10:19:33,509-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:19:34,127-INFO- Write request detected
+2025-02-04 10:19:34,127-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:19:36,406-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2025-02-04 10:19:36,406-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2025-02-04 10:19:37,140-INFO- Write request detected
+2025-02-04 10:19:37,140-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:19:39,162-INFO- Set torque request detected
+2025-02-04 10:19:39,162-INFO- Value to set: 0
+2025-02-04 10:19:41,063-INFO- Target speed: 10000.000000
+2025-02-04 10:19:41,391-INFO- Write request detected
+2025-02-04 10:19:41,391-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:19:42,606-INFO- Write request detected
+2025-02-04 10:19:42,606-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:19:45,587-INFO- Write request detected
+2025-02-04 10:19:45,587-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:19:47,147-INFO- Current speed: -2.844407
+2025-02-04 10:19:47,147-INFO- Speed error: 10002.844407
+2025-02-04 10:19:49,161-INFO- Current speed: 5.163682
+2025-02-04 10:19:49,161-INFO- Speed error: 9994.836318
+2025-02-04 10:19:51,168-INFO- Current speed: 1163.977743
+2025-02-04 10:19:51,168-INFO- Speed error: 8836.022257
+2025-02-04 10:19:53,179-INFO- Current speed: 2064.434621
+2025-02-04 10:19:53,179-INFO- Speed error: 7935.565379
+2025-02-04 10:19:55,189-INFO- Current speed: 2985.922071
+2025-02-04 10:19:55,190-INFO- Speed error: 7014.077929
+2025-02-04 10:19:57,200-INFO- Current speed: 4183.807132
+2025-02-04 10:19:57,200-INFO- Speed error: 5816.192868
+2025-02-04 10:19:59,218-INFO- Current speed: 5027.508234
+2025-02-04 10:19:59,218-INFO- Speed error: 4972.491766
+2025-02-04 10:20:01,302-INFO- Current speed: 6252.102941
+2025-02-04 10:20:01,302-INFO- Speed error: 3747.897059
+2025-02-04 10:20:03,319-INFO- Current speed: 7147.989457
+2025-02-04 10:20:03,319-INFO- Speed error: 2852.010543
+2025-02-04 10:20:05,336-INFO- Current speed: 8035.528499
+2025-02-04 10:20:05,337-INFO- Speed error: 1964.471501
+2025-02-04 10:20:07,346-INFO- Current speed: 9244.213345
+2025-02-04 10:20:07,346-INFO- Speed error: 755.786655
+2025-02-04 10:20:09,366-INFO- Current speed: 10061.807753
+2025-02-04 10:20:09,366-INFO- Speed error: 61.807753
+2025-02-04 10:20:11,377-INFO- Applying torque value: 0.083000
+2025-02-04 10:20:11,425-INFO- Set torque request detected
+2025-02-04 10:20:11,425-INFO- Value to set: 0.083
+2025-02-04 10:20:12,526-INFO- Read torque: -0.080000
+2025-02-04 10:20:13,538-INFO- Applying torque value: 0.120750
+2025-02-04 10:20:13,772-INFO- Set torque request detected
+2025-02-04 10:20:13,773-INFO- Value to set: 0.12075000000000001
+2025-02-04 10:20:14,549-INFO- Read torque: -0.086000
+2025-02-04 10:20:15,595-INFO- Applying torque value: 0.158500
+2025-02-04 10:20:16,169-INFO- Set torque request detected
+2025-02-04 10:20:16,169-INFO- Value to set: 0.15850000000000003
+2025-02-04 10:20:16,604-INFO- Read torque: -0.106000
+2025-02-04 10:20:17,620-INFO- Applying torque value: 0.196250
+2025-02-04 10:20:17,759-INFO- Set torque request detected
+2025-02-04 10:20:17,759-INFO- Value to set: 0.19625000000000004
+2025-02-04 10:20:18,853-INFO- Read torque: -0.155000
+2025-02-04 10:20:19,863-INFO- Applying torque value: 0.234000
+2025-02-04 10:20:20,112-INFO- Set torque request detected
+2025-02-04 10:20:20,112-INFO- Value to set: 0.234
+2025-02-04 10:20:20,872-INFO- Read torque: -0.183000
+2025-02-04 10:20:21,958-INFO- Final torque reached: -0.220000
+2025-02-04 10:20:21,959-INFO- Starting the measures
+2025-02-04 10:20:24,959-INFO- Applying torque value: 0.234000
+2025-02-04 10:20:24,959-INFO- Elapsed Time [Secs]: 0.000012
+2025-02-04 10:20:24,960-INFO- Measured Temperature [C]: 60.102926
+2025-02-04 10:20:24,966-INFO- Estimated ClassA Temperature [C]: 77.481689
+2025-02-04 10:20:24,975-INFO- Estimated ClassB Temperature [C]: 87.948273
+2025-02-04 10:20:25,429-INFO- Set torque request detected
+2025-02-04 10:20:25,429-INFO- Value to set: 0.234
+2025-02-04 10:20:30,989-INFO- Applying torque value: 0.233000
+2025-02-04 10:20:30,989-INFO- Elapsed Time [Secs]: 6.029867
+2025-02-04 10:20:30,989-INFO- Measured Temperature [C]: 60.134371
+2025-02-04 10:20:30,993-INFO- Estimated ClassA Temperature [C]: 78.400085
+2025-02-04 10:20:30,999-INFO- Estimated ClassB Temperature [C]: 87.672623
+2025-02-04 10:20:31,313-WARNING- Read request error: Request error:  Checksum error
+2025-02-04 10:20:31,314-WARNING- Discarding the packet
+2025-02-04 10:20:31,463-INFO- Set torque request detected
+2025-02-04 10:20:31,463-INFO- Value to set: 0.233
+2025-02-04 10:20:37,007-INFO- Applying torque value: 0.232000
+2025-02-04 10:20:37,007-INFO- Elapsed Time [Secs]: 12.047185
+2025-02-04 10:20:37,008-INFO- Measured Temperature [C]: 60.272794
+2025-02-04 10:20:37,014-INFO- Estimated ClassA Temperature [C]: 79.055145
+2025-02-04 10:20:37,022-INFO- Estimated ClassB Temperature [C]: 87.419151
+2025-02-04 10:20:37,507-INFO- Set torque request detected
+2025-02-04 10:20:37,507-INFO- Value to set: 0.232
+2025-02-04 10:20:43,035-INFO- Applying torque value: 0.231000
+2025-02-04 10:20:43,035-INFO- Elapsed Time [Secs]: 18.075013
+2025-02-04 10:20:43,036-INFO- Measured Temperature [C]: 60.418165
+2025-02-04 10:20:43,042-INFO- Estimated ClassA Temperature [C]: 79.491272
+2025-02-04 10:20:43,050-INFO- Estimated ClassB Temperature [C]: 87.172295
+2025-02-04 10:20:43,521-INFO- Set torque request detected
+2025-02-04 10:20:43,521-INFO- Value to set: 0.231
+2025-02-04 10:20:49,065-INFO- Applying torque value: 0.230000
+2025-02-04 10:20:49,065-INFO- Elapsed Time [Secs]: 24.104822
+2025-02-04 10:20:49,065-INFO- Measured Temperature [C]: 60.615204
+2025-02-04 10:20:49,072-INFO- Estimated ClassA Temperature [C]: 79.754150
+2025-02-04 10:20:49,080-INFO- Estimated ClassB Temperature [C]: 86.921043
+2025-02-04 10:20:49,422-INFO- Set torque request detected
+2025-02-04 10:20:49,423-INFO- Value to set: 0.23
+2025-02-04 10:20:56,220-INFO- Set torque request detected
+2025-02-04 10:20:56,221-INFO- Value to set: 0
+2025-02-04 10:20:56,554-INFO- Write request detected
+2025-02-04 10:20:56,554-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:20:57,174-INFO- Write request detected
+2025-02-04 10:20:57,174-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:21:00,719-INFO- Write request detected
+2025-02-04 10:21:00,719-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:21:02,242-INFO- Current speed: 9381.911125
+2025-02-04 10:21:02,242-INFO- Speed error: 9381.911125
+2025-02-04 10:21:04,252-INFO- Current speed: 8480.445637
+2025-02-04 10:21:04,253-INFO- Speed error: 8480.445637
+2025-02-04 10:21:06,282-INFO- Current speed: 7278.462900
+2025-02-04 10:21:06,282-INFO- Speed error: 7278.462900
+2025-02-04 10:21:08,298-INFO- Current speed: 6450.756753
+2025-02-04 10:21:08,298-INFO- Speed error: 6450.756753
+2025-02-04 10:21:10,316-INFO- Current speed: 5700.034232
+2025-02-04 10:21:10,316-INFO- Speed error: 5700.034232
+2025-02-04 10:21:12,334-INFO- Current speed: 4768.099762
+2025-02-04 10:21:12,334-INFO- Speed error: 4768.099762
+2025-02-04 10:21:14,346-INFO- Current speed: 3765.413713
+2025-02-04 10:21:14,347-INFO- Speed error: 3765.413713
+2025-02-04 10:21:16,367-INFO- Current speed: 2503.700079
+2025-02-04 10:21:16,367-INFO- Speed error: 2503.700079
+2025-02-04 10:21:18,377-INFO- Current speed: 1247.973989
+2025-02-04 10:21:18,377-INFO- Speed error: 1247.973989
+2025-02-04 10:21:20,398-INFO- Current speed: 364.894861
+2025-02-04 10:21:20,398-INFO- Speed error: 364.894861
+2025-02-04 10:21:22,405-INFO- Current speed: 0.000000
+2025-02-04 10:21:22,405-INFO- Speed error: 0.000000
+2025-02-04 10:21:24,412-INFO- Stop Acquisition
+2025-02-04 10:21:24,664-INFO- Termination Request
+2025-02-04 10:21:25,011-INFO- Termination Request
+2025-02-04 10:21:25,018-INFO- Calculated offset for syncing: 1.898588
+2025-02-04 10:21:27,157-INFO- Extracting acquisition with marker value: 1
+2025-02-04 10:21:27,159-WARNING- Sub-acquisition too short!
+2025-02-04 10:21:27,161-INFO- Extracting acquisition with marker value: 2
+2025-02-04 10:21:27,162-WARNING- Sub-acquisition too short!
+2025-02-04 10:21:27,164-INFO- Extracting acquisition with marker value: 3
+2025-02-04 10:21:27,166-WARNING- Sub-acquisition too short!
+2025-02-04 10:21:27,167-INFO- Extracting acquisition with marker value: 4
+2025-02-04 10:21:27,169-WARNING- Sub-acquisition too short!
+2025-02-04 10:21:27,171-INFO- Extracting acquisition with marker value: 5
+2025-02-04 10:21:27,172-WARNING- Sub-acquisition too short!
+2025-02-04 10:21:27,174-INFO- STARTING STEP N.5/9
+2025-02-04 10:21:27,174-INFO- TORQUE MIN: 0.23
+2025-02-04 10:21:27,174-INFO- TORQUE MAX: 0.234
+2025-02-04 10:21:27,174-INFO- TORQUE STEP: 0.001
+2025-02-04 10:21:27,174-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20250204_102127.visaacq
+2025-02-04 10:21:28,187-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20250204_102128.mcacq
+2025-02-04 10:21:30,917-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2025-02-04 10:21:30,917-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2025-02-04 10:21:34,757-INFO- Write request detected
+2025-02-04 10:21:34,758-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:21:35,364-INFO- Write request detected
+2025-02-04 10:21:35,364-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:21:38,379-INFO- Write request detected
+2025-02-04 10:21:38,379-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:21:40,401-INFO- Set torque request detected
+2025-02-04 10:21:40,401-INFO- Value to set: 0
+2025-02-04 10:21:42,299-INFO- Target speed: 8000.000000
+2025-02-04 10:21:42,609-INFO- Write request detected
+2025-02-04 10:21:42,609-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:21:43,842-INFO- Write request detected
+2025-02-04 10:21:43,842-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:21:46,844-INFO- Write request detected
+2025-02-04 10:21:46,844-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:21:48,385-INFO- Current speed: 0.089303
+2025-02-04 10:21:48,385-INFO- Speed error: 7999.910697
+2025-02-04 10:21:48,762-WARNING- Read request error: Request error:  Checksum error
+2025-02-04 10:21:48,763-WARNING- Discarding the packet
+2025-02-04 10:21:50,399-INFO- Current speed: 141.475074
+2025-02-04 10:21:50,400-INFO- Speed error: 7858.524926
+2025-02-04 10:21:52,413-INFO- Current speed: 1369.080711
+2025-02-04 10:21:52,413-INFO- Speed error: 6630.919289
+2025-02-04 10:21:54,422-INFO- Current speed: 2267.367082
+2025-02-04 10:21:54,422-INFO- Speed error: 5732.632918
+2025-02-04 10:21:56,438-INFO- Current speed: 3168.780843
+2025-02-04 10:21:56,438-INFO- Speed error: 4831.219157
+2025-02-04 10:21:58,454-INFO- Current speed: 4375.531525
+2025-02-04 10:21:58,454-INFO- Speed error: 3624.468475
+2025-02-04 10:22:00,464-INFO- Current speed: 5235.818586
+2025-02-04 10:22:00,464-INFO- Speed error: 2764.181414
+2025-02-04 10:22:02,542-INFO- Current speed: 6447.312152
+2025-02-04 10:22:02,542-INFO- Speed error: 1552.687848
+2025-02-04 10:22:04,559-INFO- Current speed: 7338.900785
+2025-02-04 10:22:04,560-INFO- Speed error: 661.099215
+2025-02-04 10:22:06,569-INFO- Current speed: 8029.806731
+2025-02-04 10:22:06,569-INFO- Speed error: 29.806731
+2025-02-04 10:22:08,570-INFO- Applying torque value: 0.068000
+2025-02-04 10:22:08,927-INFO- Set torque request detected
+2025-02-04 10:22:08,927-INFO- Value to set: 0.068
+2025-02-04 10:22:09,584-INFO- Read torque: -0.068000
+2025-02-04 10:22:10,591-INFO- Applying torque value: 0.109500
+2025-02-04 10:22:11,278-INFO- Set torque request detected
+2025-02-04 10:22:11,278-INFO- Value to set: 0.10950000000000001
+2025-02-04 10:22:11,658-INFO- Read torque: -0.070000
+2025-02-04 10:22:12,668-INFO- Applying torque value: 0.151000
+2025-02-04 10:22:12,900-INFO- Set torque request detected
+2025-02-04 10:22:12,900-INFO- Value to set: 0.15100000000000002
+2025-02-04 10:22:13,678-INFO- Read torque: -0.075000
+2025-02-04 10:22:14,692-INFO- Applying torque value: 0.192500
+2025-02-04 10:22:15,249-INFO- Set torque request detected
+2025-02-04 10:22:15,249-INFO- Value to set: 0.1925
+2025-02-04 10:22:15,702-INFO- Read torque: -0.125000
+2025-02-04 10:22:16,718-INFO- Applying torque value: 0.234000
+2025-02-04 10:22:16,908-INFO- Set torque request detected
+2025-02-04 10:22:16,908-INFO- Value to set: 0.234
+2025-02-04 10:22:17,720-INFO- Read torque: -0.169000
+2025-02-04 10:22:18,739-INFO- Final torque reached: -0.215000
+2025-02-04 10:22:18,739-INFO- Starting the measures
+2025-02-04 10:22:21,745-INFO- Applying torque value: 0.234000
+2025-02-04 10:22:21,745-INFO- Elapsed Time [Secs]: 0.000010
+2025-02-04 10:22:21,745-INFO- Measured Temperature [C]: 58.680965
+2025-02-04 10:22:21,751-INFO- Estimated ClassA Temperature [C]: 70.794800
+2025-02-04 10:22:21,759-INFO- Estimated ClassB Temperature [C]: 80.060860
+2025-02-04 10:22:22,214-INFO- Set torque request detected
+2025-02-04 10:22:22,214-INFO- Value to set: 0.234
+2025-02-04 10:22:27,771-INFO- Applying torque value: 0.233000
+2025-02-04 10:22:27,771-INFO- Elapsed Time [Secs]: 6.026248
+2025-02-04 10:22:27,771-INFO- Measured Temperature [C]: 58.472920
+2025-02-04 10:22:27,776-INFO- Estimated ClassA Temperature [C]: 71.144836
+2025-02-04 10:22:27,782-INFO- Estimated ClassB Temperature [C]: 79.437492
+2025-02-04 10:22:28,242-INFO- Set torque request detected
+2025-02-04 10:22:28,242-INFO- Value to set: 0.233
+2025-02-04 10:22:33,783-INFO- Applying torque value: 0.232000
+2025-02-04 10:22:33,783-INFO- Elapsed Time [Secs]: 12.038240
+2025-02-04 10:22:33,784-INFO- Measured Temperature [C]: 58.297004
+2025-02-04 10:22:33,791-INFO- Estimated ClassA Temperature [C]: 71.362610
+2025-02-04 10:22:33,799-INFO- Estimated ClassB Temperature [C]: 78.831520
+2025-02-04 10:22:34,252-INFO- Set torque request detected
+2025-02-04 10:22:34,252-INFO- Value to set: 0.232
+2025-02-04 10:22:39,813-INFO- Applying torque value: 0.231000
+2025-02-04 10:22:39,813-INFO- Elapsed Time [Secs]: 18.067535
+2025-02-04 10:22:39,823-INFO- Measured Temperature [C]: 58.169029
+2025-02-04 10:22:39,830-INFO- Estimated ClassA Temperature [C]: 71.475616
+2025-02-04 10:22:39,837-INFO- Estimated ClassB Temperature [C]: 78.244316
+2025-02-04 10:22:40,326-INFO- Set torque request detected
+2025-02-04 10:22:40,326-INFO- Value to set: 0.231
+2025-02-04 10:22:45,842-INFO- Applying torque value: 0.230000
+2025-02-04 10:22:45,842-INFO- Elapsed Time [Secs]: 24.096445
+2025-02-04 10:22:45,843-INFO- Measured Temperature [C]: 58.115551
+2025-02-04 10:22:45,850-INFO- Estimated ClassA Temperature [C]: 71.530243
+2025-02-04 10:22:45,859-INFO- Estimated ClassB Temperature [C]: 77.676079
+2025-02-04 10:22:46,199-INFO- Set torque request detected
+2025-02-04 10:22:46,199-INFO- Value to set: 0.23
+2025-02-04 10:22:52,978-INFO- Write request detected
+2025-02-04 10:22:52,978-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:22:53,040-INFO- Set torque request detected
+2025-02-04 10:22:53,040-INFO- Value to set: 0
+2025-02-04 10:22:53,082-WARNING- Read request error: Request error:  Checksum error
+2025-02-04 10:22:53,082-WARNING- Discarding the packet
+2025-02-04 10:22:54,198-INFO- Write request detected
+2025-02-04 10:22:54,198-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:22:57,222-INFO- Write request detected
+2025-02-04 10:22:57,222-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:22:58,933-INFO- Current speed: 7463.222905
+2025-02-04 10:22:58,933-INFO- Speed error: 7463.222905
+2025-02-04 10:23:00,957-INFO- Current speed: 6353.475625
+2025-02-04 10:23:00,957-INFO- Speed error: 6353.475625
+2025-02-04 10:23:02,970-INFO- Current speed: 5672.707064
+2025-02-04 10:23:02,970-INFO- Speed error: 5672.707064
+2025-02-04 10:23:04,977-INFO- Current speed: 4873.745267
+2025-02-04 10:23:04,977-INFO- Speed error: 4873.745267
+2025-02-04 10:23:06,997-INFO- Current speed: 3759.134456
+2025-02-04 10:23:06,998-INFO- Speed error: 3759.134456
+2025-02-04 10:23:09,009-INFO- Current speed: 2604.468063
+2025-02-04 10:23:09,009-INFO- Speed error: 2604.468063
+2025-02-04 10:23:11,020-INFO- Current speed: 1403.743684
+2025-02-04 10:23:11,020-INFO- Speed error: 1403.743684
+2025-02-04 10:23:13,031-INFO- Current speed: 0.000000
+2025-02-04 10:23:13,031-INFO- Speed error: 0.000000
+2025-02-04 10:23:15,174-INFO- Stop Acquisition
+2025-02-04 10:23:15,686-INFO- Termination Request
+2025-02-04 10:23:15,961-INFO- Termination Request
+2025-02-04 10:23:15,967-INFO- Calculated offset for syncing: 1.134851
+2025-02-04 10:23:18,091-INFO- Extracting acquisition with marker value: 1
+2025-02-04 10:23:18,094-WARNING- Sub-acquisition too short!
+2025-02-04 10:23:18,096-INFO- Extracting acquisition with marker value: 2
+2025-02-04 10:23:18,099-WARNING- Sub-acquisition too short!
+2025-02-04 10:23:18,101-INFO- Extracting acquisition with marker value: 3
+2025-02-04 10:23:18,103-WARNING- Sub-acquisition too short!
+2025-02-04 10:23:18,105-INFO- Extracting acquisition with marker value: 4
+2025-02-04 10:23:18,107-WARNING- Sub-acquisition too short!
+2025-02-04 10:23:18,109-INFO- Extracting acquisition with marker value: 5
+2025-02-04 10:23:18,112-INFO- STARTING STEP N.6/9
+2025-02-04 10:23:18,112-INFO- TORQUE MIN: 0.23
+2025-02-04 10:23:18,112-INFO- TORQUE MAX: 0.234
+2025-02-04 10:23:18,112-INFO- TORQUE STEP: 0.001
+2025-02-04 10:23:18,112-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20250204_102318.visaacq
+2025-02-04 10:23:19,120-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20250204_102319.mcacq
+2025-02-04 10:23:23,340-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2025-02-04 10:23:23,340-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2025-02-04 10:23:25,731-INFO- Write request detected
+2025-02-04 10:23:25,731-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:23:26,348-INFO- Write request detected
+2025-02-04 10:23:26,348-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:23:29,363-INFO- Write request detected
+2025-02-04 10:23:29,363-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:23:31,933-INFO- Set torque request detected
+2025-02-04 10:23:31,933-INFO- Value to set: 0
+2025-02-04 10:23:33,277-INFO- Target speed: 6000.000000
+2025-02-04 10:23:33,602-INFO- Write request detected
+2025-02-04 10:23:33,602-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:23:34,819-INFO- Write request detected
+2025-02-04 10:23:34,819-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:23:37,860-INFO- Write request detected
+2025-02-04 10:23:37,860-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:23:38,364-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2025-02-04 10:23:38,364-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2025-02-04 10:23:39,385-INFO- Current speed: -0.561756
+2025-02-04 10:23:39,385-INFO- Speed error: 6000.561756
+2025-02-04 10:23:41,401-INFO- Current speed: 162.954981
+2025-02-04 10:23:41,401-INFO- Speed error: 5837.045019
+2025-02-04 10:23:42,772-WARNING- Read request error: Request error:  Checksum error
+2025-02-04 10:23:42,772-WARNING- Discarding the packet
+2025-02-04 10:23:43,423-INFO- Current speed: 1393.839582
+2025-02-04 10:23:43,423-INFO- Speed error: 4606.160418
+2025-02-04 10:23:45,441-INFO- Current speed: 2301.304562
+2025-02-04 10:23:45,442-INFO- Speed error: 3698.695438
+2025-02-04 10:23:47,460-INFO- Current speed: 3205.438450
+2025-02-04 10:23:47,461-INFO- Speed error: 2794.561550
+2025-02-04 10:23:49,474-INFO- Current speed: 4400.888393
+2025-02-04 10:23:49,474-INFO- Speed error: 1599.111607
+2025-02-04 10:23:51,489-INFO- Current speed: 5250.577914
+2025-02-04 10:23:51,489-INFO- Speed error: 749.422086
+2025-02-04 10:23:53,513-INFO- Current speed: 6009.896200
+2025-02-04 10:23:53,513-INFO- Speed error: 9.896200
+2025-02-04 10:23:55,528-INFO- Applying torque value: 0.052000
+2025-02-04 10:23:55,924-INFO- Set torque request detected
+2025-02-04 10:23:55,925-INFO- Value to set: 0.052
+2025-02-04 10:23:56,540-INFO- Read torque: -0.053000
+2025-02-04 10:23:57,553-INFO- Applying torque value: 0.097500
+2025-02-04 10:23:58,256-INFO- Set torque request detected
+2025-02-04 10:23:58,256-INFO- Value to set: 0.0975
+2025-02-04 10:23:58,607-INFO- Read torque: -0.050000
+2025-02-04 10:23:59,622-INFO- Applying torque value: 0.143000
+2025-02-04 10:24:00,370-INFO- Set torque request detected
+2025-02-04 10:24:00,370-INFO- Value to set: 0.14300000000000002
+2025-02-04 10:24:00,741-INFO- Read torque: -0.070000
+2025-02-04 10:24:01,758-INFO- Applying torque value: 0.188500
+2025-02-04 10:24:01,991-INFO- Set torque request detected
+2025-02-04 10:24:01,991-INFO- Value to set: 0.1885
+2025-02-04 10:24:02,763-INFO- Read torque: -0.105000
+2025-02-04 10:24:03,774-INFO- Applying torque value: 0.234000
+2025-02-04 10:24:04,333-INFO- Set torque request detected
+2025-02-04 10:24:04,333-INFO- Value to set: 0.234
+2025-02-04 10:24:04,784-INFO- Read torque: -0.169000
+2025-02-04 10:24:05,793-INFO- Final torque reached: -0.204000
+2025-02-04 10:24:05,793-INFO- Starting the measures
+2025-02-04 10:24:08,794-INFO- Applying torque value: 0.234000
+2025-02-04 10:24:08,795-INFO- Elapsed Time [Secs]: 0.000014
+2025-02-04 10:24:08,795-INFO- Measured Temperature [C]: 57.030803
+2025-02-04 10:24:08,801-INFO- Estimated ClassA Temperature [C]: 68.682495
+2025-02-04 10:24:08,809-INFO- Estimated ClassB Temperature [C]: 72.938522
+2025-02-04 10:24:08,919-INFO- Set torque request detected
+2025-02-04 10:24:08,919-INFO- Value to set: 0.234
+2025-02-04 10:24:14,816-INFO- Applying torque value: 0.233000
+2025-02-04 10:24:14,816-INFO- Elapsed Time [Secs]: 6.021785
+2025-02-04 10:24:14,816-INFO- Measured Temperature [C]: 56.695542
+2025-02-04 10:24:14,823-INFO- Estimated ClassA Temperature [C]: 68.649689
+2025-02-04 10:24:14,831-INFO- Estimated ClassB Temperature [C]: 72.211380
+2025-02-04 10:24:15,017-INFO- Set torque request detected
+2025-02-04 10:24:15,017-INFO- Value to set: 0.233
+2025-02-04 10:24:20,838-INFO- Applying torque value: 0.232000
+2025-02-04 10:24:20,838-INFO- Elapsed Time [Secs]: 12.043319
+2025-02-04 10:24:20,839-INFO- Measured Temperature [C]: 56.344455
+2025-02-04 10:24:20,843-INFO- Estimated ClassA Temperature [C]: 68.596985
+2025-02-04 10:24:20,849-INFO- Estimated ClassB Temperature [C]: 71.510315
+2025-02-04 10:24:21,027-INFO- Set torque request detected
+2025-02-04 10:24:21,027-INFO- Value to set: 0.232
+2025-02-04 10:24:26,857-INFO- Applying torque value: 0.231000
+2025-02-04 10:24:26,857-INFO- Elapsed Time [Secs]: 18.062015
+2025-02-04 10:24:26,858-INFO- Measured Temperature [C]: 56.054968
+2025-02-04 10:24:26,864-INFO- Estimated ClassA Temperature [C]: 68.530457
+2025-02-04 10:24:26,872-INFO- Estimated ClassB Temperature [C]: 70.831734
+2025-02-04 10:24:27,184-INFO- Set torque request detected
+2025-02-04 10:24:27,184-INFO- Value to set: 0.231
+2025-02-04 10:24:32,877-INFO- Applying torque value: 0.230000
+2025-02-04 10:24:32,877-INFO- Elapsed Time [Secs]: 24.082137
+2025-02-04 10:24:32,877-INFO- Measured Temperature [C]: 55.797466
+2025-02-04 10:24:32,882-INFO- Estimated ClassA Temperature [C]: 68.482941
+2025-02-04 10:24:32,888-INFO- Estimated ClassB Temperature [C]: 70.183235
+2025-02-04 10:24:33,208-INFO- Set torque request detected
+2025-02-04 10:24:33,208-INFO- Value to set: 0.23
+2025-02-04 10:24:40,400-INFO- Write request detected
+2025-02-04 10:24:40,400-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:24:40,510-INFO- Set torque request detected
+2025-02-04 10:24:40,510-INFO- Value to set: 0
+2025-02-04 10:24:41,022-INFO- Write request detected
+2025-02-04 10:24:41,022-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:24:44,067-INFO- Write request detected
+2025-02-04 10:24:44,067-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:24:45,989-INFO- Current speed: 5349.324891
+2025-02-04 10:24:45,989-INFO- Speed error: 5349.324891
+2025-02-04 10:24:48,003-INFO- Current speed: 4659.308072
+2025-02-04 10:24:48,003-INFO- Speed error: 4659.308072
+2025-02-04 10:24:50,016-INFO- Current speed: 3769.140409
+2025-02-04 10:24:50,016-INFO- Speed error: 3769.140409
+2025-02-04 10:24:50,109-WARNING- Read request error: Request error:  b' ' is not a valid EnumPktBytes
+2025-02-04 10:24:50,110-WARNING- Discarding the packet
+2025-02-04 10:24:52,021-INFO- Current speed: 2303.359083
+2025-02-04 10:24:52,021-INFO- Speed error: 2303.359083
+2025-02-04 10:24:54,034-INFO- Current speed: 1307.955800
+2025-02-04 10:24:54,034-INFO- Speed error: 1307.955800
+2025-02-04 10:24:56,086-INFO- Current speed: 0.000000
+2025-02-04 10:24:56,087-INFO- Speed error: 0.000000
+2025-02-04 10:24:58,173-INFO- Stop Acquisition
+2025-02-04 10:24:58,678-INFO- Termination Request
+2025-02-04 10:24:59,139-INFO- Termination Request
+2025-02-04 10:24:59,147-INFO- Calculated offset for syncing: 3.827895
+2025-02-04 10:25:01,267-INFO- Extracting acquisition with marker value: 1
+2025-02-04 10:25:01,270-WARNING- Sub-acquisition too short!
+2025-02-04 10:25:01,272-INFO- Extracting acquisition with marker value: 2
+2025-02-04 10:25:01,274-WARNING- Sub-acquisition too short!
+2025-02-04 10:25:01,276-INFO- Extracting acquisition with marker value: 3
+2025-02-04 10:25:01,279-WARNING- Sub-acquisition too short!
+2025-02-04 10:25:01,281-INFO- Extracting acquisition with marker value: 4
+2025-02-04 10:25:01,283-WARNING- Sub-acquisition too short!
+2025-02-04 10:25:01,285-INFO- Extracting acquisition with marker value: 5
+2025-02-04 10:25:01,287-WARNING- Sub-acquisition too short!
+2025-02-04 10:25:01,288-INFO- STARTING STEP N.7/9
+2025-02-04 10:25:01,289-INFO- TORQUE MIN: 0.23
+2025-02-04 10:25:01,289-INFO- TORQUE MAX: 0.234
+2025-02-04 10:25:01,289-INFO- TORQUE STEP: 0.001
+2025-02-04 10:25:01,289-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20250204_102501.visaacq
+2025-02-04 10:25:02,296-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20250204_102502.mcacq
+2025-02-04 10:25:08,835-INFO- Write request detected
+2025-02-04 10:25:08,835-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:25:09,438-INFO- Write request detected
+2025-02-04 10:25:09,438-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:25:12,477-INFO- Write request detected
+2025-02-04 10:25:12,477-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:25:15,154-INFO- Set torque request detected
+2025-02-04 10:25:15,155-INFO- Value to set: 0
+2025-02-04 10:25:16,414-INFO- Target speed: 4000.000000
+2025-02-04 10:25:16,725-INFO- Write request detected
+2025-02-04 10:25:16,725-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:25:17,953-INFO- Write request detected
+2025-02-04 10:25:17,953-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:25:20,087-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2025-02-04 10:25:20,087-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2025-02-04 10:25:20,993-INFO- Write request detected
+2025-02-04 10:25:20,993-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:25:22,515-INFO- Current speed: -0.173075
+2025-02-04 10:25:22,515-INFO- Speed error: 4000.173075
+2025-02-04 10:25:24,538-INFO- Current speed: 202.003719
+2025-02-04 10:25:24,538-INFO- Speed error: 3797.996281
+2025-02-04 10:25:26,559-INFO- Current speed: 1431.526198
+2025-02-04 10:25:26,559-INFO- Speed error: 2568.473802
+2025-02-04 10:25:28,574-INFO- Current speed: 2339.835863
+2025-02-04 10:25:28,574-INFO- Speed error: 1660.164137
+2025-02-04 10:25:30,580-INFO- Current speed: 3237.817699
+2025-02-04 10:25:30,581-INFO- Speed error: 762.182301
+2025-02-04 10:25:32,593-INFO- Current speed: 3996.238116
+2025-02-04 10:25:32,593-INFO- Speed error: 3.761884
+2025-02-04 10:25:34,593-INFO- Applying torque value: 0.046000
+2025-02-04 10:25:34,686-INFO- Set torque request detected
+2025-02-04 10:25:34,686-INFO- Value to set: 0.046
+2025-02-04 10:25:35,803-INFO- Read torque: -0.043000
+2025-02-04 10:25:36,809-INFO- Applying torque value: 0.093000
+2025-02-04 10:25:37,057-INFO- Set torque request detected
+2025-02-04 10:25:37,057-INFO- Value to set: 0.093
+2025-02-04 10:25:37,822-INFO- Read torque: -0.043000
+2025-02-04 10:25:38,890-INFO- Applying torque value: 0.140000
+2025-02-04 10:25:39,420-INFO- Set torque request detected
+2025-02-04 10:25:39,420-INFO- Value to set: 0.14
+2025-02-04 10:25:39,899-INFO- Read torque: -0.056000
+2025-02-04 10:25:40,920-INFO- Applying torque value: 0.187000
+2025-02-04 10:25:41,045-INFO- Set torque request detected
+2025-02-04 10:25:41,045-INFO- Value to set: 0.187
+2025-02-04 10:25:41,928-INFO- Read torque: -0.107000
+2025-02-04 10:25:42,938-INFO- Applying torque value: 0.234000
+2025-02-04 10:25:43,047-INFO- Set torque request detected
+2025-02-04 10:25:43,048-INFO- Value to set: 0.234
+2025-02-04 10:25:44,171-INFO- Read torque: -0.199000
+2025-02-04 10:25:45,185-INFO- Final torque reached: -0.220000
+2025-02-04 10:25:45,185-INFO- Starting the measures
+2025-02-04 10:25:48,199-INFO- Applying torque value: 0.234000
+2025-02-04 10:25:48,199-INFO- Elapsed Time [Secs]: 0.000012
+2025-02-04 10:25:48,199-INFO- Measured Temperature [C]: 54.568530
+2025-02-04 10:25:48,204-INFO- Estimated ClassA Temperature [C]: 62.902985
+2025-02-04 10:25:48,210-INFO- Estimated ClassB Temperature [C]: 69.172104
+2025-02-04 10:25:48,417-INFO- Set torque request detected
+2025-02-04 10:25:48,417-INFO- Value to set: 0.234
+2025-02-04 10:25:54,213-INFO- Applying torque value: 0.233000
+2025-02-04 10:25:54,213-INFO- Elapsed Time [Secs]: 6.012951
+2025-02-04 10:25:54,213-INFO- Measured Temperature [C]: 54.460398
+2025-02-04 10:25:54,218-INFO- Estimated ClassA Temperature [C]: 62.953217
+2025-02-04 10:25:54,224-INFO- Estimated ClassB Temperature [C]: 69.255669
+2025-02-04 10:25:54,715-INFO- Set torque request detected
+2025-02-04 10:25:54,715-INFO- Value to set: 0.233
+2025-02-04 10:26:00,227-INFO- Applying torque value: 0.232000
+2025-02-04 10:26:00,228-INFO- Elapsed Time [Secs]: 12.027288
+2025-02-04 10:26:00,263-INFO- Measured Temperature [C]: 54.324871
+2025-02-04 10:26:00,268-INFO- Estimated ClassA Temperature [C]: 62.980286
+2025-02-04 10:26:00,275-INFO- Estimated ClassB Temperature [C]: 69.337578
+2025-02-04 10:26:00,767-INFO- Set torque request detected
+2025-02-04 10:26:00,767-INFO- Value to set: 0.232
+2025-02-04 10:26:06,277-INFO- Applying torque value: 0.231000
+2025-02-04 10:26:06,278-INFO- Elapsed Time [Secs]: 18.077013
+2025-02-04 10:26:06,415-INFO- Measured Temperature [C]: 54.284471
+2025-02-04 10:26:06,451-INFO- Estimated ClassA Temperature [C]: 62.992584
+2025-02-04 10:26:06,460-INFO- Estimated ClassB Temperature [C]: 69.431244
+2025-02-04 10:26:06,925-INFO- Set torque request detected
+2025-02-04 10:26:06,925-INFO- Value to set: 0.231
+2025-02-04 10:26:12,473-INFO- Applying torque value: 0.230000
+2025-02-04 10:26:12,473-INFO- Elapsed Time [Secs]: 24.273531
+2025-02-04 10:26:12,492-INFO- Measured Temperature [C]: 54.178048
+2025-02-04 10:26:12,499-INFO- Estimated ClassA Temperature [C]: 62.987061
+2025-02-04 10:26:12,507-INFO- Estimated ClassB Temperature [C]: 69.509140
+2025-02-04 10:26:13,005-INFO- Set torque request detected
+2025-02-04 10:26:13,005-INFO- Value to set: 0.23
+2025-02-04 10:26:19,642-INFO- Write request detected
+2025-02-04 10:26:19,643-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:26:19,796-INFO- Set torque request detected
+2025-02-04 10:26:19,796-INFO- Value to set: 0
+2025-02-04 10:26:20,877-INFO- Write request detected
+2025-02-04 10:26:20,878-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:26:23,911-INFO- Write request detected
+2025-02-04 10:26:23,911-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:26:25,576-INFO- Current speed: 3484.293472
+2025-02-04 10:26:25,576-INFO- Speed error: 3484.293472
+2025-02-04 10:26:27,649-INFO- Current speed: 2227.171911
+2025-02-04 10:26:27,649-INFO- Speed error: 2227.171911
+2025-02-04 10:26:29,669-INFO- Current speed: 1290.609086
+2025-02-04 10:26:29,670-INFO- Speed error: 1290.609086
+2025-02-04 10:26:31,681-INFO- Current speed: 351.725199
+2025-02-04 10:26:31,681-INFO- Speed error: 351.725199
+2025-02-04 10:26:33,704-INFO- Current speed: 0.000000
+2025-02-04 10:26:33,705-INFO- Speed error: 0.000000
+2025-02-04 10:26:35,705-INFO- Stop Acquisition
+2025-02-04 10:26:36,176-INFO- Termination Request
+2025-02-04 10:26:36,654-INFO- Termination Request
+2025-02-04 10:26:36,659-INFO- Calculated offset for syncing: 0.935838
+2025-02-04 10:26:38,785-INFO- Extracting acquisition with marker value: 1
+2025-02-04 10:26:38,788-WARNING- Sub-acquisition too short!
+2025-02-04 10:26:38,790-INFO- Extracting acquisition with marker value: 2
+2025-02-04 10:26:38,792-WARNING- Sub-acquisition too short!
+2025-02-04 10:26:38,794-INFO- Extracting acquisition with marker value: 3
+2025-02-04 10:26:38,797-WARNING- Sub-acquisition too short!
+2025-02-04 10:26:38,799-INFO- Extracting acquisition with marker value: 4
+2025-02-04 10:26:38,801-WARNING- Sub-acquisition too short!
+2025-02-04 10:26:38,803-INFO- Extracting acquisition with marker value: 5
+2025-02-04 10:26:38,805-WARNING- Sub-acquisition too short!
+2025-02-04 10:26:38,806-INFO- STARTING STEP N.8/9
+2025-02-04 10:26:38,807-INFO- TORQUE MIN: 0.23
+2025-02-04 10:26:38,807-INFO- TORQUE MAX: 0.234
+2025-02-04 10:26:38,807-INFO- TORQUE STEP: 0.001
+2025-02-04 10:26:38,807-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20250204_102638.visaacq
+2025-02-04 10:26:39,812-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20250204_102639.mcacq
+2025-02-04 10:26:46,418-INFO- Write request detected
+2025-02-04 10:26:46,418-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:26:47,038-INFO- Write request detected
+2025-02-04 10:26:47,038-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:26:50,022-INFO- Write request detected
+2025-02-04 10:26:50,022-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:26:52,673-INFO- Set torque request detected
+2025-02-04 10:26:52,673-INFO- Value to set: 0
+2025-02-04 10:26:53,952-INFO- Target speed: 2000.000000
+2025-02-04 10:26:54,230-INFO- Write request detected
+2025-02-04 10:26:54,230-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:26:55,445-INFO- Write request detected
+2025-02-04 10:26:55,445-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:26:58,456-INFO- Write request detected
+2025-02-04 10:26:58,456-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:26:58,517-WARNING- Read request error: Request error:  Checksum error
+2025-02-04 10:26:58,517-WARNING- Discarding the packet
+2025-02-04 10:27:00,003-INFO- Current speed: 0.542122
+2025-02-04 10:27:00,003-INFO- Speed error: 1999.457878
+2025-02-04 10:27:02,016-INFO- Current speed: 141.726771
+2025-02-04 10:27:02,016-INFO- Speed error: 1858.273229
+2025-02-04 10:27:03,897-WARNING- Read request error: Request error:  Checksum error
+2025-02-04 10:27:03,897-WARNING- Discarding the packet
+2025-02-04 10:27:04,031-INFO- Current speed: 1073.748722
+2025-02-04 10:27:04,032-INFO- Speed error: 926.251278
+2025-02-04 10:27:06,040-INFO- Current speed: 2007.031162
+2025-02-04 10:27:06,040-INFO- Speed error: 7.031162
+2025-02-04 10:27:08,043-INFO- Applying torque value: 0.028000
+2025-02-04 10:27:08,460-INFO- Set torque request detected
+2025-02-04 10:27:08,460-INFO- Value to set: 0.028
+2025-02-04 10:27:09,047-INFO- Read torque: -0.027000
+2025-02-04 10:27:10,065-INFO- Applying torque value: 0.079500
+2025-02-04 10:27:10,080-INFO- Set torque request detected
+2025-02-04 10:27:10,080-INFO- Value to set: 0.0795
+2025-02-04 10:27:11,170-INFO- Read torque: -0.040000
+2025-02-04 10:27:12,189-INFO- Applying torque value: 0.131000
+2025-02-04 10:27:12,420-INFO- Set torque request detected
+2025-02-04 10:27:12,420-INFO- Value to set: 0.131
+2025-02-04 10:27:13,202-INFO- Read torque: -0.047000
+2025-02-04 10:27:14,209-INFO- Applying torque value: 0.182500
+2025-02-04 10:27:14,754-INFO- Set torque request detected
+2025-02-04 10:27:14,754-INFO- Value to set: 0.18250000000000002
+2025-02-04 10:27:15,220-INFO- Read torque: -0.092000
+2025-02-04 10:27:16,264-INFO- Applying torque value: 0.234000
+2025-02-04 10:27:16,436-INFO- Set torque request detected
+2025-02-04 10:27:16,436-INFO- Value to set: 0.234
+2025-02-04 10:27:17,275-INFO- Read torque: -0.156000
+2025-02-04 10:27:18,295-INFO- Final torque reached: -0.208000
+2025-02-04 10:27:18,295-INFO- Starting the measures
+2025-02-04 10:27:21,303-INFO- Applying torque value: 0.234000
+2025-02-04 10:27:21,303-INFO- Elapsed Time [Secs]: 0.000008
+2025-02-04 10:27:21,303-INFO- Measured Temperature [C]: 53.352867
+2025-02-04 10:27:21,318-INFO- Estimated ClassA Temperature [C]: 65.952026
+2025-02-04 10:27:21,324-INFO- Estimated ClassB Temperature [C]: 69.146774
+2025-02-04 10:27:21,535-INFO- Set torque request detected
+2025-02-04 10:27:21,535-INFO- Value to set: 0.234
+2025-02-04 10:27:27,327-INFO- Applying torque value: 0.233000
+2025-02-04 10:27:27,328-INFO- Elapsed Time [Secs]: 6.024372
+2025-02-04 10:27:27,328-INFO- Measured Temperature [C]: 53.266605
+2025-02-04 10:27:27,343-INFO- Estimated ClassA Temperature [C]: 65.978882
+2025-02-04 10:27:27,352-INFO- Estimated ClassB Temperature [C]: 69.113075
+2025-02-04 10:27:27,560-INFO- Set torque request detected
+2025-02-04 10:27:27,560-INFO- Value to set: 0.233
+2025-02-04 10:27:33,365-INFO- Applying torque value: 0.232000
+2025-02-04 10:27:33,365-INFO- Elapsed Time [Secs]: 12.062803
+2025-02-04 10:27:33,365-INFO- Measured Temperature [C]: 53.192719
+2025-02-04 10:27:33,371-INFO- Estimated ClassA Temperature [C]: 65.991150
+2025-02-04 10:27:33,376-INFO- Estimated ClassB Temperature [C]: 69.079895
+2025-02-04 10:27:33,676-INFO- Set torque request detected
+2025-02-04 10:27:33,676-INFO- Value to set: 0.232
+2025-02-04 10:27:39,378-INFO- Applying torque value: 0.231000
+2025-02-04 10:27:39,378-INFO- Elapsed Time [Secs]: 18.075670
+2025-02-04 10:27:39,378-INFO- Measured Temperature [C]: 53.122805
+2025-02-04 10:27:39,386-INFO- Estimated ClassA Temperature [C]: 65.993500
+2025-02-04 10:27:39,394-INFO- Estimated ClassB Temperature [C]: 69.047333
+2025-02-04 10:27:39,703-INFO- Set torque request detected
+2025-02-04 10:27:39,703-INFO- Value to set: 0.231
+2025-02-04 10:27:45,408-INFO- Applying torque value: 0.230000
+2025-02-04 10:27:45,408-INFO- Elapsed Time [Secs]: 24.105518
+2025-02-04 10:27:45,409-INFO- Measured Temperature [C]: 53.000433
+2025-02-04 10:27:45,415-INFO- Estimated ClassA Temperature [C]: 65.985870
+2025-02-04 10:27:45,426-INFO- Estimated ClassB Temperature [C]: 69.014015
+2025-02-04 10:27:45,748-INFO- Set torque request detected
+2025-02-04 10:27:45,749-INFO- Value to set: 0.23
+2025-02-04 10:27:52,460-INFO- Write request detected
+2025-02-04 10:27:52,460-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:27:52,552-INFO- Set torque request detected
+2025-02-04 10:27:52,553-INFO- Value to set: 0
+2025-02-04 10:27:53,684-INFO- Write request detected
+2025-02-04 10:27:53,684-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:27:56,724-INFO- Write request detected
+2025-02-04 10:27:56,724-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:27:58,509-INFO- Current speed: 1372.901682
+2025-02-04 10:27:58,509-INFO- Speed error: 1372.901682
+2025-02-04 10:27:59,822-WARNING- Read request error: Request error:  Checksum error
+2025-02-04 10:27:59,822-WARNING- Discarding the packet
+2025-02-04 10:28:00,525-INFO- Current speed: 0.000000
+2025-02-04 10:28:00,525-INFO- Speed error: 0.000000
+2025-02-04 10:28:02,536-INFO- Stop Acquisition
+2025-02-04 10:28:02,946-INFO- Termination Request
+2025-02-04 10:28:03,489-INFO- Termination Request
+2025-02-04 10:28:03,497-INFO- Calculated offset for syncing: 0.971447
+2025-02-04 10:28:05,621-INFO- Extracting acquisition with marker value: 1
+2025-02-04 10:28:05,626-INFO- Extracting acquisition with marker value: 2
+2025-02-04 10:28:05,628-WARNING- Sub-acquisition too short!
+2025-02-04 10:28:05,631-INFO- Extracting acquisition with marker value: 3
+2025-02-04 10:28:05,633-WARNING- Sub-acquisition too short!
+2025-02-04 10:28:05,635-INFO- Extracting acquisition with marker value: 4
+2025-02-04 10:28:05,638-WARNING- Sub-acquisition too short!
+2025-02-04 10:28:05,640-INFO- Extracting acquisition with marker value: 5
+2025-02-04 10:28:05,642-WARNING- Sub-acquisition too short!
+2025-02-04 10:28:05,643-INFO- STARTING STEP N.9/9
+2025-02-04 10:28:05,643-INFO- TORQUE MIN: 0.23
+2025-02-04 10:28:05,643-INFO- TORQUE MAX: 0.234
+2025-02-04 10:28:05,644-INFO- TORQUE STEP: 0.001
+2025-02-04 10:28:05,644-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20250204_102805.visaacq
+2025-02-04 10:28:06,660-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20250204_102806.mcacq
+2025-02-04 10:28:13,179-INFO- Write request detected
+2025-02-04 10:28:13,179-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:28:13,783-INFO- Write request detected
+2025-02-04 10:28:13,783-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:28:16,797-INFO- Write request detected
+2025-02-04 10:28:16,798-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:28:18,890-INFO- Set torque request detected
+2025-02-04 10:28:18,890-INFO- Value to set: 0
+2025-02-04 10:28:20,769-INFO- Target speed: 750.000000
+2025-02-04 10:28:20,986-INFO- Write request detected
+2025-02-04 10:28:20,986-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:28:22,205-INFO- Write request detected
+2025-02-04 10:28:22,205-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:28:25,250-INFO- Write request detected
+2025-02-04 10:28:25,250-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:28:26,813-INFO- Current speed: -0.047224
+2025-02-04 10:28:26,814-INFO- Speed error: 750.047224
+2025-02-04 10:28:28,827-INFO- Current speed: 173.661330
+2025-02-04 10:28:28,827-INFO- Speed error: 576.338670
+2025-02-04 10:28:30,840-INFO- Current speed: 756.751374
+2025-02-04 10:28:30,840-INFO- Speed error: 6.751374
+2025-02-04 10:28:32,852-INFO- Applying torque value: 0.018000
+2025-02-04 10:28:33,226-INFO- Set torque request detected
+2025-02-04 10:28:33,226-INFO- Value to set: 0.018
+2025-02-04 10:28:33,859-INFO- Read torque: -0.020000
+2025-02-04 10:28:34,880-INFO- Applying torque value: 0.072000
+2025-02-04 10:28:35,564-INFO- Set torque request detected
+2025-02-04 10:28:35,564-INFO- Value to set: 0.07200000000000001
+2025-02-04 10:28:35,916-INFO- Read torque: -0.019000
+2025-02-04 10:28:36,928-INFO- Applying torque value: 0.126000
+2025-02-04 10:28:37,176-INFO- Set torque request detected
+2025-02-04 10:28:37,176-INFO- Value to set: 0.126
+2025-02-04 10:28:37,938-INFO- Read torque: -0.030000
+2025-02-04 10:28:38,950-INFO- Applying torque value: 0.180000
+2025-02-04 10:28:39,510-INFO- Set torque request detected
+2025-02-04 10:28:39,510-INFO- Value to set: 0.18000000000000002
+2025-02-04 10:28:39,958-INFO- Read torque: -0.061000
+2025-02-04 10:28:40,977-INFO- Applying torque value: 0.234000
+2025-02-04 10:28:41,100-INFO- Set torque request detected
+2025-02-04 10:28:41,100-INFO- Value to set: 0.234
+2025-02-04 10:28:42,206-INFO- Read torque: -0.171000
+2025-02-04 10:28:43,222-INFO- Final torque reached: -0.210000
+2025-02-04 10:28:43,222-INFO- Starting the measures
+2025-02-04 10:28:46,229-INFO- Applying torque value: 0.234000
+2025-02-04 10:28:46,230-INFO- Elapsed Time [Secs]: 0.000012
+2025-02-04 10:28:46,432-INFO- Measured Temperature [C]: 52.288646
+2025-02-04 10:28:46,439-INFO- Estimated ClassA Temperature [C]: 59.371918
+2025-02-04 10:28:46,447-INFO- Estimated ClassB Temperature [C]: 68.079681
+2025-02-04 10:28:46,943-INFO- Set torque request detected
+2025-02-04 10:28:46,943-INFO- Value to set: 0.234
+2025-02-04 10:28:52,463-INFO- Applying torque value: 0.233000
+2025-02-04 10:28:52,463-INFO- Elapsed Time [Secs]: 6.233400
+2025-02-04 10:28:52,489-INFO- Measured Temperature [C]: 52.145907
+2025-02-04 10:28:52,494-INFO- Estimated ClassA Temperature [C]: 59.327545
+2025-02-04 10:28:52,500-INFO- Estimated ClassB Temperature [C]: 67.981453
+2025-02-04 10:28:52,992-INFO- Set torque request detected
+2025-02-04 10:28:52,992-INFO- Value to set: 0.233
+2025-02-04 10:28:58,501-INFO- Applying torque value: 0.232000
+2025-02-04 10:28:58,501-INFO- Elapsed Time [Secs]: 12.271484
+2025-02-04 10:28:58,531-INFO- Measured Temperature [C]: 52.088046
+2025-02-04 10:28:58,535-INFO- Estimated ClassA Temperature [C]: 59.283234
+2025-02-04 10:28:58,541-INFO- Estimated ClassB Temperature [C]: 67.883797
+2025-02-04 10:28:59,043-INFO- Set torque request detected
+2025-02-04 10:28:59,043-INFO- Value to set: 0.232
+2025-02-04 10:29:04,546-INFO- Applying torque value: 0.231000
+2025-02-04 10:29:04,546-INFO- Elapsed Time [Secs]: 18.316045
+2025-02-04 10:29:04,546-INFO- Measured Temperature [C]: 51.977850
+2025-02-04 10:29:04,550-INFO- Estimated ClassA Temperature [C]: 59.239105
+2025-02-04 10:29:04,555-INFO- Estimated ClassB Temperature [C]: 67.787010
+2025-02-04 10:29:05,044-INFO- Set torque request detected
+2025-02-04 10:29:05,044-INFO- Value to set: 0.231
+2025-02-04 10:29:10,566-INFO- Applying torque value: 0.230000
+2025-02-04 10:29:10,566-INFO- Elapsed Time [Secs]: 24.335999
+2025-02-04 10:29:10,667-INFO- Measured Temperature [C]: 51.882933
+2025-02-04 10:29:10,675-INFO- Estimated ClassA Temperature [C]: 59.195709
+2025-02-04 10:29:10,683-INFO- Estimated ClassB Temperature [C]: 67.690842
+2025-02-04 10:29:11,170-INFO- Set torque request detected
+2025-02-04 10:29:11,170-INFO- Value to set: 0.23
+2025-02-04 10:29:17,981-INFO- Set torque request detected
+2025-02-04 10:29:17,981-INFO- Value to set: 0
+2025-02-04 10:29:18,134-INFO- Write request detected
+2025-02-04 10:29:18,134-INFO- Symbol to write: BD_Target_Speed
+2025-02-04 10:29:18,750-INFO- Write request detected
+2025-02-04 10:29:18,751-INFO- Symbol to write: BD_Target_Accel
+2025-02-04 10:29:21,790-INFO- Write request detected
+2025-02-04 10:29:21,791-INFO- Symbol to write: BD_Update_Cmd
+2025-02-04 10:29:27,777-INFO- Stop Acquisition
+2025-02-04 10:29:28,413-INFO- Termination Request
+2025-02-04 10:29:28,564-INFO- Termination Request
+2025-02-04 10:29:28,572-INFO- Calculated offset for syncing: 1.188123
+2025-02-04 10:29:30,702-INFO- Extracting acquisition with marker value: 1
+2025-02-04 10:29:30,704-WARNING- Sub-acquisition too short!
+2025-02-04 10:29:30,706-INFO- Extracting acquisition with marker value: 2
+2025-02-04 10:29:30,708-WARNING- Sub-acquisition too short!
+2025-02-04 10:29:30,709-INFO- Extracting acquisition with marker value: 3
+2025-02-04 10:29:30,711-WARNING- Sub-acquisition too short!
+2025-02-04 10:29:30,712-INFO- Extracting acquisition with marker value: 4
+2025-02-04 10:29:30,714-WARNING- Sub-acquisition too short!
+2025-02-04 10:29:30,715-INFO- Extracting acquisition with marker value: 5
+2025-02-04 10:29:30,717-WARNING- Sub-acquisition too short!

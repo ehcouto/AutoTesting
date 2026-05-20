@@ -1,0 +1,30 @@
+- name: Mcl_Error_Holder
+  formula: x
+  
+- name: Master_Cmd_Speed
+  formula: x
+  
+- name: Master_Cmd_Reset
+  formula: x
+  
+- name: Master_Cmd_Acc
+  formula: x
+  
+- name: Master_Cmd_Force
+  formula: x
+  
+- name: Mcl_IO.Active_Power
+  formula: x / 32768*1995
+  
+- name: Mcl_IO.Fire_Angle_Perc
+  formula: x
+  
+- name: Mcl_Pre_Error
+  formula: x
+  
+- name: Hall_Monotonic_At_Bemf_Zc
+  formula: x
+  
+- name: Mcl_Quantities.Hall_Signal_Offset
+  formula: x
+ 

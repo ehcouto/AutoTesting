@@ -1,0 +1,62 @@
+- name: BD_Target_Speed
+  formula: x
+    
+- name: BD_Target_Accel
+  formula: x
+  
+- name: BD_Update_Cmd
+  formula: x
+    
+- name: Mcl_Quantities.Speed_Rot_Mech
+  formula: x / 6.283185307179586476925286766559 * 60
+  
+- name: Mcl_Quantities.Torque
+  formula: x
+
+- name: Mcl_Quantities.Torque_Ref
+  formula: x
+
+- name: Mcl_Quantities.Stator_Flux_Mag
+  formula: x
+  
+- name: Mcl_Quantities.Flux_Ref
+  formula: x
+
+- name: Mcl_Quantities.Id_stator_current
+  formula: x
+  
+- name: Mcl_Quantities.Iq_stator_current
+  formula: x
+  
+- name: Mcl_Quantities.Id_rotor_current
+  formula: x
+  
+- name: Rotor_Curr_Iq
+  formula: x
+  
+- name: Flux_Controller.Out
+  formula: x
+  
+- name: Torque_Controller.Out
+  formula: x
+  
+- name: DC_Bus_RMS
+  formula: x
+  
+- name: Mcl_Quantities.Electrical_Power
+  formula: x
+  
+- name: Mcl_Quantities.Stator_Temperature
+  formula: x
+  
+- name: Mcl_Quantities.Is_Abs
+  formula: x
+  
+- name: Mcl_Quantities.IsRMS
+  formula: x
+  
+- name: SR_Overheating_Temp
+  formula: x
+
+- name: My_Measured_Temp
+  formula: x

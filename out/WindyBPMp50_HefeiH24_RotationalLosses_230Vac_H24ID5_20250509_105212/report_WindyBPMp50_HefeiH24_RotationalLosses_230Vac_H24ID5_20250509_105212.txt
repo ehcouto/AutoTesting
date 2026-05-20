@@ -1,0 +1,14 @@
+WindyBPMp50_HefeiH24_RotationalLosses_230Vac_H24ID5_20250509_105212
+Report created on: 2025/05/09: 10:54:03
+
+
+Step N. = 	0
+Target Speed = 	780
+
+Speed Mainboard (rpm_M)	Speed TestBench (rpm_M)	Speed Error (rpm_M)	Speed Error %	Torque TestBench (Nm_M)	Torque Ref (Nm)	Torque MainBoard (Nm_M)	Torque MainBoard Error (Nm_M)	Torque MainBoard Error %	Flux Ref (V/rad/s)	Flux (V/rad/s)	Id * Iq (A^2)	Id (Apeak)	Iq (Apeak)	Id Rotor (Apeak)	Iq Rotor (Apeak)	IMotor Measured (Arms)	IMotor MainBoard (Arms)	IMotor Error (Arms)	IMotor Error %	Motor Current THD %	Vsdref (Vpeak)	Vsqref (Vpeak)	Vout MainBoard (Vrms)	Vout Measured (Vrms)	Vout Error (Vrms)	Vout Error %	Motor Power MainBoard (W)	Motor Power Measured (W)	Motor Power Error (W)	Motor Power Error %	Line Voltage (Vrms)	Line Current (Arms)	Line Power (W)	Line Power Factor	Bulk Ripple (V)	DC Bus Voltage (Vrms)	Motor Mechanical Power (W)	Motor Efficiency	Inverter Efficiency	Overall Efficiency	Temperature (deg C)	Estimated Temperature (deg C)	Motor cos-phi	Electrical Power Alpha-Beta [W]	Electrical Power Error [W]	Electrical Power Error [%]	Bus Voltage Usage [%]	Rotational Losses [W]	Kt [Nm/Arms]	
+778.1020	780.1250	2.0230	0.2593	1.0996	1.1402	1.1120	-0.0124	-1.1233	0.0988	0.0994	2.4617	1.3135	1.8743	-0.1588	2.3580	1.6418	1.6547	-0.0129	-0.7882	0.0000	4.3554	39.0312	48.1030	46.8981	-1.2049	-2.5692	118.3198	116.1800	-2.1398	-1.8418	230.4785	0.8952	138.6775	0.6721	nan	212.2197	89.8333	77.3225	83.7772	64.7787	42.0925	68.6560	0.8712	120.4006	-4.2206	-3.6328	22.0989	1.6270	0.6698	
+779.5303	782.0000	2.4697	0.3158	0.6027	0.6397	0.6406	-0.0379	-6.2942	0.0897	0.0897	0.5273	0.4446	1.1872	-0.0634	1.2421	0.8920	0.8901	0.0019	0.2126	0.0000	1.4133	33.2940	40.8139	38.9557	-1.8582	-4.7700	60.2349	57.3310	-2.9039	-5.0651	230.5206	0.4873	69.6140	0.6197	nan	217.3797	49.3562	86.1425	82.3521	70.9382	42.3897	68.4994	0.9524	60.0578	-2.7268	-4.7563	17.9206	0.6691	0.6757	
+782.9530	781.6667	-1.2863	-0.1646	0.1247	0.1180	0.1173	0.0074	5.9381	0.0854	0.0854	0.0523	0.2259	0.2311	0.2209	0.2606	0.2501	0.2404	0.0097	3.8735	0.0000	0.6962	28.8209	35.3086	35.0024	-0.3062	-0.8747	10.2267	11.8500	1.6233	13.6991	230.6666	0.1518	18.5622	0.5299	nan	223.1010	10.2083	86.0365	63.7047	54.8284	42.4821	67.9746	0.7796	10.7657	1.0843	9.1500	15.6891	1.0674	0.4986	
+
+
+

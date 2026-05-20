@@ -1,0 +1,81 @@
+2024-11-07 14:54:45,150-INFO- RUNNING THE TEST
+2024-11-07 14:54:52,162-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20241107_145452.visaacq
+2024-11-07 14:54:52,761-WARNING- NIDAQMX read error: The specified resource is reserved. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50103
+2024-11-07 14:54:52,761-WARNING- PyVISA request error: The specified resource is reserved. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50103
+2024-11-07 14:54:53,171-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20241107_145453.mcacq
+2024-11-07 14:54:54,026-WARNING- NIDAQMX read error: The specified resource is reserved. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50103
+2024-11-07 14:54:54,026-WARNING- PyVISA request error: The specified resource is reserved. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50103
+2024-11-07 14:54:54,537-INFO- Set torque request detected
+2024-11-07 14:54:54,537-INFO- Value to set: 0
+2024-11-07 14:54:54,807-WARNING- NIDAQMX read error: The specified resource is reserved. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50103
+2024-11-07 14:54:54,807-WARNING- PyVISA request error: The specified resource is reserved. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50103
+2024-11-07 14:54:56,074-WARNING- NIDAQMX read error: The specified resource is reserved. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50103
+2024-11-07 14:54:56,074-WARNING- PyVISA request error: The specified resource is reserved. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50103
+2024-11-07 14:54:59,061-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-11-07 14:54:59,061-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-11-07 14:54:59,197-INFO- Applying demagnetization algorithm
+2024-11-07 14:54:59,727-INFO- Write request detected
+2024-11-07 14:54:59,728-INFO- Symbol to write: BD_Target_Speed
+2024-11-07 14:55:00,350-INFO- Write request detected
+2024-11-07 14:55:00,350-INFO- Symbol to write: BD_Target_Accel
+2024-11-07 14:55:03,391-INFO- Write request detected
+2024-11-07 14:55:03,391-INFO- Symbol to write: BD_Update_Cmd
+2024-11-07 14:55:05,325-INFO- Current speed: -0.070356
+2024-11-07 14:55:05,326-INFO- Speed error: 1000.070356
+2024-11-07 14:55:07,345-INFO- Current speed: 515.910817
+2024-11-07 14:55:07,345-INFO- Speed error: 484.089183
+2024-11-07 14:55:09,354-INFO- Current speed: 1012.382368
+2024-11-07 14:55:09,354-INFO- Speed error: 12.382368
+2024-11-07 14:55:13,649-INFO- Set torque request detected
+2024-11-07 14:55:13,649-INFO- Value to set: 0.5
+2024-11-07 14:55:18,490-INFO- Write request detected
+2024-11-07 14:55:18,490-INFO- Symbol to write: BD_Target_Speed
+2024-11-07 14:55:18,955-INFO- Set torque request detected
+2024-11-07 14:55:18,955-INFO- Value to set: 0
+2024-11-07 14:55:19,702-INFO- Write request detected
+2024-11-07 14:55:19,702-INFO- Symbol to write: BD_Target_Accel
+2024-11-07 14:55:22,703-INFO- Write request detected
+2024-11-07 14:55:22,704-INFO- Symbol to write: BD_Update_Cmd
+2024-11-07 14:55:24,443-INFO- Current speed: 724.703398
+2024-11-07 14:55:24,445-INFO- Speed error: 724.703398
+2024-11-07 14:55:26,462-INFO- Current speed: 0.000000
+2024-11-07 14:55:26,462-INFO- Speed error: 0.000000
+2024-11-07 14:55:29,487-INFO- STARTING STEP N.0/9
+2024-11-07 14:55:29,487-INFO- TORQUE MIN: 0.23
+2024-11-07 14:55:29,488-INFO- TORQUE MAX: 0.234
+2024-11-07 14:55:29,488-INFO- TORQUE STEP: 0.001
+2024-11-07 14:55:29,876-INFO- Write request detected
+2024-11-07 14:55:29,876-INFO- Symbol to write: BD_Target_Speed
+2024-11-07 14:55:31,104-INFO- Write request detected
+2024-11-07 14:55:31,104-INFO- Symbol to write: BD_Target_Accel
+2024-11-07 14:55:34,112-INFO- Write request detected
+2024-11-07 14:55:34,112-INFO- Symbol to write: BD_Update_Cmd
+2024-11-07 14:55:36,041-INFO- Termination Request
+2024-11-07 14:55:36,679-INFO- Termination Request
+2024-11-07 14:55:36,681-INFO- Safe stopping the autotest!
+2024-11-07 14:55:38,822-WARNING- Wasnt able to apply 0 speed! Error setting motor speed: 'MCComThread' object has no attribute 'is_alive'
+2024-11-07 14:55:38,823-WARNING- Did not stop: Error stopping acquisition for engine PYVISA: Could not stop acquisition that is not started!

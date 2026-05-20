@@ -1,0 +1,2 @@
+Time,Source,Dest,SAP,CMD of FBK,MMP,FRAG,API,Opcode,Payload
+06/11/18 12:37:35.8560,4.0,1.0,4,FBK,NO,NO,20.0,1.0,02,04,01,00,0D

@@ -1,0 +1,181 @@
+2024-11-20 16:37:53,091-INFO- RUNNING THE TEST
+2024-11-20 16:38:00,097-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20241120_163800.visaacq
+2024-11-20 16:38:01,115-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20241120_163801.mcacq
+2024-11-20 16:38:01,432-WARNING- NIDAQMX read error: The specified resource is reserved. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50103
+2024-11-20 16:38:01,432-WARNING- PyVISA request error: The specified resource is reserved. The operation could not be completed as specified.
+Task Name: _unnamedTask<0>
+
+Status Code: -50103
+2024-11-20 16:38:02,676-INFO- Set torque request detected
+2024-11-20 16:38:02,676-INFO- Value to set: 0
+2024-11-20 16:38:07,134-INFO- Applying demagnetization algorithm
+2024-11-20 16:38:07,675-INFO- Write request detected
+2024-11-20 16:38:07,675-INFO- Symbol to write: BD_Target_Speed
+2024-11-20 16:38:08,282-INFO- Write request detected
+2024-11-20 16:38:08,282-INFO- Symbol to write: BD_Target_Accel
+2024-11-20 16:38:08,373-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-11-20 16:38:08,373-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-11-20 16:38:10,618-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-11-20 16:38:10,618-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-11-20 16:38:11,322-INFO- Write request detected
+2024-11-20 16:38:11,322-INFO- Symbol to write: BD_Update_Cmd
+2024-11-20 16:38:11,422-WARNING- Read request error: Request error:  Checksum error
+2024-11-20 16:38:11,422-WARNING- Discarding the packet
+2024-11-20 16:38:13,212-INFO- Current speed: 0.120397
+2024-11-20 16:38:13,212-INFO- Speed error: 999.879603
+2024-11-20 16:38:15,221-INFO- Current speed: 371.330502
+2024-11-20 16:38:15,221-INFO- Speed error: 628.669498
+2024-11-20 16:38:17,230-INFO- Current speed: 1012.128249
+2024-11-20 16:38:17,230-INFO- Speed error: 12.128249
+2024-11-20 16:38:21,510-INFO- Set torque request detected
+2024-11-20 16:38:21,510-INFO- Value to set: 0.5
+2024-11-20 16:38:26,779-INFO- Set torque request detected
+2024-11-20 16:38:26,779-INFO- Value to set: 0
+2024-11-20 16:38:26,827-INFO- Write request detected
+2024-11-20 16:38:26,827-INFO- Symbol to write: BD_Target_Speed
+2024-11-20 16:38:27,436-INFO- Write request detected
+2024-11-20 16:38:27,436-INFO- Symbol to write: BD_Target_Accel
+2024-11-20 16:38:30,451-INFO- Write request detected
+2024-11-20 16:38:30,451-INFO- Symbol to write: BD_Update_Cmd
+2024-11-20 16:38:32,355-INFO- Current speed: 449.724353
+2024-11-20 16:38:32,355-INFO- Speed error: 449.724353
+2024-11-20 16:38:34,359-INFO- Current speed: 0.000000
+2024-11-20 16:38:34,359-INFO- Speed error: 0.000000
+2024-11-20 16:38:37,369-INFO- STARTING STEP N.0/5
+2024-11-20 16:38:37,369-INFO- TORQUE MIN: 0.1
+2024-11-20 16:38:37,369-INFO- TORQUE MAX: 3.0
+2024-11-20 16:38:37,369-INFO- TORQUE STEP: 0.1
+2024-11-20 16:38:37,578-INFO- Write request detected
+2024-11-20 16:38:37,578-INFO- Symbol to write: BD_Target_Speed
+2024-11-20 16:38:38,779-INFO- Write request detected
+2024-11-20 16:38:38,779-INFO- Symbol to write: BD_Target_Accel
+2024-11-20 16:38:41,795-INFO- Write request detected
+2024-11-20 16:38:41,795-INFO- Symbol to write: BD_Update_Cmd
+2024-11-20 16:38:43,395-INFO- Applying motor heating algorithm
+2024-11-20 16:38:43,481-INFO- Initial temperature: 42.854811
+2024-11-20 16:38:43,481-INFO- Motor temperature already reached. Cooling down
+2024-11-20 16:38:43,481-INFO- Cooling down - Temperature: 42.854811
+2024-11-20 16:38:43,990-INFO- Set torque request detected
+2024-11-20 16:38:43,990-INFO- Value to set: 0
+2024-11-20 16:38:45,488-INFO- Cooling down - Temperature: 42.827723
+2024-11-20 16:38:47,491-INFO- Cooling down - Temperature: 42.746225
+2024-11-20 16:38:49,501-INFO- Cooling down - Temperature: 42.696552
+2024-11-20 16:38:50,983-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-11-20 16:38:50,983-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-11-20 16:38:51,733-INFO- Cooling down - Temperature: 42.611194
+2024-11-20 16:38:53,926-INFO- Cooling down - Temperature: 42.565121
+2024-11-20 16:38:56,917-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-11-20 16:38:56,917-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-11-20 16:38:56,917-INFO- Cooling down - Temperature: 42.482677
+2024-11-20 16:38:59,094-INFO- Cooling down - Temperature: 42.357291
+2024-11-20 16:39:01,295-INFO- Cooling down - Temperature: 42.381467
+2024-11-20 16:39:03,485-INFO- Cooling down - Temperature: 42.270293
+2024-11-20 16:39:05,707-INFO- Cooling down - Temperature: 42.216505
+2024-11-20 16:39:07,920-INFO- Cooling down - Temperature: 42.161807
+2024-11-20 16:39:10,130-INFO- Cooling down - Temperature: 42.079749
+2024-11-20 16:39:12,332-INFO- Cooling down - Temperature: 42.063924
+2024-11-20 16:39:14,535-INFO- Cooling down - Temperature: 41.999035
+2024-11-20 16:39:16,746-INFO- Cooling down - Temperature: 41.917629
+2024-11-20 16:39:18,746-INFO- Cooling down - Temperature: 41.894109
+2024-11-20 16:39:20,750-INFO- Cooling down - Temperature: 41.807031
+2024-11-20 16:39:22,760-INFO- Cooling down - Temperature: 41.777398
+2024-11-20 16:39:25,406-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-11-20 16:39:25,406-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-11-20 16:39:25,416-INFO- Cooling down - Temperature: 41.738941
+2024-11-20 16:39:27,613-INFO- Cooling down - Temperature: 41.645727
+2024-11-20 16:39:29,813-INFO- Cooling down - Temperature: 41.606807
+2024-11-20 16:39:32,031-INFO- Cooling down - Temperature: 41.532127
+2024-11-20 16:39:34,249-INFO- Cooling down - Temperature: 41.496141
+2024-11-20 16:39:36,439-INFO- Cooling down - Temperature: 41.451551
+2024-11-20 16:39:38,634-INFO- Cooling down - Temperature: 41.364396
+2024-11-20 16:39:40,829-INFO- Cooling down - Temperature: 41.326360
+2024-11-20 16:39:43,022-INFO- Cooling down - Temperature: 41.287869
+2024-11-20 16:39:45,245-INFO- Cooling down - Temperature: 41.232390
+2024-11-20 16:39:47,446-INFO- Cooling down - Temperature: 41.198194
+2024-11-20 16:39:50,423-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-11-20 16:39:50,423-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-11-20 16:39:50,423-INFO- Cooling down - Temperature: 41.166940
+2024-11-20 16:39:53,412-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-11-20 16:39:53,412-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-11-20 16:39:53,412-INFO- Cooling down - Temperature: 41.135005
+2024-11-20 16:39:55,668-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-11-20 16:39:55,668-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-11-20 16:39:55,668-INFO- Cooling down - Temperature: 41.056177
+2024-11-20 16:39:57,879-INFO- Cooling down - Temperature: 41.004071
+2024-11-20 16:40:00,088-INFO- Cooling down - Temperature: 40.969860
+2024-11-20 16:40:02,292-INFO- Cooling down - Temperature: 40.917745
+2024-11-20 16:40:04,478-INFO- Cooling down - Temperature: 40.888513
+2024-11-20 16:40:06,486-INFO- Cooling down - Temperature: 40.835030
+2024-11-20 16:40:08,669-INFO- Cooling down - Temperature: 40.797408
+2024-11-20 16:40:10,880-INFO- Cooling down - Temperature: 40.736208
+2024-11-20 16:40:13,083-INFO- Cooling down - Temperature: 40.699938
+2024-11-20 16:40:15,287-INFO- Cooling down - Temperature: 40.685429
+2024-11-20 16:40:17,484-INFO- Cooling down - Temperature: 40.627617
+2024-11-20 16:40:19,720-INFO- Cooling down - Temperature: 40.585443
+2024-11-20 16:40:21,938-INFO- Cooling down - Temperature: 40.563221
+2024-11-20 16:40:23,435-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-11-20 16:40:23,445-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-11-20 16:40:23,946-INFO- Cooling down - Temperature: 40.563221
+2024-11-20 16:40:25,948-INFO- Cooling down - Temperature: 40.507889
+2024-11-20 16:40:27,953-INFO- Cooling down - Temperature: 40.437355
+2024-11-20 16:40:30,863-WARNING- DSP6000 Get Data error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed. with timeout = 1000
+2024-11-20 16:40:30,863-WARNING- PyVISA request error: VI_ERROR_TMO (-1073807339): Timeout expired before operation completed.
+2024-11-20 16:40:30,863-INFO- Cooling down - Temperature: 40.421024
+2024-11-20 16:40:33,066-INFO- Cooling down - Temperature: 40.392444
+2024-11-20 16:40:35,267-INFO- Cooling down - Temperature: 40.325523
+2024-11-20 16:40:37,455-INFO- Cooling down - Temperature: 40.307600
+2024-11-20 16:40:39,657-INFO- Cooling down - Temperature: 40.276517
+2024-11-20 16:40:41,855-INFO- Cooling down - Temperature: 40.255416
+2024-11-20 16:40:44,038-INFO- Cooling down - Temperature: 40.190973
+2024-11-20 16:40:46,044-INFO- Cooling down - Temperature: 40.140139
+2024-11-20 16:40:48,249-INFO- Cooling down - Temperature: 40.142636
+2024-11-20 16:40:50,474-INFO- Cooling down - Temperature: 40.119486
+2024-11-20 16:40:52,477-INFO- Cooling down - Temperature: 40.083398
+2024-11-20 16:40:54,484-INFO- Cooling down - Temperature: 40.044811
+2024-11-20 16:40:56,486-INFO- Cooling down - Temperature: 39.997821
+2024-11-20 16:40:56,486-INFO- Target temperature reached
+2024-11-20 16:40:58,496-INFO- Target speed: 349.000000
+2024-11-20 16:40:58,917-INFO- Write request detected
+2024-11-20 16:40:58,917-INFO- Symbol to write: BD_Target_Speed
+2024-11-20 16:40:59,517-INFO- Write request detected
+2024-11-20 16:40:59,517-INFO- Symbol to write: BD_Target_Accel
+2024-11-20 16:41:03,082-INFO- Write request detected
+2024-11-20 16:41:03,082-INFO- Symbol to write: BD_Update_Cmd
+2024-11-20 16:41:04,579-INFO- Current speed: 0.242431
+2024-11-20 16:41:04,579-INFO- Speed error: 348.757569
+2024-11-20 16:41:06,584-INFO- Current speed: 165.070737
+2024-11-20 16:41:06,584-INFO- Speed error: 183.929263
+2024-11-20 16:41:08,587-INFO- Current speed: 343.756791
+2024-11-20 16:41:08,587-INFO- Speed error: 5.243209
+2024-11-20 16:41:10,593-INFO- Applying torque value: 0.031000
+2024-11-20 16:41:10,893-INFO- Set torque request detected
+2024-11-20 16:41:10,893-INFO- Value to set: 0.031
+2024-11-20 16:41:11,593-INFO- Read torque: -0.032000
+2024-11-20 16:41:12,600-INFO- Applying torque value: 0.773250
+2024-11-20 16:41:13,276-INFO- Set torque request detected
+2024-11-20 16:41:13,276-INFO- Value to set: 0.77325
+2024-11-20 16:41:13,616-INFO- Read torque: -0.036000
+2024-11-20 16:41:14,617-INFO- Applying torque value: 1.515500
+2024-11-20 16:41:14,859-INFO- Set torque request detected
+2024-11-20 16:41:14,859-INFO- Value to set: 1.5154999999999998
+2024-11-20 16:41:15,630-INFO- Read torque: -0.971000
+2024-11-20 16:41:16,689-INFO- Applying torque value: 2.257750
+2024-11-20 16:41:17,264-INFO- Set torque request detected
+2024-11-20 16:41:17,264-INFO- Value to set: 2.25775
+2024-11-20 16:41:17,693-INFO- Read torque: -1.743000
+2024-11-20 16:41:18,701-INFO- Applying torque value: 3.000000
+2024-11-20 16:41:18,871-INFO- Set torque request detected
+2024-11-20 16:41:18,871-INFO- Value to set: 3.0
+2024-11-20 16:41:19,702-INFO- Read torque: -2.422000
+2024-11-20 16:41:20,748-INFO- Final torque reached: 0.454000
+2024-11-20 16:41:20,748-INFO- Starting the measures
+2024-11-20 16:41:23,750-INFO- Applying torque value: 3.000000
+2024-11-20 16:41:23,750-INFO- Elapsed Time [Secs]: 0.000007
+2024-11-20 16:41:23,750-INFO- Measured Temperature [C]: 42.340797
+2024-11-20 16:41:23,750-INFO- Estimated ClassA Temperature [C]: 37.114990
+2024-11-20 16:41:23,760-INFO- Estimated ClassB Temperature [C]: 27.384544
+2024-11-20 16:41:24,245-INFO- Set torque request detected
+2024-11-20 16:41:24,245-INFO- Value to set: 3.0
