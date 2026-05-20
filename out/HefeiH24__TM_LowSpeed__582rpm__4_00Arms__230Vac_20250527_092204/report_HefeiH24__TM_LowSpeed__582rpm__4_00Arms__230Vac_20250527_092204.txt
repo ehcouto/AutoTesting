@@ -1,0 +1,11 @@
+HefeiH24__TM_LowSpeed__582rpm__4_00Arms__230Vac_20250527_092204
+Report created on: 2025/05/27: 11:44:39
+
+
+Step N. = 	0
+Target Speed = 	582
+
+Speed Mainboard (rpm_M)	Speed TestBench (rpm_M)	Speed Error (rpm_M)	Speed Error %	Torque TestBench (Nm_M)	Torque Ref (Nm)	Torque MainBoard (Nm_M)	Torque MainBoard Error (Nm_M)	Torque MainBoard Error %	Flux Ref (V/rad/s)	Flux (V/rad/s)	Id * Iq (A^2)	Id (Apeak)	Iq (Apeak)	Id Rotor (Apeak)	Iq Rotor (Apeak)	IMotor Measured (Arms)	IMotor MainBoard (Arms)	IMotor Error (Arms)	IMotor Error %	Motor Current THD %	Vsdref (Vpeak)	Vsqref (Vpeak)	Vout MainBoard (Vrms)	Vout Measured (Vrms)	Vout Error (Vrms)	Vout Error %	Motor Power MainBoard (W)	Motor Power Measured (W)	Motor Power Error (W)	Motor Power Error %	Line Voltage (Vrms)	Line Current (Arms)	Line Power (W)	Line Power Factor	Bulk Ripple (V)	DC Bus Voltage (Vrms)	Motor Mechanical Power (W)	Motor Efficiency	Inverter Efficiency	Overall Efficiency	Temperature (deg C)	Estimated Temperature (deg C)	Motor cos-phi	Electrical Power Alpha-Beta [W]	Electrical Power Error [W]	Electrical Power Error [%]	Bus Voltage Usage [%]	Rotational Losses [W]	Kt [Nm/Arms]	
+
+
+

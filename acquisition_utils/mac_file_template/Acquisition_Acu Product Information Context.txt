@@ -1,0 +1,85 @@
+Appliance ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Model Number: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Serial Number: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+
+Board ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Part Number: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Revision: -1.-1
+Serial Number: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Replacement: 255
+
+Application firmware
+Project Name: NATIS RELD
+Software Project Type: Application firmware
+Release Number: 0000000000
+Release Date: 2018-01-19
+Release Version: 1.1.2
+Micro Vendor: RENESAS
+Micro Family: RX130
+Platform Type: HA Washer
+Device Type: Acu
+Endianess: Little endian
+Product Type: 0
+Class B CRC: 0000c8c9
+
+Setting file
+Project Name: Setting FL
+Software Project Type: Setting file
+Release Number: T42183083
+Release Date: 2018-01-19
+GESE Version: 0.3.65
+Project Status: 0
+Platform Type: HA Washer
+Endianess: Little endian
+Product Type: 0
+Class B CRC: 00000238
+Project Release Time: 05:00:59
+
+Service Data
+Tester ID: 0
+Tester Version: 0.0.0
+Test Date: 0000-00-00
+Test Age: 3021733888
+Test Duration: 0
+Test Result: 00-00-00-00-00-00-00-00-00-00-00-00
+
+EOL Test 1
+Tester ID: 255
+Tester Version: 255.255.255
+Test Date: 0000-00-00
+Test Result: FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF
+
+EOL Test 2
+Tester ID: 255
+Tester Version: 255.255.255
+Test Date: 0000-00-00
+Test Result: FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF
+
+EOL Test 3
+Tester ID: 255
+Tester Version: 255.255.255
+Test Date: 0000-00-00
+Test Result: FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF
+
+FVT Test 1
+Tester ID: 255
+Tester Version: 255.255.255
+Test Date: 0000-00-00
+Test Result: FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF
+
+FVT Test 2
+Tester ID: 255
+Tester Version: 255.255.255
+Test Date: 0000-00-00
+Test Result: FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF
+
+FVT Test 3
+Tester ID: 255
+Tester Version: 255.255.255
+Test Date: 0000-00-00
+Test Result: FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF
+
+Class B Signature
+Class B Signature 1st Part: C54B0391DDC37FE4717BB14BB3E4A12A
+Class B Signature 2nd Part: 74DF64438BD2E8F93B4EFB3CE2F66CD5
+

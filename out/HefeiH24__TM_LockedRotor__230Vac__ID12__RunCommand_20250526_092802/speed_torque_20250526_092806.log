@@ -1,0 +1,143 @@
+2025-05-26 09:28:06,612-INFO- RUNNING THE TEST
+2025-05-26 09:28:13,622-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20250526_092813.visaacq
+2025-05-26 09:28:14,625-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20250526_092814.mcacq
+2025-05-26 09:28:15,707-INFO- Set torque request detected
+2025-05-26 09:28:15,707-INFO- Value to set: 0
+2025-05-26 09:28:20,653-INFO- Applying demagnetization algorithm
+2025-05-26 09:28:20,716-INFO- Write request detected
+2025-05-26 09:28:20,716-INFO- Symbol to write: BD_Target_Speed
+2025-05-26 09:28:21,970-INFO- Write request detected
+2025-05-26 09:28:21,970-INFO- Symbol to write: BD_Target_Accel
+2025-05-26 09:28:25,064-INFO- Write request detected
+2025-05-26 09:28:25,064-INFO- Symbol to write: BD_Update_Cmd
+2025-05-26 09:28:25,128-WARNING- Read request error: Request error:  Checksum error
+2025-05-26 09:28:25,128-WARNING- Discarding the packet
+2025-05-26 09:28:26,297-WARNING- Read request error: Request error:  Checksum error
+2025-05-26 09:28:26,297-WARNING- Discarding the packet
+2025-05-26 09:28:26,695-INFO- Current speed: 1.111577
+2025-05-26 09:28:26,695-INFO- Speed error: 998.888423
+2025-05-26 09:28:27,486-WARNING- Read request error: Request error:  Checksum error
+2025-05-26 09:28:27,486-WARNING- Discarding the packet
+2025-05-26 09:28:28,719-INFO- Current speed: 431.892350
+2025-05-26 09:28:28,719-INFO- Speed error: 568.107650
+2025-05-26 09:28:30,731-INFO- Current speed: 1015.961533
+2025-05-26 09:28:30,731-INFO- Speed error: 15.961533
+2025-05-26 09:28:33,479-WARNING- Read request error: Request error:  Too much empty characters received!
+2025-05-26 09:28:33,479-WARNING- Discarding the packet
+2025-05-26 09:28:34,977-INFO- Set torque request detected
+2025-05-26 09:28:34,977-INFO- Value to set: 0.3
+2025-05-26 09:28:38,243-INFO- Set torque request detected
+2025-05-26 09:28:38,243-INFO- Value to set: 0
+2025-05-26 09:28:38,307-INFO- Write request detected
+2025-05-26 09:28:38,307-INFO- Symbol to write: BD_Target_Speed
+2025-05-26 09:28:38,946-INFO- Write request detected
+2025-05-26 09:28:38,946-INFO- Symbol to write: BD_Target_Accel
+2025-05-26 09:28:39,677-WARNING- Read request error: Request error:  Checksum error
+2025-05-26 09:28:39,678-WARNING- Discarding the packet
+2025-05-26 09:28:42,024-INFO- Write request detected
+2025-05-26 09:28:42,024-INFO- Symbol to write: BD_Update_Cmd
+2025-05-26 09:28:43,852-INFO- Current speed: 428.693599
+2025-05-26 09:28:43,852-INFO- Speed error: 428.693599
+2025-05-26 09:28:45,872-INFO- Current speed: 0.000000
+2025-05-26 09:28:45,872-INFO- Speed error: 0.000000
+2025-05-26 09:28:48,876-INFO- STARTING STEP N.0/0
+2025-05-26 09:28:48,876-INFO- TORQUE MIN: 0.1
+2025-05-26 09:28:48,876-INFO- TORQUE MAX: 1.8
+2025-05-26 09:28:48,876-INFO- TORQUE STEP: 0.1
+2025-05-26 09:28:49,482-INFO- Write request detected
+2025-05-26 09:28:49,482-INFO- Symbol to write: BD_Target_Speed
+2025-05-26 09:28:50,009-INFO- Write request detected
+2025-05-26 09:28:50,009-INFO- Symbol to write: BD_Target_Accel
+2025-05-26 09:28:53,106-INFO- Write request detected
+2025-05-26 09:28:53,106-INFO- Symbol to write: BD_Update_Cmd
+2025-05-26 09:28:55,378-INFO- Set torque request detected
+2025-05-26 09:28:55,378-INFO- Value to set: 0
+2025-05-26 09:28:57,105-INFO- Target speed: 605.000000
+2025-05-26 09:28:57,469-INFO- Write request detected
+2025-05-26 09:28:57,469-INFO- Symbol to write: BD_Target_Speed
+2025-05-26 09:28:58,106-INFO- Write request detected
+2025-05-26 09:28:58,106-INFO- Symbol to write: BD_Target_Accel
+2025-05-26 09:29:01,221-INFO- Write request detected
+2025-05-26 09:29:01,221-INFO- Symbol to write: BD_Update_Cmd
+2025-05-26 09:29:03,203-INFO- Applying torque value: 0.100000
+2025-05-26 09:29:03,517-INFO- Set torque request detected
+2025-05-26 09:29:03,517-INFO- Value to set: 0.1
+2025-05-26 09:29:04,215-INFO- Read torque: -0.045000
+2025-05-26 09:29:05,234-INFO- Applying torque value: 0.525000
+2025-05-26 09:29:05,742-INFO- Set torque request detected
+2025-05-26 09:29:05,742-INFO- Value to set: 0.525
+2025-05-26 09:29:06,237-INFO- Read torque: -0.060000
+2025-05-26 09:29:07,313-INFO- Applying torque value: 0.950000
+2025-05-26 09:29:07,425-INFO- Set torque request detected
+2025-05-26 09:29:07,425-INFO- Value to set: 0.95
+2025-05-26 09:29:08,319-INFO- Read torque: -0.883000
+2025-05-26 09:29:09,335-INFO- Applying torque value: 1.375000
+2025-05-26 09:29:09,621-INFO- Set torque request detected
+2025-05-26 09:29:09,621-INFO- Value to set: 1.375
+2025-05-26 09:29:10,336-INFO- Read torque: -1.346000
+2025-05-26 09:29:11,355-INFO- Applying torque value: 1.800000
+2025-05-26 09:29:11,831-INFO- Set torque request detected
+2025-05-26 09:29:11,831-INFO- Value to set: 1.8
+2025-05-26 09:29:12,370-INFO- Read torque: -1.477000
+2025-05-26 09:29:13,388-INFO- Final torque reached: -1.797000
+2025-05-26 09:29:13,388-INFO- Starting the measures
+2025-05-26 09:29:16,676-INFO- Set torque request detected
+2025-05-26 09:29:16,676-INFO- Value to set: 1.5
+2025-05-26 09:29:19,393-INFO- Elapsed Time [Secs]: 3.003140
+2025-05-26 09:29:19,393-INFO- ** Measured Current [A rms]: 2.158110 **
+2025-05-26 09:29:19,393-INFO- Current reference: 4.000000
+2025-05-26 09:29:19,394-INFO- Measured Temperature [C]: 24.119104
+2025-05-26 09:29:19,394-INFO- Measured Temperature_2 [C]: 23.954237
+2025-05-26 09:29:19,394-INFO- Measured Temperature_3 [C]: 23.867921
+2025-05-26 09:29:19,394-INFO- Temperature Limit [C]: 30.000000
+2025-05-26 09:29:19,394-INFO- Temperature Limit Counter [Secs]: 3.000000
+2025-05-26 09:29:19,399-INFO- Estimated ClassA Temperature [C]: 47.152374
+2025-05-26 09:29:19,404-INFO- Estimated ClassB Temperature [C]: 39.278908
+2025-05-26 09:29:19,409-INFO- Set torque request detected
+2025-05-26 09:29:19,409-INFO- Value to set: 2.421945
+2025-05-26 09:29:22,409-INFO- Elapsed Time [Secs]: 6.018898
+2025-05-26 09:29:22,410-INFO- ** Measured Current [A rms]: 3.630300 **
+2025-05-26 09:29:22,410-INFO- Current reference: 4.000000
+2025-05-26 09:29:22,410-INFO- Measured Temperature [C]: 24.469047
+2025-05-26 09:29:22,410-INFO- Measured Temperature_2 [C]: 24.199132
+2025-05-26 09:29:22,410-INFO- Measured Temperature_3 [C]: 24.082777
+2025-05-26 09:29:22,410-INFO- Temperature Limit [C]: 30.000000
+2025-05-26 09:29:22,410-INFO- Temperature Limit Counter [Secs]: 6.000000
+2025-05-26 09:29:22,415-INFO- Estimated ClassA Temperature [C]: 49.097137
+2025-05-26 09:29:22,421-INFO- Estimated ClassB Temperature [C]: 39.513935
+2025-05-26 09:29:22,679-INFO- Set torque request detected
+2025-05-26 09:29:22,679-INFO- Value to set: 2.607795
+2025-05-26 09:29:25,436-INFO- Elapsed Time [Secs]: 9.045482
+2025-05-26 09:29:25,436-INFO- ** Measured Current [A rms]: 4.027270 **
+2025-05-26 09:29:25,436-INFO- Current reference: 4.000000
+2025-05-26 09:29:25,436-INFO- Measured Temperature [C]: 25.351907
+2025-05-26 09:29:25,436-INFO- Measured Temperature_2 [C]: 24.616698
+2025-05-26 09:29:25,437-INFO- Measured Temperature_3 [C]: 24.486375
+2025-05-26 09:29:25,437-INFO- Temperature Limit [C]: 30.000000
+2025-05-26 09:29:25,437-INFO- Temperature Limit Counter [Secs]: 9.000000
+2025-05-26 09:29:25,443-INFO- Estimated ClassA Temperature [C]: 51.583710
+2025-05-26 09:29:25,450-INFO- Estimated ClassB Temperature [C]: 39.834339
+2025-05-26 09:29:25,468-INFO- Set torque request detected
+2025-05-26 09:29:25,468-INFO- Value to set: 2.59316
+2025-05-26 09:29:28,460-INFO- Elapsed Time [Secs]: 12.069530
+2025-05-26 09:29:28,460-INFO- ** Measured Current [A rms]: 0.041670 **
+2025-05-26 09:29:28,460-INFO- Current reference: 4.000000
+2025-05-26 09:29:28,460-INFO- Measured Temperature [C]: 26.460282
+2025-05-26 09:29:28,461-INFO- Measured Temperature_2 [C]: 25.285224
+2025-05-26 09:29:28,461-INFO- Measured Temperature_3 [C]: 25.091966
+2025-05-26 09:29:28,461-INFO- Temperature Limit [C]: 30.000000
+2025-05-26 09:29:28,461-INFO- Temperature Limit Counter [Secs]: 12.000000
+2025-05-26 09:29:28,465-INFO- Estimated ClassA Temperature [C]: 52.666443
+2025-05-26 09:29:28,471-INFO- Estimated ClassB Temperature [C]: 40.109280
+2025-05-26 09:29:28,731-INFO- Set torque request detected
+2025-05-26 09:29:28,731-INFO- Value to set: 4.5733250000000005
+2025-05-26 09:29:30,603-WARNING- Read request error: Request error:  Too much empty characters received!
+2025-05-26 09:29:30,603-WARNING- Discarding the packet
+2025-05-26 09:29:31,479-INFO- Elapsed Time [Secs]: 15.088932
+2025-05-26 09:29:31,494-INFO- ** Measured Current [A rms]: 0.000000 **
+2025-05-26 09:29:31,495-INFO- Current reference: 4.000000
+2025-05-26 09:29:31,495-INFO- Measured Temperature [C]: 26.802154
+2025-05-26 09:29:31,495-INFO- Measured Temperature_2 [C]: 25.778076
+2025-05-26 09:29:31,495-INFO- Measured Temperature_3 [C]: 25.534071
+2025-05-26 09:29:31,496-INFO- Temperature Limit [C]: 30.000000
+2025-05-26 09:29:31,496-INFO- Temperature Limit Counter [Secs]: 15.000000
