@@ -1,0 +1,58 @@
+MAC-File Version: 1.0.0
+Acquisition date: 23/01/2018 11.24
+Source: Acquisition Module
+Tool Sw: MAC
+Tool Sw Version: 1.1.20.0
+DLL 0 Sw Version: AIDA.Plugin.Acquisition.dll=01.00.02.00
+DLL 1 Sw Version: AIDA.Plugin.ExpansionACU.Libs.dll=01.00.00.01
+DLL 2 Sw Version: AIDA.Plugin.ExpansionHMI.Libs.dll=01.00.00.01
+DLL 3 Sw Version: AIDA.Plugin.HMI.Libs.dll=01.00.02.00
+DLL 4 Sw Version: AIDA.Plugin.MCU.Libs.dll=01.00.02.00
+DLL 5 Sw Version: AIDA.Plugin.Nucleus.ACU.dll=01.00.01.00
+DLL 6 Sw Version: AIDA.Plugin.Nucleus.DiscoveryProcess.dll=01.00.01.00
+DLL 7 Sw Version: AIDA.Plugin.Nucleus.ExpansionACU.dll=01.00.00.01
+DLL 8 Sw Version: AIDA.Plugin.Nucleus.ExpansionHMI.dll=01.00.00.01
+DLL 9 Sw Version: AIDA.Plugin.Nucleus.HMI.dll=01.00.02.00
+DLL 10 Sw Version: AIDA.Plugin.Nucleus.MCU.dll=01.00.00.01
+DLL 11 Sw Version: AIDA.Plugin.Nucleus.Touch.dll=01.00.00.01
+DLL 12 Sw Version: AIDA.Plugin.Nucleus.Washer.dll=01.00.00.00
+DLL 13 Sw Version: AIDA.Plugin.Programmer.dll=02.00.01.00
+DLL 14 Sw Version: AIDA.Plugin.Touch.Libs.dll=01.00.00.01
+DLL 15 Sw Version: Acquisition_Library.dll=01.00.00.01
+DLL 16 Sw Version: Aida.PlugIn.CommChannel.Gpib.dll=01.00.00.00
+DLL 17 Sw Version: Aida.PlugIn.CommChannel.Rs485.dll=01.00.00.00
+DLL 18 Sw Version: Aida.PlugIn.Instruments.34901A.dll=01.00.00.01
+DLL 19 Sw Version: Aida.PlugIn.Instruments.Ada1.dll=01.00.00.00
+DLL 20 Sw Version: Aida.PlugIn.Instruments.Ada2.dll=01.00.00.00
+DLL 21 Sw Version: Aida.PlugIn.Instruments.Adam4018Plus.dll=01.00.00.00
+DLL 22 Sw Version: Aida.PlugIn.Instruments.Adam5000Tcp.dll=01.00.00.00
+DLL 23 Sw Version: Aida.PlugIn.Instruments.Adam5013.dll=01.00.00.00
+DLL 24 Sw Version: Aida.PlugIn.Instruments.Adam5017.dll=01.00.00.00
+DLL 25 Sw Version: Aida.PlugIn.Instruments.Adam5018.dll=01.00.00.00
+DLL 26 Sw Version: Aida.PlugIn.Instruments.Adam5080.dll=01.00.00.00
+DLL 27 Sw Version: Aida.PlugIn.Instruments.Adam5081.dll=01.00.00.00
+DLL 28 Sw Version: Aida.PlugIn.Instruments.Bk2525.dll=01.00.00.00
+DLL 29 Sw Version: Aida.PlugIn.Instruments.Bk2692.dll=01.00.00.00
+DLL 30 Sw Version: Aida.PlugIn.Instruments.CalInstrIIxSeries.dll=01.00.00.00
+DLL 31 Sw Version: Aida.PlugIn.Instruments.CvmMini.dll=01.00.00.00
+DLL 32 Sw Version: Aida.PlugIn.Instruments.Dfw03.dll=01.00.00.00
+DLL 33 Sw Version: Aida.PlugIn.Instruments.Dm401.dll=01.00.00.00
+DLL 34 Sw Version: Aida.PlugIn.Instruments.Dsp6000.dll=01.00.00.00
+DLL 35 Sw Version: Aida.PlugIn.Instruments.Ekh4.dll=01.00.00.00
+DLL 36 Sw Version: Aida.PlugIn.Instruments.ElgarCw.dll=01.00.00.00
+DLL 37 Sw Version: Aida.PlugIn.Instruments.Fluke189A.dll=01.00.00.00
+DLL 38 Sw Version: Aida.PlugIn.Instruments.Fluke5020A.dll=01.00.00.00
+DLL 39 Sw Version: Aida.PlugIn.Instruments.It106A.dll=01.00.00.00
+DLL 40 Sw Version: Aida.PlugIn.Instruments.Shtxx.dll=01.00.00.01
+DLL 41 Sw Version: Aida.PlugIn.Instruments.Snt124Usb.dll=01.00.00.00
+DLL 42 Sw Version: Aida.PlugIn.Instruments.SoehnleS202763.dll=01.00.00.00
+DLL 43 Sw Version: Aida.PlugIn.Instruments.TcpIpGenericInstrument.dll=01.00.00.00
+DLL 44 Sw Version: Aida.PlugIn.Instruments.Wt1806.dll=01.00.00.00
+DLL 45 Sw Version: Aida.PlugIn.Instruments.Wt2030.dll=01.00.00.00
+DLL 46 Sw Version: Aida.PlugIn.Instruments.Wt210.dll=01.00.00.00
+DLL 47 Sw Version: Aida.PlugIn.Instruments.Wt3000.dll=01.00.00.00
+DLL 48 Sw Version: Aida.PlugIn.Instruments.Wt500.dll=01.00.00.00
+DLL 49 Sw Version: Aida.Plugin.App.WashingMachine.dll=01.00.00.00
+Author: 
+E-Mail: 
+Comment: 

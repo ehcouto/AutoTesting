@@ -1,0 +1,2473 @@
+2025-06-17 11:59:18,297-INFO- RUNNING THE TEST
+2025-06-17 11:59:23,305-INFO- File name for the acquisition: ./out/PyVisaAcquisition_20250617_115923.visaacq
+2025-06-17 11:59:24,320-INFO- File name for the acquisition: ./out/MasterCommanderAcquisition_20250617_115924.mcacq
+2025-06-17 11:59:25,413-INFO- Set torque request detected
+2025-06-17 11:59:25,413-INFO- Value to set: 0
+2025-06-17 11:59:30,351-INFO- STARTING STEP N.0/0
+2025-06-17 11:59:30,351-INFO- TORQUE MIN: 0.1
+2025-06-17 11:59:30,351-INFO- TORQUE MAX: 1.8
+2025-06-17 11:59:30,352-INFO- TORQUE STEP: 0.1
+2025-06-17 11:59:30,429-INFO- Set torque request detected
+2025-06-17 11:59:30,429-INFO- Value to set: 0
+2025-06-17 11:59:30,849-INFO- Write request detected
+2025-06-17 11:59:30,849-INFO- Symbol to write: BD_Reset
+2025-06-17 11:59:31,273-WARNING- Read request error: Request error:  Too much empty characters received!
+2025-06-17 11:59:31,274-WARNING- Discarding the packet
+2025-06-17 11:59:36,378-INFO- Target speed: 605.000000
+2025-06-17 11:59:36,457-INFO- Write request detected
+2025-06-17 11:59:36,458-INFO- Symbol to write: My_Measured_Temp
+2025-06-17 11:59:37,395-INFO- Applying torque value: 0.041000
+2025-06-17 11:59:37,505-INFO- Set torque request detected
+2025-06-17 11:59:37,505-INFO- Value to set: 0.041
+2025-06-17 11:59:38,407-INFO- Read torque: -0.041000
+2025-06-17 11:59:39,422-INFO- Applying torque value: 0.480750
+2025-06-17 11:59:39,731-INFO- Set torque request detected
+2025-06-17 11:59:39,731-INFO- Value to set: 0.48075
+2025-06-17 11:59:40,430-INFO- Read torque: -0.041000
+2025-06-17 11:59:41,441-INFO- Applying torque value: 0.920500
+2025-06-17 11:59:41,955-INFO- Set torque request detected
+2025-06-17 11:59:41,955-INFO- Value to set: 0.9205000000000001
+2025-06-17 11:59:42,454-INFO- Read torque: -0.043000
+2025-06-17 11:59:43,466-INFO- Applying torque value: 1.360250
+2025-06-17 11:59:43,667-INFO- Set torque request detected
+2025-06-17 11:59:43,667-INFO- Value to set: 1.36025
+2025-06-17 11:59:44,475-INFO- Read torque: -0.047000
+2025-06-17 11:59:45,489-INFO- Applying torque value: 1.800000
+2025-06-17 11:59:45,894-INFO- Set torque request detected
+2025-06-17 11:59:45,894-INFO- Value to set: 1.8
+2025-06-17 11:59:46,500-INFO- Read torque: -0.045000
+2025-06-17 11:59:47,666-INFO- Final torque reached: -0.043000
+2025-06-17 11:59:47,666-INFO- Starting the measures
+2025-06-17 11:59:51,170-INFO- Write request detected
+2025-06-17 11:59:51,170-INFO- Symbol to write: BD_Manual_Method
+2025-06-17 11:59:51,844-INFO- Write request detected
+2025-06-17 11:59:51,844-INFO- Symbol to write: BD_Level_x32
+2025-06-17 11:59:53,196-INFO- Write request detected
+2025-06-17 11:59:53,196-INFO- Symbol to write: BD_Level_Rate_x32
+2025-06-17 11:59:53,883-INFO- Write request detected
+2025-06-17 11:59:53,883-INFO- Symbol to write: BD_Param_x32
+2025-06-17 11:59:55,221-INFO- Write request detected
+2025-06-17 11:59:55,221-INFO- Symbol to write: BD_Param_Rate_x32
+2025-06-17 11:59:55,908-INFO- Write request detected
+2025-06-17 11:59:55,908-INFO- Symbol to write: BD_Select_Method
+2025-06-17 11:59:57,928-INFO- Write request detected
+2025-06-17 11:59:57,928-INFO- Symbol to write: BD_Update_Cmd
+2025-06-17 11:59:58,065-WARNING- Read request error: Request error:  Checksum error
+2025-06-17 11:59:58,065-WARNING- Discarding the packet
+2025-06-17 12:00:00,763-INFO- Elapsed Time [Secs]: 10.091567
+2025-06-17 12:00:00,769-INFO- Measured Current [A rms]: 4.207520
+2025-06-17 12:00:00,769-INFO- Measured Temperature [C]: 41.214681
+2025-06-17 12:00:00,769-INFO- Measured Temperature_2 [C]: 40.032865
+2025-06-17 12:00:00,769-INFO- Measured Temperature_3 [C]: 40.998299
+2025-06-17 12:00:00,773-INFO- Estimated ClassA Temperature [C]: 26.041443
+2025-06-17 12:00:00,779-INFO- Estimated ClassB Temperature [C]: 40.093281
+2025-06-17 12:00:00,797-INFO- Squared Current Phase A: 3.909440
+2025-06-17 12:00:00,798-INFO- Squared Current Phase B: 3.881916
+2025-06-17 12:00:00,798-INFO- Squared Current Phase C: 3.878462
+2025-06-17 12:00:02,814-INFO- Elapsed Time [Secs]: 12.142540
+2025-06-17 12:00:02,822-INFO- Measured Current [A rms]: 4.207160
+2025-06-17 12:00:02,822-INFO- Measured Temperature [C]: 41.709860
+2025-06-17 12:00:02,822-INFO- Measured Temperature_2 [C]: 40.132589
+2025-06-17 12:00:02,822-INFO- Measured Temperature_3 [C]: 41.057399
+2025-06-17 12:00:02,828-INFO- Estimated ClassA Temperature [C]: 27.222595
+2025-06-17 12:00:02,834-INFO- Estimated ClassB Temperature [C]: 40.452213
+2025-06-17 12:00:02,851-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:00:02,851-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:00:02,852-INFO- Squared Current Phase C: 4.243786
+2025-06-17 12:00:04,859-INFO- Elapsed Time [Secs]: 14.188011
+2025-06-17 12:00:04,868-INFO- Measured Current [A rms]: 4.206460
+2025-06-17 12:00:04,868-INFO- Measured Temperature [C]: 42.423937
+2025-06-17 12:00:04,868-INFO- Measured Temperature_2 [C]: 40.405881
+2025-06-17 12:00:04,868-INFO- Measured Temperature_3 [C]: 41.251590
+2025-06-17 12:00:04,874-INFO- Estimated ClassA Temperature [C]: 28.228821
+2025-06-17 12:00:04,881-INFO- Estimated ClassB Temperature [C]: 40.812336
+2025-06-17 12:00:04,898-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:00:04,898-INFO- Squared Current Phase B: 4.243543
+2025-06-17 12:00:04,898-INFO- Squared Current Phase C: 4.243786
+2025-06-17 12:00:06,912-INFO- Elapsed Time [Secs]: 16.240432
+2025-06-17 12:00:06,921-INFO- Measured Current [A rms]: 4.206750
+2025-06-17 12:00:06,921-INFO- Measured Temperature [C]: 43.499947
+2025-06-17 12:00:06,921-INFO- Measured Temperature_2 [C]: 41.030122
+2025-06-17 12:00:06,921-INFO- Measured Temperature_3 [C]: 41.679326
+2025-06-17 12:00:06,927-INFO- Estimated ClassA Temperature [C]: 29.121063
+2025-06-17 12:00:06,933-INFO- Estimated ClassB Temperature [C]: 41.172768
+2025-06-17 12:00:06,950-INFO- Squared Current Phase A: 4.241356
+2025-06-17 12:00:06,950-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:00:06,950-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:00:08,956-INFO- Elapsed Time [Secs]: 18.284875
+2025-06-17 12:00:08,965-INFO- Measured Current [A rms]: 4.206450
+2025-06-17 12:00:08,965-INFO- Measured Temperature [C]: 44.357800
+2025-06-17 12:00:08,965-INFO- Measured Temperature_2 [C]: 41.570269
+2025-06-17 12:00:08,965-INFO- Measured Temperature_3 [C]: 42.117095
+2025-06-17 12:00:08,971-INFO- Estimated ClassA Temperature [C]: 29.923889
+2025-06-17 12:00:08,977-INFO- Estimated ClassB Temperature [C]: 41.533558
+2025-06-17 12:00:08,995-INFO- Squared Current Phase A: 4.240869
+2025-06-17 12:00:08,995-INFO- Squared Current Phase B: 4.243786
+2025-06-17 12:00:08,995-INFO- Squared Current Phase C: 4.243786
+2025-06-17 12:00:11,010-INFO- Elapsed Time [Secs]: 20.338628
+2025-06-17 12:00:11,019-INFO- Measured Current [A rms]: 4.206310
+2025-06-17 12:00:11,019-INFO- Measured Temperature [C]: 44.919059
+2025-06-17 12:00:11,019-INFO- Measured Temperature_2 [C]: 41.960649
+2025-06-17 12:00:11,019-INFO- Measured Temperature_3 [C]: 42.442283
+2025-06-17 12:00:11,025-INFO- Estimated ClassA Temperature [C]: 30.652863
+2025-06-17 12:00:11,031-INFO- Estimated ClassB Temperature [C]: 41.894691
+2025-06-17 12:00:11,048-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:00:11,048-INFO- Squared Current Phase B: 4.244029
+2025-06-17 12:00:11,048-INFO- Squared Current Phase C: 4.243786
+2025-06-17 12:00:13,062-INFO- Elapsed Time [Secs]: 22.390069
+2025-06-17 12:00:13,071-INFO- Measured Current [A rms]: 4.206320
+2025-06-17 12:00:13,071-INFO- Measured Temperature [C]: 46.172018
+2025-06-17 12:00:13,071-INFO- Measured Temperature_2 [C]: 42.946074
+2025-06-17 12:00:13,071-INFO- Measured Temperature_3 [C]: 43.274505
+2025-06-17 12:00:13,078-INFO- Estimated ClassA Temperature [C]: 31.319885
+2025-06-17 12:00:13,085-INFO- Estimated ClassB Temperature [C]: 42.256115
+2025-06-17 12:00:13,101-INFO- Squared Current Phase A: 4.240869
+2025-06-17 12:00:13,102-INFO- Squared Current Phase B: 4.243786
+2025-06-17 12:00:13,102-INFO- Squared Current Phase C: 4.243786
+2025-06-17 12:00:15,105-INFO- Elapsed Time [Secs]: 24.433641
+2025-06-17 12:00:15,265-INFO- Measured Current [A rms]: 4.206060
+2025-06-17 12:00:15,265-INFO- Measured Temperature [C]: 47.004985
+2025-06-17 12:00:15,265-INFO- Measured Temperature_2 [C]: 43.627173
+2025-06-17 12:00:15,266-INFO- Measured Temperature_3 [C]: 43.881586
+2025-06-17 12:00:15,272-INFO- Estimated ClassA Temperature [C]: 32.132080
+2025-06-17 12:00:15,280-INFO- Estimated ClassB Temperature [C]: 42.798847
+2025-06-17 12:00:15,297-INFO- Squared Current Phase A: 4.241356
+2025-06-17 12:00:15,297-INFO- Squared Current Phase B: 4.244272
+2025-06-17 12:00:15,297-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:00:17,302-INFO- Elapsed Time [Secs]: 26.630210
+2025-06-17 12:00:17,311-INFO- Measured Current [A rms]: 4.205770
+2025-06-17 12:00:17,311-INFO- Measured Temperature [C]: 47.555729
+2025-06-17 12:00:17,311-INFO- Measured Temperature_2 [C]: 44.095677
+2025-06-17 12:00:17,312-INFO- Measured Temperature_3 [C]: 44.277627
+2025-06-17 12:00:17,317-INFO- Estimated ClassA Temperature [C]: 32.689514
+2025-06-17 12:00:17,323-INFO- Estimated ClassB Temperature [C]: 43.161053
+2025-06-17 12:00:17,340-INFO- Squared Current Phase A: 4.240869
+2025-06-17 12:00:17,340-INFO- Squared Current Phase B: 4.244272
+2025-06-17 12:00:17,340-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:00:19,351-INFO- Elapsed Time [Secs]: 28.679079
+2025-06-17 12:00:19,360-INFO- Measured Current [A rms]: 4.205360
+2025-06-17 12:00:19,360-INFO- Measured Temperature [C]: 48.796665
+2025-06-17 12:00:19,360-INFO- Measured Temperature_2 [C]: 45.163074
+2025-06-17 12:00:19,361-INFO- Measured Temperature_3 [C]: 45.257333
+2025-06-17 12:00:19,367-INFO- Estimated ClassA Temperature [C]: 33.217499
+2025-06-17 12:00:19,373-INFO- Estimated ClassB Temperature [C]: 43.523560
+2025-06-17 12:00:19,390-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:00:19,390-INFO- Squared Current Phase B: 4.244272
+2025-06-17 12:00:19,390-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:00:21,398-INFO- Elapsed Time [Secs]: 30.726644
+2025-06-17 12:00:21,426-INFO- Measured Current [A rms]: 4.205760
+2025-06-17 12:00:21,426-INFO- Measured Temperature [C]: 49.052454
+2025-06-17 12:00:21,426-INFO- Measured Temperature_2 [C]: 45.401970
+2025-06-17 12:00:21,426-INFO- Measured Temperature_3 [C]: 45.486606
+2025-06-17 12:00:21,432-INFO- Estimated ClassA Temperature [C]: 33.702545
+2025-06-17 12:00:21,438-INFO- Estimated ClassB Temperature [C]: 43.886383
+2025-06-17 12:00:21,455-INFO- Squared Current Phase A: 4.240869
+2025-06-17 12:00:21,455-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:00:21,455-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:00:23,468-INFO- Elapsed Time [Secs]: 32.796260
+2025-06-17 12:00:23,476-INFO- Measured Current [A rms]: 4.205270
+2025-06-17 12:00:23,476-INFO- Measured Temperature [C]: 50.086874
+2025-06-17 12:00:23,476-INFO- Measured Temperature_2 [C]: 46.316919
+2025-06-17 12:00:23,477-INFO- Measured Temperature_3 [C]: 46.337022
+2025-06-17 12:00:23,483-INFO- Estimated ClassA Temperature [C]: 34.167938
+2025-06-17 12:00:23,489-INFO- Estimated ClassB Temperature [C]: 44.249504
+2025-06-17 12:00:23,506-INFO- Squared Current Phase A: 4.240383
+2025-06-17 12:00:23,506-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:00:23,506-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:00:25,519-INFO- Elapsed Time [Secs]: 34.846681
+2025-06-17 12:00:25,526-INFO- Measured Current [A rms]: 4.205490
+2025-06-17 12:00:25,526-INFO- Measured Temperature [C]: 50.986961
+2025-06-17 12:00:25,526-INFO- Measured Temperature_2 [C]: 47.144909
+2025-06-17 12:00:25,526-INFO- Measured Temperature_3 [C]: 47.119568
+2025-06-17 12:00:25,531-INFO- Estimated ClassA Temperature [C]: 34.611145
+2025-06-17 12:00:25,537-INFO- Estimated ClassB Temperature [C]: 44.612942
+2025-06-17 12:00:25,553-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:00:25,554-INFO- Squared Current Phase B: 4.244757
+2025-06-17 12:00:25,554-INFO- Squared Current Phase C: 4.242814
+2025-06-17 12:00:27,566-INFO- Elapsed Time [Secs]: 36.893917
+2025-06-17 12:00:27,571-INFO- Measured Current [A rms]: 4.205390
+2025-06-17 12:00:27,572-INFO- Measured Temperature [C]: 51.807818
+2025-06-17 12:00:27,572-INFO- Measured Temperature_2 [C]: 47.956113
+2025-06-17 12:00:27,572-INFO- Measured Temperature_3 [C]: 47.880315
+2025-06-17 12:00:27,576-INFO- Estimated ClassA Temperature [C]: 35.040527
+2025-06-17 12:00:27,583-INFO- Estimated ClassB Temperature [C]: 44.976643
+2025-06-17 12:00:27,599-INFO- Squared Current Phase A: 4.240869
+2025-06-17 12:00:27,600-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:00:27,600-INFO- Squared Current Phase C: 4.242571
+2025-06-17 12:00:29,604-INFO- Elapsed Time [Secs]: 38.931647
+2025-06-17 12:00:29,610-INFO- Measured Current [A rms]: 4.205500
+2025-06-17 12:00:29,611-INFO- Measured Temperature [C]: 52.403898
+2025-06-17 12:00:29,611-INFO- Measured Temperature_2 [C]: 48.538840
+2025-06-17 12:00:29,611-INFO- Measured Temperature_3 [C]: 48.436673
+2025-06-17 12:00:29,615-INFO- Estimated ClassA Temperature [C]: 35.443115
+2025-06-17 12:00:29,621-INFO- Estimated ClassB Temperature [C]: 45.340649
+2025-06-17 12:00:29,639-INFO- Squared Current Phase A: 4.240626
+2025-06-17 12:00:29,639-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:00:29,639-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:00:31,649-INFO- Elapsed Time [Secs]: 40.976863
+2025-06-17 12:00:31,655-INFO- Measured Current [A rms]: 4.205320
+2025-06-17 12:00:31,655-INFO- Measured Temperature [C]: 53.218706
+2025-06-17 12:00:31,655-INFO- Measured Temperature_2 [C]: 49.314881
+2025-06-17 12:00:31,655-INFO- Measured Temperature_3 [C]: 49.193614
+2025-06-17 12:00:31,659-INFO- Estimated ClassA Temperature [C]: 35.836914
+2025-06-17 12:00:31,665-INFO- Estimated ClassB Temperature [C]: 45.704929
+2025-06-17 12:00:31,682-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:00:31,682-INFO- Squared Current Phase B: 4.244757
+2025-06-17 12:00:31,682-INFO- Squared Current Phase C: 4.242814
+2025-06-17 12:00:33,696-INFO- Elapsed Time [Secs]: 43.024320
+2025-06-17 12:00:33,704-INFO- Measured Current [A rms]: 4.205590
+2025-06-17 12:00:33,704-INFO- Measured Temperature [C]: 54.015397
+2025-06-17 12:00:33,704-INFO- Measured Temperature_2 [C]: 50.090667
+2025-06-17 12:00:33,704-INFO- Measured Temperature_3 [C]: 49.930451
+2025-06-17 12:00:33,708-INFO- Estimated ClassA Temperature [C]: 36.218933
+2025-06-17 12:00:33,715-INFO- Estimated ClassB Temperature [C]: 46.069481
+2025-06-17 12:00:33,732-INFO- Squared Current Phase A: 4.240626
+2025-06-17 12:00:33,732-INFO- Squared Current Phase B: 4.244272
+2025-06-17 12:00:33,732-INFO- Squared Current Phase C: 4.242571
+2025-06-17 12:00:35,743-INFO- Elapsed Time [Secs]: 45.070919
+2025-06-17 12:00:35,787-INFO- Measured Current [A rms]: 4.205270
+2025-06-17 12:00:35,787-INFO- Measured Temperature [C]: 54.555641
+2025-06-17 12:00:35,787-INFO- Measured Temperature_2 [C]: 50.639454
+2025-06-17 12:00:35,788-INFO- Measured Temperature_3 [C]: 50.460883
+2025-06-17 12:00:35,794-INFO- Estimated ClassA Temperature [C]: 36.686707
+2025-06-17 12:00:35,799-INFO- Estimated ClassB Temperature [C]: 46.616886
+2025-06-17 12:00:35,816-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:00:35,816-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:00:35,816-INFO- Squared Current Phase C: 4.242085
+2025-06-17 12:00:37,819-INFO- Elapsed Time [Secs]: 47.146683
+2025-06-17 12:00:37,829-INFO- Measured Current [A rms]: 4.205560
+2025-06-17 12:00:37,829-INFO- Measured Temperature [C]: 55.309124
+2025-06-17 12:00:37,829-INFO- Measured Temperature_2 [C]: 51.379856
+2025-06-17 12:00:37,829-INFO- Measured Temperature_3 [C]: 51.180805
+2025-06-17 12:00:37,836-INFO- Estimated ClassA Temperature [C]: 37.047363
+2025-06-17 12:00:37,842-INFO- Estimated ClassB Temperature [C]: 46.982170
+2025-06-17 12:00:37,858-INFO- Squared Current Phase A: 4.240383
+2025-06-17 12:00:37,858-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:00:37,859-INFO- Squared Current Phase C: 4.242571
+2025-06-17 12:00:39,869-INFO- Elapsed Time [Secs]: 49.196863
+2025-06-17 12:00:39,878-INFO- Measured Current [A rms]: 4.205530
+2025-06-17 12:00:39,878-INFO- Measured Temperature [C]: 55.708206
+2025-06-17 12:00:39,878-INFO- Measured Temperature_2 [C]: 51.774084
+2025-06-17 12:00:39,878-INFO- Measured Temperature_3 [C]: 51.582847
+2025-06-17 12:00:39,884-INFO- Estimated ClassA Temperature [C]: 37.401123
+2025-06-17 12:00:39,890-INFO- Estimated ClassB Temperature [C]: 47.347733
+2025-06-17 12:00:39,909-INFO- Squared Current Phase A: 4.241356
+2025-06-17 12:00:39,909-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:00:39,909-INFO- Squared Current Phase C: 4.242328
+2025-06-17 12:00:41,922-INFO- Elapsed Time [Secs]: 51.249713
+2025-06-17 12:00:41,931-INFO- Measured Current [A rms]: 4.205420
+2025-06-17 12:00:41,931-INFO- Measured Temperature [C]: 56.343130
+2025-06-17 12:00:41,931-INFO- Measured Temperature_2 [C]: 52.386407
+2025-06-17 12:00:41,931-INFO- Measured Temperature_3 [C]: 52.174874
+2025-06-17 12:00:41,937-INFO- Estimated ClassA Temperature [C]: 37.748474
+2025-06-17 12:00:41,943-INFO- Estimated ClassB Temperature [C]: 47.713577
+2025-06-17 12:00:41,960-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:00:41,960-INFO- Squared Current Phase B: 4.245243
+2025-06-17 12:00:41,960-INFO- Squared Current Phase C: 4.242085
+2025-06-17 12:00:43,975-INFO- Elapsed Time [Secs]: 53.302536
+2025-06-17 12:00:43,983-INFO- Measured Current [A rms]: 4.205070
+2025-06-17 12:00:43,984-INFO- Measured Temperature [C]: 57.109349
+2025-06-17 12:00:43,984-INFO- Measured Temperature_2 [C]: 53.174192
+2025-06-17 12:00:43,984-INFO- Measured Temperature_3 [C]: 52.975214
+2025-06-17 12:00:43,990-INFO- Estimated ClassA Temperature [C]: 38.086212
+2025-06-17 12:00:43,996-INFO- Estimated ClassB Temperature [C]: 48.079681
+2025-06-17 12:00:44,015-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:00:44,015-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:00:44,015-INFO- Squared Current Phase C: 4.241842
+2025-06-17 12:00:46,023-INFO- Elapsed Time [Secs]: 55.350346
+2025-06-17 12:00:46,032-INFO- Measured Current [A rms]: 4.205670
+2025-06-17 12:00:46,032-INFO- Measured Temperature [C]: 57.604070
+2025-06-17 12:00:46,032-INFO- Measured Temperature_2 [C]: 53.684848
+2025-06-17 12:00:46,032-INFO- Measured Temperature_3 [C]: 53.445399
+2025-06-17 12:00:46,038-INFO- Estimated ClassA Temperature [C]: 38.423706
+2025-06-17 12:00:46,045-INFO- Estimated ClassB Temperature [C]: 48.446083
+2025-06-17 12:00:46,062-INFO- Squared Current Phase A: 4.241356
+2025-06-17 12:00:46,062-INFO- Squared Current Phase B: 4.245243
+2025-06-17 12:00:46,062-INFO- Squared Current Phase C: 4.242085
+2025-06-17 12:00:48,064-INFO- Elapsed Time [Secs]: 57.390985
+2025-06-17 12:00:48,071-INFO- Measured Current [A rms]: 4.205500
+2025-06-17 12:00:48,071-INFO- Measured Temperature [C]: 58.163104
+2025-06-17 12:00:48,071-INFO- Measured Temperature_2 [C]: 54.242144
+2025-06-17 12:00:48,071-INFO- Measured Temperature_3 [C]: 54.011254
+2025-06-17 12:00:48,075-INFO- Estimated ClassA Temperature [C]: 38.761444
+2025-06-17 12:00:48,081-INFO- Estimated ClassB Temperature [C]: 48.812725
+2025-06-17 12:00:48,098-INFO- Squared Current Phase A: 4.241356
+2025-06-17 12:00:48,098-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:00:48,098-INFO- Squared Current Phase C: 4.242085
+2025-06-17 12:00:50,105-INFO- Elapsed Time [Secs]: 59.432186
+2025-06-17 12:00:50,111-INFO- Measured Current [A rms]: 4.205090
+2025-06-17 12:00:50,111-INFO- Measured Temperature [C]: 58.907199
+2025-06-17 12:00:50,111-INFO- Measured Temperature_2 [C]: 54.986251
+2025-06-17 12:00:50,111-INFO- Measured Temperature_3 [C]: 54.726136
+2025-06-17 12:00:50,116-INFO- Estimated ClassA Temperature [C]: 39.091583
+2025-06-17 12:00:50,122-INFO- Estimated ClassB Temperature [C]: 49.179615
+2025-06-17 12:00:50,139-INFO- Squared Current Phase A: 4.240869
+2025-06-17 12:00:50,139-INFO- Squared Current Phase B: 4.244757
+2025-06-17 12:00:50,139-INFO- Squared Current Phase C: 4.241599
+2025-06-17 12:00:52,151-INFO- Elapsed Time [Secs]: 61.478554
+2025-06-17 12:00:52,157-INFO- Measured Current [A rms]: 4.205710
+2025-06-17 12:00:52,157-INFO- Measured Temperature [C]: 59.448698
+2025-06-17 12:00:52,157-INFO- Measured Temperature_2 [C]: 55.531170
+2025-06-17 12:00:52,157-INFO- Measured Temperature_3 [C]: 55.270253
+2025-06-17 12:00:52,161-INFO- Estimated ClassA Temperature [C]: 39.419128
+2025-06-17 12:00:52,168-INFO- Estimated ClassB Temperature [C]: 49.546787
+2025-06-17 12:00:52,186-INFO- Squared Current Phase A: 4.241599
+2025-06-17 12:00:52,186-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:00:52,187-INFO- Squared Current Phase C: 4.242085
+2025-06-17 12:00:54,214-INFO- Elapsed Time [Secs]: 63.524908
+2025-06-17 12:00:54,220-INFO- Measured Current [A rms]: 4.204970
+2025-06-17 12:00:54,220-INFO- Measured Temperature [C]: 59.801456
+2025-06-17 12:00:54,220-INFO- Measured Temperature_2 [C]: 55.908606
+2025-06-17 12:00:54,220-INFO- Measured Temperature_3 [C]: 55.631745
+2025-06-17 12:00:54,224-INFO- Estimated ClassA Temperature [C]: 39.740173
+2025-06-17 12:00:54,230-INFO- Estimated ClassB Temperature [C]: 49.914230
+2025-06-17 12:00:54,247-INFO- Squared Current Phase A: 4.241599
+2025-06-17 12:00:54,248-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:00:54,248-INFO- Squared Current Phase C: 4.241842
+2025-06-17 12:00:56,258-INFO- Elapsed Time [Secs]: 65.585469
+2025-06-17 12:00:56,267-INFO- Measured Current [A rms]: 4.204990
+2025-06-17 12:00:56,267-INFO- Measured Temperature [C]: 60.406299
+2025-06-17 12:00:56,267-INFO- Measured Temperature_2 [C]: 56.498132
+2025-06-17 12:00:56,267-INFO- Measured Temperature_3 [C]: 56.246561
+2025-06-17 12:00:56,274-INFO- Estimated ClassA Temperature [C]: 40.067169
+2025-06-17 12:00:56,280-INFO- Estimated ClassB Temperature [C]: 50.281910
+2025-06-17 12:00:56,298-INFO- Squared Current Phase A: 4.241599
+2025-06-17 12:00:56,300-INFO- Squared Current Phase B: 4.245243
+2025-06-17 12:00:56,300-INFO- Squared Current Phase C: 4.241112
+2025-06-17 12:00:58,317-INFO- Elapsed Time [Secs]: 67.643567
+2025-06-17 12:00:58,455-INFO- Measured Current [A rms]: 4.205520
+2025-06-17 12:00:58,455-INFO- Measured Temperature [C]: 61.014666
+2025-06-17 12:00:58,455-INFO- Measured Temperature_2 [C]: 57.114741
+2025-06-17 12:00:58,455-INFO- Measured Temperature_3 [C]: 56.848714
+2025-06-17 12:00:58,461-INFO- Estimated ClassA Temperature [C]: 40.495972
+2025-06-17 12:00:58,467-INFO- Estimated ClassB Temperature [C]: 50.649837
+2025-06-17 12:00:58,485-INFO- Squared Current Phase A: 4.241842
+2025-06-17 12:00:58,485-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:00:58,485-INFO- Squared Current Phase C: 4.241599
+2025-06-17 12:01:00,491-INFO- Elapsed Time [Secs]: 69.817831
+2025-06-17 12:01:00,500-INFO- Measured Current [A rms]: 4.205190
+2025-06-17 12:01:00,500-INFO- Measured Temperature [C]: 61.422618
+2025-06-17 12:01:00,500-INFO- Measured Temperature_2 [C]: 57.554659
+2025-06-17 12:01:00,500-INFO- Measured Temperature_3 [C]: 57.275053
+2025-06-17 12:01:00,506-INFO- Estimated ClassA Temperature [C]: 40.815094
+2025-06-17 12:01:00,513-INFO- Estimated ClassB Temperature [C]: 51.018005
+2025-06-17 12:01:00,530-INFO- Squared Current Phase A: 4.241842
+2025-06-17 12:01:00,530-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:01:00,530-INFO- Squared Current Phase C: 4.241112
+2025-06-17 12:01:02,531-INFO- Elapsed Time [Secs]: 71.858098
+2025-06-17 12:01:02,540-INFO- Measured Current [A rms]: 4.205370
+2025-06-17 12:01:02,540-INFO- Measured Temperature [C]: 61.940647
+2025-06-17 12:01:02,540-INFO- Measured Temperature_2 [C]: 58.033783
+2025-06-17 12:01:02,540-INFO- Measured Temperature_3 [C]: 57.772772
+2025-06-17 12:01:02,546-INFO- Estimated ClassA Temperature [C]: 41.132477
+2025-06-17 12:01:02,552-INFO- Estimated ClassB Temperature [C]: 51.386452
+2025-06-17 12:01:02,569-INFO- Squared Current Phase A: 4.242085
+2025-06-17 12:01:02,569-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:01:02,569-INFO- Squared Current Phase C: 4.241356
+2025-06-17 12:01:04,584-INFO- Elapsed Time [Secs]: 73.910660
+2025-06-17 12:01:04,594-INFO- Measured Current [A rms]: 4.205190
+2025-06-17 12:01:04,594-INFO- Measured Temperature [C]: 62.569716
+2025-06-17 12:01:04,594-INFO- Measured Temperature_2 [C]: 58.680993
+2025-06-17 12:01:04,594-INFO- Measured Temperature_3 [C]: 58.419377
+2025-06-17 12:01:04,600-INFO- Estimated ClassA Temperature [C]: 41.449860
+2025-06-17 12:01:04,606-INFO- Estimated ClassB Temperature [C]: 51.755127
+2025-06-17 12:01:04,624-INFO- Squared Current Phase A: 4.242085
+2025-06-17 12:01:04,625-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:01:04,625-INFO- Squared Current Phase C: 4.241599
+2025-06-17 12:01:06,634-INFO- Elapsed Time [Secs]: 75.961074
+2025-06-17 12:01:06,643-INFO- Measured Current [A rms]: 4.205380
+2025-06-17 12:01:06,643-INFO- Measured Temperature [C]: 62.966514
+2025-06-17 12:01:06,643-INFO- Measured Temperature_2 [C]: 59.087601
+2025-06-17 12:01:06,643-INFO- Measured Temperature_3 [C]: 58.834673
+2025-06-17 12:01:06,651-INFO- Estimated ClassA Temperature [C]: 41.765991
+2025-06-17 12:01:06,659-INFO- Estimated ClassB Temperature [C]: 52.124073
+2025-06-17 12:01:06,679-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:01:06,680-INFO- Squared Current Phase B: 4.244757
+2025-06-17 12:01:06,680-INFO- Squared Current Phase C: 4.241599
+2025-06-17 12:01:08,690-INFO- Elapsed Time [Secs]: 78.016784
+2025-06-17 12:01:08,699-INFO- Measured Current [A rms]: 4.205130
+2025-06-17 12:01:08,699-INFO- Measured Temperature [C]: 63.486710
+2025-06-17 12:01:08,699-INFO- Measured Temperature_2 [C]: 59.563721
+2025-06-17 12:01:08,699-INFO- Measured Temperature_3 [C]: 59.308361
+2025-06-17 12:01:08,705-INFO- Estimated ClassA Temperature [C]: 42.057312
+2025-06-17 12:01:08,712-INFO- Estimated ClassB Temperature [C]: 52.493237
+2025-06-17 12:01:08,728-INFO- Squared Current Phase A: 4.242085
+2025-06-17 12:01:08,729-INFO- Squared Current Phase B: 4.244757
+2025-06-17 12:01:08,729-INFO- Squared Current Phase C: 4.241112
+2025-06-17 12:01:10,743-INFO- Elapsed Time [Secs]: 80.070200
+2025-06-17 12:01:10,749-INFO- Measured Current [A rms]: 4.204950
+2025-06-17 12:01:10,750-INFO- Measured Temperature [C]: 64.074183
+2025-06-17 12:01:10,750-INFO- Measured Temperature_2 [C]: 60.198254
+2025-06-17 12:01:10,750-INFO- Measured Temperature_3 [C]: 59.928471
+2025-06-17 12:01:10,754-INFO- Estimated ClassA Temperature [C]: 42.372253
+2025-06-17 12:01:10,760-INFO- Estimated ClassB Temperature [C]: 52.862640
+2025-06-17 12:01:10,777-INFO- Squared Current Phase A: 4.242571
+2025-06-17 12:01:10,777-INFO- Squared Current Phase B: 4.244757
+2025-06-17 12:01:10,777-INFO- Squared Current Phase C: 4.241356
+2025-06-17 12:01:12,789-INFO- Elapsed Time [Secs]: 82.115291
+2025-06-17 12:01:12,798-INFO- Measured Current [A rms]: 4.205170
+2025-06-17 12:01:12,798-INFO- Measured Temperature [C]: 64.458257
+2025-06-17 12:01:12,798-INFO- Measured Temperature_2 [C]: 60.585804
+2025-06-17 12:01:12,798-INFO- Measured Temperature_3 [C]: 60.327927
+2025-06-17 12:01:12,804-INFO- Estimated ClassA Temperature [C]: 42.689575
+2025-06-17 12:01:12,810-INFO- Estimated ClassB Temperature [C]: 53.232265
+2025-06-17 12:01:12,828-INFO- Squared Current Phase A: 4.242328
+2025-06-17 12:01:12,828-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:01:12,828-INFO- Squared Current Phase C: 4.241356
+2025-06-17 12:01:14,831-INFO- Elapsed Time [Secs]: 84.157747
+2025-06-17 12:01:14,840-INFO- Measured Current [A rms]: 4.205420
+2025-06-17 12:01:14,840-INFO- Measured Temperature [C]: 64.913586
+2025-06-17 12:01:14,840-INFO- Measured Temperature_2 [C]: 61.041735
+2025-06-17 12:01:14,840-INFO- Measured Temperature_3 [C]: 60.777122
+2025-06-17 12:01:14,846-INFO- Estimated ClassA Temperature [C]: 43.002075
+2025-06-17 12:01:14,852-INFO- Estimated ClassB Temperature [C]: 53.602127
+2025-06-17 12:01:15,030-INFO- Squared Current Phase A: 4.242571
+2025-06-17 12:01:15,031-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:01:15,031-INFO- Squared Current Phase C: 4.241112
+2025-06-17 12:01:17,046-INFO- Elapsed Time [Secs]: 86.373100
+2025-06-17 12:01:17,055-INFO- Measured Current [A rms]: 4.204860
+2025-06-17 12:01:17,055-INFO- Measured Temperature [C]: 65.519832
+2025-06-17 12:01:17,055-INFO- Measured Temperature_2 [C]: 61.624941
+2025-06-17 12:01:17,055-INFO- Measured Temperature_3 [C]: 61.375842
+2025-06-17 12:01:17,061-INFO- Estimated ClassA Temperature [C]: 43.416443
+2025-06-17 12:01:17,067-INFO- Estimated ClassB Temperature [C]: 54.157368
+2025-06-17 12:01:17,085-INFO- Squared Current Phase A: 4.242328
+2025-06-17 12:01:17,085-INFO- Squared Current Phase B: 4.244757
+2025-06-17 12:01:17,086-INFO- Squared Current Phase C: 4.241356
+2025-06-17 12:01:19,101-INFO- Elapsed Time [Secs]: 88.428071
+2025-06-17 12:01:19,110-INFO- Measured Current [A rms]: 4.205400
+2025-06-17 12:01:19,110-INFO- Measured Temperature [C]: 65.877107
+2025-06-17 12:01:19,110-INFO- Measured Temperature_2 [C]: 62.012128
+2025-06-17 12:01:19,110-INFO- Measured Temperature_3 [C]: 61.758971
+2025-06-17 12:01:19,116-INFO- Estimated ClassA Temperature [C]: 43.732849
+2025-06-17 12:01:19,123-INFO- Estimated ClassB Temperature [C]: 54.527790
+2025-06-17 12:01:19,140-INFO- Squared Current Phase A: 4.242571
+2025-06-17 12:01:19,140-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:01:19,140-INFO- Squared Current Phase C: 4.241842
+2025-06-17 12:01:21,151-INFO- Elapsed Time [Secs]: 90.477701
+2025-06-17 12:01:21,159-INFO- Measured Current [A rms]: 4.205050
+2025-06-17 12:01:21,160-INFO- Measured Temperature [C]: 66.327920
+2025-06-17 12:01:21,160-INFO- Measured Temperature_2 [C]: 62.443994
+2025-06-17 12:01:21,160-INFO- Measured Temperature_3 [C]: 62.193774
+2025-06-17 12:01:21,165-INFO- Estimated ClassA Temperature [C]: 44.045349
+2025-06-17 12:01:21,171-INFO- Estimated ClassB Temperature [C]: 54.898449
+2025-06-17 12:01:21,189-INFO- Squared Current Phase A: 4.243057
+2025-06-17 12:01:21,189-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:01:21,189-INFO- Squared Current Phase C: 4.241599
+2025-06-17 12:01:23,204-INFO- Elapsed Time [Secs]: 92.530672
+2025-06-17 12:01:23,213-INFO- Measured Current [A rms]: 4.205010
+2025-06-17 12:01:23,213-INFO- Measured Temperature [C]: 66.758246
+2025-06-17 12:01:23,213-INFO- Measured Temperature_2 [C]: 62.883796
+2025-06-17 12:01:23,214-INFO- Measured Temperature_3 [C]: 62.627738
+2025-06-17 12:01:23,219-INFO- Estimated ClassA Temperature [C]: 44.357849
+2025-06-17 12:01:23,225-INFO- Estimated ClassB Temperature [C]: 55.269321
+2025-06-17 12:01:23,242-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:01:23,242-INFO- Squared Current Phase B: 4.244272
+2025-06-17 12:01:23,242-INFO- Squared Current Phase C: 4.241356
+2025-06-17 12:01:25,257-INFO- Elapsed Time [Secs]: 94.583942
+2025-06-17 12:01:25,263-INFO- Measured Current [A rms]: 4.205360
+2025-06-17 12:01:25,263-INFO- Measured Temperature [C]: 67.267913
+2025-06-17 12:01:25,263-INFO- Measured Temperature_2 [C]: 63.391670
+2025-06-17 12:01:25,263-INFO- Measured Temperature_3 [C]: 63.139096
+2025-06-17 12:01:25,267-INFO- Estimated ClassA Temperature [C]: 44.669373
+2025-06-17 12:01:25,273-INFO- Estimated ClassB Temperature [C]: 55.640400
+2025-06-17 12:01:25,291-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:01:25,291-INFO- Squared Current Phase B: 4.244272
+2025-06-17 12:01:25,292-INFO- Squared Current Phase C: 4.241356
+2025-06-17 12:01:27,308-INFO- Elapsed Time [Secs]: 96.634578
+2025-06-17 12:01:27,314-INFO- Measured Current [A rms]: 4.205140
+2025-06-17 12:01:27,314-INFO- Measured Temperature [C]: 67.608555
+2025-06-17 12:01:27,314-INFO- Measured Temperature_2 [C]: 63.761595
+2025-06-17 12:01:27,314-INFO- Measured Temperature_3 [C]: 63.493332
+2025-06-17 12:01:27,318-INFO- Estimated ClassA Temperature [C]: 44.980957
+2025-06-17 12:01:27,324-INFO- Estimated ClassB Temperature [C]: 56.011669
+2025-06-17 12:01:27,342-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:01:27,342-INFO- Squared Current Phase B: 4.243786
+2025-06-17 12:01:27,342-INFO- Squared Current Phase C: 4.241356
+2025-06-17 12:01:29,356-INFO- Elapsed Time [Secs]: 98.682873
+2025-06-17 12:01:29,362-INFO- Measured Current [A rms]: 4.205110
+2025-06-17 12:01:29,362-INFO- Measured Temperature [C]: 68.107068
+2025-06-17 12:01:29,362-INFO- Measured Temperature_2 [C]: 64.231617
+2025-06-17 12:01:29,362-INFO- Measured Temperature_3 [C]: 63.988304
+2025-06-17 12:01:29,367-INFO- Estimated ClassA Temperature [C]: 45.291962
+2025-06-17 12:01:29,373-INFO- Estimated ClassB Temperature [C]: 56.383156
+2025-06-17 12:01:29,390-INFO- Squared Current Phase A: 4.243057
+2025-06-17 12:01:29,390-INFO- Squared Current Phase B: 4.244029
+2025-06-17 12:01:29,390-INFO- Squared Current Phase C: 4.241112
+2025-06-17 12:01:31,402-INFO- Elapsed Time [Secs]: 100.728399
+2025-06-17 12:01:31,408-INFO- Measured Current [A rms]: 4.204760
+2025-06-17 12:01:31,408-INFO- Measured Temperature [C]: 68.580275
+2025-06-17 12:01:31,408-INFO- Measured Temperature_2 [C]: 64.737622
+2025-06-17 12:01:31,409-INFO- Measured Temperature_3 [C]: 64.484908
+2025-06-17 12:01:31,413-INFO- Estimated ClassA Temperature [C]: 45.602356
+2025-06-17 12:01:31,418-INFO- Estimated ClassB Temperature [C]: 56.754856
+2025-06-17 12:01:31,435-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:01:31,436-INFO- Squared Current Phase B: 4.243786
+2025-06-17 12:01:31,436-INFO- Squared Current Phase C: 4.241599
+2025-06-17 12:01:33,445-INFO- Elapsed Time [Secs]: 102.771208
+2025-06-17 12:01:33,453-INFO- Measured Current [A rms]: 4.204870
+2025-06-17 12:01:33,453-INFO- Measured Temperature [C]: 68.944543
+2025-06-17 12:01:33,453-INFO- Measured Temperature_2 [C]: 65.075763
+2025-06-17 12:01:33,453-INFO- Measured Temperature_3 [C]: 64.835979
+2025-06-17 12:01:33,458-INFO- Estimated ClassA Temperature [C]: 45.913086
+2025-06-17 12:01:33,464-INFO- Estimated ClassB Temperature [C]: 57.126762
+2025-06-17 12:01:33,482-INFO- Squared Current Phase A: 4.243300
+2025-06-17 12:01:33,482-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:01:33,482-INFO- Squared Current Phase C: 4.241356
+2025-06-17 12:01:35,492-INFO- Elapsed Time [Secs]: 104.814442
+2025-06-17 12:01:35,501-INFO- Measured Current [A rms]: 4.205070
+2025-06-17 12:01:35,501-INFO- Measured Temperature [C]: 69.345644
+2025-06-17 12:01:35,501-INFO- Measured Temperature_2 [C]: 65.484261
+2025-06-17 12:01:35,502-INFO- Measured Temperature_3 [C]: 65.251332
+2025-06-17 12:01:35,507-INFO- Estimated ClassA Temperature [C]: 46.223145
+2025-06-17 12:01:35,513-INFO- Estimated ClassB Temperature [C]: 57.498863
+2025-06-17 12:01:35,530-INFO- Squared Current Phase A: 4.242571
+2025-06-17 12:01:35,530-INFO- Squared Current Phase B: 4.243543
+2025-06-17 12:01:35,530-INFO- Squared Current Phase C: 4.241599
+2025-06-17 12:01:37,541-INFO- Elapsed Time [Secs]: 106.867306
+2025-06-17 12:01:37,702-INFO- Measured Current [A rms]: 4.205560
+2025-06-17 12:01:37,703-INFO- Measured Temperature [C]: 69.692092
+2025-06-17 12:01:37,703-INFO- Measured Temperature_2 [C]: 65.848692
+2025-06-17 12:01:37,703-INFO- Measured Temperature_3 [C]: 65.600266
+2025-06-17 12:01:37,709-INFO- Estimated ClassA Temperature [C]: 46.638153
+2025-06-17 12:01:37,717-INFO- Estimated ClassB Temperature [C]: 57.871151
+2025-06-17 12:01:37,734-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:01:37,734-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:01:37,734-INFO- Squared Current Phase C: 4.241842
+2025-06-17 12:01:39,736-INFO- Elapsed Time [Secs]: 109.062329
+2025-06-17 12:01:39,745-INFO- Measured Current [A rms]: 4.205490
+2025-06-17 12:01:39,745-INFO- Measured Temperature [C]: 70.215105
+2025-06-17 12:01:39,745-INFO- Measured Temperature_2 [C]: 66.361507
+2025-06-17 12:01:39,746-INFO- Measured Temperature_3 [C]: 66.138534
+2025-06-17 12:01:39,751-INFO- Estimated ClassA Temperature [C]: 46.952087
+2025-06-17 12:01:39,757-INFO- Estimated ClassB Temperature [C]: 58.243633
+2025-06-17 12:01:39,775-INFO- Squared Current Phase A: 4.243057
+2025-06-17 12:01:39,775-INFO- Squared Current Phase B: 4.243543
+2025-06-17 12:01:39,775-INFO- Squared Current Phase C: 4.241842
+2025-06-17 12:01:41,789-INFO- Elapsed Time [Secs]: 111.115157
+2025-06-17 12:01:41,818-INFO- Measured Current [A rms]: 4.205120
+2025-06-17 12:01:41,818-INFO- Measured Temperature [C]: 70.634251
+2025-06-17 12:01:41,818-INFO- Measured Temperature_2 [C]: 66.779500
+2025-06-17 12:01:41,818-INFO- Measured Temperature_3 [C]: 66.536577
+2025-06-17 12:01:41,824-INFO- Estimated ClassA Temperature [C]: 47.157501
+2025-06-17 12:01:41,830-INFO- Estimated ClassB Temperature [C]: 58.616314
+2025-06-17 12:01:41,847-INFO- Squared Current Phase A: 4.243057
+2025-06-17 12:01:41,847-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:01:41,847-INFO- Squared Current Phase C: 4.241842
+2025-06-17 12:01:43,855-INFO- Elapsed Time [Secs]: 113.181392
+2025-06-17 12:01:43,864-INFO- Measured Current [A rms]: 4.205180
+2025-06-17 12:01:43,864-INFO- Measured Temperature [C]: 70.946048
+2025-06-17 12:01:43,864-INFO- Measured Temperature_2 [C]: 67.118994
+2025-06-17 12:01:43,864-INFO- Measured Temperature_3 [C]: 66.882195
+2025-06-17 12:01:43,871-INFO- Estimated ClassA Temperature [C]: 47.545074
+2025-06-17 12:01:43,877-INFO- Estimated ClassB Temperature [C]: 58.989174
+2025-06-17 12:01:43,893-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:01:43,893-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:01:43,893-INFO- Squared Current Phase C: 4.242571
+2025-06-17 12:01:45,897-INFO- Elapsed Time [Secs]: 115.223507
+2025-06-17 12:01:45,904-INFO- Measured Current [A rms]: 4.205120
+2025-06-17 12:01:45,904-INFO- Measured Temperature [C]: 71.347734
+2025-06-17 12:01:45,904-INFO- Measured Temperature_2 [C]: 67.513939
+2025-06-17 12:01:45,904-INFO- Measured Temperature_3 [C]: 67.286304
+2025-06-17 12:01:45,908-INFO- Estimated ClassA Temperature [C]: 47.859009
+2025-06-17 12:01:45,915-INFO- Estimated ClassB Temperature [C]: 59.362221
+2025-06-17 12:01:45,932-INFO- Squared Current Phase A: 4.243300
+2025-06-17 12:01:45,932-INFO- Squared Current Phase B: 4.243057
+2025-06-17 12:01:45,932-INFO- Squared Current Phase C: 4.242085
+2025-06-17 12:01:47,938-INFO- Elapsed Time [Secs]: 117.264426
+2025-06-17 12:01:47,947-INFO- Measured Current [A rms]: 4.205400
+2025-06-17 12:01:47,947-INFO- Measured Temperature [C]: 71.902634
+2025-06-17 12:01:47,947-INFO- Measured Temperature_2 [C]: 68.011233
+2025-06-17 12:01:47,947-INFO- Measured Temperature_3 [C]: 67.820437
+2025-06-17 12:01:47,953-INFO- Estimated ClassA Temperature [C]: 48.165192
+2025-06-17 12:01:47,960-INFO- Estimated ClassB Temperature [C]: 59.735466
+2025-06-17 12:01:47,977-INFO- Squared Current Phase A: 4.243057
+2025-06-17 12:01:47,977-INFO- Squared Current Phase B: 4.242814
+2025-06-17 12:01:47,977-INFO- Squared Current Phase C: 4.242328
+2025-06-17 12:01:49,977-INFO- Elapsed Time [Secs]: 119.303495
+2025-06-17 12:01:49,983-INFO- Measured Current [A rms]: 4.204970
+2025-06-17 12:01:49,984-INFO- Measured Temperature [C]: 72.217756
+2025-06-17 12:01:49,984-INFO- Measured Temperature_2 [C]: 68.357785
+2025-06-17 12:01:49,984-INFO- Measured Temperature_3 [C]: 68.154003
+2025-06-17 12:01:49,988-INFO- Estimated ClassA Temperature [C]: 48.479126
+2025-06-17 12:01:49,994-INFO- Estimated ClassB Temperature [C]: 60.108887
+2025-06-17 12:01:50,011-INFO- Squared Current Phase A: 4.243057
+2025-06-17 12:01:50,011-INFO- Squared Current Phase B: 4.243057
+2025-06-17 12:01:50,011-INFO- Squared Current Phase C: 4.242328
+2025-06-17 12:01:52,027-INFO- Elapsed Time [Secs]: 121.352813
+2025-06-17 12:01:52,033-INFO- Measured Current [A rms]: 4.205300
+2025-06-17 12:01:52,033-INFO- Measured Temperature [C]: 72.611843
+2025-06-17 12:01:52,033-INFO- Measured Temperature_2 [C]: 68.747969
+2025-06-17 12:01:52,033-INFO- Measured Temperature_3 [C]: 68.537813
+2025-06-17 12:01:52,037-INFO- Estimated ClassA Temperature [C]: 48.789185
+2025-06-17 12:01:52,043-INFO- Estimated ClassB Temperature [C]: 60.482452
+2025-06-17 12:01:52,060-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:01:52,060-INFO- Squared Current Phase B: 4.242814
+2025-06-17 12:01:52,060-INFO- Squared Current Phase C: 4.242085
+2025-06-17 12:01:54,061-INFO- Elapsed Time [Secs]: 123.386860
+2025-06-17 12:01:54,067-INFO- Measured Current [A rms]: 4.205060
+2025-06-17 12:01:54,068-INFO- Measured Temperature [C]: 73.147469
+2025-06-17 12:01:54,068-INFO- Measured Temperature_2 [C]: 69.278236
+2025-06-17 12:01:54,068-INFO- Measured Temperature_3 [C]: 69.075103
+2025-06-17 12:01:54,072-INFO- Estimated ClassA Temperature [C]: 49.099243
+2025-06-17 12:01:54,078-INFO- Estimated ClassB Temperature [C]: 60.856243
+2025-06-17 12:01:54,245-INFO- Squared Current Phase A: 4.242571
+2025-06-17 12:01:54,245-INFO- Squared Current Phase B: 4.242571
+2025-06-17 12:01:54,245-INFO- Squared Current Phase C: 4.242814
+2025-06-17 12:01:56,253-INFO- Elapsed Time [Secs]: 125.579007
+2025-06-17 12:01:56,262-INFO- Measured Current [A rms]: 4.205060
+2025-06-17 12:01:56,262-INFO- Measured Temperature [C]: 73.447774
+2025-06-17 12:01:56,262-INFO- Measured Temperature_2 [C]: 69.607047
+2025-06-17 12:01:56,262-INFO- Measured Temperature_3 [C]: 69.379347
+2025-06-17 12:01:56,269-INFO- Estimated ClassA Temperature [C]: 49.513947
+2025-06-17 12:01:56,275-INFO- Estimated ClassB Temperature [C]: 61.417217
+2025-06-17 12:01:56,291-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:01:56,291-INFO- Squared Current Phase B: 4.243057
+2025-06-17 12:01:56,292-INFO- Squared Current Phase C: 4.242571
+2025-06-17 12:01:58,297-INFO- Elapsed Time [Secs]: 127.622547
+2025-06-17 12:01:58,305-INFO- Measured Current [A rms]: 4.205090
+2025-06-17 12:01:58,305-INFO- Measured Temperature [C]: 73.841933
+2025-06-17 12:01:58,305-INFO- Measured Temperature_2 [C]: 69.962175
+2025-06-17 12:01:58,305-INFO- Measured Temperature_3 [C]: 69.777133
+2025-06-17 12:01:58,311-INFO- Estimated ClassA Temperature [C]: 49.824005
+2025-06-17 12:01:58,319-INFO- Estimated ClassB Temperature [C]: 61.791393
+2025-06-17 12:01:58,337-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:01:58,337-INFO- Squared Current Phase B: 4.243057
+2025-06-17 12:01:58,337-INFO- Squared Current Phase C: 4.242814
+2025-06-17 12:02:00,349-INFO- Elapsed Time [Secs]: 129.675259
+2025-06-17 12:02:00,358-INFO- Measured Current [A rms]: 4.205090
+2025-06-17 12:02:00,358-INFO- Measured Temperature [C]: 74.349261
+2025-06-17 12:02:00,358-INFO- Measured Temperature_2 [C]: 70.494191
+2025-06-17 12:02:00,358-INFO- Measured Temperature_3 [C]: 70.289069
+2025-06-17 12:02:00,364-INFO- Estimated ClassA Temperature [C]: 50.134064
+2025-06-17 12:02:00,371-INFO- Estimated ClassB Temperature [C]: 62.165726
+2025-06-17 12:02:00,387-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:02:00,388-INFO- Squared Current Phase B: 4.242571
+2025-06-17 12:02:00,388-INFO- Squared Current Phase C: 4.242328
+2025-06-17 12:02:02,399-INFO- Elapsed Time [Secs]: 131.725566
+2025-06-17 12:02:02,428-INFO- Measured Current [A rms]: 4.204930
+2025-06-17 12:02:02,428-INFO- Measured Temperature [C]: 74.656111
+2025-06-17 12:02:02,428-INFO- Measured Temperature_2 [C]: 70.779645
+2025-06-17 12:02:02,428-INFO- Measured Temperature_3 [C]: 70.614829
+2025-06-17 12:02:02,434-INFO- Estimated ClassA Temperature [C]: 50.444122
+2025-06-17 12:02:02,440-INFO- Estimated ClassB Temperature [C]: 62.540222
+2025-06-17 12:02:02,457-INFO- Squared Current Phase A: 4.242571
+2025-06-17 12:02:02,457-INFO- Squared Current Phase B: 4.242571
+2025-06-17 12:02:02,457-INFO- Squared Current Phase C: 4.242571
+2025-06-17 12:02:04,457-INFO- Elapsed Time [Secs]: 133.783380
+2025-06-17 12:02:04,466-INFO- Measured Current [A rms]: 4.205500
+2025-06-17 12:02:04,466-INFO- Measured Temperature [C]: 74.990456
+2025-06-17 12:02:04,466-INFO- Measured Temperature_2 [C]: 71.130604
+2025-06-17 12:02:04,466-INFO- Measured Temperature_3 [C]: 70.923600
+2025-06-17 12:02:04,472-INFO- Estimated ClassA Temperature [C]: 50.754181
+2025-06-17 12:02:04,478-INFO- Estimated ClassB Temperature [C]: 62.914856
+2025-06-17 12:02:04,496-INFO- Squared Current Phase A: 4.242571
+2025-06-17 12:02:04,496-INFO- Squared Current Phase B: 4.242814
+2025-06-17 12:02:04,496-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:02:06,508-INFO- Elapsed Time [Secs]: 135.834128
+2025-06-17 12:02:06,517-INFO- Measured Current [A rms]: 4.205590
+2025-06-17 12:02:06,517-INFO- Measured Temperature [C]: 75.371647
+2025-06-17 12:02:06,517-INFO- Measured Temperature_2 [C]: 71.492888
+2025-06-17 12:02:06,517-INFO- Measured Temperature_3 [C]: 71.318168
+2025-06-17 12:02:06,523-INFO- Estimated ClassA Temperature [C]: 51.064240
+2025-06-17 12:02:06,529-INFO- Estimated ClassB Temperature [C]: 63.289650
+2025-06-17 12:02:06,546-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:02:06,546-INFO- Squared Current Phase B: 4.242571
+2025-06-17 12:02:06,546-INFO- Squared Current Phase C: 4.242814
+2025-06-17 12:02:08,552-INFO- Elapsed Time [Secs]: 137.877874
+2025-06-17 12:02:08,561-INFO- Measured Current [A rms]: 4.205380
+2025-06-17 12:02:08,561-INFO- Measured Temperature [C]: 75.869648
+2025-06-17 12:02:08,561-INFO- Measured Temperature_2 [C]: 71.993082
+2025-06-17 12:02:08,562-INFO- Measured Temperature_3 [C]: 71.829809
+2025-06-17 12:02:08,568-INFO- Estimated ClassA Temperature [C]: 51.374298
+2025-06-17 12:02:08,574-INFO- Estimated ClassB Temperature [C]: 63.664597
+2025-06-17 12:02:08,591-INFO- Squared Current Phase A: 4.242328
+2025-06-17 12:02:08,591-INFO- Squared Current Phase B: 4.242571
+2025-06-17 12:02:08,591-INFO- Squared Current Phase C: 4.242814
+2025-06-17 12:02:10,604-INFO- Elapsed Time [Secs]: 139.930207
+2025-06-17 12:02:10,613-INFO- Measured Current [A rms]: 4.205280
+2025-06-17 12:02:10,613-INFO- Measured Temperature [C]: 76.180138
+2025-06-17 12:02:10,613-INFO- Measured Temperature_2 [C]: 72.315841
+2025-06-17 12:02:10,613-INFO- Measured Temperature_3 [C]: 72.148327
+2025-06-17 12:02:10,619-INFO- Estimated ClassA Temperature [C]: 51.684357
+2025-06-17 12:02:10,626-INFO- Estimated ClassB Temperature [C]: 64.039665
+2025-06-17 12:02:10,643-INFO- Squared Current Phase A: 4.242328
+2025-06-17 12:02:10,643-INFO- Squared Current Phase B: 4.242814
+2025-06-17 12:02:10,643-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:02:12,647-INFO- Elapsed Time [Secs]: 141.972442
+2025-06-17 12:02:12,655-INFO- Measured Current [A rms]: 4.205400
+2025-06-17 12:02:12,655-INFO- Measured Temperature [C]: 76.629790
+2025-06-17 12:02:12,655-INFO- Measured Temperature_2 [C]: 72.747634
+2025-06-17 12:02:12,656-INFO- Measured Temperature_3 [C]: 72.582832
+2025-06-17 12:02:12,662-INFO- Estimated ClassA Temperature [C]: 51.998199
+2025-06-17 12:02:12,668-INFO- Estimated ClassB Temperature [C]: 64.414925
+2025-06-17 12:02:12,684-INFO- Squared Current Phase A: 4.242571
+2025-06-17 12:02:12,684-INFO- Squared Current Phase B: 4.242814
+2025-06-17 12:02:12,684-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:02:14,685-INFO- Elapsed Time [Secs]: 144.010415
+2025-06-17 12:02:14,694-INFO- Measured Current [A rms]: 4.205130
+2025-06-17 12:02:14,694-INFO- Measured Temperature [C]: 77.067612
+2025-06-17 12:02:14,694-INFO- Measured Temperature_2 [C]: 73.202802
+2025-06-17 12:02:14,694-INFO- Measured Temperature_3 [C]: 73.039824
+2025-06-17 12:02:14,700-INFO- Estimated ClassA Temperature [C]: 52.307312
+2025-06-17 12:02:14,707-INFO- Estimated ClassB Temperature [C]: 64.790283
+2025-06-17 12:02:14,723-INFO- Squared Current Phase A: 4.242085
+2025-06-17 12:02:14,723-INFO- Squared Current Phase B: 4.242571
+2025-06-17 12:02:14,723-INFO- Squared Current Phase C: 4.242814
+2025-06-17 12:02:16,075-WARNING- Read request error: Request error:  Checksum error
+2025-06-17 12:02:16,075-WARNING- Discarding the packet
+2025-06-17 12:02:16,739-INFO- Elapsed Time [Secs]: 146.064584
+2025-06-17 12:02:16,748-INFO- Measured Current [A rms]: 4.205210
+2025-06-17 12:02:16,748-INFO- Measured Temperature [C]: 77.381975
+2025-06-17 12:02:16,748-INFO- Measured Temperature_2 [C]: 73.490823
+2025-06-17 12:02:16,749-INFO- Measured Temperature_3 [C]: 73.337656
+2025-06-17 12:02:16,753-INFO- Estimated ClassA Temperature [C]: 52.690887
+2025-06-17 12:02:16,759-INFO- Estimated ClassB Temperature [C]: 65.165794
+2025-06-17 12:02:16,776-INFO- Squared Current Phase A: 4.241842
+2025-06-17 12:02:16,776-INFO- Squared Current Phase B: 4.242571
+2025-06-17 12:02:16,776-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:02:18,777-INFO- Elapsed Time [Secs]: 148.102463
+2025-06-17 12:02:18,782-INFO- Measured Current [A rms]: 4.205200
+2025-06-17 12:02:18,783-INFO- Measured Temperature [C]: 77.736032
+2025-06-17 12:02:18,783-INFO- Measured Temperature_2 [C]: 73.841933
+2025-06-17 12:02:18,783-INFO- Measured Temperature_3 [C]: 73.717789
+2025-06-17 12:02:18,787-INFO- Estimated ClassA Temperature [C]: 53.000366
+2025-06-17 12:02:18,793-INFO- Estimated ClassB Temperature [C]: 65.541451
+2025-06-17 12:02:18,810-INFO- Squared Current Phase A: 4.242085
+2025-06-17 12:02:18,811-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:02:18,811-INFO- Squared Current Phase C: 4.243543
+2025-06-17 12:02:20,820-INFO- Elapsed Time [Secs]: 150.145539
+2025-06-17 12:02:20,829-INFO- Measured Current [A rms]: 4.205170
+2025-06-17 12:02:20,829-INFO- Measured Temperature [C]: 78.091261
+2025-06-17 12:02:20,829-INFO- Measured Temperature_2 [C]: 74.234579
+2025-06-17 12:02:20,829-INFO- Measured Temperature_3 [C]: 74.094815
+2025-06-17 12:02:20,835-INFO- Estimated ClassA Temperature [C]: 53.309814
+2025-06-17 12:02:20,842-INFO- Estimated ClassB Temperature [C]: 65.917252
+2025-06-17 12:02:20,859-INFO- Squared Current Phase A: 4.241842
+2025-06-17 12:02:20,859-INFO- Squared Current Phase B: 4.242814
+2025-06-17 12:02:20,860-INFO- Squared Current Phase C: 4.243543
+2025-06-17 12:02:22,861-INFO- Elapsed Time [Secs]: 152.186930
+2025-06-17 12:02:22,870-INFO- Measured Current [A rms]: 4.205190
+2025-06-17 12:02:22,870-INFO- Measured Temperature [C]: 78.355420
+2025-06-17 12:02:22,870-INFO- Measured Temperature_2 [C]: 74.473892
+2025-06-17 12:02:22,870-INFO- Measured Temperature_3 [C]: 74.316724
+2025-06-17 12:02:22,876-INFO- Estimated ClassA Temperature [C]: 53.619110
+2025-06-17 12:02:22,883-INFO- Estimated ClassB Temperature [C]: 66.293167
+2025-06-17 12:02:22,902-INFO- Squared Current Phase A: 4.241356
+2025-06-17 12:02:22,902-INFO- Squared Current Phase B: 4.242814
+2025-06-17 12:02:22,902-INFO- Squared Current Phase C: 4.243543
+2025-06-17 12:02:24,910-INFO- Elapsed Time [Secs]: 154.235374
+2025-06-17 12:02:24,915-INFO- Measured Current [A rms]: 4.205290
+2025-06-17 12:02:24,916-INFO- Measured Temperature [C]: 78.907739
+2025-06-17 12:02:24,916-INFO- Measured Temperature_2 [C]: 75.035954
+2025-06-17 12:02:24,916-INFO- Measured Temperature_3 [C]: 74.900521
+2025-06-17 12:02:24,920-INFO- Estimated ClassA Temperature [C]: 53.932190
+2025-06-17 12:02:24,926-INFO- Estimated ClassB Temperature [C]: 66.669197
+2025-06-17 12:02:24,943-INFO- Squared Current Phase A: 4.241842
+2025-06-17 12:02:24,943-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:02:24,943-INFO- Squared Current Phase C: 4.243543
+2025-06-17 12:02:26,949-INFO- Elapsed Time [Secs]: 156.274422
+2025-06-17 12:02:26,955-INFO- Measured Current [A rms]: 4.205620
+2025-06-17 12:02:26,955-INFO- Measured Temperature [C]: 79.288624
+2025-06-17 12:02:26,955-INFO- Measured Temperature_2 [C]: 75.390660
+2025-06-17 12:02:26,955-INFO- Measured Temperature_3 [C]: 75.270537
+2025-06-17 12:02:26,959-INFO- Estimated ClassA Temperature [C]: 54.237518
+2025-06-17 12:02:26,966-INFO- Estimated ClassB Temperature [C]: 67.045364
+2025-06-17 12:02:26,982-INFO- Squared Current Phase A: 4.241842
+2025-06-17 12:02:26,983-INFO- Squared Current Phase B: 4.243057
+2025-06-17 12:02:26,983-INFO- Squared Current Phase C: 4.243786
+2025-06-17 12:02:28,995-INFO- Elapsed Time [Secs]: 158.321068
+2025-06-17 12:02:29,001-INFO- Measured Current [A rms]: 4.205120
+2025-06-17 12:02:29,001-INFO- Measured Temperature [C]: 79.691232
+2025-06-17 12:02:29,002-INFO- Measured Temperature_2 [C]: 75.818842
+2025-06-17 12:02:29,002-INFO- Measured Temperature_3 [C]: 75.702301
+2025-06-17 12:02:29,006-INFO- Estimated ClassA Temperature [C]: 54.547089
+2025-06-17 12:02:29,012-INFO- Estimated ClassB Temperature [C]: 67.421661
+2025-06-17 12:02:29,030-INFO- Squared Current Phase A: 4.241356
+2025-06-17 12:02:29,030-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:02:29,030-INFO- Squared Current Phase C: 4.243543
+2025-06-17 12:02:31,045-INFO- Elapsed Time [Secs]: 160.370549
+2025-06-17 12:02:31,051-INFO- Measured Current [A rms]: 4.205460
+2025-06-17 12:02:31,052-INFO- Measured Temperature [C]: 80.013468
+2025-06-17 12:02:31,052-INFO- Measured Temperature_2 [C]: 76.117263
+2025-06-17 12:02:31,052-INFO- Measured Temperature_3 [C]: 76.006071
+2025-06-17 12:02:31,056-INFO- Estimated ClassA Temperature [C]: 54.856506
+2025-06-17 12:02:31,063-INFO- Estimated ClassB Temperature [C]: 67.798050
+2025-06-17 12:02:31,080-INFO- Squared Current Phase A: 4.241599
+2025-06-17 12:02:31,080-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:02:31,081-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:02:33,092-INFO- Elapsed Time [Secs]: 162.417314
+2025-06-17 12:02:33,098-INFO- Measured Current [A rms]: 4.205350
+2025-06-17 12:02:33,098-INFO- Measured Temperature [C]: 80.369669
+2025-06-17 12:02:33,098-INFO- Measured Temperature_2 [C]: 76.453459
+2025-06-17 12:02:33,098-INFO- Measured Temperature_3 [C]: 76.361647
+2025-06-17 12:02:33,102-INFO- Estimated ClassA Temperature [C]: 55.165649
+2025-06-17 12:02:33,108-INFO- Estimated ClassB Temperature [C]: 68.174530
+2025-06-17 12:02:33,125-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:02:33,125-INFO- Squared Current Phase B: 4.243057
+2025-06-17 12:02:33,125-INFO- Squared Current Phase C: 4.243543
+2025-06-17 12:02:35,130-INFO- Elapsed Time [Secs]: 164.455514
+2025-06-17 12:02:35,139-INFO- Measured Current [A rms]: 4.204780
+2025-06-17 12:02:35,139-INFO- Measured Temperature [C]: 80.676726
+2025-06-17 12:02:35,139-INFO- Measured Temperature_2 [C]: 76.770416
+2025-06-17 12:02:35,139-INFO- Measured Temperature_3 [C]: 76.673471
+2025-06-17 12:02:35,145-INFO- Estimated ClassA Temperature [C]: 55.475403
+2025-06-17 12:02:35,151-INFO- Estimated ClassB Temperature [C]: 68.551140
+2025-06-17 12:02:35,169-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:02:35,169-INFO- Squared Current Phase B: 4.243543
+2025-06-17 12:02:35,169-INFO- Squared Current Phase C: 4.243786
+2025-06-17 12:02:37,170-INFO- Elapsed Time [Secs]: 166.495430
+2025-06-17 12:02:37,179-INFO- Measured Current [A rms]: 4.205180
+2025-06-17 12:02:37,179-INFO- Measured Temperature [C]: 81.027839
+2025-06-17 12:02:37,179-INFO- Measured Temperature_2 [C]: 77.134714
+2025-06-17 12:02:37,180-INFO- Measured Temperature_3 [C]: 77.046664
+2025-06-17 12:02:37,186-INFO- Estimated ClassA Temperature [C]: 55.785004
+2025-06-17 12:02:37,192-INFO- Estimated ClassB Temperature [C]: 68.927879
+2025-06-17 12:02:37,208-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:02:37,208-INFO- Squared Current Phase B: 4.243786
+2025-06-17 12:02:37,208-INFO- Squared Current Phase C: 4.244029
+2025-06-17 12:02:38,401-WARNING- PyVISA request error: list index out of range
+2025-06-17 12:02:39,221-INFO- Elapsed Time [Secs]: 168.546673
+2025-06-17 12:02:39,230-INFO- Measured Current [A rms]: 4.205510
+2025-06-17 12:02:39,230-INFO- Measured Temperature [C]: 81.410586
+2025-06-17 12:02:39,230-INFO- Measured Temperature_2 [C]: 77.505858
+2025-06-17 12:02:39,230-INFO- Measured Temperature_3 [C]: 77.411615
+2025-06-17 12:02:39,236-INFO- Estimated ClassA Temperature [C]: 56.098175
+2025-06-17 12:02:39,242-INFO- Estimated ClassB Temperature [C]: 69.304741
+2025-06-17 12:02:39,260-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:02:39,260-INFO- Squared Current Phase B: 4.243786
+2025-06-17 12:02:39,260-INFO- Squared Current Phase C: 4.243543
+2025-06-17 12:02:41,261-INFO- Elapsed Time [Secs]: 170.586738
+2025-06-17 12:02:41,270-INFO- Measured Current [A rms]: 4.204920
+2025-06-17 12:02:41,270-INFO- Measured Temperature [C]: 81.828490
+2025-06-17 12:02:41,270-INFO- Measured Temperature_2 [C]: 77.905671
+2025-06-17 12:02:41,271-INFO- Measured Temperature_3 [C]: 77.843744
+2025-06-17 12:02:41,276-INFO- Estimated ClassA Temperature [C]: 56.407654
+2025-06-17 12:02:41,429-INFO- Estimated ClassB Temperature [C]: 69.870171
+2025-06-17 12:02:41,452-INFO- Squared Current Phase A: 4.240869
+2025-06-17 12:02:41,452-INFO- Squared Current Phase B: 4.243786
+2025-06-17 12:02:41,452-INFO- Squared Current Phase C: 4.243543
+2025-06-17 12:02:43,458-INFO- Elapsed Time [Secs]: 172.783409
+2025-06-17 12:02:43,467-INFO- Measured Current [A rms]: 4.205720
+2025-06-17 12:02:43,467-INFO- Measured Temperature [C]: 82.180270
+2025-06-17 12:02:43,467-INFO- Measured Temperature_2 [C]: 78.267076
+2025-06-17 12:02:43,467-INFO- Measured Temperature_3 [C]: 78.203387
+2025-06-17 12:02:43,473-INFO- Estimated ClassA Temperature [C]: 56.817230
+2025-06-17 12:02:43,479-INFO- Estimated ClassB Temperature [C]: 70.247246
+2025-06-17 12:02:43,496-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:02:43,497-INFO- Squared Current Phase B: 4.244029
+2025-06-17 12:02:43,497-INFO- Squared Current Phase C: 4.243543
+2025-06-17 12:02:45,509-INFO- Elapsed Time [Secs]: 174.834035
+2025-06-17 12:02:45,518-INFO- Measured Current [A rms]: 4.205480
+2025-06-17 12:02:45,518-INFO- Measured Temperature [C]: 82.670387
+2025-06-17 12:02:45,518-INFO- Measured Temperature_2 [C]: 78.752915
+2025-06-17 12:02:45,518-INFO- Measured Temperature_3 [C]: 78.695629
+2025-06-17 12:02:45,525-INFO- Estimated ClassA Temperature [C]: 57.129425
+2025-06-17 12:02:45,531-INFO- Estimated ClassB Temperature [C]: 70.624367
+2025-06-17 12:02:45,548-INFO- Squared Current Phase A: 4.240869
+2025-06-17 12:02:45,548-INFO- Squared Current Phase B: 4.243786
+2025-06-17 12:02:45,548-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:02:47,549-INFO- Elapsed Time [Secs]: 176.874382
+2025-06-17 12:02:47,558-INFO- Measured Current [A rms]: 4.205460
+2025-06-17 12:02:47,558-INFO- Measured Temperature [C]: 83.030680
+2025-06-17 12:02:47,558-INFO- Measured Temperature_2 [C]: 79.090389
+2025-06-17 12:02:47,558-INFO- Measured Temperature_3 [C]: 79.052087
+2025-06-17 12:02:47,564-INFO- Estimated ClassA Temperature [C]: 57.438049
+2025-06-17 12:02:47,571-INFO- Estimated ClassB Temperature [C]: 71.001617
+2025-06-17 12:02:47,589-INFO- Squared Current Phase A: 4.240626
+2025-06-17 12:02:47,589-INFO- Squared Current Phase B: 4.244029
+2025-06-17 12:02:47,589-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:02:49,603-INFO- Elapsed Time [Secs]: 178.928680
+2025-06-17 12:02:49,610-INFO- Measured Current [A rms]: 4.205620
+2025-06-17 12:02:49,610-INFO- Measured Temperature [C]: 83.258217
+2025-06-17 12:02:49,610-INFO- Measured Temperature_2 [C]: 79.350678
+2025-06-17 12:02:49,610-INFO- Measured Temperature_3 [C]: 79.287205
+2025-06-17 12:02:49,614-INFO- Estimated ClassA Temperature [C]: 57.747192
+2025-06-17 12:02:49,620-INFO- Estimated ClassB Temperature [C]: 71.378960
+2025-06-17 12:02:49,637-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:02:49,637-INFO- Squared Current Phase B: 4.244272
+2025-06-17 12:02:49,638-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:02:51,644-INFO- Elapsed Time [Secs]: 180.968993
+2025-06-17 12:02:51,672-INFO- Measured Current [A rms]: 4.205660
+2025-06-17 12:02:51,672-INFO- Measured Temperature [C]: 83.685615
+2025-06-17 12:02:51,672-INFO- Measured Temperature_2 [C]: 79.771353
+2025-06-17 12:02:51,672-INFO- Measured Temperature_3 [C]: 79.721189
+2025-06-17 12:02:51,677-INFO- Estimated ClassA Temperature [C]: 58.032990
+2025-06-17 12:02:51,683-INFO- Estimated ClassB Temperature [C]: 71.756371
+2025-06-17 12:02:51,699-INFO- Squared Current Phase A: 4.240869
+2025-06-17 12:02:51,700-INFO- Squared Current Phase B: 4.244272
+2025-06-17 12:02:51,700-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:02:53,707-INFO- Elapsed Time [Secs]: 183.031931
+2025-06-17 12:02:53,713-INFO- Measured Current [A rms]: 4.205390
+2025-06-17 12:02:53,713-INFO- Measured Temperature [C]: 84.080378
+2025-06-17 12:02:53,713-INFO- Measured Temperature_2 [C]: 80.173147
+2025-06-17 12:02:53,713-INFO- Measured Temperature_3 [C]: 80.131678
+2025-06-17 12:02:53,717-INFO- Estimated ClassA Temperature [C]: 58.342041
+2025-06-17 12:02:53,723-INFO- Estimated ClassB Temperature [C]: 72.133850
+2025-06-17 12:02:53,741-INFO- Squared Current Phase A: 4.240383
+2025-06-17 12:02:53,741-INFO- Squared Current Phase B: 4.244029
+2025-06-17 12:02:53,741-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:02:55,756-INFO- Elapsed Time [Secs]: 185.081119
+2025-06-17 12:02:55,765-INFO- Measured Current [A rms]: 4.205590
+2025-06-17 12:02:55,765-INFO- Measured Temperature [C]: 84.395493
+2025-06-17 12:02:55,765-INFO- Measured Temperature_2 [C]: 80.440901
+2025-06-17 12:02:55,765-INFO- Measured Temperature_3 [C]: 80.436648
+2025-06-17 12:02:55,771-INFO- Estimated ClassA Temperature [C]: 58.647552
+2025-06-17 12:02:55,778-INFO- Estimated ClassB Temperature [C]: 72.511444
+2025-06-17 12:02:55,796-INFO- Squared Current Phase A: 4.240869
+2025-06-17 12:02:55,798-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:02:55,798-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:02:57,812-INFO- Elapsed Time [Secs]: 187.136712
+2025-06-17 12:02:57,961-INFO- Measured Current [A rms]: 4.205610
+2025-06-17 12:02:57,961-INFO- Measured Temperature [C]: 84.737782
+2025-06-17 12:02:57,961-INFO- Measured Temperature_2 [C]: 80.806231
+2025-06-17 12:02:57,961-INFO- Measured Temperature_3 [C]: 80.791173
+2025-06-17 12:02:57,968-INFO- Estimated ClassA Temperature [C]: 59.064514
+2025-06-17 12:02:57,976-INFO- Estimated ClassB Temperature [C]: 73.077927
+2025-06-17 12:02:57,993-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:02:57,993-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:02:57,993-INFO- Squared Current Phase C: 4.242814
+2025-06-17 12:03:00,004-INFO- Elapsed Time [Secs]: 189.329019
+2025-06-17 12:03:00,010-INFO- Measured Current [A rms]: 4.205700
+2025-06-17 12:03:00,011-INFO- Measured Temperature [C]: 85.208859
+2025-06-17 12:03:00,011-INFO- Measured Temperature_2 [C]: 81.276342
+2025-06-17 12:03:00,011-INFO- Measured Temperature_3 [C]: 81.274393
+2025-06-17 12:03:00,015-INFO- Estimated ClassA Temperature [C]: 59.373291
+2025-06-17 12:03:00,021-INFO- Estimated ClassB Temperature [C]: 73.455658
+2025-06-17 12:03:00,037-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:03:00,038-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:03:00,038-INFO- Squared Current Phase C: 4.242328
+2025-06-17 12:03:02,042-INFO- Elapsed Time [Secs]: 191.366798
+2025-06-17 12:03:02,050-INFO- Measured Current [A rms]: 4.205390
+2025-06-17 12:03:02,050-INFO- Measured Temperature [C]: 85.582281
+2025-06-17 12:03:02,050-INFO- Measured Temperature_2 [C]: 81.626279
+2025-06-17 12:03:02,050-INFO- Measured Temperature_3 [C]: 81.654611
+2025-06-17 12:03:02,056-INFO- Estimated ClassA Temperature [C]: 59.682373
+2025-06-17 12:03:02,063-INFO- Estimated ClassB Temperature [C]: 73.833473
+2025-06-17 12:03:02,080-INFO- Squared Current Phase A: 4.240626
+2025-06-17 12:03:02,080-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:03:02,081-INFO- Squared Current Phase C: 4.242814
+2025-06-17 12:03:04,082-INFO- Elapsed Time [Secs]: 193.406783
+2025-06-17 12:03:04,088-INFO- Measured Current [A rms]: 4.205770
+2025-06-17 12:03:04,088-INFO- Measured Temperature [C]: 85.877716
+2025-06-17 12:03:04,088-INFO- Measured Temperature_2 [C]: 81.902675
+2025-06-17 12:03:04,088-INFO- Measured Temperature_3 [C]: 81.925515
+2025-06-17 12:03:04,092-INFO- Estimated ClassA Temperature [C]: 59.991730
+2025-06-17 12:03:04,098-INFO- Estimated ClassB Temperature [C]: 74.211342
+2025-06-17 12:03:04,115-INFO- Squared Current Phase A: 4.240869
+2025-06-17 12:03:04,115-INFO- Squared Current Phase B: 4.244757
+2025-06-17 12:03:04,115-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:03:06,120-INFO- Elapsed Time [Secs]: 195.444608
+2025-06-17 12:03:06,129-INFO- Measured Current [A rms]: 4.205350
+2025-06-17 12:03:06,129-INFO- Measured Temperature [C]: 86.349753
+2025-06-17 12:03:06,129-INFO- Measured Temperature_2 [C]: 82.381182
+2025-06-17 12:03:06,130-INFO- Measured Temperature_3 [C]: 82.420831
+2025-06-17 12:03:06,135-INFO- Estimated ClassA Temperature [C]: 60.300659
+2025-06-17 12:03:06,142-INFO- Estimated ClassB Temperature [C]: 74.589287
+2025-06-17 12:03:06,158-INFO- Squared Current Phase A: 4.240869
+2025-06-17 12:03:06,159-INFO- Squared Current Phase B: 4.244757
+2025-06-17 12:03:06,159-INFO- Squared Current Phase C: 4.242571
+2025-06-17 12:03:08,174-INFO- Elapsed Time [Secs]: 197.499062
+2025-06-17 12:03:08,183-INFO- Measured Current [A rms]: 4.205190
+2025-06-17 12:03:08,183-INFO- Measured Temperature [C]: 86.636065
+2025-06-17 12:03:08,183-INFO- Measured Temperature_2 [C]: 82.664016
+2025-06-17 12:03:08,183-INFO- Measured Temperature_3 [C]: 82.713392
+2025-06-17 12:03:08,189-INFO- Estimated ClassA Temperature [C]: 60.609558
+2025-06-17 12:03:08,195-INFO- Estimated ClassB Temperature [C]: 74.967270
+2025-06-17 12:03:08,212-INFO- Squared Current Phase A: 4.240383
+2025-06-17 12:03:08,212-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:03:08,212-INFO- Squared Current Phase C: 4.242328
+2025-06-17 12:03:10,213-INFO- Elapsed Time [Secs]: 199.538287
+2025-06-17 12:03:10,222-INFO- Measured Current [A rms]: 4.205300
+2025-06-17 12:03:10,222-INFO- Measured Temperature [C]: 87.001621
+2025-06-17 12:03:10,222-INFO- Measured Temperature_2 [C]: 83.007500
+2025-06-17 12:03:10,222-INFO- Measured Temperature_3 [C]: 83.072616
+2025-06-17 12:03:10,228-INFO- Estimated ClassA Temperature [C]: 60.922272
+2025-06-17 12:03:10,235-INFO- Estimated ClassB Temperature [C]: 75.345329
+2025-06-17 12:03:10,252-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:03:10,252-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:03:10,252-INFO- Squared Current Phase C: 4.242814
+2025-06-17 12:03:12,258-INFO- Elapsed Time [Secs]: 201.583514
+2025-06-17 12:03:12,267-INFO- Measured Current [A rms]: 4.205620
+2025-06-17 12:03:12,267-INFO- Measured Temperature [C]: 87.347513
+2025-06-17 12:03:12,267-INFO- Measured Temperature_2 [C]: 83.380290
+2025-06-17 12:03:12,267-INFO- Measured Temperature_3 [C]: 83.416203
+2025-06-17 12:03:12,273-INFO- Estimated ClassA Temperature [C]: 61.231384
+2025-06-17 12:03:12,280-INFO- Estimated ClassB Temperature [C]: 75.723434
+2025-06-17 12:03:12,297-INFO- Squared Current Phase A: 4.241356
+2025-06-17 12:03:12,297-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:03:12,297-INFO- Squared Current Phase C: 4.242328
+2025-06-17 12:03:14,314-INFO- Elapsed Time [Secs]: 203.638687
+2025-06-17 12:03:14,323-INFO- Measured Current [A rms]: 4.205300
+2025-06-17 12:03:14,323-INFO- Measured Temperature [C]: 87.736061
+2025-06-17 12:03:14,323-INFO- Measured Temperature_2 [C]: 83.766980
+2025-06-17 12:03:14,323-INFO- Measured Temperature_3 [C]: 83.837375
+2025-06-17 12:03:14,329-INFO- Estimated ClassA Temperature [C]: 61.536591
+2025-06-17 12:03:14,335-INFO- Estimated ClassB Temperature [C]: 76.101578
+2025-06-17 12:03:14,352-INFO- Squared Current Phase A: 4.240626
+2025-06-17 12:03:14,352-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:03:14,352-INFO- Squared Current Phase C: 4.242328
+2025-06-17 12:03:16,367-INFO- Elapsed Time [Secs]: 205.692232
+2025-06-17 12:03:16,376-INFO- Measured Current [A rms]: 4.205640
+2025-06-17 12:03:16,376-INFO- Measured Temperature [C]: 88.049880
+2025-06-17 12:03:16,376-INFO- Measured Temperature_2 [C]: 84.074365
+2025-06-17 12:03:16,376-INFO- Measured Temperature_3 [C]: 84.129010
+2025-06-17 12:03:16,382-INFO- Estimated ClassA Temperature [C]: 61.849609
+2025-06-17 12:03:16,388-INFO- Estimated ClassB Temperature [C]: 76.479805
+2025-06-17 12:03:16,405-INFO- Squared Current Phase A: 4.241599
+2025-06-17 12:03:16,405-INFO- Squared Current Phase B: 4.245243
+2025-06-17 12:03:16,405-INFO- Squared Current Phase C: 4.241842
+2025-06-17 12:03:18,419-INFO- Elapsed Time [Secs]: 207.744013
+2025-06-17 12:03:18,428-INFO- Measured Current [A rms]: 4.205680
+2025-06-17 12:03:18,428-INFO- Measured Temperature [C]: 88.461760
+2025-06-17 12:03:18,429-INFO- Measured Temperature_2 [C]: 84.449068
+2025-06-17 12:03:18,429-INFO- Measured Temperature_3 [C]: 84.560280
+2025-06-17 12:03:18,435-INFO- Estimated ClassA Temperature [C]: 62.158417
+2025-06-17 12:03:18,441-INFO- Estimated ClassB Temperature [C]: 76.857994
+2025-06-17 12:03:18,458-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:03:18,459-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:03:18,459-INFO- Squared Current Phase C: 4.241842
+2025-06-17 12:03:20,473-INFO- Elapsed Time [Secs]: 209.797701
+2025-06-17 12:03:20,482-INFO- Measured Current [A rms]: 4.205300
+2025-06-17 12:03:20,482-INFO- Measured Temperature [C]: 88.851149
+2025-06-17 12:03:20,482-INFO- Measured Temperature_2 [C]: 84.871074
+2025-06-17 12:03:20,482-INFO- Measured Temperature_3 [C]: 84.952918
+2025-06-17 12:03:20,488-INFO- Estimated ClassA Temperature [C]: 62.466949
+2025-06-17 12:03:20,494-INFO- Estimated ClassB Temperature [C]: 77.236244
+2025-06-17 12:03:20,511-INFO- Squared Current Phase A: 4.240869
+2025-06-17 12:03:20,511-INFO- Squared Current Phase B: 4.244757
+2025-06-17 12:03:20,512-INFO- Squared Current Phase C: 4.241842
+2025-06-17 12:03:22,521-INFO- Elapsed Time [Secs]: 211.846793
+2025-06-17 12:03:22,679-INFO- Measured Current [A rms]: 4.205810
+2025-06-17 12:03:22,680-INFO- Measured Temperature [C]: 89.160561
+2025-06-17 12:03:22,680-INFO- Measured Temperature_2 [C]: 85.142579
+2025-06-17 12:03:22,680-INFO- Measured Temperature_3 [C]: 85.248626
+2025-06-17 12:03:22,685-INFO- Estimated ClassA Temperature [C]: 62.884369
+2025-06-17 12:03:22,691-INFO- Estimated ClassB Temperature [C]: 77.614540
+2025-06-17 12:03:22,708-INFO- Squared Current Phase A: 4.241599
+2025-06-17 12:03:22,708-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:03:22,708-INFO- Squared Current Phase C: 4.242085
+2025-06-17 12:03:24,710-INFO- Elapsed Time [Secs]: 214.035107
+2025-06-17 12:03:24,716-INFO- Measured Current [A rms]: 4.205830
+2025-06-17 12:03:24,716-INFO- Measured Temperature [C]: 89.494792
+2025-06-17 12:03:24,717-INFO- Measured Temperature_2 [C]: 85.504174
+2025-06-17 12:03:24,717-INFO- Measured Temperature_3 [C]: 85.613382
+2025-06-17 12:03:24,721-INFO- Estimated ClassA Temperature [C]: 63.165741
+2025-06-17 12:03:24,727-INFO- Estimated ClassB Temperature [C]: 77.992867
+2025-06-17 12:03:24,743-INFO- Squared Current Phase A: 4.241356
+2025-06-17 12:03:24,744-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:03:24,744-INFO- Squared Current Phase C: 4.241599
+2025-06-17 12:03:26,754-INFO- Elapsed Time [Secs]: 216.079262
+2025-06-17 12:03:26,760-INFO- Measured Current [A rms]: 4.205980
+2025-06-17 12:03:26,760-INFO- Measured Temperature [C]: 89.943404
+2025-06-17 12:03:26,760-INFO- Measured Temperature_2 [C]: 85.960931
+2025-06-17 12:03:26,760-INFO- Measured Temperature_3 [C]: 86.070467
+2025-06-17 12:03:26,764-INFO- Estimated ClassA Temperature [C]: 63.473755
+2025-06-17 12:03:26,770-INFO- Estimated ClassB Temperature [C]: 78.371223
+2025-06-17 12:03:26,788-INFO- Squared Current Phase A: 4.241599
+2025-06-17 12:03:26,788-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:03:26,788-INFO- Squared Current Phase C: 4.241356
+2025-06-17 12:03:28,795-INFO- Elapsed Time [Secs]: 218.119741
+2025-06-17 12:03:28,802-INFO- Measured Current [A rms]: 4.205100
+2025-06-17 12:03:28,802-INFO- Measured Temperature [C]: 90.307123
+2025-06-17 12:03:28,802-INFO- Measured Temperature_2 [C]: 86.322551
+2025-06-17 12:03:28,802-INFO- Measured Temperature_3 [C]: 86.430476
+2025-06-17 12:03:28,806-INFO- Estimated ClassA Temperature [C]: 63.785522
+2025-06-17 12:03:28,812-INFO- Estimated ClassB Temperature [C]: 78.749619
+2025-06-17 12:03:28,830-INFO- Squared Current Phase A: 4.241599
+2025-06-17 12:03:28,830-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:03:28,830-INFO- Squared Current Phase C: 4.242085
+2025-06-17 12:03:30,842-INFO- Elapsed Time [Secs]: 220.166317
+2025-06-17 12:03:30,848-INFO- Measured Current [A rms]: 4.205860
+2025-06-17 12:03:30,848-INFO- Measured Temperature [C]: 90.678710
+2025-06-17 12:03:30,848-INFO- Measured Temperature_2 [C]: 86.640304
+2025-06-17 12:03:30,848-INFO- Measured Temperature_3 [C]: 86.780176
+2025-06-17 12:03:30,853-INFO- Estimated ClassA Temperature [C]: 64.093140
+2025-06-17 12:03:30,858-INFO- Estimated ClassB Temperature [C]: 79.128014
+2025-06-17 12:03:30,876-INFO- Squared Current Phase A: 4.241599
+2025-06-17 12:03:30,877-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:03:30,877-INFO- Squared Current Phase C: 4.241356
+2025-06-17 12:03:32,882-INFO- Elapsed Time [Secs]: 222.206231
+2025-06-17 12:03:32,891-INFO- Measured Current [A rms]: 4.205680
+2025-06-17 12:03:32,891-INFO- Measured Temperature [C]: 90.882102
+2025-06-17 12:03:32,891-INFO- Measured Temperature_2 [C]: 86.860528
+2025-06-17 12:03:32,891-INFO- Measured Temperature_3 [C]: 87.007272
+2025-06-17 12:03:32,897-INFO- Estimated ClassA Temperature [C]: 64.396912
+2025-06-17 12:03:32,903-INFO- Estimated ClassB Temperature [C]: 79.506439
+2025-06-17 12:03:32,921-INFO- Squared Current Phase A: 4.241599
+2025-06-17 12:03:32,921-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:03:32,922-INFO- Squared Current Phase C: 4.241112
+2025-06-17 12:03:34,925-INFO- Elapsed Time [Secs]: 224.250095
+2025-06-17 12:03:34,934-INFO- Measured Current [A rms]: 4.205520
+2025-06-17 12:03:34,934-INFO- Measured Temperature [C]: 91.237901
+2025-06-17 12:03:34,934-INFO- Measured Temperature_2 [C]: 87.210329
+2025-06-17 12:03:34,934-INFO- Measured Temperature_3 [C]: 87.361107
+2025-06-17 12:03:34,940-INFO- Estimated ClassA Temperature [C]: 64.708374
+2025-06-17 12:03:34,946-INFO- Estimated ClassB Temperature [C]: 79.884865
+2025-06-17 12:03:34,963-INFO- Squared Current Phase A: 4.241842
+2025-06-17 12:03:34,963-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:03:34,963-INFO- Squared Current Phase C: 4.241599
+2025-06-17 12:03:36,964-INFO- Elapsed Time [Secs]: 226.288191
+2025-06-17 12:03:36,972-INFO- Measured Current [A rms]: 4.206350
+2025-06-17 12:03:36,972-INFO- Measured Temperature [C]: 91.695822
+2025-06-17 12:03:36,972-INFO- Measured Temperature_2 [C]: 87.645506
+2025-06-17 12:03:36,972-INFO- Measured Temperature_3 [C]: 87.828729
+2025-06-17 12:03:36,978-INFO- Estimated ClassA Temperature [C]: 65.015991
+2025-06-17 12:03:36,984-INFO- Estimated ClassB Temperature [C]: 80.263336
+2025-06-17 12:03:37,002-INFO- Squared Current Phase A: 4.241842
+2025-06-17 12:03:37,002-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:03:37,002-INFO- Squared Current Phase C: 4.241842
+2025-06-17 12:03:39,014-INFO- Elapsed Time [Secs]: 228.338641
+2025-06-17 12:03:39,022-INFO- Measured Current [A rms]: 4.205840
+2025-06-17 12:03:39,022-INFO- Measured Temperature [C]: 91.969575
+2025-06-17 12:03:39,022-INFO- Measured Temperature_2 [C]: 87.953339
+2025-06-17 12:03:39,023-INFO- Measured Temperature_3 [C]: 88.129827
+2025-06-17 12:03:39,029-INFO- Estimated ClassA Temperature [C]: 65.323608
+2025-06-17 12:03:39,034-INFO- Estimated ClassB Temperature [C]: 80.641830
+2025-06-17 12:03:39,212-INFO- Squared Current Phase A: 4.242328
+2025-06-17 12:03:39,212-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:03:39,212-INFO- Squared Current Phase C: 4.240869
+2025-06-17 12:03:41,226-INFO- Elapsed Time [Secs]: 230.550255
+2025-06-17 12:03:41,235-INFO- Measured Current [A rms]: 4.205700
+2025-06-17 12:03:41,235-INFO- Measured Temperature [C]: 92.315854
+2025-06-17 12:03:41,235-INFO- Measured Temperature_2 [C]: 88.316888
+2025-06-17 12:03:41,235-INFO- Measured Temperature_3 [C]: 88.485933
+2025-06-17 12:03:41,241-INFO- Estimated ClassA Temperature [C]: 65.731201
+2025-06-17 12:03:41,248-INFO- Estimated ClassB Temperature [C]: 81.209496
+2025-06-17 12:03:41,266-INFO- Squared Current Phase A: 4.242328
+2025-06-17 12:03:41,266-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:03:41,266-INFO- Squared Current Phase C: 4.240869
+2025-06-17 12:03:43,278-INFO- Elapsed Time [Secs]: 232.602607
+2025-06-17 12:03:43,287-INFO- Measured Current [A rms]: 4.205920
+2025-06-17 12:03:43,287-INFO- Measured Temperature [C]: 92.775474
+2025-06-17 12:03:43,287-INFO- Measured Temperature_2 [C]: 88.747414
+2025-06-17 12:03:43,287-INFO- Measured Temperature_3 [C]: 88.929653
+2025-06-17 12:03:43,293-INFO- Estimated ClassA Temperature [C]: 66.042664
+2025-06-17 12:03:43,300-INFO- Estimated ClassB Temperature [C]: 81.587952
+2025-06-17 12:03:43,317-INFO- Squared Current Phase A: 4.242328
+2025-06-17 12:03:43,317-INFO- Squared Current Phase B: 4.244757
+2025-06-17 12:03:43,317-INFO- Squared Current Phase C: 4.241599
+2025-06-17 12:03:45,320-INFO- Elapsed Time [Secs]: 234.644228
+2025-06-17 12:03:45,329-INFO- Measured Current [A rms]: 4.205840
+2025-06-17 12:03:45,329-INFO- Measured Temperature [C]: 93.126549
+2025-06-17 12:03:45,329-INFO- Measured Temperature_2 [C]: 89.070600
+2025-06-17 12:03:45,329-INFO- Measured Temperature_3 [C]: 89.294084
+2025-06-17 12:03:45,336-INFO- Estimated ClassA Temperature [C]: 66.346436
+2025-06-17 12:03:45,342-INFO- Estimated ClassB Temperature [C]: 81.966423
+2025-06-17 12:03:45,359-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:03:45,359-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:03:45,359-INFO- Squared Current Phase C: 4.240869
+2025-06-17 12:03:47,369-INFO- Elapsed Time [Secs]: 236.693060
+2025-06-17 12:03:47,377-INFO- Measured Current [A rms]: 4.205900
+2025-06-17 12:03:47,377-INFO- Measured Temperature [C]: 93.527732
+2025-06-17 12:03:47,377-INFO- Measured Temperature_2 [C]: 89.477332
+2025-06-17 12:03:47,377-INFO- Measured Temperature_3 [C]: 89.689838
+2025-06-17 12:03:47,383-INFO- Estimated ClassA Temperature [C]: 66.654053
+2025-06-17 12:03:47,389-INFO- Estimated ClassB Temperature [C]: 82.344864
+2025-06-17 12:03:47,407-INFO- Squared Current Phase A: 4.242328
+2025-06-17 12:03:47,407-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:03:47,407-INFO- Squared Current Phase C: 4.240869
+2025-06-17 12:03:49,416-INFO- Elapsed Time [Secs]: 238.739899
+2025-06-17 12:03:49,425-INFO- Measured Current [A rms]: 4.205860
+2025-06-17 12:03:49,425-INFO- Measured Temperature [C]: 93.879211
+2025-06-17 12:03:49,425-INFO- Measured Temperature_2 [C]: 89.813980
+2025-06-17 12:03:49,425-INFO- Measured Temperature_3 [C]: 90.047784
+2025-06-17 12:03:49,431-INFO- Estimated ClassA Temperature [C]: 66.961670
+2025-06-17 12:03:49,438-INFO- Estimated ClassB Temperature [C]: 82.723282
+2025-06-17 12:03:49,454-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:03:49,454-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:03:49,455-INFO- Squared Current Phase C: 4.241112
+2025-06-17 12:03:51,461-INFO- Elapsed Time [Secs]: 240.785031
+2025-06-17 12:03:51,466-INFO- Measured Current [A rms]: 4.206070
+2025-06-17 12:03:51,466-INFO- Measured Temperature [C]: 94.213915
+2025-06-17 12:03:51,466-INFO- Measured Temperature_2 [C]: 90.141580
+2025-06-17 12:03:51,466-INFO- Measured Temperature_3 [C]: 90.386805
+2025-06-17 12:03:51,470-INFO- Estimated ClassA Temperature [C]: 67.273132
+2025-06-17 12:03:51,476-INFO- Estimated ClassB Temperature [C]: 83.101723
+2025-06-17 12:03:51,493-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:03:51,493-INFO- Squared Current Phase B: 4.244757
+2025-06-17 12:03:51,493-INFO- Squared Current Phase C: 4.241356
+2025-06-17 12:03:53,499-INFO- Elapsed Time [Secs]: 242.823094
+2025-06-17 12:03:53,505-INFO- Measured Current [A rms]: 4.205690
+2025-06-17 12:03:53,505-INFO- Measured Temperature [C]: 94.416613
+2025-06-17 12:03:53,505-INFO- Measured Temperature_2 [C]: 90.385042
+2025-06-17 12:03:53,505-INFO- Measured Temperature_3 [C]: 90.608910
+2025-06-17 12:03:53,509-INFO- Estimated ClassA Temperature [C]: 67.580750
+2025-06-17 12:03:53,515-INFO- Estimated ClassB Temperature [C]: 83.480110
+2025-06-17 12:03:53,533-INFO- Squared Current Phase A: 4.242571
+2025-06-17 12:03:53,533-INFO- Squared Current Phase B: 4.244029
+2025-06-17 12:03:53,533-INFO- Squared Current Phase C: 4.241112
+2025-06-17 12:03:55,545-INFO- Elapsed Time [Secs]: 244.868933
+2025-06-17 12:03:55,554-INFO- Measured Current [A rms]: 4.206120
+2025-06-17 12:03:55,554-INFO- Measured Temperature [C]: 94.741206
+2025-06-17 12:03:55,554-INFO- Measured Temperature_2 [C]: 90.707968
+2025-06-17 12:03:55,554-INFO- Measured Temperature_3 [C]: 90.971630
+2025-06-17 12:03:55,560-INFO- Estimated ClassA Temperature [C]: 67.888367
+2025-06-17 12:03:55,566-INFO- Estimated ClassB Temperature [C]: 83.858521
+2025-06-17 12:03:55,582-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:03:55,583-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:03:55,583-INFO- Squared Current Phase C: 4.241599
+2025-06-17 12:03:57,592-INFO- Elapsed Time [Secs]: 246.916659
+2025-06-17 12:03:57,601-INFO- Measured Current [A rms]: 4.205980
+2025-06-17 12:03:57,601-INFO- Measured Temperature [C]: 95.229498
+2025-06-17 12:03:57,601-INFO- Measured Temperature_2 [C]: 91.176051
+2025-06-17 12:03:57,601-INFO- Measured Temperature_3 [C]: 91.429257
+2025-06-17 12:03:57,607-INFO- Estimated ClassA Temperature [C]: 68.195984
+2025-06-17 12:03:57,614-INFO- Estimated ClassB Temperature [C]: 84.236893
+2025-06-17 12:03:57,630-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:03:57,630-INFO- Squared Current Phase B: 4.244029
+2025-06-17 12:03:57,630-INFO- Squared Current Phase C: 4.241356
+2025-06-17 12:03:59,633-INFO- Elapsed Time [Secs]: 248.957645
+2025-06-17 12:03:59,731-INFO- Measured Current [A rms]: 4.205990
+2025-06-17 12:03:59,732-INFO- Measured Temperature [C]: 95.507895
+2025-06-17 12:03:59,732-INFO- Measured Temperature_2 [C]: 91.453572
+2025-06-17 12:03:59,732-INFO- Measured Temperature_3 [C]: 91.717139
+2025-06-17 12:03:59,738-INFO- Estimated ClassA Temperature [C]: 68.584045
+2025-06-17 12:03:59,746-INFO- Estimated ClassB Temperature [C]: 84.615227
+2025-06-17 12:03:59,763-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:03:59,763-INFO- Squared Current Phase B: 4.244029
+2025-06-17 12:03:59,763-INFO- Squared Current Phase C: 4.241356
+2025-06-17 12:04:01,775-INFO- Elapsed Time [Secs]: 251.099530
+2025-06-17 12:04:01,784-INFO- Measured Current [A rms]: 4.206290
+2025-06-17 12:04:01,784-INFO- Measured Temperature [C]: 95.859050
+2025-06-17 12:04:01,784-INFO- Measured Temperature_2 [C]: 91.789367
+2025-06-17 12:04:01,784-INFO- Measured Temperature_3 [C]: 92.072443
+2025-06-17 12:04:01,790-INFO- Estimated ClassA Temperature [C]: 68.891357
+2025-06-17 12:04:01,796-INFO- Estimated ClassB Temperature [C]: 84.993568
+2025-06-17 12:04:01,814-INFO- Squared Current Phase A: 4.243057
+2025-06-17 12:04:01,814-INFO- Squared Current Phase B: 4.243786
+2025-06-17 12:04:01,814-INFO- Squared Current Phase C: 4.241356
+2025-06-17 12:04:03,827-INFO- Elapsed Time [Secs]: 253.151163
+2025-06-17 12:04:03,836-INFO- Measured Current [A rms]: 4.206310
+2025-06-17 12:04:03,836-INFO- Measured Temperature [C]: 96.304023
+2025-06-17 12:04:03,836-INFO- Measured Temperature_2 [C]: 92.223565
+2025-06-17 12:04:03,836-INFO- Measured Temperature_3 [C]: 92.537752
+2025-06-17 12:04:03,842-INFO- Estimated ClassA Temperature [C]: 69.198517
+2025-06-17 12:04:03,848-INFO- Estimated ClassB Temperature [C]: 85.371834
+2025-06-17 12:04:03,866-INFO- Squared Current Phase A: 4.243057
+2025-06-17 12:04:03,866-INFO- Squared Current Phase B: 4.243786
+2025-06-17 12:04:03,866-INFO- Squared Current Phase C: 4.242085
+2025-06-17 12:04:05,870-INFO- Elapsed Time [Secs]: 255.194275
+2025-06-17 12:04:05,879-INFO- Measured Current [A rms]: 4.206140
+2025-06-17 12:04:05,879-INFO- Measured Temperature [C]: 96.584919
+2025-06-17 12:04:05,879-INFO- Measured Temperature_2 [C]: 92.519437
+2025-06-17 12:04:05,879-INFO- Measured Temperature_3 [C]: 92.811042
+2025-06-17 12:04:05,885-INFO- Estimated ClassA Temperature [C]: 69.505859
+2025-06-17 12:04:05,891-INFO- Estimated ClassB Temperature [C]: 85.750107
+2025-06-17 12:04:05,908-INFO- Squared Current Phase A: 4.243057
+2025-06-17 12:04:05,908-INFO- Squared Current Phase B: 4.243786
+2025-06-17 12:04:05,908-INFO- Squared Current Phase C: 4.240869
+2025-06-17 12:04:07,915-INFO- Elapsed Time [Secs]: 257.238963
+2025-06-17 12:04:07,923-INFO- Measured Current [A rms]: 4.205880
+2025-06-17 12:04:07,923-INFO- Measured Temperature [C]: 96.936955
+2025-06-17 12:04:07,923-INFO- Measured Temperature_2 [C]: 92.858759
+2025-06-17 12:04:07,923-INFO- Measured Temperature_3 [C]: 93.157886
+2025-06-17 12:04:07,929-INFO- Estimated ClassA Temperature [C]: 69.812744
+2025-06-17 12:04:07,936-INFO- Estimated ClassB Temperature [C]: 86.128319
+2025-06-17 12:04:07,953-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:04:07,954-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:04:07,954-INFO- Squared Current Phase C: 4.241599
+2025-06-17 12:04:09,977-INFO- Elapsed Time [Secs]: 259.281406
+2025-06-17 12:04:09,986-INFO- Measured Current [A rms]: 4.206160
+2025-06-17 12:04:09,986-INFO- Measured Temperature [C]: 97.365194
+2025-06-17 12:04:09,986-INFO- Measured Temperature_2 [C]: 93.295024
+2025-06-17 12:04:09,986-INFO- Measured Temperature_3 [C]: 93.619083
+2025-06-17 12:04:09,992-INFO- Estimated ClassA Temperature [C]: 70.119537
+2025-06-17 12:04:09,998-INFO- Estimated ClassB Temperature [C]: 86.506470
+2025-06-17 12:04:10,015-INFO- Squared Current Phase A: 4.243057
+2025-06-17 12:04:10,015-INFO- Squared Current Phase B: 4.243543
+2025-06-17 12:04:10,015-INFO- Squared Current Phase C: 4.242085
+2025-06-17 12:04:12,025-INFO- Elapsed Time [Secs]: 261.348936
+2025-06-17 12:04:12,034-INFO- Measured Current [A rms]: 4.206330
+2025-06-17 12:04:12,035-INFO- Measured Temperature [C]: 97.642090
+2025-06-17 12:04:12,035-INFO- Measured Temperature_2 [C]: 93.583001
+2025-06-17 12:04:12,035-INFO- Measured Temperature_3 [C]: 93.920920
+2025-06-17 12:04:12,041-INFO- Estimated ClassA Temperature [C]: 70.426239
+2025-06-17 12:04:12,047-INFO- Estimated ClassB Temperature [C]: 86.884613
+2025-06-17 12:04:12,063-INFO- Squared Current Phase A: 4.243300
+2025-06-17 12:04:12,064-INFO- Squared Current Phase B: 4.243543
+2025-06-17 12:04:12,064-INFO- Squared Current Phase C: 4.241599
+2025-06-17 12:04:14,076-INFO- Elapsed Time [Secs]: 263.400254
+2025-06-17 12:04:14,086-INFO- Measured Current [A rms]: 4.205980
+2025-06-17 12:04:14,086-INFO- Measured Temperature [C]: 97.937396
+2025-06-17 12:04:14,086-INFO- Measured Temperature_2 [C]: 93.859852
+2025-06-17 12:04:14,086-INFO- Measured Temperature_3 [C]: 94.184177
+2025-06-17 12:04:14,092-INFO- Estimated ClassA Temperature [C]: 70.733429
+2025-06-17 12:04:14,098-INFO- Estimated ClassB Temperature [C]: 87.262733
+2025-06-17 12:04:14,115-INFO- Squared Current Phase A: 4.243057
+2025-06-17 12:04:14,115-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:04:14,115-INFO- Squared Current Phase C: 4.241842
+2025-06-17 12:04:16,125-INFO- Elapsed Time [Secs]: 265.449038
+2025-06-17 12:04:16,133-INFO- Measured Current [A rms]: 4.206240
+2025-06-17 12:04:16,133-INFO- Measured Temperature [C]: 98.290799
+2025-06-17 12:04:16,133-INFO- Measured Temperature_2 [C]: 94.185057
+2025-06-17 12:04:16,134-INFO- Measured Temperature_3 [C]: 94.545400
+2025-06-17 12:04:16,139-INFO- Estimated ClassA Temperature [C]: 71.043976
+2025-06-17 12:04:16,146-INFO- Estimated ClassB Temperature [C]: 87.640762
+2025-06-17 12:04:16,163-INFO- Squared Current Phase A: 4.243057
+2025-06-17 12:04:16,163-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:04:16,163-INFO- Squared Current Phase C: 4.242085
+2025-06-17 12:04:18,166-INFO- Elapsed Time [Secs]: 267.489653
+2025-06-17 12:04:18,173-INFO- Measured Current [A rms]: 4.206190
+2025-06-17 12:04:18,174-INFO- Measured Temperature [C]: 98.740024
+2025-06-17 12:04:18,174-INFO- Measured Temperature_2 [C]: 94.602930
+2025-06-17 12:04:18,174-INFO- Measured Temperature_3 [C]: 94.992753
+2025-06-17 12:04:18,178-INFO- Estimated ClassA Temperature [C]: 71.347076
+2025-06-17 12:04:18,184-INFO- Estimated ClassB Temperature [C]: 88.018700
+2025-06-17 12:04:18,200-INFO- Squared Current Phase A: 4.243057
+2025-06-17 12:04:18,201-INFO- Squared Current Phase B: 4.243057
+2025-06-17 12:04:18,201-INFO- Squared Current Phase C: 4.241842
+2025-06-17 12:04:20,216-INFO- Elapsed Time [Secs]: 269.540044
+2025-06-17 12:04:20,225-INFO- Measured Current [A rms]: 4.206260
+2025-06-17 12:04:20,225-INFO- Measured Temperature [C]: 99.008147
+2025-06-17 12:04:20,225-INFO- Measured Temperature_2 [C]: 94.902340
+2025-06-17 12:04:20,225-INFO- Measured Temperature_3 [C]: 95.274698
+2025-06-17 12:04:20,231-INFO- Estimated ClassA Temperature [C]: 71.654297
+2025-06-17 12:04:20,237-INFO- Estimated ClassB Temperature [C]: 88.396622
+2025-06-17 12:04:20,254-INFO- Squared Current Phase A: 4.243300
+2025-06-17 12:04:20,256-INFO- Squared Current Phase B: 4.242814
+2025-06-17 12:04:20,256-INFO- Squared Current Phase C: 4.241842
+2025-06-17 12:04:22,263-INFO- Elapsed Time [Secs]: 271.587451
+2025-06-17 12:04:22,415-INFO- Measured Current [A rms]: 4.206190
+2025-06-17 12:04:22,415-INFO- Measured Temperature [C]: 99.332592
+2025-06-17 12:04:22,416-INFO- Measured Temperature_2 [C]: 95.248317
+2025-06-17 12:04:22,416-INFO- Measured Temperature_3 [C]: 95.635035
+2025-06-17 12:04:22,420-INFO- Estimated ClassA Temperature [C]: 72.064636
+2025-06-17 12:04:22,426-INFO- Estimated ClassB Temperature [C]: 88.963364
+2025-06-17 12:04:22,443-INFO- Squared Current Phase A: 4.243057
+2025-06-17 12:04:22,443-INFO- Squared Current Phase B: 4.243057
+2025-06-17 12:04:22,443-INFO- Squared Current Phase C: 4.242328
+2025-06-17 12:04:24,452-INFO- Elapsed Time [Secs]: 273.775628
+2025-06-17 12:04:24,458-INFO- Measured Current [A rms]: 4.206470
+2025-06-17 12:04:24,459-INFO- Measured Temperature [C]: 99.793721
+2025-06-17 12:04:24,459-INFO- Measured Temperature_2 [C]: 95.666863
+2025-06-17 12:04:24,459-INFO- Measured Temperature_3 [C]: 96.060538
+2025-06-17 12:04:24,463-INFO- Estimated ClassA Temperature [C]: 72.371429
+2025-06-17 12:04:24,469-INFO- Estimated ClassB Temperature [C]: 89.341080
+2025-06-17 12:04:24,487-INFO- Squared Current Phase A: 4.243057
+2025-06-17 12:04:24,487-INFO- Squared Current Phase B: 4.242571
+2025-06-17 12:04:24,487-INFO- Squared Current Phase C: 4.242085
+2025-06-17 12:04:26,494-INFO- Elapsed Time [Secs]: 275.817733
+2025-06-17 12:04:26,502-INFO- Measured Current [A rms]: 4.206380
+2025-06-17 12:04:26,502-INFO- Measured Temperature [C]: 100.063650
+2025-06-17 12:04:26,502-INFO- Measured Temperature_2 [C]: 95.950302
+2025-06-17 12:04:26,502-INFO- Measured Temperature_3 [C]: 96.357990
+2025-06-17 12:04:26,506-INFO- Estimated ClassA Temperature [C]: 72.678375
+2025-06-17 12:04:26,512-INFO- Estimated ClassB Temperature [C]: 89.718773
+2025-06-17 12:04:26,529-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:04:26,529-INFO- Squared Current Phase B: 4.242571
+2025-06-17 12:04:26,529-INFO- Squared Current Phase C: 4.242328
+2025-06-17 12:04:28,542-INFO- Elapsed Time [Secs]: 277.865549
+2025-06-17 12:04:28,549-INFO- Measured Current [A rms]: 4.206470
+2025-06-17 12:04:28,550-INFO- Measured Temperature [C]: 100.408123
+2025-06-17 12:04:28,550-INFO- Measured Temperature_2 [C]: 96.288026
+2025-06-17 12:04:28,550-INFO- Measured Temperature_3 [C]: 96.701802
+2025-06-17 12:04:28,554-INFO- Estimated ClassA Temperature [C]: 72.985077
+2025-06-17 12:04:28,560-INFO- Estimated ClassB Temperature [C]: 90.096443
+2025-06-17 12:04:28,577-INFO- Squared Current Phase A: 4.243057
+2025-06-17 12:04:28,577-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:04:28,577-INFO- Squared Current Phase C: 4.242814
+2025-06-17 12:04:30,579-INFO- Elapsed Time [Secs]: 279.900962
+2025-06-17 12:04:30,585-INFO- Measured Current [A rms]: 4.206300
+2025-06-17 12:04:30,585-INFO- Measured Temperature [C]: 100.852019
+2025-06-17 12:04:30,585-INFO- Measured Temperature_2 [C]: 96.726057
+2025-06-17 12:04:30,585-INFO- Measured Temperature_3 [C]: 97.164703
+2025-06-17 12:04:30,589-INFO- Estimated ClassA Temperature [C]: 73.291290
+2025-06-17 12:04:30,595-INFO- Estimated ClassB Temperature [C]: 90.473953
+2025-06-17 12:04:30,612-INFO- Squared Current Phase A: 4.243057
+2025-06-17 12:04:30,613-INFO- Squared Current Phase B: 4.242571
+2025-06-17 12:04:30,613-INFO- Squared Current Phase C: 4.242814
+2025-06-17 12:04:32,617-INFO- Elapsed Time [Secs]: 281.940330
+2025-06-17 12:04:32,626-INFO- Measured Current [A rms]: 4.206290
+2025-06-17 12:04:32,626-INFO- Measured Temperature [C]: 101.008502
+2025-06-17 12:04:32,626-INFO- Measured Temperature_2 [C]: 96.889505
+2025-06-17 12:04:32,626-INFO- Measured Temperature_3 [C]: 97.332863
+2025-06-17 12:04:32,632-INFO- Estimated ClassA Temperature [C]: 73.574432
+2025-06-17 12:04:32,638-INFO- Estimated ClassB Temperature [C]: 90.851418
+2025-06-17 12:04:32,654-INFO- Squared Current Phase A: 4.242571
+2025-06-17 12:04:32,655-INFO- Squared Current Phase B: 4.242328
+2025-06-17 12:04:32,655-INFO- Squared Current Phase C: 4.242814
+2025-06-17 12:04:34,657-INFO- Elapsed Time [Secs]: 283.981198
+2025-06-17 12:04:34,667-INFO- Measured Current [A rms]: 4.206720
+2025-06-17 12:04:34,667-INFO- Measured Temperature [C]: 101.462806
+2025-06-17 12:04:34,667-INFO- Measured Temperature_2 [C]: 97.327768
+2025-06-17 12:04:34,667-INFO- Measured Temperature_3 [C]: 97.779647
+2025-06-17 12:04:34,672-INFO- Estimated ClassA Temperature [C]: 73.881622
+2025-06-17 12:04:34,679-INFO- Estimated ClassB Temperature [C]: 91.228806
+2025-06-17 12:04:34,696-INFO- Squared Current Phase A: 4.242571
+2025-06-17 12:04:34,696-INFO- Squared Current Phase B: 4.243057
+2025-06-17 12:04:34,696-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:04:36,707-INFO- Elapsed Time [Secs]: 286.031191
+2025-06-17 12:04:36,716-INFO- Measured Current [A rms]: 4.206750
+2025-06-17 12:04:36,716-INFO- Measured Temperature [C]: 101.803213
+2025-06-17 12:04:36,716-INFO- Measured Temperature_2 [C]: 97.648414
+2025-06-17 12:04:36,717-INFO- Measured Temperature_3 [C]: 98.126224
+2025-06-17 12:04:36,723-INFO- Estimated ClassA Temperature [C]: 74.188385
+2025-06-17 12:04:36,729-INFO- Estimated ClassB Temperature [C]: 91.606110
+2025-06-17 12:04:36,747-INFO- Squared Current Phase A: 4.242571
+2025-06-17 12:04:36,747-INFO- Squared Current Phase B: 4.242571
+2025-06-17 12:04:36,747-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:04:38,747-INFO- Elapsed Time [Secs]: 288.071109
+2025-06-17 12:04:38,756-INFO- Measured Current [A rms]: 4.206890
+2025-06-17 12:04:38,756-INFO- Measured Temperature [C]: 102.195295
+2025-06-17 12:04:38,756-INFO- Measured Temperature_2 [C]: 98.043844
+2025-06-17 12:04:38,756-INFO- Measured Temperature_3 [C]: 98.512262
+2025-06-17 12:04:38,762-INFO- Estimated ClassA Temperature [C]: 74.498383
+2025-06-17 12:04:38,768-INFO- Estimated ClassB Temperature [C]: 91.983337
+2025-06-17 12:04:38,786-INFO- Squared Current Phase A: 4.242328
+2025-06-17 12:04:38,786-INFO- Squared Current Phase B: 4.242571
+2025-06-17 12:04:38,786-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:04:40,801-INFO- Elapsed Time [Secs]: 290.124246
+2025-06-17 12:04:40,950-INFO- Measured Current [A rms]: 4.206500
+2025-06-17 12:04:40,950-INFO- Measured Temperature [C]: 102.475463
+2025-06-17 12:04:40,950-INFO- Measured Temperature_2 [C]: 98.321183
+2025-06-17 12:04:40,951-INFO- Measured Temperature_3 [C]: 98.782694
+2025-06-17 12:04:40,957-INFO- Estimated ClassA Temperature [C]: 74.904633
+2025-06-17 12:04:40,965-INFO- Estimated ClassB Temperature [C]: 92.549026
+2025-06-17 12:04:40,982-INFO- Squared Current Phase A: 4.242328
+2025-06-17 12:04:40,983-INFO- Squared Current Phase B: 4.242571
+2025-06-17 12:04:40,983-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:04:42,994-INFO- Elapsed Time [Secs]: 292.318065
+2025-06-17 12:04:43,003-INFO- Measured Current [A rms]: 4.206490
+2025-06-17 12:04:43,003-INFO- Measured Temperature [C]: 102.810289
+2025-06-17 12:04:43,003-INFO- Measured Temperature_2 [C]: 98.635365
+2025-06-17 12:04:43,003-INFO- Measured Temperature_3 [C]: 99.152994
+2025-06-17 12:04:43,009-INFO- Estimated ClassA Temperature [C]: 75.210602
+2025-06-17 12:04:43,015-INFO- Estimated ClassB Temperature [C]: 92.926018
+2025-06-17 12:04:43,033-INFO- Squared Current Phase A: 4.242085
+2025-06-17 12:04:43,033-INFO- Squared Current Phase B: 4.243057
+2025-06-17 12:04:43,033-INFO- Squared Current Phase C: 4.243543
+2025-06-17 12:04:45,047-INFO- Elapsed Time [Secs]: 294.371053
+2025-06-17 12:04:45,056-INFO- Measured Current [A rms]: 4.206330
+2025-06-17 12:04:45,057-INFO- Measured Temperature [C]: 103.251802
+2025-06-17 12:04:45,057-INFO- Measured Temperature_2 [C]: 99.060820
+2025-06-17 12:04:45,057-INFO- Measured Temperature_3 [C]: 99.568346
+2025-06-17 12:04:45,062-INFO- Estimated ClassA Temperature [C]: 75.520264
+2025-06-17 12:04:45,068-INFO- Estimated ClassB Temperature [C]: 93.302902
+2025-06-17 12:04:45,086-INFO- Squared Current Phase A: 4.242328
+2025-06-17 12:04:45,086-INFO- Squared Current Phase B: 4.242814
+2025-06-17 12:04:45,086-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:04:46,290-WARNING- Read request error: Request error:  Checksum error
+2025-06-17 12:04:46,291-WARNING- Discarding the packet
+2025-06-17 12:04:47,102-INFO- Elapsed Time [Secs]: 296.425196
+2025-06-17 12:04:47,109-INFO- Measured Current [A rms]: 4.206830
+2025-06-17 12:04:47,110-INFO- Measured Temperature [C]: 103.525712
+2025-06-17 12:04:47,110-INFO- Measured Temperature_2 [C]: 99.335927
+2025-06-17 12:04:47,110-INFO- Measured Temperature_3 [C]: 99.866559
+2025-06-17 12:04:47,116-INFO- Estimated ClassA Temperature [C]: 75.826660
+2025-06-17 12:04:47,122-INFO- Estimated ClassB Temperature [C]: 93.679703
+2025-06-17 12:04:47,140-INFO- Squared Current Phase A: 4.242085
+2025-06-17 12:04:47,140-INFO- Squared Current Phase B: 4.242571
+2025-06-17 12:04:47,140-INFO- Squared Current Phase C: 4.243543
+2025-06-17 12:04:49,143-INFO- Elapsed Time [Secs]: 298.466411
+2025-06-17 12:04:49,152-INFO- Measured Current [A rms]: 4.206420
+2025-06-17 12:04:49,152-INFO- Measured Temperature [C]: 103.871603
+2025-06-17 12:04:49,153-INFO- Measured Temperature_2 [C]: 99.661904
+2025-06-17 12:04:49,153-INFO- Measured Temperature_3 [C]: 100.215449
+2025-06-17 12:04:49,158-INFO- Estimated ClassA Temperature [C]: 76.132202
+2025-06-17 12:04:49,164-INFO- Estimated ClassB Temperature [C]: 94.056404
+2025-06-17 12:04:49,181-INFO- Squared Current Phase A: 4.242085
+2025-06-17 12:04:49,181-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:04:49,181-INFO- Squared Current Phase C: 4.243543
+2025-06-17 12:04:51,184-INFO- Elapsed Time [Secs]: 300.507219
+2025-06-17 12:04:51,190-INFO- Measured Current [A rms]: 4.206680
+2025-06-17 12:04:51,191-INFO- Measured Temperature [C]: 104.131778
+2025-06-17 12:04:51,191-INFO- Measured Temperature_2 [C]: 99.925706
+2025-06-17 12:04:51,191-INFO- Measured Temperature_3 [C]: 100.477257
+2025-06-17 12:04:51,195-INFO- Estimated ClassA Temperature [C]: 76.437561
+2025-06-17 12:04:51,201-INFO- Estimated ClassB Temperature [C]: 94.432961
+2025-06-17 12:04:51,218-INFO- Squared Current Phase A: 4.242085
+2025-06-17 12:04:51,218-INFO- Squared Current Phase B: 4.242571
+2025-06-17 12:04:51,218-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:04:53,219-INFO- Elapsed Time [Secs]: 302.542098
+2025-06-17 12:04:53,225-INFO- Measured Current [A rms]: 4.206310
+2025-06-17 12:04:53,225-INFO- Measured Temperature [C]: 104.461817
+2025-06-17 12:04:53,225-INFO- Measured Temperature_2 [C]: 100.255635
+2025-06-17 12:04:53,225-INFO- Measured Temperature_3 [C]: 100.809914
+2025-06-17 12:04:53,229-INFO- Estimated ClassA Temperature [C]: 76.743347
+2025-06-17 12:04:53,235-INFO- Estimated ClassB Temperature [C]: 94.809471
+2025-06-17 12:04:53,252-INFO- Squared Current Phase A: 4.241842
+2025-06-17 12:04:53,252-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:04:53,252-INFO- Squared Current Phase C: 4.243543
+2025-06-17 12:04:55,264-INFO- Elapsed Time [Secs]: 304.587685
+2025-06-17 12:04:55,270-INFO- Measured Current [A rms]: 4.206650
+2025-06-17 12:04:55,270-INFO- Measured Temperature [C]: 104.911782
+2025-06-17 12:04:55,270-INFO- Measured Temperature_2 [C]: 100.699034
+2025-06-17 12:04:55,270-INFO- Measured Temperature_3 [C]: 101.277587
+2025-06-17 12:04:55,274-INFO- Estimated ClassA Temperature [C]: 77.048523
+2025-06-17 12:04:55,280-INFO- Estimated ClassB Temperature [C]: 95.185829
+2025-06-17 12:04:55,297-INFO- Squared Current Phase A: 4.241842
+2025-06-17 12:04:55,297-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:04:55,297-INFO- Squared Current Phase C: 4.243786
+2025-06-17 12:04:57,307-INFO- Elapsed Time [Secs]: 306.630099
+2025-06-17 12:04:57,314-INFO- Measured Current [A rms]: 4.206300
+2025-06-17 12:04:57,314-INFO- Measured Temperature [C]: 105.184278
+2025-06-17 12:04:57,314-INFO- Measured Temperature_2 [C]: 100.988329
+2025-06-17 12:04:57,314-INFO- Measured Temperature_3 [C]: 101.532786
+2025-06-17 12:04:57,318-INFO- Estimated ClassA Temperature [C]: 77.353699
+2025-06-17 12:04:57,324-INFO- Estimated ClassB Temperature [C]: 95.562027
+2025-06-17 12:04:57,341-INFO- Squared Current Phase A: 4.241356
+2025-06-17 12:04:57,341-INFO- Squared Current Phase B: 4.242814
+2025-06-17 12:04:57,341-INFO- Squared Current Phase C: 4.243786
+2025-06-17 12:04:59,347-INFO- Elapsed Time [Secs]: 308.670432
+2025-06-17 12:04:59,354-INFO- Measured Current [A rms]: 4.206770
+2025-06-17 12:04:59,354-INFO- Measured Temperature [C]: 105.519602
+2025-06-17 12:04:59,354-INFO- Measured Temperature_2 [C]: 101.291444
+2025-06-17 12:04:59,354-INFO- Measured Temperature_3 [C]: 101.891595
+2025-06-17 12:04:59,358-INFO- Estimated ClassA Temperature [C]: 77.658875
+2025-06-17 12:04:59,364-INFO- Estimated ClassB Temperature [C]: 95.938133
+2025-06-17 12:04:59,381-INFO- Squared Current Phase A: 4.241599
+2025-06-17 12:04:59,381-INFO- Squared Current Phase B: 4.242814
+2025-06-17 12:04:59,381-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:05:01,386-INFO- Elapsed Time [Secs]: 310.709097
+2025-06-17 12:05:01,395-INFO- Measured Current [A rms]: 4.207020
+2025-06-17 12:05:01,395-INFO- Measured Temperature [C]: 105.959393
+2025-06-17 12:05:01,395-INFO- Measured Temperature_2 [C]: 101.717283
+2025-06-17 12:05:01,395-INFO- Measured Temperature_3 [C]: 102.335909
+2025-06-17 12:05:01,402-INFO- Estimated ClassA Temperature [C]: 77.964050
+2025-06-17 12:05:01,408-INFO- Estimated ClassB Temperature [C]: 96.314163
+2025-06-17 12:05:01,425-INFO- Squared Current Phase A: 4.241599
+2025-06-17 12:05:01,426-INFO- Squared Current Phase B: 4.243543
+2025-06-17 12:05:01,426-INFO- Squared Current Phase C: 4.243786
+2025-06-17 12:05:03,430-INFO- Elapsed Time [Secs]: 312.753391
+2025-06-17 12:05:03,438-INFO- Measured Current [A rms]: 4.206720
+2025-06-17 12:05:03,439-INFO- Measured Temperature [C]: 106.225996
+2025-06-17 12:05:03,439-INFO- Measured Temperature_2 [C]: 101.966647
+2025-06-17 12:05:03,439-INFO- Measured Temperature_3 [C]: 102.623424
+2025-06-17 12:05:03,445-INFO- Estimated ClassA Temperature [C]: 78.269226
+2025-06-17 12:05:03,451-INFO- Estimated ClassB Temperature [C]: 96.690033
+2025-06-17 12:05:03,469-INFO- Squared Current Phase A: 4.241599
+2025-06-17 12:05:03,469-INFO- Squared Current Phase B: 4.243057
+2025-06-17 12:05:03,469-INFO- Squared Current Phase C: 4.243543
+2025-06-17 12:05:05,472-INFO- Elapsed Time [Secs]: 314.795356
+2025-06-17 12:05:05,620-INFO- Measured Current [A rms]: 4.206630
+2025-06-17 12:05:05,620-INFO- Measured Temperature [C]: 106.548577
+2025-06-17 12:05:05,621-INFO- Measured Temperature_2 [C]: 102.332052
+2025-06-17 12:05:05,621-INFO- Measured Temperature_3 [C]: 102.943155
+2025-06-17 12:05:05,627-INFO- Estimated ClassA Temperature [C]: 78.673584
+2025-06-17 12:05:05,636-INFO- Estimated ClassB Temperature [C]: 97.065788
+2025-06-17 12:05:05,652-INFO- Squared Current Phase A: 4.241356
+2025-06-17 12:05:05,653-INFO- Squared Current Phase B: 4.243543
+2025-06-17 12:05:05,653-INFO- Squared Current Phase C: 4.243543
+2025-06-17 12:05:07,653-INFO- Elapsed Time [Secs]: 316.976658
+2025-06-17 12:05:07,662-INFO- Measured Current [A rms]: 4.206920
+2025-06-17 12:05:07,662-INFO- Measured Temperature [C]: 106.987485
+2025-06-17 12:05:07,662-INFO- Measured Temperature_2 [C]: 102.755598
+2025-06-17 12:05:07,662-INFO- Measured Temperature_3 [C]: 103.408651
+2025-06-17 12:05:07,668-INFO- Estimated ClassA Temperature [C]: 78.955872
+2025-06-17 12:05:07,674-INFO- Estimated ClassB Temperature [C]: 97.441391
+2025-06-17 12:05:07,691-INFO- Squared Current Phase A: 4.241356
+2025-06-17 12:05:07,691-INFO- Squared Current Phase B: 4.243786
+2025-06-17 12:05:07,691-INFO- Squared Current Phase C: 4.243786
+2025-06-17 12:05:09,693-INFO- Elapsed Time [Secs]: 319.016646
+2025-06-17 12:05:09,702-INFO- Measured Current [A rms]: 4.206900
+2025-06-17 12:05:09,702-INFO- Measured Temperature [C]: 107.272349
+2025-06-17 12:05:09,702-INFO- Measured Temperature_2 [C]: 103.008007
+2025-06-17 12:05:09,702-INFO- Measured Temperature_3 [C]: 103.694809
+2025-06-17 12:05:09,708-INFO- Estimated ClassA Temperature [C]: 79.261047
+2025-06-17 12:05:09,714-INFO- Estimated ClassB Temperature [C]: 97.816833
+2025-06-17 12:05:09,731-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:05:09,731-INFO- Squared Current Phase B: 4.243543
+2025-06-17 12:05:09,731-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:05:11,746-INFO- Elapsed Time [Secs]: 321.068849
+2025-06-17 12:05:11,755-INFO- Measured Current [A rms]: 4.206880
+2025-06-17 12:05:11,755-INFO- Measured Temperature [C]: 107.538287
+2025-06-17 12:05:11,756-INFO- Measured Temperature_2 [C]: 103.287028
+2025-06-17 12:05:11,756-INFO- Measured Temperature_3 [C]: 103.960083
+2025-06-17 12:05:11,762-INFO- Estimated ClassA Temperature [C]: 79.566223
+2025-06-17 12:05:11,768-INFO- Estimated ClassB Temperature [C]: 98.192184
+2025-06-17 12:05:11,785-INFO- Squared Current Phase A: 4.241356
+2025-06-17 12:05:11,785-INFO- Squared Current Phase B: 4.243786
+2025-06-17 12:05:11,785-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:05:13,789-INFO- Elapsed Time [Secs]: 323.112405
+2025-06-17 12:05:13,798-INFO- Measured Current [A rms]: 4.206960
+2025-06-17 12:05:13,798-INFO- Measured Temperature [C]: 107.921746
+2025-06-17 12:05:13,798-INFO- Measured Temperature_2 [C]: 103.671679
+2025-06-17 12:05:13,798-INFO- Measured Temperature_3 [C]: 104.337269
+2025-06-17 12:05:13,804-INFO- Estimated ClassA Temperature [C]: 79.871277
+2025-06-17 12:05:13,811-INFO- Estimated ClassB Temperature [C]: 98.567413
+2025-06-17 12:05:13,828-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:05:13,829-INFO- Squared Current Phase B: 4.244029
+2025-06-17 12:05:13,829-INFO- Squared Current Phase C: 4.243786
+2025-06-17 12:05:15,839-INFO- Elapsed Time [Secs]: 325.162418
+2025-06-17 12:05:15,848-INFO- Measured Current [A rms]: 4.207110
+2025-06-17 12:05:15,848-INFO- Measured Temperature [C]: 108.140390
+2025-06-17 12:05:15,848-INFO- Measured Temperature_2 [C]: 103.887197
+2025-06-17 12:05:15,848-INFO- Measured Temperature_3 [C]: 104.562887
+2025-06-17 12:05:15,854-INFO- Estimated ClassA Temperature [C]: 80.176453
+2025-06-17 12:05:15,860-INFO- Estimated ClassB Temperature [C]: 98.942459
+2025-06-17 12:05:15,877-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:05:15,878-INFO- Squared Current Phase B: 4.244029
+2025-06-17 12:05:15,878-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:05:17,893-INFO- Elapsed Time [Secs]: 327.216436
+2025-06-17 12:05:17,902-INFO- Measured Current [A rms]: 4.206910
+2025-06-17 12:05:17,902-INFO- Measured Temperature [C]: 108.573949
+2025-06-17 12:05:17,902-INFO- Measured Temperature_2 [C]: 104.312920
+2025-06-17 12:05:17,902-INFO- Measured Temperature_3 [C]: 105.005128
+2025-06-17 12:05:17,909-INFO- Estimated ClassA Temperature [C]: 80.485443
+2025-06-17 12:05:17,915-INFO- Estimated ClassB Temperature [C]: 99.317360
+2025-06-17 12:05:17,932-INFO- Squared Current Phase A: 4.240626
+2025-06-17 12:05:17,932-INFO- Squared Current Phase B: 4.244029
+2025-06-17 12:05:17,933-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:05:19,943-INFO- Elapsed Time [Secs]: 329.266511
+2025-06-17 12:05:19,952-INFO- Measured Current [A rms]: 4.206710
+2025-06-17 12:05:19,952-INFO- Measured Temperature [C]: 108.893081
+2025-06-17 12:05:19,952-INFO- Measured Temperature_2 [C]: 104.626820
+2025-06-17 12:05:19,953-INFO- Measured Temperature_3 [C]: 105.341877
+2025-06-17 12:05:19,959-INFO- Estimated ClassA Temperature [C]: 80.790405
+2025-06-17 12:05:19,965-INFO- Estimated ClassB Temperature [C]: 99.692116
+2025-06-17 12:05:19,982-INFO- Squared Current Phase A: 4.240869
+2025-06-17 12:05:19,982-INFO- Squared Current Phase B: 4.244272
+2025-06-17 12:05:19,982-INFO- Squared Current Phase C: 4.243543
+2025-06-17 12:05:21,989-INFO- Elapsed Time [Secs]: 331.312522
+2025-06-17 12:05:22,136-INFO- Measured Current [A rms]: 4.207230
+2025-06-17 12:05:22,136-INFO- Measured Temperature [C]: 109.347666
+2025-06-17 12:05:22,136-INFO- Measured Temperature_2 [C]: 105.063270
+2025-06-17 12:05:22,137-INFO- Measured Temperature_3 [C]: 105.782576
+2025-06-17 12:05:22,143-INFO- Estimated ClassA Temperature [C]: 81.194061
+2025-06-17 12:05:22,152-INFO- Estimated ClassB Temperature [C]: 100.253983
+2025-06-17 12:05:22,169-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:05:22,169-INFO- Squared Current Phase B: 4.244272
+2025-06-17 12:05:22,169-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:05:24,171-INFO- Elapsed Time [Secs]: 333.493699
+2025-06-17 12:05:24,179-INFO- Measured Current [A rms]: 4.207170
+2025-06-17 12:05:24,180-INFO- Measured Temperature [C]: 109.603947
+2025-06-17 12:05:24,180-INFO- Measured Temperature_2 [C]: 105.335398
+2025-06-17 12:05:24,180-INFO- Measured Temperature_3 [C]: 106.057951
+2025-06-17 12:05:24,186-INFO- Estimated ClassA Temperature [C]: 81.497955
+2025-06-17 12:05:24,192-INFO- Estimated ClassB Temperature [C]: 100.628342
+2025-06-17 12:05:24,211-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:05:24,211-INFO- Squared Current Phase B: 4.244029
+2025-06-17 12:05:24,211-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:05:26,223-INFO- Elapsed Time [Secs]: 335.545985
+2025-06-17 12:05:26,229-INFO- Measured Current [A rms]: 4.207330
+2025-06-17 12:05:26,229-INFO- Measured Temperature [C]: 109.926446
+2025-06-17 12:05:26,230-INFO- Measured Temperature_2 [C]: 105.639012
+2025-06-17 12:05:26,230-INFO- Measured Temperature_3 [C]: 106.402257
+2025-06-17 12:05:26,234-INFO- Estimated ClassA Temperature [C]: 81.802277
+2025-06-17 12:05:26,240-INFO- Estimated ClassB Temperature [C]: 101.002518
+2025-06-17 12:05:26,257-INFO- Squared Current Phase A: 4.240626
+2025-06-17 12:05:26,257-INFO- Squared Current Phase B: 4.244029
+2025-06-17 12:05:26,257-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:05:28,271-INFO- Elapsed Time [Secs]: 337.594102
+2025-06-17 12:05:28,278-INFO- Measured Current [A rms]: 4.207210
+2025-06-17 12:05:28,278-INFO- Measured Temperature [C]: 110.379451
+2025-06-17 12:05:28,278-INFO- Measured Temperature_2 [C]: 106.080707
+2025-06-17 12:05:28,278-INFO- Measured Temperature_3 [C]: 106.832616
+2025-06-17 12:05:28,282-INFO- Estimated ClassA Temperature [C]: 82.106689
+2025-06-17 12:05:28,288-INFO- Estimated ClassB Temperature [C]: 101.376564
+2025-06-17 12:05:28,305-INFO- Squared Current Phase A: 4.240869
+2025-06-17 12:05:28,305-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:05:28,306-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:05:30,319-INFO- Elapsed Time [Secs]: 339.642243
+2025-06-17 12:05:30,325-INFO- Measured Current [A rms]: 4.207000
+2025-06-17 12:05:30,325-INFO- Measured Temperature [C]: 110.477487
+2025-06-17 12:05:30,325-INFO- Measured Temperature_2 [C]: 106.178559
+2025-06-17 12:05:30,325-INFO- Measured Temperature_3 [C]: 106.946363
+2025-06-17 12:05:30,329-INFO- Estimated ClassA Temperature [C]: 82.411530
+2025-06-17 12:05:30,337-INFO- Estimated ClassB Temperature [C]: 101.750381
+2025-06-17 12:05:30,353-INFO- Squared Current Phase A: 4.240626
+2025-06-17 12:05:30,354-INFO- Squared Current Phase B: 4.244029
+2025-06-17 12:05:30,354-INFO- Squared Current Phase C: 4.242571
+2025-06-17 12:05:32,356-INFO- Elapsed Time [Secs]: 341.679161
+2025-06-17 12:05:32,362-INFO- Measured Current [A rms]: 4.206890
+2025-06-17 12:05:32,362-INFO- Measured Temperature [C]: 111.005349
+2025-06-17 12:05:32,362-INFO- Measured Temperature_2 [C]: 106.662512
+2025-06-17 12:05:32,362-INFO- Measured Temperature_3 [C]: 107.453785
+2025-06-17 12:05:32,366-INFO- Estimated ClassA Temperature [C]: 82.715881
+2025-06-17 12:05:32,372-INFO- Estimated ClassB Temperature [C]: 102.124084
+2025-06-17 12:05:32,389-INFO- Squared Current Phase A: 4.240626
+2025-06-17 12:05:32,389-INFO- Squared Current Phase B: 4.244757
+2025-06-17 12:05:32,390-INFO- Squared Current Phase C: 4.242571
+2025-06-17 12:05:34,391-INFO- Elapsed Time [Secs]: 343.713374
+2025-06-17 12:05:34,397-INFO- Measured Current [A rms]: 4.207300
+2025-06-17 12:05:34,398-INFO- Measured Temperature [C]: 111.306712
+2025-06-17 12:05:34,398-INFO- Measured Temperature_2 [C]: 106.989410
+2025-06-17 12:05:34,398-INFO- Measured Temperature_3 [C]: 107.787402
+2025-06-17 12:05:34,402-INFO- Estimated ClassA Temperature [C]: 83.016510
+2025-06-17 12:05:34,408-INFO- Estimated ClassB Temperature [C]: 102.497627
+2025-06-17 12:05:34,425-INFO- Squared Current Phase A: 4.240869
+2025-06-17 12:05:34,425-INFO- Squared Current Phase B: 4.244757
+2025-06-17 12:05:34,425-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:05:36,431-INFO- Elapsed Time [Secs]: 345.753522
+2025-06-17 12:05:36,439-INFO- Measured Current [A rms]: 4.207220
+2025-06-17 12:05:36,440-INFO- Measured Temperature [C]: 111.526642
+2025-06-17 12:05:36,440-INFO- Measured Temperature_2 [C]: 107.184864
+2025-06-17 12:05:36,440-INFO- Measured Temperature_3 [C]: 108.008682
+2025-06-17 12:05:36,446-INFO- Estimated ClassA Temperature [C]: 83.320587
+2025-06-17 12:05:36,452-INFO- Estimated ClassB Temperature [C]: 102.870941
+2025-06-17 12:05:36,471-INFO- Squared Current Phase A: 4.240626
+2025-06-17 12:05:36,471-INFO- Squared Current Phase B: 4.244757
+2025-06-17 12:05:36,471-INFO- Squared Current Phase C: 4.242328
+2025-06-17 12:05:38,480-INFO- Elapsed Time [Secs]: 347.802474
+2025-06-17 12:05:38,489-INFO- Measured Current [A rms]: 4.207380
+2025-06-17 12:05:38,489-INFO- Measured Temperature [C]: 111.995089
+2025-06-17 12:05:38,489-INFO- Measured Temperature_2 [C]: 107.674569
+2025-06-17 12:05:38,489-INFO- Measured Temperature_3 [C]: 108.494204
+2025-06-17 12:05:38,495-INFO- Estimated ClassA Temperature [C]: 83.625183
+2025-06-17 12:05:38,501-INFO- Estimated ClassB Temperature [C]: 103.244118
+2025-06-17 12:05:38,518-INFO- Squared Current Phase A: 4.240869
+2025-06-17 12:05:38,518-INFO- Squared Current Phase B: 4.244757
+2025-06-17 12:05:38,518-INFO- Squared Current Phase C: 4.242571
+2025-06-17 12:05:40,532-INFO- Elapsed Time [Secs]: 349.854441
+2025-06-17 12:05:40,638-INFO- Measured Current [A rms]: 4.207150
+2025-06-17 12:05:40,639-INFO- Measured Temperature [C]: 112.283068
+2025-06-17 12:05:40,639-INFO- Measured Temperature_2 [C]: 107.949734
+2025-06-17 12:05:40,639-INFO- Measured Temperature_3 [C]: 108.767881
+2025-06-17 12:05:40,646-INFO- Estimated ClassA Temperature [C]: 84.009399
+2025-06-17 12:05:40,654-INFO- Estimated ClassB Temperature [C]: 103.617134
+2025-06-17 12:05:40,672-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:05:40,673-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:05:40,673-INFO- Squared Current Phase C: 4.242571
+2025-06-17 12:05:42,678-INFO- Elapsed Time [Secs]: 352.001159
+2025-06-17 12:05:42,687-INFO- Measured Current [A rms]: 4.207250
+2025-06-17 12:05:42,687-INFO- Measured Temperature [C]: 112.605588
+2025-06-17 12:05:42,688-INFO- Measured Temperature_2 [C]: 108.261948
+2025-06-17 12:05:42,688-INFO- Measured Temperature_3 [C]: 109.084716
+2025-06-17 12:05:42,694-INFO- Estimated ClassA Temperature [C]: 84.309174
+2025-06-17 12:05:42,700-INFO- Estimated ClassB Temperature [C]: 103.989929
+2025-06-17 12:05:42,717-INFO- Squared Current Phase A: 4.240869
+2025-06-17 12:05:42,717-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:05:42,717-INFO- Squared Current Phase C: 4.242328
+2025-06-17 12:05:44,731-INFO- Elapsed Time [Secs]: 354.053379
+2025-06-17 12:05:44,740-INFO- Measured Current [A rms]: 4.207460
+2025-06-17 12:05:44,740-INFO- Measured Temperature [C]: 113.028980
+2025-06-17 12:05:44,740-INFO- Measured Temperature_2 [C]: 108.684120
+2025-06-17 12:05:44,740-INFO- Measured Temperature_3 [C]: 109.527904
+2025-06-17 12:05:44,746-INFO- Estimated ClassA Temperature [C]: 84.612671
+2025-06-17 12:05:44,753-INFO- Estimated ClassB Temperature [C]: 104.362564
+2025-06-17 12:05:44,770-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:05:44,770-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:05:44,770-INFO- Squared Current Phase C: 4.241842
+2025-06-17 12:05:46,773-INFO- Elapsed Time [Secs]: 356.095253
+2025-06-17 12:05:46,782-INFO- Measured Current [A rms]: 4.206840
+2025-06-17 12:05:46,782-INFO- Measured Temperature [C]: 113.351411
+2025-06-17 12:05:46,782-INFO- Measured Temperature_2 [C]: 108.996244
+2025-06-17 12:05:46,782-INFO- Measured Temperature_3 [C]: 109.835731
+2025-06-17 12:05:46,788-INFO- Estimated ClassA Temperature [C]: 84.920563
+2025-06-17 12:05:46,794-INFO- Estimated ClassB Temperature [C]: 104.734955
+2025-06-17 12:05:46,811-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:05:46,811-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:05:46,811-INFO- Squared Current Phase C: 4.242328
+2025-06-17 12:05:48,814-INFO- Elapsed Time [Secs]: 358.136646
+2025-06-17 12:05:48,823-INFO- Measured Current [A rms]: 4.207430
+2025-06-17 12:05:48,823-INFO- Measured Temperature [C]: 113.557034
+2025-06-17 12:05:48,823-INFO- Measured Temperature_2 [C]: 109.212173
+2025-06-17 12:05:48,823-INFO- Measured Temperature_3 [C]: 110.081651
+2025-06-17 12:05:48,829-INFO- Estimated ClassA Temperature [C]: 85.225128
+2025-06-17 12:05:48,836-INFO- Estimated ClassB Temperature [C]: 105.107201
+2025-06-17 12:05:48,854-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:05:48,854-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:05:48,854-INFO- Squared Current Phase C: 4.241842
+2025-06-17 12:05:50,859-INFO- Elapsed Time [Secs]: 360.182008
+2025-06-17 12:05:50,865-INFO- Measured Current [A rms]: 4.207520
+2025-06-17 12:05:50,865-INFO- Measured Temperature [C]: 113.932458
+2025-06-17 12:05:50,865-INFO- Measured Temperature_2 [C]: 109.588039
+2025-06-17 12:05:50,865-INFO- Measured Temperature_3 [C]: 110.459662
+2025-06-17 12:05:50,869-INFO- Estimated ClassA Temperature [C]: 85.529572
+2025-06-17 12:05:50,875-INFO- Estimated ClassB Temperature [C]: 105.479233
+2025-06-17 12:05:50,893-INFO- Squared Current Phase A: 4.241356
+2025-06-17 12:05:50,893-INFO- Squared Current Phase B: 4.245243
+2025-06-17 12:05:50,893-INFO- Squared Current Phase C: 4.242085
+2025-06-17 12:05:52,906-INFO- Elapsed Time [Secs]: 362.228560
+2025-06-17 12:05:52,912-INFO- Measured Current [A rms]: 4.207700
+2025-06-17 12:05:52,912-INFO- Measured Temperature [C]: 114.314984
+2025-06-17 12:05:52,912-INFO- Measured Temperature_2 [C]: 109.945498
+2025-06-17 12:05:52,912-INFO- Measured Temperature_3 [C]: 110.859634
+2025-06-17 12:05:52,916-INFO- Estimated ClassA Temperature [C]: 85.833496
+2025-06-17 12:05:52,922-INFO- Estimated ClassB Temperature [C]: 105.851082
+2025-06-17 12:05:52,940-INFO- Squared Current Phase A: 4.241356
+2025-06-17 12:05:52,940-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:05:52,940-INFO- Squared Current Phase C: 4.242085
+2025-06-17 12:05:54,954-INFO- Elapsed Time [Secs]: 364.276055
+2025-06-17 12:05:54,961-INFO- Measured Current [A rms]: 4.207530
+2025-06-17 12:05:54,961-INFO- Measured Temperature [C]: 114.605683
+2025-06-17 12:05:54,961-INFO- Measured Temperature_2 [C]: 110.217448
+2025-06-17 12:05:54,961-INFO- Measured Temperature_3 [C]: 111.131838
+2025-06-17 12:05:54,965-INFO- Estimated ClassA Temperature [C]: 86.133453
+2025-06-17 12:05:54,972-INFO- Estimated ClassB Temperature [C]: 106.222717
+2025-06-17 12:05:54,991-INFO- Squared Current Phase A: 4.241842
+2025-06-17 12:05:54,992-INFO- Squared Current Phase B: 4.245243
+2025-06-17 12:05:54,992-INFO- Squared Current Phase C: 4.241599
+2025-06-17 12:05:56,998-INFO- Elapsed Time [Secs]: 366.320951
+2025-06-17 12:05:57,007-INFO- Measured Current [A rms]: 4.207350
+2025-06-17 12:05:57,007-INFO- Measured Temperature [C]: 114.967704
+2025-06-17 12:05:57,007-INFO- Measured Temperature_2 [C]: 110.581285
+2025-06-17 12:05:57,007-INFO- Measured Temperature_3 [C]: 111.509873
+2025-06-17 12:05:57,013-INFO- Estimated ClassA Temperature [C]: 86.436493
+2025-06-17 12:05:57,019-INFO- Estimated ClassB Temperature [C]: 106.594170
+2025-06-17 12:05:57,036-INFO- Squared Current Phase A: 4.241842
+2025-06-17 12:05:57,036-INFO- Squared Current Phase B: 4.245243
+2025-06-17 12:05:57,036-INFO- Squared Current Phase C: 4.241599
+2025-06-17 12:05:59,039-INFO- Elapsed Time [Secs]: 368.361163
+2025-06-17 12:05:59,048-INFO- Measured Current [A rms]: 4.207030
+2025-06-17 12:05:59,048-INFO- Measured Temperature [C]: 115.365612
+2025-06-17 12:05:59,048-INFO- Measured Temperature_2 [C]: 110.936861
+2025-06-17 12:05:59,048-INFO- Measured Temperature_3 [C]: 111.896935
+2025-06-17 12:05:59,054-INFO- Estimated ClassA Temperature [C]: 86.743011
+2025-06-17 12:05:59,060-INFO- Estimated ClassB Temperature [C]: 106.965385
+2025-06-17 12:05:59,078-INFO- Squared Current Phase A: 4.241842
+2025-06-17 12:05:59,078-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:05:59,078-INFO- Squared Current Phase C: 4.241599
+2025-06-17 12:05:59,943-WARNING- PyVISA request error: list index out of range
+2025-06-17 12:06:01,093-INFO- Elapsed Time [Secs]: 370.415111
+2025-06-17 12:06:01,102-INFO- Measured Current [A rms]: 4.207660
+2025-06-17 12:06:01,102-INFO- Measured Temperature [C]: 115.668583
+2025-06-17 12:06:01,102-INFO- Measured Temperature_2 [C]: 111.272996
+2025-06-17 12:06:01,102-INFO- Measured Temperature_3 [C]: 112.204309
+2025-06-17 12:06:01,108-INFO- Estimated ClassA Temperature [C]: 87.045746
+2025-06-17 12:06:01,115-INFO- Estimated ClassB Temperature [C]: 107.336357
+2025-06-17 12:06:01,131-INFO- Squared Current Phase A: 4.241842
+2025-06-17 12:06:01,131-INFO- Squared Current Phase B: 4.244757
+2025-06-17 12:06:01,131-INFO- Squared Current Phase C: 4.241356
+2025-06-17 12:06:03,140-INFO- Elapsed Time [Secs]: 372.455494
+2025-06-17 12:06:03,150-INFO- Measured Current [A rms]: 4.207920
+2025-06-17 12:06:03,151-INFO- Measured Temperature [C]: 115.940480
+2025-06-17 12:06:03,151-INFO- Measured Temperature_2 [C]: 111.537472
+2025-06-17 12:06:03,152-INFO- Measured Temperature_3 [C]: 112.492615
+2025-06-17 12:06:03,305-INFO- Estimated ClassA Temperature [C]: 87.450653
+2025-06-17 12:06:03,315-INFO- Estimated ClassB Temperature [C]: 107.892395
+2025-06-17 12:06:03,333-INFO- Squared Current Phase A: 4.241842
+2025-06-17 12:06:03,333-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:06:03,333-INFO- Squared Current Phase C: 4.241356
+2025-06-17 12:06:05,344-INFO- Elapsed Time [Secs]: 374.666552
+2025-06-17 12:06:05,352-INFO- Measured Current [A rms]: 4.207660
+2025-06-17 12:06:05,352-INFO- Measured Temperature [C]: 116.363881
+2025-06-17 12:06:05,353-INFO- Measured Temperature_2 [C]: 111.942345
+2025-06-17 12:06:05,353-INFO- Measured Temperature_3 [C]: 112.929641
+2025-06-17 12:06:05,359-INFO- Estimated ClassA Temperature [C]: 87.749603
+2025-06-17 12:06:05,365-INFO- Estimated ClassB Temperature [C]: 108.262863
+2025-06-17 12:06:05,382-INFO- Squared Current Phase A: 4.241842
+2025-06-17 12:06:05,382-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:06:05,382-INFO- Squared Current Phase C: 4.241112
+2025-06-17 12:06:07,386-INFO- Elapsed Time [Secs]: 376.708076
+2025-06-17 12:06:07,395-INFO- Measured Current [A rms]: 4.207680
+2025-06-17 12:06:07,395-INFO- Measured Temperature [C]: 116.624552
+2025-06-17 12:06:07,396-INFO- Measured Temperature_2 [C]: 112.201340
+2025-06-17 12:06:07,396-INFO- Measured Temperature_3 [C]: 113.179988
+2025-06-17 12:06:07,402-INFO- Estimated ClassA Temperature [C]: 88.052338
+2025-06-17 12:06:07,408-INFO- Estimated ClassB Temperature [C]: 108.633064
+2025-06-17 12:06:07,425-INFO- Squared Current Phase A: 4.242085
+2025-06-17 12:06:07,425-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:06:07,425-INFO- Squared Current Phase C: 4.241599
+2025-06-17 12:06:09,440-INFO- Elapsed Time [Secs]: 378.762240
+2025-06-17 12:06:09,449-INFO- Measured Current [A rms]: 4.207540
+2025-06-17 12:06:09,449-INFO- Measured Temperature [C]: 116.940637
+2025-06-17 12:06:09,449-INFO- Measured Temperature_2 [C]: 112.519331
+2025-06-17 12:06:09,449-INFO- Measured Temperature_3 [C]: 113.519506
+2025-06-17 12:06:09,455-INFO- Estimated ClassA Temperature [C]: 88.358856
+2025-06-17 12:06:09,462-INFO- Estimated ClassB Temperature [C]: 109.003059
+2025-06-17 12:06:09,478-INFO- Squared Current Phase A: 4.242328
+2025-06-17 12:06:09,479-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:06:09,479-INFO- Squared Current Phase C: 4.241112
+2025-06-17 12:06:11,481-INFO- Elapsed Time [Secs]: 380.803518
+2025-06-17 12:06:11,490-INFO- Measured Current [A rms]: 4.206970
+2025-06-17 12:06:11,490-INFO- Measured Temperature [C]: 117.275513
+2025-06-17 12:06:11,490-INFO- Measured Temperature_2 [C]: 112.839378
+2025-06-17 12:06:11,491-INFO- Measured Temperature_3 [C]: 113.841705
+2025-06-17 12:06:11,497-INFO- Estimated ClassA Temperature [C]: 88.657806
+2025-06-17 12:06:11,503-INFO- Estimated ClassB Temperature [C]: 109.372856
+2025-06-17 12:06:11,520-INFO- Squared Current Phase A: 4.242085
+2025-06-17 12:06:11,520-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:06:11,520-INFO- Squared Current Phase C: 4.241356
+2025-06-17 12:06:13,533-INFO- Elapsed Time [Secs]: 382.855450
+2025-06-17 12:06:13,542-INFO- Measured Current [A rms]: 4.207660
+2025-06-17 12:06:13,542-INFO- Measured Temperature [C]: 117.633357
+2025-06-17 12:06:13,542-INFO- Measured Temperature_2 [C]: 113.218393
+2025-06-17 12:06:13,542-INFO- Measured Temperature_3 [C]: 114.201384
+2025-06-17 12:06:13,548-INFO- Estimated ClassA Temperature [C]: 88.964325
+2025-06-17 12:06:13,555-INFO- Estimated ClassB Temperature [C]: 109.742393
+2025-06-17 12:06:13,572-INFO- Squared Current Phase A: 4.242085
+2025-06-17 12:06:13,573-INFO- Squared Current Phase B: 4.244757
+2025-06-17 12:06:13,573-INFO- Squared Current Phase C: 4.241599
+2025-06-17 12:06:15,586-INFO- Elapsed Time [Secs]: 384.908019
+2025-06-17 12:06:15,595-INFO- Measured Current [A rms]: 4.207690
+2025-06-17 12:06:15,595-INFO- Measured Temperature [C]: 117.986974
+2025-06-17 12:06:15,595-INFO- Measured Temperature_2 [C]: 113.507812
+2025-06-17 12:06:15,595-INFO- Measured Temperature_3 [C]: 114.546010
+2025-06-17 12:06:15,601-INFO- Estimated ClassA Temperature [C]: 89.244354
+2025-06-17 12:06:15,608-INFO- Estimated ClassB Temperature [C]: 110.111717
+2025-06-17 12:06:15,624-INFO- Squared Current Phase A: 4.242571
+2025-06-17 12:06:15,625-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:06:15,625-INFO- Squared Current Phase C: 4.241112
+2025-06-17 12:06:17,638-INFO- Elapsed Time [Secs]: 386.960346
+2025-06-17 12:06:17,647-INFO- Measured Current [A rms]: 4.207710
+2025-06-17 12:06:17,647-INFO- Measured Temperature [C]: 118.297856
+2025-06-17 12:06:17,647-INFO- Measured Temperature_2 [C]: 113.824077
+2025-06-17 12:06:17,647-INFO- Measured Temperature_3 [C]: 114.877160
+2025-06-17 12:06:17,653-INFO- Estimated ClassA Temperature [C]: 89.547089
+2025-06-17 12:06:17,660-INFO- Estimated ClassB Temperature [C]: 110.480797
+2025-06-17 12:06:17,679-INFO- Squared Current Phase A: 4.242571
+2025-06-17 12:06:17,681-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:06:17,681-INFO- Squared Current Phase C: 4.240869
+2025-06-17 12:06:19,686-INFO- Elapsed Time [Secs]: 389.008764
+2025-06-17 12:06:19,837-INFO- Measured Current [A rms]: 4.207820
+2025-06-17 12:06:19,837-INFO- Measured Temperature [C]: 118.505556
+2025-06-17 12:06:19,837-INFO- Measured Temperature_2 [C]: 114.034901
+2025-06-17 12:06:19,838-INFO- Measured Temperature_3 [C]: 115.068364
+2025-06-17 12:06:19,843-INFO- Estimated ClassA Temperature [C]: 89.951996
+2025-06-17 12:06:19,849-INFO- Estimated ClassB Temperature [C]: 111.033951
+2025-06-17 12:06:19,867-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:06:19,867-INFO- Squared Current Phase B: 4.244272
+2025-06-17 12:06:19,867-INFO- Squared Current Phase C: 4.240869
+2025-06-17 12:06:21,874-INFO- Elapsed Time [Secs]: 391.196786
+2025-06-17 12:06:21,883-INFO- Measured Current [A rms]: 4.207940
+2025-06-17 12:06:21,883-INFO- Measured Temperature [C]: 118.993560
+2025-06-17 12:06:21,883-INFO- Measured Temperature_2 [C]: 114.500121
+2025-06-17 12:06:21,884-INFO- Measured Temperature_3 [C]: 115.582073
+2025-06-17 12:06:21,889-INFO- Estimated ClassA Temperature [C]: 90.254120
+2025-06-17 12:06:21,896-INFO- Estimated ClassB Temperature [C]: 111.402397
+2025-06-17 12:06:21,914-INFO- Squared Current Phase A: 4.242571
+2025-06-17 12:06:21,914-INFO- Squared Current Phase B: 4.244272
+2025-06-17 12:06:21,914-INFO- Squared Current Phase C: 4.241356
+2025-06-17 12:06:23,916-INFO- Elapsed Time [Secs]: 393.238199
+2025-06-17 12:06:23,925-INFO- Measured Current [A rms]: 4.207980
+2025-06-17 12:06:23,925-INFO- Measured Temperature [C]: 119.300676
+2025-06-17 12:06:23,925-INFO- Measured Temperature_2 [C]: 114.824472
+2025-06-17 12:06:23,925-INFO- Measured Temperature_3 [C]: 115.898799
+2025-06-17 12:06:23,932-INFO- Estimated ClassA Temperature [C]: 90.556458
+2025-06-17 12:06:23,938-INFO- Estimated ClassB Temperature [C]: 111.770592
+2025-06-17 12:06:23,955-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:06:23,955-INFO- Squared Current Phase B: 4.244029
+2025-06-17 12:06:23,955-INFO- Squared Current Phase C: 4.241356
+2025-06-17 12:06:25,965-INFO- Elapsed Time [Secs]: 395.287624
+2025-06-17 12:06:25,971-INFO- Measured Current [A rms]: 4.207550
+2025-06-17 12:06:25,971-INFO- Measured Temperature [C]: 119.681610
+2025-06-17 12:06:25,971-INFO- Measured Temperature_2 [C]: 115.195361
+2025-06-17 12:06:25,971-INFO- Measured Temperature_3 [C]: 116.276346
+2025-06-17 12:06:25,976-INFO- Estimated ClassA Temperature [C]: 90.858521
+2025-06-17 12:06:25,982-INFO- Estimated ClassB Temperature [C]: 112.138557
+2025-06-17 12:06:26,001-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:06:26,001-INFO- Squared Current Phase B: 4.244029
+2025-06-17 12:06:26,001-INFO- Squared Current Phase C: 4.241356
+2025-06-17 12:06:28,009-INFO- Elapsed Time [Secs]: 397.331467
+2025-06-17 12:06:28,015-INFO- Measured Current [A rms]: 4.207940
+2025-06-17 12:06:28,015-INFO- Measured Temperature [C]: 119.953824
+2025-06-17 12:06:28,015-INFO- Measured Temperature_2 [C]: 115.448291
+2025-06-17 12:06:28,015-INFO- Measured Temperature_3 [C]: 116.536850
+2025-06-17 12:06:28,020-INFO- Estimated ClassA Temperature [C]: 91.160736
+2025-06-17 12:06:28,026-INFO- Estimated ClassB Temperature [C]: 112.506256
+2025-06-17 12:06:28,043-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:06:28,043-INFO- Squared Current Phase B: 4.244029
+2025-06-17 12:06:28,043-INFO- Squared Current Phase C: 4.241599
+2025-06-17 12:06:30,046-INFO- Elapsed Time [Secs]: 399.368201
+2025-06-17 12:06:30,052-INFO- Measured Current [A rms]: 4.208630
+2025-06-17 12:06:30,053-INFO- Measured Temperature [C]: 120.257532
+2025-06-17 12:06:30,053-INFO- Measured Temperature_2 [C]: 115.763462
+2025-06-17 12:06:30,053-INFO- Measured Temperature_3 [C]: 116.866370
+2025-06-17 12:06:30,057-INFO- Estimated ClassA Temperature [C]: 91.462555
+2025-06-17 12:06:30,064-INFO- Estimated ClassB Temperature [C]: 112.873726
+2025-06-17 12:06:30,082-INFO- Squared Current Phase A: 4.243543
+2025-06-17 12:06:30,082-INFO- Squared Current Phase B: 4.244272
+2025-06-17 12:06:30,082-INFO- Squared Current Phase C: 4.241842
+2025-06-17 12:06:32,095-INFO- Elapsed Time [Secs]: 401.417600
+2025-06-17 12:06:32,100-INFO- Measured Current [A rms]: 4.207740
+2025-06-17 12:06:32,101-INFO- Measured Temperature [C]: 120.537355
+2025-06-17 12:06:32,101-INFO- Measured Temperature_2 [C]: 116.000471
+2025-06-17 12:06:32,101-INFO- Measured Temperature_3 [C]: 117.132921
+2025-06-17 12:06:32,105-INFO- Estimated ClassA Temperature [C]: 91.764069
+2025-06-17 12:06:32,111-INFO- Estimated ClassB Temperature [C]: 113.240997
+2025-06-17 12:06:32,128-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:06:32,128-INFO- Squared Current Phase B: 4.243543
+2025-06-17 12:06:32,128-INFO- Squared Current Phase C: 4.240869
+2025-06-17 12:06:34,138-INFO- Elapsed Time [Secs]: 403.460244
+2025-06-17 12:06:34,147-INFO- Measured Current [A rms]: 4.208210
+2025-06-17 12:06:34,147-INFO- Measured Temperature [C]: 120.858762
+2025-06-17 12:06:34,147-INFO- Measured Temperature_2 [C]: 116.329530
+2025-06-17 12:06:34,147-INFO- Measured Temperature_3 [C]: 117.447381
+2025-06-17 12:06:34,153-INFO- Estimated ClassA Temperature [C]: 92.066162
+2025-06-17 12:06:34,159-INFO- Estimated ClassB Temperature [C]: 113.607910
+2025-06-17 12:06:34,176-INFO- Squared Current Phase A: 4.243057
+2025-06-17 12:06:34,176-INFO- Squared Current Phase B: 4.244029
+2025-06-17 12:06:34,176-INFO- Squared Current Phase C: 4.241842
+2025-06-17 12:06:36,185-INFO- Elapsed Time [Secs]: 405.506772
+2025-06-17 12:06:36,193-INFO- Measured Current [A rms]: 4.207920
+2025-06-17 12:06:36,193-INFO- Measured Temperature [C]: 121.268220
+2025-06-17 12:06:36,193-INFO- Measured Temperature_2 [C]: 116.748166
+2025-06-17 12:06:36,193-INFO- Measured Temperature_3 [C]: 117.901580
+2025-06-17 12:06:36,199-INFO- Estimated ClassA Temperature [C]: 92.367889
+2025-06-17 12:06:36,205-INFO- Estimated ClassB Temperature [C]: 113.974586
+2025-06-17 12:06:36,222-INFO- Squared Current Phase A: 4.243543
+2025-06-17 12:06:36,222-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:06:36,222-INFO- Squared Current Phase C: 4.241112
+2025-06-17 12:06:38,223-INFO- Elapsed Time [Secs]: 407.545035
+2025-06-17 12:06:38,232-INFO- Measured Current [A rms]: 4.207760
+2025-06-17 12:06:38,232-INFO- Measured Temperature [C]: 121.592334
+2025-06-17 12:06:38,232-INFO- Measured Temperature_2 [C]: 117.036345
+2025-06-17 12:06:38,233-INFO- Measured Temperature_3 [C]: 118.208115
+2025-06-17 12:06:38,238-INFO- Estimated ClassA Temperature [C]: 92.673035
+2025-06-17 12:06:38,244-INFO- Estimated ClassB Temperature [C]: 114.341003
+2025-06-17 12:06:38,261-INFO- Squared Current Phase A: 4.243057
+2025-06-17 12:06:38,261-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:06:38,261-INFO- Squared Current Phase C: 4.241356
+2025-06-17 12:06:40,262-INFO- Elapsed Time [Secs]: 409.584050
+2025-06-17 12:06:40,271-INFO- Measured Current [A rms]: 4.208520
+2025-06-17 12:06:40,272-INFO- Measured Temperature [C]: 121.950177
+2025-06-17 12:06:40,272-INFO- Measured Temperature_2 [C]: 117.409383
+2025-06-17 12:06:40,272-INFO- Measured Temperature_3 [C]: 118.570373
+2025-06-17 12:06:40,278-INFO- Estimated ClassA Temperature [C]: 92.971161
+2025-06-17 12:06:40,284-INFO- Estimated ClassB Temperature [C]: 114.707130
+2025-06-17 12:06:40,301-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:06:40,301-INFO- Squared Current Phase B: 4.243543
+2025-06-17 12:06:40,301-INFO- Squared Current Phase C: 4.242085
+2025-06-17 12:06:42,309-INFO- Elapsed Time [Secs]: 411.631088
+2025-06-17 12:06:42,337-INFO- Measured Current [A rms]: 4.208450
+2025-06-17 12:06:42,337-INFO- Measured Temperature [C]: 122.109940
+2025-06-17 12:06:42,337-INFO- Measured Temperature_2 [C]: 117.561025
+2025-06-17 12:06:42,337-INFO- Measured Temperature_3 [C]: 118.739899
+2025-06-17 12:06:42,343-INFO- Estimated ClassA Temperature [C]: 93.272949
+2025-06-17 12:06:42,503-INFO- Estimated ClassB Temperature [C]: 115.072990
+2025-06-17 12:06:42,523-INFO- Squared Current Phase A: 4.243543
+2025-06-17 12:06:42,523-INFO- Squared Current Phase B: 4.243543
+2025-06-17 12:06:42,523-INFO- Squared Current Phase C: 4.241842
+2025-06-17 12:06:44,532-INFO- Elapsed Time [Secs]: 413.854280
+2025-06-17 12:06:44,541-INFO- Measured Current [A rms]: 4.208210
+2025-06-17 12:06:44,541-INFO- Measured Temperature [C]: 122.582740
+2025-06-17 12:06:44,541-INFO- Measured Temperature_2 [C]: 118.023047
+2025-06-17 12:06:44,541-INFO- Measured Temperature_3 [C]: 119.210618
+2025-06-17 12:06:44,547-INFO- Estimated ClassA Temperature [C]: 93.676727
+2025-06-17 12:06:44,553-INFO- Estimated ClassB Temperature [C]: 115.438622
+2025-06-17 12:06:44,571-INFO- Squared Current Phase A: 4.243300
+2025-06-17 12:06:44,571-INFO- Squared Current Phase B: 4.243543
+2025-06-17 12:06:44,571-INFO- Squared Current Phase C: 4.242085
+2025-06-17 12:06:46,574-INFO- Elapsed Time [Secs]: 415.896604
+2025-06-17 12:06:46,583-INFO- Measured Current [A rms]: 4.208480
+2025-06-17 12:06:46,583-INFO- Measured Temperature [C]: 122.968827
+2025-06-17 12:06:46,583-INFO- Measured Temperature_2 [C]: 118.381670
+2025-06-17 12:06:46,583-INFO- Measured Temperature_3 [C]: 119.580241
+2025-06-17 12:06:46,589-INFO- Estimated ClassA Temperature [C]: 93.977936
+2025-06-17 12:06:46,596-INFO- Estimated ClassB Temperature [C]: 115.803947
+2025-06-17 12:06:46,613-INFO- Squared Current Phase A: 4.243300
+2025-06-17 12:06:46,613-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:06:46,613-INFO- Squared Current Phase C: 4.242571
+2025-06-17 12:06:48,613-INFO- Elapsed Time [Secs]: 417.935421
+2025-06-17 12:06:48,622-INFO- Measured Current [A rms]: 4.208510
+2025-06-17 12:06:48,622-INFO- Measured Temperature [C]: 123.109574
+2025-06-17 12:06:48,622-INFO- Measured Temperature_2 [C]: 118.543715
+2025-06-17 12:06:48,622-INFO- Measured Temperature_3 [C]: 119.746052
+2025-06-17 12:06:48,628-INFO- Estimated ClassA Temperature [C]: 94.257080
+2025-06-17 12:06:48,634-INFO- Estimated ClassB Temperature [C]: 116.169014
+2025-06-17 12:06:48,652-INFO- Squared Current Phase A: 4.243543
+2025-06-17 12:06:48,652-INFO- Squared Current Phase B: 4.243057
+2025-06-17 12:06:48,652-INFO- Squared Current Phase C: 4.241599
+2025-06-17 12:06:50,665-INFO- Elapsed Time [Secs]: 419.987133
+2025-06-17 12:06:50,671-INFO- Measured Current [A rms]: 4.208670
+2025-06-17 12:06:50,672-INFO- Measured Temperature [C]: 123.515773
+2025-06-17 12:06:50,672-INFO- Measured Temperature_2 [C]: 118.954537
+2025-06-17 12:06:50,672-INFO- Measured Temperature_3 [C]: 120.159318
+2025-06-17 12:06:50,676-INFO- Estimated ClassA Temperature [C]: 94.557861
+2025-06-17 12:06:50,682-INFO- Estimated ClassB Temperature [C]: 116.533768
+2025-06-17 12:06:50,699-INFO- Squared Current Phase A: 4.243057
+2025-06-17 12:06:50,699-INFO- Squared Current Phase B: 4.242814
+2025-06-17 12:06:50,699-INFO- Squared Current Phase C: 4.241599
+2025-06-17 12:06:52,700-INFO- Elapsed Time [Secs]: 422.022453
+2025-06-17 12:06:52,706-INFO- Measured Current [A rms]: 4.208250
+2025-06-17 12:06:52,706-INFO- Measured Temperature [C]: 123.834607
+2025-06-17 12:06:52,706-INFO- Measured Temperature_2 [C]: 119.265489
+2025-06-17 12:06:52,706-INFO- Measured Temperature_3 [C]: 120.469448
+2025-06-17 12:06:52,710-INFO- Estimated ClassA Temperature [C]: 94.859039
+2025-06-17 12:06:52,716-INFO- Estimated ClassB Temperature [C]: 116.898186
+2025-06-17 12:06:52,733-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:06:52,733-INFO- Squared Current Phase B: 4.243057
+2025-06-17 12:06:52,733-INFO- Squared Current Phase C: 4.242328
+2025-06-17 12:06:54,735-INFO- Elapsed Time [Secs]: 424.057139
+2025-06-17 12:06:54,741-INFO- Measured Current [A rms]: 4.208520
+2025-06-17 12:06:54,742-INFO- Measured Temperature [C]: 124.093233
+2025-06-17 12:06:54,742-INFO- Measured Temperature_2 [C]: 119.511093
+2025-06-17 12:06:54,742-INFO- Measured Temperature_3 [C]: 120.754474
+2025-06-17 12:06:54,746-INFO- Estimated ClassA Temperature [C]: 95.159943
+2025-06-17 12:06:54,752-INFO- Estimated ClassB Temperature [C]: 117.262344
+2025-06-17 12:06:54,769-INFO- Squared Current Phase A: 4.243543
+2025-06-17 12:06:54,769-INFO- Squared Current Phase B: 4.242571
+2025-06-17 12:06:54,769-INFO- Squared Current Phase C: 4.242085
+2025-06-17 12:06:56,776-INFO- Elapsed Time [Secs]: 426.098186
+2025-06-17 12:06:56,785-INFO- Measured Current [A rms]: 4.208630
+2025-06-17 12:06:56,785-INFO- Measured Temperature [C]: 124.503827
+2025-06-17 12:06:56,785-INFO- Measured Temperature_2 [C]: 119.906802
+2025-06-17 12:06:56,785-INFO- Measured Temperature_3 [C]: 121.182921
+2025-06-17 12:06:56,791-INFO- Estimated ClassA Temperature [C]: 95.460236
+2025-06-17 12:06:56,797-INFO- Estimated ClassB Temperature [C]: 117.626244
+2025-06-17 12:06:56,815-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:06:56,815-INFO- Squared Current Phase B: 4.242814
+2025-06-17 12:06:56,815-INFO- Squared Current Phase C: 4.242328
+2025-06-17 12:06:58,819-INFO- Elapsed Time [Secs]: 428.141118
+2025-06-17 12:06:58,828-INFO- Measured Current [A rms]: 4.207880
+2025-06-17 12:06:58,828-INFO- Measured Temperature [C]: 124.812997
+2025-06-17 12:06:58,828-INFO- Measured Temperature_2 [C]: 120.227233
+2025-06-17 12:06:58,829-INFO- Measured Temperature_3 [C]: 121.490682
+2025-06-17 12:06:58,835-INFO- Estimated ClassA Temperature [C]: 95.760529
+2025-06-17 12:06:58,841-INFO- Estimated ClassB Temperature [C]: 117.989792
+2025-06-17 12:06:58,857-INFO- Squared Current Phase A: 4.243057
+2025-06-17 12:06:58,858-INFO- Squared Current Phase B: 4.243057
+2025-06-17 12:06:58,858-INFO- Squared Current Phase C: 4.242571
+2025-06-17 12:07:00,872-INFO- Elapsed Time [Secs]: 430.194303
+2025-06-17 12:07:01,038-INFO- Measured Current [A rms]: 4.208360
+2025-06-17 12:07:01,038-INFO- Measured Temperature [C]: 125.037988
+2025-06-17 12:07:01,039-INFO- Measured Temperature_2 [C]: 120.434623
+2025-06-17 12:07:01,039-INFO- Measured Temperature_3 [C]: 121.699900
+2025-06-17 12:07:01,045-INFO- Estimated ClassA Temperature [C]: 96.162170
+2025-06-17 12:07:01,054-INFO- Estimated ClassB Temperature [C]: 118.534622
+2025-06-17 12:07:01,071-INFO- Squared Current Phase A: 4.242571
+2025-06-17 12:07:01,071-INFO- Squared Current Phase B: 4.243057
+2025-06-17 12:07:01,071-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:07:03,085-INFO- Elapsed Time [Secs]: 432.406960
+2025-06-17 12:07:03,091-INFO- Measured Current [A rms]: 4.208660
+2025-06-17 12:07:03,091-INFO- Measured Temperature [C]: 125.448633
+2025-06-17 12:07:03,091-INFO- Measured Temperature_2 [C]: 120.844138
+2025-06-17 12:07:03,091-INFO- Measured Temperature_3 [C]: 122.106633
+2025-06-17 12:07:03,095-INFO- Estimated ClassA Temperature [C]: 96.462463
+2025-06-17 12:07:03,101-INFO- Estimated ClassB Temperature [C]: 118.897499
+2025-06-17 12:07:03,118-INFO- Squared Current Phase A: 4.243300
+2025-06-17 12:07:03,118-INFO- Squared Current Phase B: 4.242328
+2025-06-17 12:07:03,118-INFO- Squared Current Phase C: 4.242571
+2025-06-17 12:07:05,125-INFO- Elapsed Time [Secs]: 434.446918
+2025-06-17 12:07:05,133-INFO- Measured Current [A rms]: 4.208420
+2025-06-17 12:07:05,134-INFO- Measured Temperature [C]: 125.795781
+2025-06-17 12:07:05,134-INFO- Measured Temperature_2 [C]: 121.205029
+2025-06-17 12:07:05,134-INFO- Measured Temperature_3 [C]: 122.457282
+2025-06-17 12:07:05,140-INFO- Estimated ClassA Temperature [C]: 96.762756
+2025-06-17 12:07:05,146-INFO- Estimated ClassB Temperature [C]: 119.260048
+2025-06-17 12:07:05,164-INFO- Squared Current Phase A: 4.242814
+2025-06-17 12:07:05,165-INFO- Squared Current Phase B: 4.242571
+2025-06-17 12:07:05,165-INFO- Squared Current Phase C: 4.242814
+2025-06-17 12:07:07,179-INFO- Elapsed Time [Secs]: 436.501400
+2025-06-17 12:07:07,186-INFO- Measured Current [A rms]: 4.208700
+2025-06-17 12:07:07,186-INFO- Measured Temperature [C]: 126.010795
+2025-06-17 12:07:07,186-INFO- Measured Temperature_2 [C]: 121.410089
+2025-06-17 12:07:07,186-INFO- Measured Temperature_3 [C]: 122.683312
+2025-06-17 12:07:07,190-INFO- Estimated ClassA Temperature [C]: 97.063049
+2025-06-17 12:07:07,196-INFO- Estimated ClassB Temperature [C]: 119.622284
+2025-06-17 12:07:07,215-INFO- Squared Current Phase A: 4.242571
+2025-06-17 12:07:07,215-INFO- Squared Current Phase B: 4.242814
+2025-06-17 12:07:07,215-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:07:09,217-INFO- Elapsed Time [Secs]: 438.538533
+2025-06-17 12:07:09,224-INFO- Measured Current [A rms]: 4.208620
+2025-06-17 12:07:09,224-INFO- Measured Temperature [C]: 126.309567
+2025-06-17 12:07:09,224-INFO- Measured Temperature_2 [C]: 121.722179
+2025-06-17 12:07:09,224-INFO- Measured Temperature_3 [C]: 123.003449
+2025-06-17 12:07:09,228-INFO- Estimated ClassA Temperature [C]: 97.363342
+2025-06-17 12:07:09,234-INFO- Estimated ClassB Temperature [C]: 119.984222
+2025-06-17 12:07:09,251-INFO- Squared Current Phase A: 4.242085
+2025-06-17 12:07:09,251-INFO- Squared Current Phase B: 4.242328
+2025-06-17 12:07:09,251-INFO- Squared Current Phase C: 4.242814
+2025-06-17 12:07:11,257-INFO- Elapsed Time [Secs]: 440.579038
+2025-06-17 12:07:11,268-INFO- Measured Current [A rms]: 4.208200
+2025-06-17 12:07:11,268-INFO- Measured Temperature [C]: 126.735865
+2025-06-17 12:07:11,268-INFO- Measured Temperature_2 [C]: 122.108373
+2025-06-17 12:07:11,268-INFO- Measured Temperature_3 [C]: 123.416968
+2025-06-17 12:07:11,274-INFO- Estimated ClassA Temperature [C]: 97.667389
+2025-06-17 12:07:11,279-INFO- Estimated ClassB Temperature [C]: 120.345795
+2025-06-17 12:07:11,296-INFO- Squared Current Phase A: 4.242571
+2025-06-17 12:07:11,296-INFO- Squared Current Phase B: 4.242328
+2025-06-17 12:07:11,296-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:07:13,305-INFO- Elapsed Time [Secs]: 442.627198
+2025-06-17 12:07:13,311-INFO- Measured Current [A rms]: 4.208640
+2025-06-17 12:07:13,311-INFO- Measured Temperature [C]: 126.992868
+2025-06-17 12:07:13,311-INFO- Measured Temperature_2 [C]: 122.362967
+2025-06-17 12:07:13,312-INFO- Measured Temperature_3 [C]: 123.681543
+2025-06-17 12:07:13,316-INFO- Estimated ClassA Temperature [C]: 97.963928
+2025-06-17 12:07:13,322-INFO- Estimated ClassB Temperature [C]: 120.707092
+2025-06-17 12:07:13,345-INFO- Squared Current Phase A: 4.242328
+2025-06-17 12:07:13,345-INFO- Squared Current Phase B: 4.242814
+2025-06-17 12:07:13,345-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:07:15,359-INFO- Elapsed Time [Secs]: 444.680580
+2025-06-17 12:07:15,368-INFO- Measured Current [A rms]: 4.208700
+2025-06-17 12:07:15,368-INFO- Measured Temperature [C]: 127.288770
+2025-06-17 12:07:15,368-INFO- Measured Temperature_2 [C]: 122.689053
+2025-06-17 12:07:15,369-INFO- Measured Temperature_3 [C]: 124.001403
+2025-06-17 12:07:15,375-INFO- Estimated ClassA Temperature [C]: 98.264221
+2025-06-17 12:07:15,381-INFO- Estimated ClassB Temperature [C]: 121.068062
+2025-06-17 12:07:15,397-INFO- Squared Current Phase A: 4.242571
+2025-06-17 12:07:15,398-INFO- Squared Current Phase B: 4.242814
+2025-06-17 12:07:15,398-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:07:17,411-INFO- Elapsed Time [Secs]: 446.733381
+2025-06-17 12:07:17,420-INFO- Measured Current [A rms]: 4.208560
+2025-06-17 12:07:17,420-INFO- Measured Temperature [C]: 127.735093
+2025-06-17 12:07:17,421-INFO- Measured Temperature_2 [C]: 123.071821
+2025-06-17 12:07:17,421-INFO- Measured Temperature_3 [C]: 124.412009
+2025-06-17 12:07:17,428-INFO- Estimated ClassA Temperature [C]: 98.564331
+2025-06-17 12:07:17,434-INFO- Estimated ClassB Temperature [C]: 121.428741
+2025-06-17 12:07:17,451-INFO- Squared Current Phase A: 4.242571
+2025-06-17 12:07:17,451-INFO- Squared Current Phase B: 4.242328
+2025-06-17 12:07:17,451-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:07:19,466-INFO- Elapsed Time [Secs]: 448.787895
+2025-06-17 12:07:19,472-INFO- Measured Current [A rms]: 4.208890
+2025-06-17 12:07:19,472-INFO- Measured Temperature [C]: 127.967004
+2025-06-17 12:07:19,473-INFO- Measured Temperature_2 [C]: 123.335208
+2025-06-17 12:07:19,473-INFO- Measured Temperature_3 [C]: 124.682412
+2025-06-17 12:07:19,477-INFO- Estimated ClassA Temperature [C]: 98.863525
+2025-06-17 12:07:19,482-INFO- Estimated ClassB Temperature [C]: 121.789078
+2025-06-17 12:07:19,499-INFO- Squared Current Phase A: 4.242085
+2025-06-17 12:07:19,499-INFO- Squared Current Phase B: 4.243057
+2025-06-17 12:07:19,499-INFO- Squared Current Phase C: 4.243543
+2025-06-17 12:07:21,514-INFO- Elapsed Time [Secs]: 450.835488
+2025-06-17 12:07:21,523-INFO- Measured Current [A rms]: 4.209130
+2025-06-17 12:07:21,523-INFO- Measured Temperature [C]: 128.277931
+2025-06-17 12:07:21,523-INFO- Measured Temperature_2 [C]: 123.644145
+2025-06-17 12:07:21,523-INFO- Measured Temperature_3 [C]: 124.978178
+2025-06-17 12:07:21,529-INFO- Estimated ClassA Temperature [C]: 99.167328
+2025-06-17 12:07:21,535-INFO- Estimated ClassB Temperature [C]: 122.149109
+2025-06-17 12:07:21,552-INFO- Squared Current Phase A: 4.242085
+2025-06-17 12:07:21,552-INFO- Squared Current Phase B: 4.242814
+2025-06-17 12:07:21,553-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:07:23,560-INFO- Elapsed Time [Secs]: 452.882144
+2025-06-17 12:07:23,578-INFO- Measured Current [A rms]: 4.207900
+2025-06-17 12:07:23,579-INFO- Measured Temperature [C]: 128.581187
+2025-06-17 12:07:23,579-INFO- Measured Temperature_2 [C]: 123.941921
+2025-06-17 12:07:23,579-INFO- Measured Temperature_3 [C]: 125.277914
+2025-06-17 12:07:23,585-INFO- Estimated ClassA Temperature [C]: 99.544800
+2025-06-17 12:07:23,590-INFO- Estimated ClassB Temperature [C]: 122.508797
+2025-06-17 12:07:23,609-INFO- Squared Current Phase A: 4.242085
+2025-06-17 12:07:23,610-INFO- Squared Current Phase B: 4.242571
+2025-06-17 12:07:23,610-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:07:25,617-INFO- Elapsed Time [Secs]: 454.938604
+2025-06-17 12:07:25,626-INFO- Measured Current [A rms]: 4.209120
+2025-06-17 12:07:25,626-INFO- Measured Temperature [C]: 128.948150
+2025-06-17 12:07:25,626-INFO- Measured Temperature_2 [C]: 124.314971
+2025-06-17 12:07:25,626-INFO- Measured Temperature_3 [C]: 125.646114
+2025-06-17 12:07:25,632-INFO- Estimated ClassA Temperature [C]: 99.840393
+2025-06-17 12:07:25,638-INFO- Estimated ClassB Temperature [C]: 122.868134
+2025-06-17 12:07:25,655-INFO- Squared Current Phase A: 4.241842
+2025-06-17 12:07:25,655-INFO- Squared Current Phase B: 4.243057
+2025-06-17 12:07:25,655-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:07:27,657-INFO- Elapsed Time [Secs]: 456.978851
+2025-06-17 12:07:27,663-INFO- Measured Current [A rms]: 4.208890
+2025-06-17 12:07:27,663-INFO- Measured Temperature [C]: 129.203073
+2025-06-17 12:07:27,664-INFO- Measured Temperature_2 [C]: 124.572688
+2025-06-17 12:07:27,664-INFO- Measured Temperature_3 [C]: 125.928407
+2025-06-17 12:07:27,668-INFO- Estimated ClassA Temperature [C]: 100.143829
+2025-06-17 12:07:27,674-INFO- Estimated ClassB Temperature [C]: 123.227142
+2025-06-17 12:07:27,691-INFO- Squared Current Phase A: 4.241599
+2025-06-17 12:07:27,691-INFO- Squared Current Phase B: 4.242814
+2025-06-17 12:07:27,691-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:07:29,703-INFO- Elapsed Time [Secs]: 459.024359
+2025-06-17 12:07:29,709-INFO- Measured Current [A rms]: 4.208690
+2025-06-17 12:07:29,710-INFO- Measured Temperature [C]: 129.502773
+2025-06-17 12:07:29,710-INFO- Measured Temperature_2 [C]: 124.843252
+2025-06-17 12:07:29,710-INFO- Measured Temperature_3 [C]: 126.239873
+2025-06-17 12:07:29,714-INFO- Estimated ClassA Temperature [C]: 100.442963
+2025-06-17 12:07:29,720-INFO- Estimated ClassB Temperature [C]: 123.585823
+2025-06-17 12:07:29,737-INFO- Squared Current Phase A: 4.241599
+2025-06-17 12:07:29,737-INFO- Squared Current Phase B: 4.242814
+2025-06-17 12:07:29,737-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:07:31,744-INFO- Elapsed Time [Secs]: 461.065799
+2025-06-17 12:07:31,750-INFO- Measured Current [A rms]: 4.208800
+2025-06-17 12:07:31,750-INFO- Measured Temperature [C]: 129.770676
+2025-06-17 12:07:31,750-INFO- Measured Temperature_2 [C]: 125.101796
+2025-06-17 12:07:31,750-INFO- Measured Temperature_3 [C]: 126.483186
+2025-06-17 12:07:31,754-INFO- Estimated ClassA Temperature [C]: 100.742371
+2025-06-17 12:07:31,760-INFO- Estimated ClassB Temperature [C]: 123.944153
+2025-06-17 12:07:31,778-INFO- Squared Current Phase A: 4.241599
+2025-06-17 12:07:31,778-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:07:31,778-INFO- Squared Current Phase C: 4.243543
+2025-06-17 12:07:33,781-INFO- Elapsed Time [Secs]: 463.103264
+2025-06-17 12:07:33,787-INFO- Measured Current [A rms]: 4.208770
+2025-06-17 12:07:33,787-INFO- Measured Temperature [C]: 130.156086
+2025-06-17 12:07:33,787-INFO- Measured Temperature_2 [C]: 125.520952
+2025-06-17 12:07:33,787-INFO- Measured Temperature_3 [C]: 126.889478
+2025-06-17 12:07:33,791-INFO- Estimated ClassA Temperature [C]: 101.041473
+2025-06-17 12:07:33,797-INFO- Estimated ClassB Temperature [C]: 124.302147
+2025-06-17 12:07:33,815-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:07:33,815-INFO- Squared Current Phase B: 4.242814
+2025-06-17 12:07:33,815-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:07:35,828-INFO- Elapsed Time [Secs]: 465.149989
+2025-06-17 12:07:35,834-INFO- Measured Current [A rms]: 4.208520
+2025-06-17 12:07:35,834-INFO- Measured Temperature [C]: 130.479832
+2025-06-17 12:07:35,834-INFO- Measured Temperature_2 [C]: 125.818204
+2025-06-17 12:07:35,834-INFO- Measured Temperature_3 [C]: 127.225005
+2025-06-17 12:07:35,838-INFO- Estimated ClassA Temperature [C]: 101.340485
+2025-06-17 12:07:35,844-INFO- Estimated ClassB Temperature [C]: 124.659782
+2025-06-17 12:07:35,861-INFO- Squared Current Phase A: 4.241599
+2025-06-17 12:07:35,861-INFO- Squared Current Phase B: 4.243300
+2025-06-17 12:07:35,861-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:07:37,868-INFO- Elapsed Time [Secs]: 467.189916
+2025-06-17 12:07:37,877-INFO- Measured Current [A rms]: 4.209070
+2025-06-17 12:07:37,877-INFO- Measured Temperature [C]: 130.743493
+2025-06-17 12:07:37,877-INFO- Measured Temperature_2 [C]: 126.054248
+2025-06-17 12:07:37,877-INFO- Measured Temperature_3 [C]: 127.473283
+2025-06-17 12:07:37,883-INFO- Estimated ClassA Temperature [C]: 101.639832
+2025-06-17 12:07:37,889-INFO- Estimated ClassB Temperature [C]: 125.017082
+2025-06-17 12:07:37,907-INFO- Squared Current Phase A: 4.241356
+2025-06-17 12:07:37,907-INFO- Squared Current Phase B: 4.243543
+2025-06-17 12:07:37,907-INFO- Squared Current Phase C: 4.243543
+2025-06-17 12:07:39,914-INFO- Elapsed Time [Secs]: 469.235283
+2025-06-17 12:07:39,922-INFO- Measured Current [A rms]: 4.209080
+2025-06-17 12:07:39,922-INFO- Measured Temperature [C]: 130.998110
+2025-06-17 12:07:39,922-INFO- Measured Temperature_2 [C]: 126.324687
+2025-06-17 12:07:39,923-INFO- Measured Temperature_3 [C]: 127.754202
+2025-06-17 12:07:39,929-INFO- Estimated ClassA Temperature [C]: 101.938538
+2025-06-17 12:07:39,935-INFO- Estimated ClassB Temperature [C]: 125.374069
+2025-06-17 12:07:39,952-INFO- Squared Current Phase A: 4.241599
+2025-06-17 12:07:39,952-INFO- Squared Current Phase B: 4.243543
+2025-06-17 12:07:39,952-INFO- Squared Current Phase C: 4.243786
+2025-06-17 12:07:41,965-INFO- Elapsed Time [Secs]: 471.286614
+2025-06-17 12:07:41,974-INFO- Measured Current [A rms]: 4.208770
+2025-06-17 12:07:41,974-INFO- Measured Temperature [C]: 131.465466
+2025-06-17 12:07:41,974-INFO- Measured Temperature_2 [C]: 126.758629
+2025-06-17 12:07:41,975-INFO- Measured Temperature_3 [C]: 128.213837
+2025-06-17 12:07:41,981-INFO- Estimated ClassA Temperature [C]: 102.237671
+2025-06-17 12:07:41,987-INFO- Estimated ClassB Temperature [C]: 125.730743
+2025-06-17 12:07:42,004-INFO- Squared Current Phase A: 4.241356
+2025-06-17 12:07:42,005-INFO- Squared Current Phase B: 4.243543
+2025-06-17 12:07:42,005-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:07:42,891-WARNING- Read request error: Request error:  Checksum error
+2025-06-17 12:07:42,891-WARNING- Discarding the packet
+2025-06-17 12:07:44,005-INFO- Elapsed Time [Secs]: 473.326719
+2025-06-17 12:07:44,014-INFO- Measured Current [A rms]: 4.208600
+2025-06-17 12:07:44,014-INFO- Measured Temperature [C]: 131.763583
+2025-06-17 12:07:44,014-INFO- Measured Temperature_2 [C]: 127.084091
+2025-06-17 12:07:44,014-INFO- Measured Temperature_3 [C]: 128.523352
+2025-06-17 12:07:44,020-INFO- Estimated ClassA Temperature [C]: 102.532410
+2025-06-17 12:07:44,025-INFO- Estimated ClassB Temperature [C]: 126.087013
+2025-06-17 12:07:44,043-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:07:44,043-INFO- Squared Current Phase B: 4.244029
+2025-06-17 12:07:44,043-INFO- Squared Current Phase C: 4.243786
+2025-06-17 12:07:46,044-INFO- Elapsed Time [Secs]: 475.365860
+2025-06-17 12:07:46,052-INFO- Measured Current [A rms]: 4.208730
+2025-06-17 12:07:46,052-INFO- Measured Temperature [C]: 131.949764
+2025-06-17 12:07:46,052-INFO- Measured Temperature_2 [C]: 127.260970
+2025-06-17 12:07:46,052-INFO- Measured Temperature_3 [C]: 128.704670
+2025-06-17 12:07:46,056-INFO- Estimated ClassA Temperature [C]: 102.830872
+2025-06-17 12:07:46,063-INFO- Estimated ClassB Temperature [C]: 126.442947
+2025-06-17 12:07:46,080-INFO- Squared Current Phase A: 4.241356
+2025-06-17 12:07:46,081-INFO- Squared Current Phase B: 4.243786
+2025-06-17 12:07:46,082-INFO- Squared Current Phase C: 4.243786
+2025-06-17 12:07:48,083-INFO- Elapsed Time [Secs]: 477.405514
+2025-06-17 12:07:48,248-INFO- Measured Current [A rms]: 4.208770
+2025-06-17 12:07:48,249-INFO- Measured Temperature [C]: 132.342221
+2025-06-17 12:07:48,249-INFO- Measured Temperature_2 [C]: 127.670120
+2025-06-17 12:07:48,249-INFO- Measured Temperature_3 [C]: 129.131877
+2025-06-17 12:07:48,256-INFO- Estimated ClassA Temperature [C]: 103.229248
+2025-06-17 12:07:48,264-INFO- Estimated ClassB Temperature [C]: 126.976173
+2025-06-17 12:07:48,281-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:07:48,281-INFO- Squared Current Phase B: 4.244272
+2025-06-17 12:07:48,281-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:07:50,290-INFO- Elapsed Time [Secs]: 479.611227
+2025-06-17 12:07:50,298-INFO- Measured Current [A rms]: 4.208770
+2025-06-17 12:07:50,298-INFO- Measured Temperature [C]: 132.722318
+2025-06-17 12:07:50,299-INFO- Measured Temperature_2 [C]: 128.019290
+2025-06-17 12:07:50,299-INFO- Measured Temperature_3 [C]: 129.514754
+2025-06-17 12:07:50,305-INFO- Estimated ClassA Temperature [C]: 103.527100
+2025-06-17 12:07:50,311-INFO- Estimated ClassB Temperature [C]: 127.331207
+2025-06-17 12:07:50,328-INFO- Squared Current Phase A: 4.240383
+2025-06-17 12:07:50,328-INFO- Squared Current Phase B: 4.243543
+2025-06-17 12:07:50,328-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:07:52,333-INFO- Elapsed Time [Secs]: 481.654970
+2025-06-17 12:07:52,339-INFO- Measured Current [A rms]: 4.208830
+2025-06-17 12:07:52,339-INFO- Measured Temperature [C]: 133.065776
+2025-06-17 12:07:52,339-INFO- Measured Temperature_2 [C]: 128.356440
+2025-06-17 12:07:52,339-INFO- Measured Temperature_3 [C]: 129.864255
+2025-06-17 12:07:52,344-INFO- Estimated ClassA Temperature [C]: 103.828674
+2025-06-17 12:07:52,350-INFO- Estimated ClassB Temperature [C]: 127.685822
+2025-06-17 12:07:52,366-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:07:52,367-INFO- Squared Current Phase B: 4.244272
+2025-06-17 12:07:52,367-INFO- Squared Current Phase C: 4.243300
+2025-06-17 12:07:54,375-INFO- Elapsed Time [Secs]: 483.696724
+2025-06-17 12:07:54,381-INFO- Measured Current [A rms]: 4.209630
+2025-06-17 12:07:54,382-INFO- Measured Temperature [C]: 133.303056
+2025-06-17 12:07:54,382-INFO- Measured Temperature_2 [C]: 128.632248
+2025-06-17 12:07:54,382-INFO- Measured Temperature_3 [C]: 130.126574
+2025-06-17 12:07:54,386-INFO- Estimated ClassA Temperature [C]: 104.126526
+2025-06-17 12:07:54,392-INFO- Estimated ClassB Temperature [C]: 128.040100
+2025-06-17 12:07:54,409-INFO- Squared Current Phase A: 4.240869
+2025-06-17 12:07:54,409-INFO- Squared Current Phase B: 4.244029
+2025-06-17 12:07:54,409-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:07:56,421-INFO- Elapsed Time [Secs]: 485.742525
+2025-06-17 12:07:56,448-INFO- Measured Current [A rms]: 4.209060
+2025-06-17 12:07:56,448-INFO- Measured Temperature [C]: 133.613161
+2025-06-17 12:07:56,448-INFO- Measured Temperature_2 [C]: 128.925053
+2025-06-17 12:07:56,448-INFO- Measured Temperature_3 [C]: 130.425153
+2025-06-17 12:07:56,454-INFO- Estimated ClassA Temperature [C]: 104.323853
+2025-06-17 12:07:56,460-INFO- Estimated ClassB Temperature [C]: 128.217102
+2025-06-17 12:07:56,477-INFO- Squared Current Phase A: 4.240626
+2025-06-17 12:07:56,477-INFO- Squared Current Phase B: 4.244272
+2025-06-17 12:07:56,477-INFO- Squared Current Phase C: 4.243543
+2025-06-17 12:07:58,478-INFO- Elapsed Time [Secs]: 487.799275
+2025-06-17 12:07:58,487-INFO- Measured Current [A rms]: 4.209320
+2025-06-17 12:07:58,487-INFO- Measured Temperature [C]: 133.743057
+2025-06-17 12:07:58,487-INFO- Measured Temperature_2 [C]: 129.074919
+2025-06-17 12:07:58,487-INFO- Measured Temperature_3 [C]: 130.578425
+2025-06-17 12:07:58,494-INFO- Estimated ClassA Temperature [C]: 104.699890
+2025-06-17 12:07:58,499-INFO- Estimated ClassB Temperature [C]: 128.747543
+2025-06-17 12:07:58,516-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:07:58,516-INFO- Squared Current Phase B: 4.244272
+2025-06-17 12:07:58,517-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:08:00,531-INFO- Elapsed Time [Secs]: 489.852770
+2025-06-17 12:08:00,540-INFO- Measured Current [A rms]: 4.209420
+2025-06-17 12:08:00,540-INFO- Measured Temperature [C]: 134.183179
+2025-06-17 12:08:00,540-INFO- Measured Temperature_2 [C]: 129.484021
+2025-06-17 12:08:00,540-INFO- Measured Temperature_3 [C]: 130.993771
+2025-06-17 12:08:00,546-INFO- Estimated ClassA Temperature [C]: 104.994019
+2025-06-17 12:08:00,553-INFO- Estimated ClassB Temperature [C]: 129.100693
+2025-06-17 12:08:00,571-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:08:00,572-INFO- Squared Current Phase B: 4.244272
+2025-06-17 12:08:00,572-INFO- Squared Current Phase C: 4.242814
+2025-06-17 12:08:02,572-INFO- Elapsed Time [Secs]: 491.893382
+2025-06-17 12:08:02,580-INFO- Measured Current [A rms]: 4.209490
+2025-06-17 12:08:02,581-INFO- Measured Temperature [C]: 134.581116
+2025-06-17 12:08:02,581-INFO- Measured Temperature_2 [C]: 129.877102
+2025-06-17 12:08:02,581-INFO- Measured Temperature_3 [C]: 131.415488
+2025-06-17 12:08:02,587-INFO- Estimated ClassA Temperature [C]: 105.291870
+2025-06-17 12:08:02,593-INFO- Estimated ClassB Temperature [C]: 129.453506
+2025-06-17 12:08:02,610-INFO- Squared Current Phase A: 4.240869
+2025-06-17 12:08:02,611-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:08:02,611-INFO- Squared Current Phase C: 4.243057
+2025-06-17 12:08:04,621-INFO- Elapsed Time [Secs]: 493.942253
+2025-06-17 12:08:04,779-INFO- Measured Current [A rms]: 4.209740
+2025-06-17 12:08:04,779-INFO- Measured Temperature [C]: 134.841010
+2025-06-17 12:08:04,780-INFO- Measured Temperature_2 [C]: 130.112686
+2025-06-17 12:08:04,780-INFO- Measured Temperature_3 [C]: 131.681681
+2025-06-17 12:08:04,786-INFO- Estimated ClassA Temperature [C]: 105.693970
+2025-06-17 12:08:04,794-INFO- Estimated ClassB Temperature [C]: 129.981995
+2025-06-17 12:08:04,811-INFO- Squared Current Phase A: 4.240869
+2025-06-17 12:08:04,811-INFO- Squared Current Phase B: 4.244757
+2025-06-17 12:08:04,811-INFO- Squared Current Phase C: 4.242814
+2025-06-17 12:08:06,813-INFO- Elapsed Time [Secs]: 496.134680
+2025-06-17 12:08:06,822-INFO- Measured Current [A rms]: 4.209790
+2025-06-17 12:08:06,822-INFO- Measured Temperature [C]: 135.126715
+2025-06-17 12:08:06,822-INFO- Measured Temperature_2 [C]: 130.404149
+2025-06-17 12:08:06,822-INFO- Measured Temperature_3 [C]: 131.986374
+2025-06-17 12:08:06,828-INFO- Estimated ClassA Temperature [C]: 105.991486
+2025-06-17 12:08:06,834-INFO- Estimated ClassB Temperature [C]: 130.333832
+2025-06-17 12:08:06,851-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:08:06,851-INFO- Squared Current Phase B: 4.244514
+2025-06-17 12:08:06,852-INFO- Squared Current Phase C: 4.242328
+2025-06-17 12:08:08,855-INFO- Elapsed Time [Secs]: 498.176662
+2025-06-17 12:08:08,865-INFO- Measured Current [A rms]: 4.209710
+2025-06-17 12:08:08,865-INFO- Measured Temperature [C]: 135.528192
+2025-06-17 12:08:08,866-INFO- Measured Temperature_2 [C]: 130.819168
+2025-06-17 12:08:08,866-INFO- Measured Temperature_3 [C]: 132.367030
+2025-06-17 12:08:08,872-INFO- Estimated ClassA Temperature [C]: 106.288849
+2025-06-17 12:08:08,878-INFO- Estimated ClassB Temperature [C]: 130.685333
+2025-06-17 12:08:08,895-INFO- Squared Current Phase A: 4.241112
+2025-06-17 12:08:08,895-INFO- Squared Current Phase B: 4.245000
+2025-06-17 12:08:08,895-INFO- Squared Current Phase C: 4.242571
+2025-06-17 12:08:09,388-WARNING- Read request error: Request error:  Checksum error
+2025-06-17 12:08:09,388-WARNING- Discarding the packet
+2025-06-17 12:08:10,908-INFO- Elapsed Time [Secs]: 500.229478
+2025-06-17 12:08:10,917-INFO- Measured Current [A rms]: 4.209470
+2025-06-17 12:08:10,917-INFO- Measured Temperature [C]: 135.834298
+2025-06-17 12:08:10,917-INFO- Measured Temperature_2 [C]: 131.113523
+2025-06-17 12:08:10,917-INFO- Measured Temperature_3 [C]: 132.701501
+2025-06-17 12:08:10,923-INFO- Estimated ClassA Temperature [C]: 106.575104
+2025-06-17 12:08:10,930-INFO- Estimated ClassB Temperature [C]: 130.860916
+2025-06-17 12:08:10,947-INFO- Squared Current Phase A: 4.241356
+2025-06-17 12:08:10,947-INFO- Squared Current Phase B: 4.244757
+2025-06-17 12:08:10,947-INFO- Squared Current Phase C: 4.242571
+2025-06-17 12:08:12,962-INFO- Elapsed Time [Secs]: 502.283352
+2025-06-17 12:08:13,228-INFO- Write request detected
+2025-06-17 12:08:13,228-INFO- Symbol to write: BD_Target_Speed
+2025-06-17 12:08:13,352-INFO- Set torque request detected
+2025-06-17 12:08:13,352-INFO- Value to set: 0
+2025-06-17 12:08:14,564-INFO- Write request detected
+2025-06-17 12:08:14,564-INFO- Symbol to write: BD_Target_Accel
+2025-06-17 12:08:17,245-INFO- Write request detected
+2025-06-17 12:08:17,245-INFO- Symbol to write: BD_Update_Cmd
+2025-06-17 12:08:19,264-INFO- Write request detected
+2025-06-17 12:08:19,264-INFO- Symbol to write: BD_Select_Method
+2025-06-17 12:08:22,592-INFO- Set torque request detected
+2025-06-17 12:08:22,594-INFO- Value to set: 0
+2025-06-17 12:08:32,135-INFO- Stop Acquisition
+2025-06-17 12:08:32,295-INFO- Termination Request
+2025-06-17 12:08:32,559-INFO- Termination Request
+2025-06-17 12:08:32,587-INFO- Calculated offset for syncing: 1.485730
